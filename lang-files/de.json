@@ -548,7 +548,7 @@
         "inventor": "Wähle zwei Feldkacheln, um Ziffer Plättchen zu tauschen",
         "merchant": "Platziere den Händler",
         "siege": "Wähle eine Feldkachel, die belagert werden soll",
-        "raid": Wähle eine Feldkachel, auf die ein Überfall ausgeführt werden soll"
+        "raid": "Wähle eine Feldkachel, auf die ein Überfall ausgeführt werden soll"
       },
       "chooseRoads": {
         "placeRoad": "Platziere eine Straße oder Brücke",
@@ -1098,6 +1098,20 @@
       "hometown": "Heimatstadt: ",
       "editInfo": "Profil bearbeiten",
       "joinedOn": "Beigetreten am {}",
+      "months": {
+        "1": "Jan",
+        "2": "Feb",
+        "3": "März",
+        "4": "Apr",
+        "5": "Mai",
+        "6": "Juni",
+        "7": "Juli",
+        "8": "Aug",
+        "9": "Sept",
+        "10": "Okt",
+        "11": "Nov",
+        "12": "Dez"
+      },
       "1stPlace": "1er Platz",
       "2ndPlace": "2er Platz",
       "3rdPlace": "3er Platz",
