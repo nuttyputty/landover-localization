@@ -1,1567 +1,1569 @@
 {
   "home": {
-    "takeTurn": "TAKE TURN",
-    "playNow": "PLAY NOW",
-    "createGame": "Create Game",
-    "joinGame": "Join Game",
-    "myGames": "My Games",
-    "startPlaying": "Start Playing Now!",
+    "takeTurn": "轮到你的回合",
+    "playNow": "立即游玩",
+    "createGame": "创建游戏",
+    "joinGame": "加入游戏",
+    "myGames": "我的游戏",
+    "startPlaying": "立即开始游戏！",
     "ranked": {
-      "title": "Ranked",
-      "comingSoon": "COMING SOON",
-      "playMore": "Play more games"
+      "title": "排位",
+      "comingSoon": "即将推出",
+      "playMore": "玩更多游戏"
     },
-    "goGold": "GO GOLD!"
+    "goGold": "加入黄金会员！ "
   },
   "playNow": {
-    "unlock": "Play more casual games to unlock Ranked!"
+    "unlock": "玩更多休闲游戏以解锁排位！"
   },
   "update": {
-    "title": "Update available!",
+    "title": "现已有更新！ ",
     "web": {
-      "label": "Please click bellow to clear web browser cache and get the latest update",
-      "button": "Clear cache"
+      "label": "请点击下方按钮以清除浏览器缓存并获取最新更新",
+      "button": "清除缓存"
     },
     "mobile": {
-      "label": "Please click bellow to download the latest update.",
-      "button": "Update"
+      "label": "请点击下方按钮以下载最新更新。",
+      "button": "更新"
     },
-    "androidSuffix": "\nIf the update does not appear please clear Play Store's cache"
+    "androidSuffix": "\n如果未显示更新，请清除Play Store的缓存"
   },
   "noConnection": {
-    "title": "Connection error",
-    "message": "Unable to connect with the server.\nCheck your internet connection and try again",
-    "action": "Try again"
+    "title": "连接错误",
+    "message": "无法连接服务器。\n请检查你的互联网连接后重试",
+    "action": "重试"
   },
   "avatar": {
-    "save": "Save Changes",
-    "uploadPhoto": "Upload Photo"
+    "save": "保存更改",
+    "uploadPhoto": "上传照片"
   },
   "achievements": {
-    "title": "ACHIEVEMENTS",
-    "earned": "Earned Achievement: {}",
-    "openEarned": "OPEN"
+    "title": "成就",
+    "earned": "已获得成就：{}",
+    "openEarned": "查看"
   },
   "errors": {
-    "gameAlreadyStarted": "Game already started",
-    "gameDoesNotExist": "Your game doesn't exist anymore.",
-    "generic": "Something went wrong. Try again.",
-    "genericBig": "Something went wrong, a report has been sent to our team.",
-    "uhOh": "Uh Oh",
-    "error": "Error",
-    "tryAgain": "Try again",
-    "home": "Home",
+    "gameAlreadyStarted": "游戏已经开始",
+    "gameDoesNotExist": "你的游戏已不存在。",
+    "generic": "出了点问题，请重试。",
+    "genericBig": "出了点问题，已向我们的团队发送了报告。",
+    "uhOh": "哎呀",
+    "error": "错误",
+    "tryAgain": "重试",
+    "home": "首页",
     "login": {
       "google": {
-        "failed": "Unable to sign into your google account. Please try again",
-        "popupBlocked": "You have a popup blocker or ad blocker. Please allow popups and try again.",
-        "popupClosed": "You didn't finish Google Sign in. Please try again.",
-        "cookiesDisabled": "Please enable cookies and allow popups to continue."
+        "failed": "无法登入你的Google账户，请重试",
+        "popupBlocked": "你正启用弹出窗口拦截器或广告拦截器。请允许弹出窗口出现后重试。",
+        "popupClosed": "你还没完成Google登入，请重试。",
+        "cookiesDisabled": "请启用cookie并允许弹出窗口出现以继续操作。"
       },
       "email": {
-        "wrongPassword": "That password isn't right. Please try again.",
-        "alreadyExists": "This email already exists as a Google or Apple login. Login with Google or Apple.",
-        "notExist": "We cannot find an account associated with that email address. Please try again.",
-        "wrongCode": "Code is wrong",
-        "failedToLink": "Failed to link credentials, try again",
-        "badFormat": "Invalid email format.",
-        "notAssociated": "No user was found with that email address.",
-        "generatingVerifyLinkFailed": "Error generating email link"
+        "wrongPassword": "密码不正确，请重试。",
+        "alreadyExists": "此电邮地址已被用于Google或Apple登入。使用Google或Apple登入。",
+        "notExist": "我们找不到与该电邮地址关联的账户，请重试。",
+        "wrongCode": "代码错误",
+        "failedToLink": "凭据与账户连接失败，请重试",
+        "badFormat": "无效电邮地址格式。",
+        "notAssociated": "未找到与该电邮地址关联的用户。",
+        "generatingVerifyLinkFailed": "生成电邮链接时出错"
       },
       "facebook": {
-        "failed": "Unable to sign into your facebook account. Please try again"
+        "failed": "无法登入你的Facebook账户，请重试"
       },
-      "generic": "{} Please try again"
+      "generic": "{} 请重试"
     }
   },
   "game": {
     "logs": {
-      "tooltip": "Live log",
-      "noLogs": "No Logs",
+      "tooltip": "实时日志",
+      "noLogs": "没有日志",
       "military": {
-        "upgraded": "upgraded",
-        "military": "military"
+        "upgraded": "已升级",
+        "military": "军事"
       },
       "tokens": {
-        "islandExploredSuffix": "explored a new island. Earned 1 VP!",
-        "longestTrailSuffix": "got longest road ({}). Earned 2 VP!",
-        "portAuthoritySuffix": "got Port Authority. Earned 2 VP!"
+        "islandExploredSuffix": "探索到一座新岛屿，获得1 VP！",
+        "longestTrailSuffix": "获得了最长的道路（{}），获得2 VP！",
+        "portAuthoritySuffix": "获得了港务局，获得2 VP！"
       },
       "started": {
-        "prefix": "New",
-        "suffix": "player game started on"
+        "prefix": "新",
+        "suffix": "玩家游戏的开始时间："
       },
       "raid": {
-        "raided": "raided",
-        "freeRaided": "free raided"
+        "raided": "已袭击",
+        "freeRaided": "已进行免费袭击"
       },
       "trade": {
-        "traded": "traded",
-        "for": "for"
+        "traded": "已交易",
+        "for": "换取"
       },
       "catapult": {
-        "catapult": "catapult",
-        "removed": "spent one military to remove",
-        "allRemoved": "All Catapults have been removed from the board."
+        "catapult": "投石车",
+        "removed": "已花费1点军事力量移除",
+        "allRemoved": "所有投石车已从棋盘上移除。"
       },
       "devCards": {
-        "drawn": "drew a development card"
+        "drawn": "抽到了一张发展卡"
       },
       "resources": {
-        "received": "Received",
-        "discarded": "discarded",
-        "earned": "earned",
-        "aqueductSuffix": "from aqueduct"
+        "received": "已获得",
+        "discarded": "已丢弃",
+        "earned": "已赚取",
+        "aqueductSuffix": "来自引水渠"
       },
       "charity": {
-        "charity": "Charity!",
-        "earnedPrefix": "Everyone but",
-        "earnedSuffix": "earned",
-        "everyoneEarned": "Everyone earned"
+        "charity": "慈善！",
+        "earnedPrefix": "除了",
+        "earnedSuffix": "，每个人都获得了 ",
+        "everyoneEarned": "每个人都获得了"
       },
       "barbarian": {
-        "attack": "Barbarian attack",
-        "failed": "The players failed to defend the",
-        "lostCity": "lost a city.",
-        "defended": "successfully defended",
-        "earnedVP": "earned VP with highest military",
-        "earnedCardSuffix": "rewarded a development card."
+        "attack": "蛮族袭击",
+        "failed": "玩家未能防守",
+        "lostCity": "失去了一座城市。",
+        "defended": "成功防守",
+        "earnedVP": "以最高军事力量获得了VP ",
+        "earnedCardSuffix": "获得了一张发展卡。"
       },
       "culture": {
-        "upgradedPrefix": "upgraded",
-        "upgradedSuffix": "culture"
+        "upgradedPrefix": "已升级",
+        "upgradedSuffix": "文化"
       },
-      "bonusTime": "received {} turn timer bonus",
-      "gameOver": "Game Over",
-      "you": "You",
-      "your": "Your",
-      "were": "were",
-      "was": "was",
-      "turn": "Turn",
-      "rolled": "rolled",
-      "built": "built a",
+      "bonusTime": "获得了{}回合额外计时器",
+      "gameOver": "游戏结束",
+      "you": "你",
+      "your": "你的",
+      "were": "是",
+      "was": "是",
+      "turn": "回合",
+      "rolled": "已掷骰",
+      "built": "建造了一个",
       "stole": {
-        "one": "Stole from {} player",
-        "many": "Stole from {} players",
-        "other": "Stole from {} players",
-        "failed": "Couldn't steal resources."
+        "one": "已从{}位玩家那里偷取",
+        "many": "已从{}位玩家那里偷取",
+        "other": "已从{}位玩家那里偷取",
+        "failed": "无法偷取资源。"
       }
     },
     "devCards": {
-      "title": "played {} card.",
-      "newDevCard": "New dev card: {}",
+      "title": "打出了{}卡。",
+      "newDevCard": "新的发展卡：{} ",
       "subtitle": {
         "masterMerchant": {
-          "oneCard": "Took one card from {}",
-          "twoCards": "Took two cards from {}"
+          "oneCard": "从{}那里取得了一张卡",
+          "twoCards": "从{}那里取得了两张卡"
         },
         "merchant": {
-          "withVP": "on {}, earned 1 VP.",
-          "withoutVP": "on {}."
+          "withVP": "在{}上，赚取了1VP。",
+          "withoutVP": "在{}上。"
         },
         "merchantFleet": {
-          "oneResource": "Can now trade {} 2:1 this turn",
-          "allResources": "Can now trade {} 2:1"
+          "oneResource": "现可在这个回合以2：1的比例交易{} ",
+          "allResources": "现可以2：1的比例交易{}"
         },
-        "commercialHarbor": "Traded 1 resource for 1 commodity",
+        "commercialHarbor": "以1个资源换取了1个商品",
         "resourceMonopoly": {
-          "oneWithoutResources": "Stole resources from {}",
-          "moreWithoutResources": "Stole resources from {} players",
-          "failed": "Tried to steal some resources but got nothing",
-          "failedWithResource": "Tried to steal {} but got nothing",
-          "withResourcesAllSame": "Stole {} {} from {}",
-          "withResourcesDifferent": "Stole 2 {} from {} and 1 $resourceName from {}"
+          "oneWithoutResources": "已从玩家{}那里偷取资源",
+          "moreWithoutResources": "已从玩家{}那里偷取资源",
+          "failed": "试图偷取一些资源但什么都没得到",
+          "failedWithResource": "试图偷取{}但什么都没得到",
+          "withResourcesAllSame": "已从玩家{}那里偷取{} {} ",
+          "withResourcesDifferent": "已从玩家{}那里偷取2个{}，还从玩家{}那里偷取了1个$resourceName "
         },
         "commodityMonopoly": {
-          "oneVictim": "Stole commodities from {}",
-          "moreVictims": "Stole commodities from {} players",
-          "failed": "Tried to steal some commodities but got nothing"
+          "oneVictim": "已从玩家{}那里偷取商品",
+          "moreVictims": "已从玩家{}那里偷取商品",
+          "failed": "试图偷取一些商品但什么都没得到"
         },
-        "expedition": "Converted tile to gold",
-        "famine": "{} discarded random cards",
+        "expedition": "将方块转化为黄金",
+        "famine": "玩家{}随机丢弃了卡牌",
         "plenty": {
-          "withoutResources": "Got 2 resources",
-          "withResources": "Got 2 resources: {}"
+          "withoutResources": "获得了2个资源",
+          "withResources": "获得了2个资源：{} "
         },
-        "excavation": "Received two clays for each building on a clay tile",
-        "forestry": "Received two wood for each building on a wood tile",
-        "irrigation": "Received two wheat for each building on a wheat tile",
-        "mining": "Received two ore for each building on an ore tile",
-        "borderCollie": "Received two sheep for each building on a sheep tile",
-        "inventor": "Swapped two number tiles",
-        "medicine": "Built a city for 2 ore and 1 wheat",
-        "roadBuilding": "Built two roads/bridges",
-        "military": "Upgraded military",
-        "crane": "Reduced culture upgrade cost",
+        "excavation": "从粘土方块的每个建筑物获得两份粘土",
+        "forestry": "从木材方块的每个建筑物获得两份木材",
+        "irrigation": "从小麦方块的每个建筑物获得两份小麦",
+        "mining": "从矿石方块的每个建筑物获得两份矿石",
+        "borderCollie": "从绵羊方块的每个建筑物获得两只绵羊",
+        "inventor": "交换了两块数字方块",
+        "medicine": "用2份矿石和1份小麦建造了一座城市",
+        "roadBuilding": "已建造两条道路/桥梁",
+        "military": "已升级军事",
+        "crane": "已降低文化升级成本",
         "siege": {
-          "oneVictim": "Stole resources from {}",
-          "moreVictims": "Stole resources from {} players"
+          "oneVictim": "已从玩家{}那里偷取资源",
+          "moreVictims": "已从玩家{}那里偷取资源"
         },
-        "bishop": "Removed catapult",
-        "deserter": "Stole military from {}",
-        "vandal": "Destroyed {}'s bridge/road",
-        "diplomat": "Moved one trail",
-        "raze": "Destroyed {}'s city",
-        "spy": "Stole dev card from {}",
+        "bishop": "已移除投石车",
+        "deserter": "已从玩家{}那里偷取军事",
+        "vandal": "已摧毁玩家{}的桥梁/道路",
+        "diplomat": "已移动一条小径",
+        "raze": "已摧毁玩家{}的城市",
+        "spy": "已从玩家{}那里偷取发展卡",
         "wedding": {
-          "oneVictim": "Stole cards from {}",
-          "moreVictims": "Stole cards from {} players"
+          "oneVictim": "已从玩家{}那里偷取卡牌",
+          "moreVictims": "已从玩家{}那里偷取卡牌"
         },
-        "anarchy": "Randomized number tiles",
-        "alchemist": "Chose dice roll numbers",
-        "traitor": "Advanced the barbarians tracker"
+        "anarchy": "已将数字方块随机化",
+        "alchemist": "选择了骰子点数",
+        "traitor": "已强化蛮族追踪器"
       },
       "masterMerchant": {
-        "title": "Master Merchant",
-        "description": "Pick any player with more victory points, see their hand and pick two resource or commodity cards.",
-        "cannotPlay": "There are no players that have more victory points than you",
+        "title": "大商人",
+        "description": "选择任何拥有更多胜利点（VP）的玩家，查看他们的手牌并选择两张资源卡或商品卡。",
+        "cannotPlay": "没有玩家的胜利点（VP）比你多",
         "dialog": {
-          "title": "Steal!"
+          "title": "偷取！"
         }
       },
       "merchant": {
-        "title": "Merchant",
-        "description": "Move the merchant token to your own settlement or city. The player that possesses the merchant may trade that resource 2:1 with the bank. Worth 1 VP.",
+        "title": "商人",
+        "description": "将商人代币移到你的定居点或城市。拥有商人的玩家可以与银行以2:1的比例交换该资源。价值1VP。",
         "dialog": {
-          "title": "Place Merchant",
-          "message": "Are you sure you want to place a merchant here?",
-          "yes": "Yup!",
-          "no": "Cancel"
+          "title": "放置商人",
+          "message": "你确定要在这里放置商人吗？",
+          "yes": "是的！ ",
+          "no": "取消"
         }
       },
       "merchantFleet": {
-        "title": "Merchant Fleet",
-        "description": "Pick one resource or commodity of your choice to trade with the bank at a 2:1 rate for this turn only."
+        "title": "商船队",
+        "description": "选择本回合内要以2:1的比例与银行交换的一个资源或商品。"
       },
       "commercialHarbor": {
-        "title": "Commercial Harbor",
-        "description": "Trade 1 resource for 1 commodity."
+        "title": "商业港口",
+        "description": "以1个资源交换1个商品。"
       },
       "resourceMonopoly": {
-        "title": "Resource Monopoly",
-        "description": "Pick a resource. Each player must give you (up to) two of those resources if they have it."
+        "title": "资源垄断",
+        "description": "选择一种资源。所有玩家如果拥有该资源，则必须交给你（最多）两个。"
       },
       "commodityMonopoly": {
-        "title": "Commodity Monopoly",
-        "description": "Pick a commodity. Each player must give you one of that commodity if they have it."
+        "title": "商品垄断",
+        "description": "选择一种商品。所有玩家如果拥有该商品，则必须交给你一个。"
       },
       "expedition": {
-        "title": "Expedition",
-        "description": "Choose any tile on the board and convert it to a gold resource tile.",
+        "title": "探险",
+        "description": "选择棋盘上的任何方块并将其转化为黄金资源方块。",
         "dialog": {
-          "title": "Are you sure",
-          "message": "Do you want to turn this tile into gold?",
-          "no": "No",
-          "yes": "Yes"
+          "title": "你确定吗 ",
+          "message": "你要将这块方块转化为黄金吗？ ",
+          "no": "否",
+          "yes": "是"
         }
       },
       "famine": {
-        "title": "Famine",
-        "description": "All players with more VPs than you discard 2 random resources.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "饥荒",
+        "description": "所有胜利点（VP）比你多的玩家丢弃2个随机资源。",
+        "cannotPlay": "没有玩家的胜利点（VP）比你多。"
       },
       "plenty": {
-        "title": "Plenty",
-        "description": "Get two resources of your choice."
+        "title": "丰收",
+        "description": "获得两个你选择的资源。"
       },
       "excavation": {
-        "title": "Excavation",
-        "description": "Receive 2 clay per settlement on each clay tile"
+        "title": "挖掘",
+        "description": "从每个黏土方块上的每个定居点获得2份黏土"
       },
       "forestry": {
-        "title": "Forestry",
-        "description": "Receive 2 wood per settlement on each wood tile"
+        "title": "林业",
+        "description": "从每个木材方块上的每个定居点获得2份木材"
       },
       "irrigation": {
-        "title": "Irrigation",
-        "description": "Receive 2 wheat per settlement on each wheat tile"
+        "title": "灌溉",
+        "description": "从每个小麦方块上的每个定居点获得2份小麦"
       },
       "mining": {
-        "title": "Mining",
-        "description": "Receive 2 ore per settlement on each ore tile"
+        "title": "采矿",
+        "description": "从每个矿石方块上的每个定居点获得2份矿石"
       },
       "borderCollie": {
-        "title": "Border Collie",
-        "description": "Receive 2 sheep per settlement on each sheep tile"
+        "title": "边境牧羊犬",
+        "description": "从每个绵羊方块上的每个定居点获得2只绵羊"
       },
       "inventor": {
-        "title": "Inventor",
-        "description": "Swap two number tiles on the board. Swappable numbers are: 3, 4, 5, 9, 10, and 11.",
-        "tileSelected": "Swap these tiles?",
+        "title": "发明家",
+        "description": "让棋盘上的两块数字方块进行交换。可交换的数字有：3、4、5、9、10和11。",
+        "tileSelected": "交换这两块方块？ ",
         "dialog": {
-          "title": "Swap Tiles",
-          "message": "Do you want swap the values of these two tiles?",
-          "yes": "Yes",
-          "no": "Cancel"
+          "title": "交换方块",
+          "message": "你要交换这两块方块的数值吗？ ",
+          "yes": "是",
+          "no": "取消"
         }
       },
       "medicine": {
-        "title": "Medicine",
-        "description": "Build a city for 2 ore and 1 wheat.",
-        "cannotAfford": "You need to have at least two ore and one wheat to use this card",
-        "cannotPlace": "There is no where on the board to place a city",
-        "upgradeTitle": "Build {} with {}"
+        "title": "医学",
+        "description": "用2份矿石和1份小麦建造一座城市。",
+        "cannotAfford": "你至少需要2份矿石和1份小麦才能使用这张卡",
+        "cannotPlace": "棋盘上没有可放置城市的地方",
+        "upgradeTitle": "用{}建造{} "
       },
       "roadBuilding": {
-        "title": "Road Building",
-        "description": "Place two roads or two bridges, or one of each, at no cost to you."
+        "title": "道路建设",
+        "description": "免费放置2条道路或2座桥梁，或各放置一种。"
       },
       "military": {
-        "title": "Military",
-        "description": "Upgrade your military power by one level.",
-        "cannotPlay": "You are already have the maximum military power."
+        "title": "军事",
+        "description": "让你的军事力量升1级。",
+        "cannotPlay": "你的军事力量已达到最高级。"
       },
       "crane": {
-        "title": "Crane",
-        "description": "After playing this card, your next culture improvement this turn costs one fewer commodity",
-        "cannotPlay": "You cannot play this card because you have no cities or you have a Crane Card already in play."
+        "title": "起重机",
+        "description": "打出这张卡后，你在本回合中的下一次文化升级成本可节省1个商品",
+        "cannotPlay": "你无法打出这张卡，因为你没有城市或者你已有1张起重机卡在启用。"
       },
       "siege": {
-        "title": "Siege",
-        "description": "Carry out a raid but steal one random resource from every player who has a village or city on the raided tile. Does not cost a military point"
+        "title": "围攻",
+        "description": "进行一次袭击，可从被袭击方块上的每个拥有村子或城市的玩家那里偷取一种随机资源。不消耗军事点"
       },
       "bishop": {
-        "title": "Bishop",
-        "description": "Remove a catapult from the board.",
-        "cannotPlay": "There are no catapults on the board for you to remove."
+        "title": "主教",
+        "description": "从棋盘上移除一台投石车。",
+        "cannotPlay": "棋盘上没有可移除的投石车。"
       },
       "deserter": {
-        "title": "Deserter",
-        "description": "Steal one level of military power from a player of your choice.",
-        "cannotPlayMaxedPower": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "cannotPlayBarracks": "You already have max military power.",
-        "cannotPlayEmpty": "No one has any military power; there is nothing to steal"
+        "title": "逃兵",
+        "description": "从你选择的玩家那里偷取1级军事力量。",
+        "cannotPlayMaxedPower": "你的军事力量已经达到最大值：3。请将政治力量也到升到3级以提升军事力量的最大值。",
+        "cannotPlayBarracks": "你已拥有最强军事力量。",
+        "cannotPlayEmpty": "没有玩家拥有军事力量
       },
       "vandal": {
-        "title": "Vandal",
-        "description": "Remove another player's road or bridge of your choosing."
+        "title": "破坏者",
+        "description": "移除你选择的其他玩家的道路或桥梁。"
       },
       "diplomat": {
-        "title": "Diplomat",
-        "description": "Move one of your own roads or bridges to a new location.",
-        "cannotPlay": "You have no trails to move."
+        "title": "外交官",
+        "description": "将你的1条道路或桥梁移动到新的位置。",
+        "cannotPlay": "你没有可以移动的小径。"
       },
       "raze": {
-        "title": "Raze",
-        "description": "Lose 1 military power and destroy a non walled city of any player with more VPs than you. You must have military power greater than or equal to 1 to play this card.",
-        "cannotPlayNoPlayers": "There are no players with more victory points than you",
-        "cannotPlayNoBuildings": "There are no buildings to destroy",
-        "cannotPlayNoMilitary": "You must have at least one military power to use this card",
+        "title": "夷为平地",
+        "description": "失去1点军事力量，并摧毁任何VP比你多的玩家的一座无墙城市。你必须拥有大于或等于1的军事力量才能打出这张卡。",
+        "cannotPlayNoPlayers": "没有玩家的胜利点（VP）比你多",
+        "cannotPlayNoBuildings": "没有可摧毁的建筑",
+        "cannotPlayNoMilitary": "你必须至少有1点军事力量才能使用这张卡",
         "dialog": {
-          "title": "Are you sure?",
-          "message": "Do you want to destroy this city?",
-          "yes": "Yes!",
-          "no": "No"
+          "title": "你确定吗？",
+          "message": "你要摧毁这座城市吗？ ",
+          "yes": "是！",
+          "no": "否"
         }
       },
       "spy": {
-        "title": "Spy",
-        "description": "Pick a player, see their dev cards and choose one to steal.",
-        "cannotPlay": "No other player currently has development cards.",
+        "title": "间谍",
+        "description": "选择一位玩家，查看他们的发展卡并选择一张进行偷取。",
+        "cannotPlay": "当前没有其他玩家拥有发展卡。",
         "dialog": {
-          "title": "Steal!"
+          "title": "偷取！ "
         }
       },
       "wedding": {
-        "title": "Wedding",
-        "description": "Steal two random cards (resources or commodities) from every player that has more victory points than you.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "婚礼",
+        "description": "从每位胜利点（VP）比你多的玩家那里偷取2张随机卡片（资源或商品）。",
+        "cannotPlay": "没有玩家的胜利点（VP）比你多。"
       },
       "anarchy": {
-        "title": "Anarchy",
-        "description": "Randomize all the number tiles on the board until a 7 is rolled."
+        "title": "无政府状态",
+        "description": "让棋盘上的所有数字方块都随机化，直到掷出7点为止。"
       },
       "alchemist": {
-        "title": "Alchemist",
-        "description": "Each turn you possess this card, you have the option of choosing the exact numbers on both 6-sided dice or doing a normal random roll.",
-        "cannotPlay": "This development card is only playable at the beginning of the turn."
+        "title": "炼金术士",
+        "description": "每当你拥有这张卡时，你可以选择所掷出的两个六面骰子的确切数字，或进行正常的随机掷点。",
+        "cannotPlay": "这张发展卡只能在回合开始时使用。"
       },
       "traitor": {
-        "title": "Traitor",
-        "description": "Advance the barbarian 2 spots. Will stop just before an attack."
+        "title": "叛徒",
+        "description": "使蛮族前进2方块，并会在攻击前停下。"
       },
       "constitution": {
-        "title": "Constitution",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "宪法",
+        "description": " 1胜利点。立即发动，不计入你的最大的5张发展卡。"
       },
       "printer": {
-        "title": "Printer",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "印刷机",
+        "description": " 1胜利点。立即发动，不计入你的最大的5张发展卡。"
       }
     },
     "chat": {
-      "loadingError": "Something went wrong, please try again",
-      "noMessages": "No messages yet",
-      "emptyMsg": "Your message is empty. Please enter some text.",
-      "addMsgHint": "Add message",
-      "yourMsg": "you",
-      "banned": "You are chat restricted until f{}. Please be respectful when chatting to avoid future bans. We want to keep this community fun for everyone!",
+      "loadingError": "出现错误，请重试",
+      "noMessages": "暂无消息",
+      "emptyMsg": "你的消息是空的。请输入一些文字。",
+      "addMsgHint": "添加消息",
+      "yourMsg": "你",
+      "banned": "你已被禁言直到{}。请在聊天时尊重彼此，以避免以后再次被禁。我们希望大家都能在社区里玩得开心！ ",
       "banConfirmation": {
-        "title": "Ban Player",
-        "message": "Are you sure you want to ban this player from chat? You won't see any messages from them",
-        "yes": "Yes",
-        "no": "No",
-        "failed": "Something went wrong, please try again"
+        "title": "禁言玩家",
+        "message": "确定要禁止此玩家在聊天中发言吗？你将不会看到任何来自他们的消息 ",
+        "yes": "是",
+        "no": "否",
+        "failed": "出现错误，请重试"
       }
     },
     "playerTurnOverlay": {
-      "playerNameSuffix": "'s",
-      "playerTurn": "turn"
+      "playerNameSuffix": "的",
+      "playerTurn": "回合"
     },
     "buildDialog": {
-      "title": "BUILD",
-      "trade": "Trade",
-      "cannotAfford": "You can't afford that!",
-      "structureRequires": "{} requires:",
-      "cannotBuild": "Cannot build {}",
-      "cannotBuildReason": "You have nowhere to put it."
+      "title": "建造",
+      "trade": "交易",
+      "cannotAfford": "你负担不起这个！ ",
+      "structureRequires": "{} 需要：",
+      "cannotBuild": "无法建造 {} ",
+      "cannotBuildReason": "你没有可以放置它的地方。"
     },
     "trailTypeDialog": {
-      "title": "CHOOSE ONE",
-      "subtitle": "What would you like to build?",
-      "cannotAfford": "You can't afford that!",
-      "trailsRequires": "{} requires:"
+      "title": "选择一种",
+      "subtitle": "你想建造什么？",
+      "cannotAfford": "你负担不起这个！",
+      "trailsRequires": "{} 需要："
     },
     "devCardsDialog": {
-      "title": "DEV CARDS",
-      "defaultButton": "Play Card",
-      "noCards": "No Development Cards",
-      "cannotPlay": "Can't Play {} Card"
+      "title": "发展卡",
+      "defaultButton": "出卡",
+      "noCards": "没有发展卡",
+      "cannotPlay": "无法出{}卡"
     },
     "playerModalDialog": {
-      "military": "Military",
-      "militaryUpgrade": "Upgrade",
-      "militaryRequires": "Upgrading your military requires",
-      "militaryCannotAfford": "You can't afford that!",
-      "raid": "Raid",
-      "culture": "Culture",
-      "cultureUpgrade": "Upgrade",
-      "devCards": "Dev Cards",
-      "devCardsPlay": "Play",
-      "build": "Build",
-      "trade": "Trade",
+      "military": "军事",
+      "militaryUpgrade": "升级",
+      "militaryRequires": "升级你的军事需要",
+      "militaryCannotAfford": "你负担不起这个！",
+      "raid": "袭击",
+      "culture": "文化",
+      "cultureUpgrade": "升级",
+      "devCards": "发展卡",
+      "devCardsPlay": "出卡",
+      "build": "建造",
+      "trade": "交易",
       "raidError": {
-        "title": "Unable to raid",
-        "message": "You cannot raid right now"
+        "title": "无法袭击",
+        "message": "你现在无法进行袭击"
       },
       "points": {
-        "victoryPoints": "Victory Points",
-        "longestRoute": "Longest Route",
-        "military": "Military",
-        "islands": "Islands Explored",
-        "devCards": "Dev Cards",
-        "merchant": "Merchant Tokens",
-        "ports": "Port Authority"
+        "victoryPoints": "胜利点（VP）",
+        "longestRoute": "最长路线",
+        "military": "军事",
+        "islands": "探索岛屿",
+        "devCards": "发展卡",
+        "merchant": "商人代币",
+        "ports": "港务局"
       }
     },
     "safeRollDialog": {
-      "title": "SAFE ROLL?",
-      "message": "You're at risk of discarding half of your hand!",
-      "riskyRoll": "Risky Roll",
-      "safeRoll": "Safe Roll"
+      "title": "安全掷骰？ ",
+      "message": "你有失去一半手牌的风险！ ",
+      "riskyRoll": "冒险掷骰",
+      "safeRoll": "安全掷骰"
     },
     "safeTokens": {
-      "title": "BUY SAFE TOKENS"
+      "title": "购买安全代币"
     },
     "rollType": {
-      "description": "Roll dice or use your Alchemist card to choose your numbers",
-      "alchemist": "Use Alchemist",
-      "random": "Random Roll"
+      "description": "掷骰，或使用你的炼金术士卡来选择数字",
+      "alchemist": "使用炼金术士",
+      "random": "随机掷骰"
     },
     "gameOver": {
-      "title": "Game Over",
-      "stats": "Stats",
-      "home": "Home",
-      "linkCopied": "Game link copied to clipboard",
-      "goGold": "GO GOLD!",
-      "rematch": "Rematch",
-      "favoriteMap": "Favorite Map",
-      "unfavoriteMap": "Unfavorite Map",
-      "won": "{} \nwon!",
-      "upgradeToSee": "Upgrade to see \n 12 more stats!"
+      "title": "游戏结束",
+      "stats": "数据统计",
+      "home": "首页",
+      "linkCopied": "游戏链接已复制到剪贴板",
+      "goGold": "加入黄金会员！ ",
+      "rematch": "再战",
+      "favoriteMap": "收藏地图",
+      "unfavoriteMap": "取消收藏地图",
+      "won": "{} \n获胜!",
+      "upgradeToSee": "升级以查看\n另外12组统计数据！ "
     },
     "players": {
-      "resourceCards": "Resource Cards",
-      "devCards": "Development Cards",
-      "military": "Military Points",
-      "scienceLevel": "Science Level",
-      "commerceLevel": "Commerce Level",
-      "politicsLevel": "Politics Level",
-      "merchant": "Merchant Token",
-      "portPoints": "Port Points",
-      "longestRoad": "Longest Road",
-      "victoryPoints": "Victory Points"
+      "resourceCards": "资源卡",
+      "devCards": "发展卡",
+      "military": "军事点数",
+      "scienceLevel": "科学等级",
+      "commerceLevel": "商业等级",
+      "politicsLevel": "政治等级",
+      "merchant": "商人代币",
+      "portPoints": "港口点数",
+      "longestRoad": "最长道路",
+      "victoryPoints": "胜利点（VP）"
     },
     "rematch": {
       "canceled": {
-        "title": "REMATCH",
-        "close": "Close",
-        "declined": "Rematch declined"
+        "title": "再战",
+        "close": "关闭",
+        "declined": "再战邀请被拒"
       },
       "ready": {
-        "title": "GET READY!",
-        "cancel": "CANCEL"
+        "title": "准备好了！ ",
+        "cancel": "取消"
       },
       "request": {
-        "title": "Rematch Requested",
-        "yes": "Yes",
-        "no": "No"
+        "title": "再战邀请",
+        "yes": "是",
+        "no": "否"
       },
       "reject": {
-        "title": "Reject Rematch?",
-        "message": "re you sure you want to reject this game?",
-        "yes": "Reject"
+        "title": "拒绝再战？ ",
+        "message": "你确定要拒绝这局游戏吗？ ",
+        "yes": "拒绝"
       }
     },
     "replay": {
-      "turnNumber": "Turn {} of {}",
-      "replayLast": "Replay last",
+      "turnNumber": "共{}回合的第{}回合",
+      "replayLast": "重播上一回合",
       "turn": {
-        "one": "turn",
-        "many": "turns",
-        "other": "turns"
+        "one": "回合",
+        "many": "回合",
+        "other": "回合"
       },
       "purchase": {
-        "title": "REPLAYS",
-        "description": "Replays allow you to rewatch all turns to see what happened since your last turn…or replay the whole game when it’s over!  Want to unlock full replays?",
-        "no": "No thanks",
-        "yes": "Go Gold"
+        "title": "重播",
+        "description": "重播能让你重看从上一个回合开始发生的所有事情，或者你也可以在游戏结束后重播整局游戏！想要解锁完整的重播吗？ ",
+        "no": "不了，谢谢",
+        "yes": "加入黄金会员！"
       }
     },
     "swipeableDevCardDialog": {
-      "close": "Close",
-      "play": "Play Card",
-      "cannotPlay": "Can't play {}",
-      "wrongTurn": "It's not your turn"
+      "close": "关闭",
+      "play": "出卡",
+      "cannotPlay": "无法出{}",
+      "wrongTurn": "现在不是你的回合"
     },
     "actions": {
       "raid": {
-        "tileSelected": "Raid this tile?",
-        "removeCatapult": "Remove this catapult?"
+        "tileSelected": "袭击这个方块？ ",
+        "removeCatapult": "移除这台投石器？ "
       },
       "metro": {
-        "placeIt": "Metro! Select any of your cities to place it."
+        "placeIt": "首都！选择你的其中一座城市来放置它。"
       },
       "chooseTile": {
-        "bishop": "Choose catapult to remove",
-        "expedition": "Choose tile to convert to gold",
-        "inventor": "Choose two tiles to swap numbers",
-        "merchant": "Place your merchant token",
-        "siege": "Choose tile to siege",
-        "raid": "Choose tile to raid"
+        "bishop": "选择要移除的投石器",
+        "expedition": "选择要转化成黄金的方块",
+        "inventor": "选择要交换数字的2个方块",
+        "merchant": "放置你的商人代币",
+        "siege": "选择要围攻的方块",
+        "raid": "选择要袭击的方块"
       },
       "chooseRoads": {
-        "placeRoad": "Place road or bridge",
-        "place2Roads": "Place 2 roads or bridges",
-        "selectRoad": "Select a road or bridge",
-        "selectEnemyRoad": "Select an enemy road or bridge",
-        "confirm": "Build {}?"
+        "placeRoad": "放置道路或桥梁",
+        "place2Roads": "放置2条道路或桥梁",
+        "selectRoad": "选择道路或桥梁",
+        "selectEnemyRoad": "选择1条敌方的道路或桥梁",
+        "confirm": "建造{}？"
       },
       "chooseCorner": {
-        "selectEnemyCity": "Select an enemy city",
-        "placeVillage": "Place your village",
-        "placeCity": "Place your city",
-        "confirmVillage": "Build a village?",
-        "confirmCity": "Build a city?",
-        "confirmCityWall": "Build a city wall?",
-        "confirmMetro": "Build a metro?"
+        "selectEnemyCity": "选择1座敌方城市",
+        "placeVillage": "放置你的村子",
+        "placeCity": "放置你的城市",
+        "confirmVillage": "建造1条村字？",
+        "confirmCity": "建造1座城市？",
+        "confirmCityWall": "建造1堵城墙？",
+        "confirmMetro": "建造1个首都？ "
       },
-      "roll": "Roll the Dice"
+      "roll": "掷骰 "
     },
     "menu": {
-      "gameActions": "GAME ACTIONS",
-      "info": "INFO",
-      "turnReplay": "Turn Replays",
-      "rollFirst": "Please roll dice first.",
-      "surrender": "Surrender",
+      "gameActions": "游戏操作",
+      "info": "信息",
+      "turnReplay": "回合重播",
+      "rollFirst": "请先掷骰。",
+      "surrender": "投降",
       "surrenderDialog": {
-        "title": "Surrender",
-        "message": "Are you sure you want to surrender?\nThere is no penalty for admitting defeat.",
-        "yes": "Surrender",
-        "no": "Cancel"
+        "title": "投降",
+        "message": "你确定要投降吗？\n承认败北没有任何惩罚。",
+        "yes": "投降",
+        "no": "取消"
       },
-      "share": "Share",
+      "share": "分享",
       "reportBug": {
-        "title": "Report Bug",
-        "thanks": "Thanks!",
-        "message": "Thank you for sharing your feedback with us!"
+        "title": "举报错误",
+        "thanks": "谢谢",
+        "message": "感谢你与我们分享反馈！ "
       },
-      "settings": "Settings",
-      "prodChart": "Prod Chart",
-      "devCards": "Dev Cards",
-      "rules": "Rules",
-      "cancel": "Cancel"
+      "settings": "设置",
+      "prodChart": "生产图表",
+      "devCards": "发展卡",
+      "rules": "规则",
+      "cancel": "取消"
     },
     "settings": {
-      "title": "SETTINGS",
-      "sound": "Sound",
-      "music": "Music",
-      "mapHints": "Map Hints",
-      "chatNotifications": "Chat Notifications",
-      "turnNotifications": "Turn Notifications",
-      "autoJump": "Auto jump to next game",
-      "showReplays": "Show Replays",
-      "autoRoll": "Auto-Roll Dice"
+      "title": "设置",
+      "sound": "音效",
+      "music": "音乐",
+      "mapHints": "地图提示",
+      "chatNotifications": "聊天通知",
+      "turnNotifications": "回合通知",
+      "autoJump": "自动跳转到下一局游戏",
+      "showReplays": "显示重播",
+      "autoRoll": "自动掷骰"
     },
     "playerControls": {
-      "military": "Military",
-      "science": "Science",
-      "commerce": "Commerce",
-      "politics": "Politics"
+      "military": "军事",
+      "science": "科学",
+      "commerce": "商业",
+      "politics": "政治"
     },
     "pickPlayer": {
-      "title": "PICK PLAYER",
-      "noPlayers": "No players to steal from.\nAll players have zero resources.",
-      "button": "Select"
+      "title": "选择玩家 ",
+      "noPlayers": "没有可偷取资源的玩家。\n所有玩家都没有资源。",
+      "button": "选择"
     },
     "barbarianDialogs": {
-      "basic": "Barbarians",
-      "barbarianLead": "Barbarians Lead",
-      "playerLead": "Player Lead",
-      "defense": "Total defense",
-      "barbarianStrength": "Barbarian Strength",
-      "attackPossibleIn": "Attack possible in {} Turns",
-      "leaderboard": "Leaderboard",
+      "basic": "蛮族",
+      "barbarianLead": "蛮族领先",
+      "playerLead": "玩家领先",
+      "defense": "总防御力",
+      "barbarianStrength": "蛮族力量",
+      "attackPossibleIn": "{}回合内或可进行攻击",
+      "leaderboard": "排行榜",
       "defeat": {
-        "title": "Defeat",
-        "playersAffected": "{} players",
-        "leastMilitary": "Least Military",
+        "title": "打败",
+        "playersAffected": "{} 位玩家",
+        "leastMilitary": "军事最弱",
         "lostCity": {
-          "one": "Lost a city",
-          "many": "Each lost a city",
-          "other": "Each lost a city"
+          "one": "失去了1座城市",
+          "many": "每人失去了1座城市",
+          "other": "每人失去了1座城市"
         }
       },
-      "upgradeMilitary": "Upgrade Military",
-      "result": "BARBARIANS ATTACK",
+      "upgradeMilitary": "升级军事",
+      "result": "蛮族进攻",
       "won": {
-        "title": "Defended",
-        "playersAffected": "{} players",
-        "mostMilitary": "Most Military",
+        "title": "成功防守",
+        "playersAffected": "{}位玩家",
+        "mostMilitary": "军事最强",
         "prize": {
           "one": "+1 VP",
-          "many": "+1 Dev Card each",
-          "other": "+1 Dev Card each"
+          "many": "每人发展卡+1 ",
+          "other": "每人发展卡+1 "
         }
       },
-      "dataNotAvailable": "Data not available"
+      "dataNotAvailable": "没有可用数据"
     },
     "stats": {
-      "victoryPoints": "Victory Points",
-      "villages": "Villages",
-      "cities": "Cities",
-      "roadsBridges": "Roads/Bridges",
-      "military": "Military",
-      "metros": "Metros",
-      "self7Rolls": "Self 7 Rolls",
-      "discards": "Discards",
-      "devCards": "Dev Cards",
-      "raids": "Raids",
-      "raided": "Raided",
-      "trades": "Trades",
-      "wheat": "Wheat",
-      "ore": "Ore",
-      "brick": "Brick",
-      "wood": "Wood",
-      "sheep": "Sheep",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin"
+      "victoryPoints": "胜利点（VP）",
+      "villages": "村子",
+      "cities": "城市",
+      "roadsBridges": "道路/桥梁",
+      "military": "军事",
+      "metros": "首都",
+      "self7Rolls": "自行掷骰7点",
+      "discards": "丢弃",
+      "devCards": "发展卡",
+      "raids": "袭击",
+      "raided": "被袭击",
+      "trades": "交易",
+      "wheat": "小麦",
+      "ore": "矿石",
+      "brick": "砖块",
+      "wood": "木材",
+      "sheep": "绵羊",
+      "paper": "纸张",
+      "cloth": "布料",
+      "coin": "硬币"
     },
     "metroEarned": {
-      "title": "Metro!",
-      "msg": "Congratulations, you've earned a metro. Tap on any city to place it.",
-      "ok": "Ok!"
+      "title": "首都！ ",
+      "msg": "恭喜你获得了1个首都。点击任一城市来放置它。",
+      "ok": "好的！"
     },
     "merchant": {
-      "title": "Merchant Token",
-      "msg": "The player who controls the merchant token may trade this resource 2:1."
+      "title": "商人代币",
+      "msg": "控制商人代币的玩家能以 2:1 的比例交易这种资源。"
     },
     "harbor": {
-      "title": "Harbor",
-      "tradeAmount2": "2 {} resources",
-      "tradeAmount3": "3 resources of a single type",
-      "description": "Trade $tradeAmount for 1\n other resource or commodity."
+      "title": "港口",
+      "tradeAmount2": " 2 {} 资源",
+      "tradeAmount3": "3 个单一类型的资源",
+      "description": "以 $tradeAmount 交换 1 种\n其他资源或商品。"
     },
     "bottomBar": {
-      "confirmAction": "Yes",
-      "cancelAction": "No"
+      "confirmAction": "是",
+      "cancelAction": "否"
     },
     "culture": {
-      "title": "CULTURE",
-      "upgrade": "Upgrade"
+      "title": "文化",
+      "upgrade": "升级"
     },
     "cultureUpgrade": {
-      "close": "Close",
-      "achieved": "ACHIEVED!",
-      "upgrade": "Upgrade {}",
-      "cannotUpgrade": "Cannot upgrade",
-      "noCity": "You must have an open city with no metropolis to upgrade your culture to level 4 or 5."
+      "close": "关闭",
+      "achieved": "已达成！",
+      "upgrade": "升级{}",
+      "cannotUpgrade": "无法升级",
+      "noCity": "你必须拥有1座无首都的开放城市才能将你的文化升级到 4 或 5 级。"
     },
     "devCardsInfo": {
-      "title": "DEV CARDS"
+      "title": "发展卡"
     },
     "diceRolls": {
-      "title": "DICE ROLLS",
-      "history": "Roll History:"
+      "title": "掷骰",
+      "history": "掷骰记录："
     },
     "devDiscard": {
-      "title": "Discard",
-      "description": "You may only keep {} cards. Choose {} below to discard.",
+      "title": "弃牌",
+      "description": "你只能保留 {} 张卡。选择下面的 {} 以进行弃牌。",
       "cardsDiscarded": {
-        "one": "a card",
-        "many": "{} cards",
-        "other": "{} cards"
+        "one": "一张卡牌",
+        "many": "{}张卡牌",
+        "other": "{}张卡牌"
       }
     },
     "feedback": {
-      "title": "Feedback",
-      "send": "Send",
-      "label": "Bug find or brilliant idea?",
-      "placeholder": "We love to hear from our users!",
-      "emptyError": "Please enter some feedback"
+      "title": "反馈",
+      "send": "发送",
+      "label": "发现错误或有很赞的想法？ ",
+      "placeholder": "我们非常欢迎用户的来信！ ",
+      "emptyError": "请输入你的反馈"
     },
     "freeRaid": {
-      "title": "Free Raid",
-      "description": "Last place 7 roll awards you a free raid. Place your catapult to steal a resource from an opponent. ",
-      "button": "Raid"
+      "title": "免费袭击",
+      "description": "最后一名投掷出7点，可让你拥有一次免费的袭击。放置你的投石器以从对手那里偷取一种资源。
+      "button": "袭击"
     },
     "military": {
-      "title": "MILITARY",
-      "maxPart1": "Max military: ",
-      "maxPart2": "3 (Barracks increases to 6)",
-      "raid": "Raid",
-      "raidUnable": "Unable to raid",
-      "cannotRaid": "You can't afford to raid",
-      "raid-1": "Raid   -1",
-      "militaryPower": "Your Military Power",
+      "title": "军事",
+      "maxPart1": "最大军事力量：",
+      "maxPart2": "3（兵营提升至6）",
+      "raid": "袭击",
+      "raidUnable": "无法袭击",
+      "cannotRaid": "你负担不起袭击",
+      "raid-1": "袭击   -1",
+      "militaryPower": "你的军事力量",
       "vs": "vs",
-      "barbarianStrength": "Barbarian Strength",
-      "totalDefense": "Total Defense",
+      "barbarianStrength": "蛮族力量",
+      "totalDefense": "总防御力",
       "upgrade": {
-        "title": "Upgrade",
-        "cannotAfford": "You cannot afford it!",
-        "upgradeRequires": "Upgrading your military requires",
-        "maxPower": "Max Military Power",
-        "maxPowerDesc": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "maxPowerBarracks": "Max Military Power",
-        "maxPowerBarracksDesc": "Your military has reached its max power of 6. Launch raids to use your military."
+        "title": "升级",
+        "cannotAfford": "你负担不起这个！",
+        "upgradeRequires": "升级你的军事需要",
+        "maxPower": "最强军事力量",
+        "maxPowerDesc": "你的军事力量已经达到最大值：3。请将政治力量也到升到3级以提升军事力量的最大值。",
+        "maxPowerBarracks": "最强军事力量",
+        "maxPowerBarracksDesc": "你的军事力量已达到最大值：6。进行袭击以使用你的军事力量。"
       }
     },
     "newIsland": {
-      "title": "ISLAND EXPLORED!",
-      "description": "You´ve explored a new island!",
-      "prize": "+1 Victory Point",
-      "button": "OK"
+      "title": "探索到了岛屿！ ",
+      "description": "你已成功探索到一座新岛屿！ ",
+      "prize": "+1 VP",
+      "button": "好的"
     },
     "prodChart": {
-      "title": "PRODUCTION CHART",
-      "village": "Village",
-      "city": "City"
+      "title": "生产图表",
+      "village": "村子",
+      "city": "城市"
     },
     "selectCard": {
-      "button": "Confirm",
-      "choose": "Choose {}"
+      "button": "确认",
+      "choose": "选择{}"
     },
     "trade": {
-      "title": "TRADE",
-      "give": "GIVE",
-      "receive": "RECEIVE",
-      "resourcesLabel": "Your resources:",
-      "emptyTrade": "Nothing to trade"
+      "title": "交易",
+      "give": "给予",
+      "receive": "接收",
+      "resourcesLabel": "你的资源：",
+      "emptyTrade": "没有可交易的东西"
     },
     "tradeToBuild": {
-      "title": "TRADE TO BUILD",
-      "build": "Build {}",
-      "missing": "Missing",
-      "resourcesLabel": "Your resources",
-      "and": "and"
+      "title": "交易以建造",
+      "build": "建造{}",
+      "missing": "缺少 ",
+      "resourcesLabel": "你的资源",
+      "and": "和"
     },
     "endTurn": {
-      "nextGame": "Next game",
-      "wait": "Wait",
-      "end": "End",
-      "turn": "Turn",
-      "endTurn": "End Turn",
-      "nothingToDo": "Looks like there’s nothing left to do.",
-      "endTurnConfirm": "End Turn?",
-      "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
-      "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "nextGame": "下一局游戏",
+      "wait": "等待",
+      "end": "结束",
+      "turn": "回合",
+      "endTurn": "结束回合",
+      "nothingToDo": "看起来没有什么可做的了。",
+      "endTurnConfirm": "结束回合？ ",
+      "canUpgrade": "你确定要结束回合吗？你还可以无需交易就升级文化！ ",
+      "lotOfResources": "你确定要结束回合吗？你有很多未使用的资源。",
+      "cancel": "取消"
     },
     "errors": {
-      "cannotFindGame": "We can't find the game, please try again",
-      "timeExpired": "Time Expired",
-      "timeExpiredMsg": "You have run out of time and been removed from the game."
+      "cannotFindGame": "我们无法找到该局游戏，请重试",
+      "timeExpired": "时间已到",
+      "timeExpiredMsg": "时间已到，你已被移出游戏。"
     }
   },
 
   "tutorial": {
-    "viewProductChart": "View Product Chart Table",
-    "continue": "Tap to continue",
+    "viewProductChart": "查看生产图表",
+    "continue": "点击继续",
     "learningMode": {
-      "title": "Learning Mode",
-      "description": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire. Let's try it out in this game. Your goal is to achieve 15 Victory Points!'"
+      "title": "学习模式",
+      "description": " Landover的目标是以建造定居点和扩展帝国来获得胜利点（VP）。我们在这局游戏里试试看吧，你的目标是获得15胜利点！”"
     },
     "firstVillage": {
-      "title": "First Village",
-      "description": "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep."
+      "title": "第一条村子",
+      "description": "将你的村子放在下面的一个高价值的角落，即红色标示的所在。请尽量选择一个拥有3种不同类型资源的角落。最好选择小麦、黏土、木材或绵羊。"
     },
     "firstRoad": {
-      "title": "First Road",
-      "description": "Now place a road from your village towards another good corner."
+      "title": "第一条道路",
+      "description": "现在，修一条从村子通往另一个有优势的角落的道路。"
     },
     "firstCity": {
-      "title": "First City",
-      "description": "Place your city on another high value corner below. Whatever resources you didn't get with your village, try and get those with your city. Remember cities and villages must always be separated by at least one empty corner."
+      "title": "第一座城市",
+      "description": "将你的城市放在下面另一个高价值角落。用你的城市来获得村子无法得到的资源。请记住，城市和村子之间必须一直至少有1个空的角落。"
     },
     "secondRoad": {
-      "title": "Second Road",
-      "description": "And again place a road from your city towards another good corner."
+      "title": "第二条道路",
+      "description": "然后，再修一条从城市通往另一个有优势的角落的道路。"
     },
     "rollTime": {
-      "title": "Time to Roll",
-      "description": "'Now that you have placed your initial settlements, it's time to roll the dice and start collecting resources. Keep rolling until you have enough resources to build some more stuff."
+      "title": "掷骰时间",
+      "description": "“现在，你已经放置了初始的定居点，是时候投掷骰子并开始收集资源了。不断掷骰，直到你有足够的资源来建造更多的建筑。"
     },
     "moreRoads": {
-      "title": "Build more Roads",
-      "description": "It looks like you have enough resources to build more roads. Go ahead and build more roads further from your settlements."
+      "title": "建造更多的道路",
+      "description": "看起来你拥有了足够的资源来建造更多的道路。继续建造离定居点更远的道路吧。"
     },
     "anotherVillage": {
-      "title": "Build another Village",
-      "description": "'You now have enough resources to build a village and there is an open spot waiting for you. Go ahead and build another village to expand your empire and collect more resources each turn."
+      "title": "建造另一条村子",
+      "description": "“现在的你已经有足够的资源来建造一条村子了，而且还有一个空位置在等着你。继续建造另一条村子，扩展你的帝国，并在每个回合收集更多的资源。"
     },
     "productionChart": {
-      "title": "Production Chart",
-      "description": "Below is how many resources villages and cities produce: "
+      "title": "生产图表",
+      "description": "以下是村子和城市产生的资源数量： "
     },
     "trading": {
-      "title": "Trading",
-      "description": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability."
+      "title": "交易",
+      "description": "Landover银行让你能以3：1的比例交换任何资源或商品。看来你可以把村子升级成城市，但你需要进行一次交易。尝试建造一座城市，你应该会看到“交易以建造”的标识。如果你想要更划算的交易，不妨在海港建造一条村子以获得一石二鸟的效果。"
     },
     "culture": {
-      "title": "Culture",
-      "description": "Now that you have a commodity, go ahead and open up the culture modal and upgrade. Upgrading culture will give you the potential of earning valuable dev cards, unlocking new abilities, or eventually earning metros which are worth additional VPs."
+      "title": "文化",
+      "description": "现在你已经有了商品，你可以打开文化对话框并进行升级。升级文化让你有机会获得有价值的发展卡、解锁新的能力，或最终获得价值额外VP的首都。"
     },
     "cities": {
-      "title": "Cities",
-      "description": "Go ahead and choose a village you'd like to upgrade to a city. It costs 3 ore and 2 wheat but will double the production of your village!"
+      "title": "城市",
+      "description": "请选择一条你想升级为城市的村子。升级需要3份矿石和2份小麦，但你的村子产量会翻倍！ "
     },
     "military": {
-      "title": "Military",
-      "description": "Now that your economy is moving along, it's time to build some military to ward off barbarian attacks. You need one military power for each city when barbarians attack to avoid losing a city. The barbarian tracker is top right and shows how many rolls until they attack. Go ahead…"
+      "title": "军事",
+      "description": "现在，你的经济正在发展，是时候建立一些军事力量来抵御蛮族的攻击了。每当蛮族攻击时，你的每座城市都要有1点军事力量才能避免失去一座城市。右上角的蛮族追踪器显示距离攻击还有多少次掷骰。继续吧……"
     },
     "barbarians": {
-      "title": "Barbarians",
-      "description": "Barbarians are on their way. The shield top right shows if you are safe or not. If it's red, you need more military. If it's green, then you are safe. Each time they attack you'll lose 1 military power so be sure to keep adding more military over time."
+      "title": "蛮族",
+      "description": "蛮族正要袭来，右上角的盾牌显示你是否安全。如果是红色的，那你需要更多的军事力量。如果是绿色的，那你就安然无恙。每次他们攻击时，你将失去1点军事力量，所以请你确保要随着进度增加你的军事力量。"
     },
     "metros": {
-      "title": "Metros",
-      "description": "Be sure to keep upgrading your culture with your commodity cards. Once you reach level 4 you'll receive a metro worth +2VP. Metros are immune from barbarian attacks and can't be razed by other players."
+      "title": "首都",
+      "description": "记得要使用商品卡持续升级你的文化。达到4级后，你便能获得一个价值+2VP的首都。首都可避免蛮族的攻击，其他玩家也无法摧毁它们。"
     },
     "spendResources": {
-      "title": "Spend Your Resources",
-      "description": "You currently are at risk of discarding half your cards if a 7 is rolled! Be sure to spend your resources or build city walls to increase your hand size. City walls cost 2 clay and can be built on any cities. "
+      "title": "使用资源",
+      "description": "如果掷了出7点，那你当前正面临弃牌一半的风险！请确保使用你的资源或建造城墙以增加手牌的点数。城墙的成本是2份黏土，并可在任何城市上建造。"
     },
     "goodLuck": {
-      "title": "Good Luck!",
-      "description": "It looks like you are well on your way to 15 VPs. Keep expanding, building villages, upgrading to cities, leveling up your military, and building metros. If you have questions, join us on discord. Try some games against the bots, and when you're ready, challenge your friends!"
+      "title": "祝你好运！ ",
+      "description": "看起来你正妥妥地迈向15 VP的道路。继续扩张、建造村子再将村子升级为城市、提升你的军事等级，并建造首都吧。如果你有任何问题，欢迎加入我们的Discord。试试与机器人来几局游戏吧，准备好后就可以挑战你的朋友了！ "
     },
     "end": {
-      "title": "Congratulations",
-      "description": "You have just reached 15 VPs and have won the game! Hopefully you had some fun along the way. We highly recommend you try a solo game against one bot."
+      "title": "恭喜",
+      "description": "你成功达到了15 VP，赢得了这局游戏！希望你在过程中玩得开心。此外，我们强烈建议你试试与一个机器人进行一局单人游戏。"
     }
   },
   "subscription": {
     "cancel": {
-      "title": "Cancel Subscription",
-      "message": "Sorry to see you are not happy with your subscription. Can you please take a moment to leave some feedback for us in our Discord channel first? We're always trying to improve the app!",
-      "feedbackButton": "Leave Feedback",
-      "cancelButton": "Cancel Subscription"
+      "title": "取消订阅",
+      "message": "得知你不满意我们的订阅服务，我们深感遗憾。能否请你拨点时间先到我们的Discord频道留下一些反馈呢？我们一直都竭力于让这款应用程式更加出色！",
+      "feedbackButton": "留下反馈",
+      "cancelButton": "取消订阅"
     }
   },
   "discord": {
-    "title": "JOIN THE COMMUNITY!",
-    "msg1": "Woah, you're building some momentum!",
-    "msg2": "Want to meet other Landover players, find games, learn about new features and talk directly with our dev team?",
-    "button": "Join Discord"
+    "title": "加入社区！",
+    "msg1": "哇，看来你势头不错哦！ ",
+    "msg2": "想要与其他Landover玩家见面、搜索游戏，了解新功能，并直接与我们的开发团队交流吗？ ",
+    "button": "加入Discord "
   },
   "itp": {
-    "titleLetsPlay": "LET'S PLAY",
-    "titleSuccess": "GREAT!",
-    "message": "Looks like you need some games. We have players ready and waiting!",
+    "titleLetsPlay": "一起来游戏",
+    "titleSuccess": "太棒了！ ",
+    "message": "看来你要来几局游戏。这儿有正等待并且已经准备好的玩家！ ",
     "messageSuccess": {
-      "one": "You are now in {} game!",
-      "many": "You are now in {} games!",
-      "other": "You are now in {} games!"
+      "one": "你现在正处于{}局游戏中！ ",
+      "many": "你现在正处于{}局游戏中！ ",
+      "other": "你现在正处于{}局游戏中！ "
     },
-    "myGames": "Go to My Games",
+    "myGames": "查看我的游戏",
     "startGames": {
-      "one": "Start {} Game",
-      "many": "Start {} Games",
-      "other": "Start {} Games"
+      "one": "开始{}局游戏",
+      "many": "开始{}局游戏",
+      "other": "开始{}局游戏"
     },
-    "footerMessage": "No pressure! We'll just ping you when it's your turn to move.",
-    "error": "We were unable to join you to the selected games"
+    "footerMessage": "别担心！我们会在轮到你的回合时通知你。",
+    "error": "我们无法将你加入所选的游戏中"
   },
   "ongoingGame": {
     "inLobby": {
-      "title": "LIVE GAME LOBBY",
-      "leaveBtn": "Leave",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game lobby!",
-      "bottomMsg2": "Please leave or rejoin the game lobby so you’re ready to go once the game starts."
+      "title": "实时游戏大厅",
+      "leaveBtn": "离开",
+      "rejoinBtn": "重新加入",
+      "bottomMsg1": "你目前处于实时游戏大厅中！ ",
+      "bottomMsg2": "请离开或重新加入游戏大厅，以便你在游戏开始时前做好准备。"
     },
     "inGame": {
-      "title": "LIVE GAME",
-      "leaveBtn": "Surrender",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game!",
-      "bottomMsg2": "Please surrender or rejoin this game so other\nplayers don’t wait on you."
-    },
-    "gameNotExist": "Your game doesn't exist anymore.",
-    "somethingWentWrong": "Something went wrong. Try again or start a new game."
+      "title": "实时游戏",
+      "leaveBtn": "投降",
+      "rejoinBtn": "重新加入",
+      "bottomMsg1": "你当前正在进行一局实时游戏！ ",
+      "bottomMsg2": "请投降或重新加入此游戏，\n免得其他玩家一直在等你。",
+    "gameNotExist": "你的游戏已经不存在了。",
+    "somethingWentWrong": "出了点问题，请重试或开始新游戏。"
   },
   "upgradeDialog": {
-    "title": "UPGRADE TO GOLD",
-    "error": "Purchase error",
+    "title": "升级至黄金会员",
+    "error": "购买错误",
     "footer": {
-      "comingSoon": "Coming soon...",
-      "createAccount": "Create Account",
-      "watchAd": "Watch Ad",
-      "noAds": "Sorry, there's no ads available right now",
-      "restore": "Restore Purchase",
-      "noPurchase": "There is no active subscription"
+      "comingSoon": "即将推出……",
+      "createAccount": "创建账户",
+      "watchAd": "观看广告",
+      "noAds": "抱歉，目前没有可供观看的广告",
+      "restore": "恢复购买",
+      "noPurchase": "没有已启用的订阅"
     }
   },
   "buildingStyles": {
-    "default": "default",
-    "alien": "alien",
-    "modern": "modern",
-    "fantasy": "fantasy",
-    "toys": "toys"
+    "default": "默认",
+    "alien": "外星",
+    "modern": "现代",
+    "fantasy": "奇幻",
+    "toys": "玩具"
   },
   "culture": {
     "science": {
-      "abilityName": "Aqueduct",
-      "abilityDescription": "If a player does not receive\nany resources for a given\nroll, they are given one\nrandom resource.",
-      "abilityAnnouncement": "If you don't get any resources on a roll, you will now be given one random resource."
+      "abilityName": "引水渠",
+      "abilityDescription": "如果玩家在一次给定的掷骰中\n没有获得任何资源，\n那他们将获得一个随机资源。",
+      "abilityAnnouncement": "如果你在掷骰时没获得任何资源，那你现在将可获得一个随机资源。"
     },
     "commerce": {
-      "abilityName": "Bank",
-      "abilityDescription": "Allows players to trade\ncommodities 2:1 with the\nbank for any resource or\ncommodity.",
-      "abilityAnnouncement": "You can now trade commodities 2:1 with the bank."
+      "abilityName": "银行",
+      "abilityDescription": "允许玩家与银行以\n 2：1的比例进行交易以获得任何\n资源或商品。",
+      "abilityAnnouncement": "你现在能与银行以2:1的比例进行商品交易。"
     },
     "politics": {
-      "abilityName": "Barracks",
-      "abilityDescription": "Military power can be\nincreased above level 3. Military power can be\nincreased above level 3.",
-      "abilityAnnouncement": "Your max military power has been increased from 3 to 6."
+      "abilityName": "兵营",
+      "abilityDescription": "军事力量可以\n提高到3级以上。军事力量可以\n提高到3级以上。",
+      "abilityAnnouncement": "你的军事力量限制已从3级提高到6级。"
     }
   },
   "gameStartTypes": {
-    "ranked": "Ranked",
-    "quick": "Quick",
-    "custom": "Custom",
-    "welcome": "Welcome"
+    "ranked": "排位",
+    "quick": "速战",
+    "custom": "定制",
+    "welcome": "欢迎"
   },
   "gameType": {
-    "custom": "Live",
-    "daily": "Daily",
-    "tutorial": "Tutorial",
-    "solo": "Solo",
-    "private": "Private"
+    "custom": "定制",
+    "daily": "每日",
+    "tutorial": "教程",
+    "solo": "单人",
+    "private": "私人"
   },
   "premium": {
-    "premiumBots": "Play with 14 Bots each with unique strengths",
-    "premiumStyles": "Get access to 4 alternative themes and preferred colours",
-    "premiumPlayersNumber": "Create epic 8 player games with friends",
-    "premiumGameOptions": "Create custom games tailored to you",
-    "premiumStats": "Analyze the game results to become better",
-    "premiumAvatars": "Use any image you want as an in-game avatar",
-    "premiumMaps": "Design new and exciting maps",
-    "premiumNoAds": "No ADS. Directly support the developers!",
-    "title": "Gold Member",
-    "lastPayment": "Last Payment",
-    "nextPayment": "Next Payment",
-    "cancelled": "Cancelled\nEnds on:",
-    "cancel": "Cancel",
-    "canceledTitle": "Subscription",
-    "canceledMessage": "Subscription successfully canceled",
+    "premiumBots": "与14个具有独特实力的机器人一起玩",
+    "premiumStyles": "获准使用4种替代主题和首选颜色",
+    "premiumPlayersNumber": "与朋友一起创建史诗般的8人游戏",
+    "premiumGameOptions": "创建适合你的定制游戏",
+    "premiumStats": "分析游戏结果以便再创佳绩",
+    "premiumAvatars": "使用任何你想用的图像作为游戏头像,
+    "premiumMaps": "设计新颖有趣的地图",
+    "premiumNoAds": "无广告。直接支持开发人员吧！",
+    "title": "黄金会员",
+    "lastPayment": "上次付款",
+    "nextPayment": "下次付款",
+    "cancelled": "已取消\n结束于： ",
+    "cancel": "取消",
+    "canceledTitle": "订阅",
+    "canceledMessage": "订阅已成功取消",
     "success": {
-      "title": "Success!",
-      "home": "Home",
-      "message": "You are now a gold user",
-      "safeRollMsg": "Safe Roll tokens successfully purchased."
+      "title": "成功！ ",
+      "home": "主页",
+      "message": "你现已成为黄金用户",
+      "safeRollMsg": "已成功购买安全掷骰代币。"
     },
     "canceled": {
-      "title": "Canceled",
-      "home": "Home",
-      "message": "Something went wrong during checkout"
+      "title": "已取消",
+      "home": "首页",
+      "message": "结账过程中出现问题"
     }
   },
   "ranks": {
     "promoted": {
-      "title": "PROMOTED!",
-      "message": "Congratulations! \nYour amazing play has earned you a ranking level up!"
+      "title": "晋升！ ",
+      "message": "恭喜！\n你出色的表现让你的排位获得晋级！ "
     },
     "demoted": {
-      "title": "DEMOTED!",
-      "message": "Oh no! You have ranked down.\nMaybe it's time to try a new strategy or pray to the dice gods?"
+      "title": "降级！ ",
+      "message": "糟糕，你的排位下降了。\n也许是时候尝试新的策略或向骰子神祈祷？ "
     },
-    "viewRanks": "View Ranks",
-    "title": "RANKS",
-    "rules": "How rankings work"
+    "viewRanks": "查看排位",
+    "title": "排位",
+    "rules": "排位的规则"
   },
   "dailyGames": {
-    "noGames": "No Games in progress",
-    "startGame": "Start a Game",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "noGames": "没有进行中的游戏",
+    "startGame": "开始游戏",
+    "createGame": "创建游戏",
+    "joinByCode": "以代码加入",
     "turnCount": {
-      "many": "turns",
-      "single": "turn"
+      "many": "回合",
+      "single": "回合"
     },
     "gameType": {
-      "ranked": "Ranked",
-      "casual": "Casual"
+      "ranked": "排位",
+      "casual": "休闲"
     },
-    "title": "My Games",
+    "title": "我的游戏",
     "game": {
-      "waiting": "Waiting...",
-      "rematchRequest": "Rematch Request",
-      "gameOver": "Game Over",
-      "play": "Play",
-      "invite": "Invite players",
-      "start": "Start Game?"
+      "waiting": "等待中……",
+      "rematchRequest": "再战请求",
+      "gameOver": "游戏结束",
+      "play": "游玩",
+      "invite": "邀请玩家",
+      "start": "开始游戏？ "
     }
   },
   "profile": {
-    "editInfo": "Edit info",
-    "city": "City",
-    "description": "Description",
-    "email": "Email",
-    "name": "Name",
-    "status": "Status",
-    "save": "Save",
-    "linkCopied": "Profile link copied to clipboard",
+    "editInfo": "编辑信息",
+    "city": "城市",
+    "description": "描述",
+    "email": "电邮地址",
+    "name": "名称",
+    "status": "状态",
+    "save": "保存",
+    "linkCopied": "个人资料链接已复制到剪贴板上",
     "settings": {
-      "turnEmails": "Send Turn Emails",
-      "chatNotifications": "Chat Notifications",
-      "recentInvites": "Allow Recent Invites",
-      "autoJump": "Auto-Jump to Next Daily Game",
-      "mapHints": "Map Hints",
-      "showReplays": "Show Replays",
-      "acceptNewGames": "Auto-Accept New Games",
-      "autoRoll": "Auto-Roll Dice on Turn Start"
+      "turnEmails": "发送回合邮件",
+      "chatNotifications": "聊天通知",
+      "recentInvites": "允许最近的邀请",
+      "autoJump": "自动跳转到下个每日游戏",
+      "mapHints": "地图提示",
+      "showReplays": "显示回放",
+      "acceptNewGames": "自动接受新游戏",
+      "autoRoll": "回合开始时自动掷骰"
     },
     "account": {
-      "signUp": "Sign Up",
-      "saveAccount": "SAVE ACCOUNT",
-      "emailSentTitle": "Email sent",
-      "emailSentMsg": "Please check your mailbox and confirm your email address. Then you can use this account."
+      "signUp": "注册",
+      "saveAccount": "保存账户",
+      "emailSentTitle": "已发送邮件",
+      "emailSentMsg": "请检查你的电子邮箱以确认你的电邮地址，之后你就可以使用此账户。"
     },
     "history": {
-      "title": "History",
-      "filter": "Filter",
-      "empty": "No Match History"
+      "title": "历史记录",
+      "filter": "筛选",
+      "empty": "没有匹配的历史记录"
     },
     "mapStats": {
-      "title": "Map Stats",
-      "filter": "Filter",
-      "empty": "No Stats"
+      "title": "地图数据统计",
+      "filter": "筛选",
+      "empty": "没有数据统计"
     },
-    "rank": "Rank",
+    "rank": "排位",
     "season": {
-      "progress": "Season Progress"
+      "progress": "赛季进度"
     },
     "delete": {
-      "title": "Delete Account",
+      "title": "删除帐号",
       "dialog": {
-        "title": "Are you sure?",
-        "message": "We’re sorry to see you go! Are you sure you want to delete your account? All your stats and games will be permanently removed.\nYou must confirm your account to delete it.",
-        "no": "No",
-        "yes": "Yes"
+        "title": "你确定吗？ ",
+        "message": "你要离开，我们深感遗憾！确定要删除你的账户吗？你的所有统计数据和游戏都将被永久删除。\n你必须确认你的账户才可以进行删除。",
+        "no": "否",
+        "yes": "是"
       },
-      "enterPassword": "Enter a password",
-      "enterPasswordInstruction": "Please enter a password for your account below"
+      "enterPassword": "输入密码",
+      "enterPasswordInstruction": "请在下面输入你的账户密码"
     },
     "stats": {
       "filter": {
-        "title": "FILTER",
-        "clear": "Clear",
-        "filter": "Filter"
+        "title": "筛选",
+        "clear": "清除",
+        "filter": "筛选"
       },
-      "totalGames": "Total Games - ",
-      "unlockAll": "Go Gold to Unlock All Stats"
+      "totalGames": "总游戏数 - ",
+      "unlockAll": "成为黄金会员以解锁所有数据统计"
     },
     "info": {
-      "hometown": "Hometown: ",
-      "editInfo": "Edit info",
-      "joinedOn": "Joined on {}",
-      "1stPlace": "1st Place",
-      "2ndPlace": "2nd Place",
-      "3rdPlace": "3rd Place",
-      "totalGames": "Total Games",
-      "asOfMay": "as of May 2023"
+      "hometown": "故乡：",
+      "editInfo": "编辑信息",
+      "joinedOn": "加入时间：{}",
+      "1stPlace": "第1
+",
+      "2ndPlace": "第2
+",
+      "3rdPlace": "第3
+",
+      "totalGames": "总游戏数",
+      "asOfMay": "截至2023年5月"
     },
     "errors": {
-      "updateFailed": "Failed to update",
-      "nameProfanity": "Name cannot have profanities",
-      "nameTaken": "Name is already taken",
-      "nameEmpty": "Name cannot be empty",
-      "statusProfanity": "Status cannot have profanities",
-      "descriptionProfanity": "Description cannot have profanities",
-      "cityProfanity": "City cannot have profanities"
+      "updateFailed": "更新失败",
+      "nameProfanity": "名称不可包含脏话",
+      "nameTaken": "名称已被使用",
+      "nameEmpty": "名称不能空置",
+      "statusProfanity": "状态不可包含脏话",
+      "descriptionProfanity": "描述不可包含脏话",
+      "cityProfanity": "城市不可包含脏话"
     }
   },
   "auth": {
     "fb": {
-      "newPassword": "New password",
-      "newPasswordHint": "Enter your new password",
-      "verifiedTitle": "Verified",
-      "verifiedMsg": "You email has been successfully verified.",
-      "passResetMsg": "Your password email has been successfully changed.",
-      "expired": "Invalid or expired link, try to verify email again.",
-      "weakPass": "Password too weak, try again.",
-      "expiredPassReset": "Invalid or expired link, try to reset your password again."
+      "newPassword": "新密码",
+      "newPasswordHint": "输入你的新密码",
+      "verifiedTitle": "已验证",
+      "verifiedMsg": "你的电邮地址已成功获得验证。",
+      "passResetMsg": "你的密码电邮地址已成功更改。",
+      "expired": "链接无效或已过期，请重新验证电邮地址。",
+      "weakPass": "密码太弱，请重试。",
+      "expiredPassReset": "链接无效或已过期，请重设密码。"
     },
     "linking": {
-      "title": "Account Linking",
-      "message": "Logging in with $newProvider will override your existing logins. Continue?",
-      "no": "No",
-      "yes": "Yes"
+      "title": "账户连接",
+      "message": "使用$newProvider登入将覆盖你现有的登入记录。是否继续？ ",
+      "no": "否",
+      "yes": "是"
     },
     "footer": {
-      "agree": "By tapping a sign in button, you agree to the\n",
-      "tos": "Terms of Service",
-      "and": " and ",
-      "privacy": "Privacy Policy"
+      "agree": "点击登入按钮，即代表你同意\n ",
+      "tos": "服务条款",
+      "and": "和",
+      "privacy": "隐私政策"
     },
     "code": {
-      "msg": "Enter the code sent to {}",
-      "confirm": "Confirm",
-      "sent": "Email sent",
-      "sentMsg": "A new code has been sent to {}",
-      "resend": "Resend Code",
-      "continueWithEmail": "Have a password? Continue here"
+      "msg": "请输入发送至{}的代码",
+      "confirm": "确认",
+      "sent": "已发送电邮",
+      "sentMsg": "新代码已发送至{} ",
+      "resend": "重新发送代码",
+      "continueWithEmail": "有密码吗？到这里继续"
     },
     "email": {
-      "label": "Enter your email to sign up or login into Landover",
-      "button": "Confirm"
+      "label": "输入你的电邮地址以注册或登入Landover ",
+      "button": "确认"
     },
     "signUp": {
       "nickname": {
-        "label": "Nickname",
-        "placeholder": "Enter Nickname...",
-        "empty": "Please enter a nickname",
-        "short": "Please enter a nickname of at least 3 characters",
-        "profanity": "Profanity detected. Try again."
+        "label": "昵称",
+        "placeholder": "输入昵称…… ",
+        "empty": "请输入昵称",
+        "short": "请输入一个至少3个字符的昵称",
+        "profanity": "检测到脏话，请重试。"
       },
       "password": {
-        "label": "Confirm Password",
-        "placeholder": "Confirm Password...",
-        "empty": "Please enter a password",
-        "mismatch": "Passwords do not match"
+        "label": "确认密码",
+        "placeholder": "确认密码…… ",
+        "empty": "请输入密码",
+        "mismatch": "密码不匹配"
       }
     },
     "verify": {
-      "email": "Verify your email",
-      "message": "A verification email has been sent to you! Please check your mailbox to verify the account before you sign in",
-      "resend": "Resend"
+      "email": "验证你的电邮地址",
+      "message": "验证邮件已发送给你哦！请在登入前检查你的电子邮箱以验证账户",
+      "resend": "重新发送"
     },
-    "login": "Log In",
-    "useFB": "Continue with Facebook",
-    "useGoogle": "Continue with Google",
-    "useEmail": "Continue with Email",
-    "useApple": "Continue with Apple",
+    "login": "登入",
+    "useFB": "使用Facebook继续",
+    "useGoogle": "使用Google继续",
+    "useEmail": "使用电邮地址继续",
+    "useApple": "使用Apple继续",
     "or": "OR",
-    "passRequired": "Your password is required",
-    "enterPassword": "Please enter your password for {}"
+    "passRequired": "需要你的密码",
+    "enterPassword": "请输入你的密码以登入 {}"
   },
   "alerts": {
-    "ok": "OK",
-    "cancel": "Cancel"
+    "ok": "好的",
+    "cancel": "取消"
   },
   "forms": {
-    "submit": "Submit",
-    "nicknameEmpty": "Please enter a nickname",
-    "nicknameShort": "Please enter a nickname of at least 3 characters",
-    "email": "Email",
-    "emailEmpty": "Please enter an email",
-    "emailPlaceholder": "Enter Email...",
-    "emailInvalid": "Please enter a valid email address",
-    "password": "Password",
-    "passwordPlaceholder": "Enter Password...",
-    "passwordEmpty": "Please enter a password",
-    "forgotPassword": "Forgot Password?",
-    "resetPasswordTitle": "Reset Password",
-    "resetPasswordEmail": "Enter your email",
-    "resetPasswordEmailSent": "Email sent",
-    "resetPasswordEmailSentMsg": "Please check your inbox"
+    "submit": "提交",
+    "nicknameEmpty": "请输入昵称",
+    "nicknameShort": "请输入一个至少3个字符的昵称",
+    "email": "电邮地址",
+    "emailEmpty": "请输入电邮地址",
+    "emailPlaceholder": "输入电邮地址……",
+    "emailInvalid": "请输入有效的电邮地址",
+    "password": "密码",
+    "passwordPlaceholder": "输入密码…… ",
+    "passwordEmpty": "请输入密码",
+    "forgotPassword": "忘记密码？ ",
+    "resetPasswordTitle": "重置密码",
+    "resetPasswordEmail": "输入你的电邮地址",
+    "resetPasswordEmailSent": "已发送电邮",
+    "resetPasswordEmailSentMsg": "请检查你的电子邮箱"
   },
   "codeJoin": {
-    "join": "Join"
+    "join": "加入"
   },
   "history": {
-    "title": "HISTORY",
-    "notAvailable": "Old game results are unavailable.",
-    "turns": "{} Turns",
-    "players": "{} players",
-    "noHistory": "No Match History"
+    "title": "历史记录",
+    "notAvailable": "无法获取旧游戏结果",
+    "turns": "{}回合",
+    "players": "{}位玩家",
+    "noHistory": "无匹配历史记录"
   },
   "settings": {
-    "title": "SETTINGS",
-    "editInfo": "Edit info",
-    "stats": "Stats",
-    "themes": "Themes & Colors",
-    "history": "History",
+    "title": "设置",
+    "editInfo": "编辑信息",
+    "stats": "数据统计",
+    "themes": "主题与颜色",
+    "history": "历史记录",
     "logout": {
-      "title": "Log Out",
+      "title": "登出",
       "guest": {
-        "title": "Warning!",
-        "message": "You are about to logout of your guest account. All data will be lost and all your games will be forfeited. To avoid this, first authenticate your account with another login. Continue?",
-        "delete": "Delete Account",
-        "cancel": "Cancel"
+        "title": "警告！",
+        "message": "你即将登出你的访客账户，所有数据都将丢失，此外你的所有游戏都将被视为弃权。为避免这种情况，请首先使用其他登入身份来验证你的账户。是否继续？",
+        "delete": "删除账户",
+        "cancel": "取消"
       }
     },
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "privacy": "隐私政策",
+    "terms": "服务条款"
   },
   "invite": {
-    "play": "Play",
-    "cancel": "Cancel",
-    "inviteFrom": "Invite from {}!"
+    "play": "游玩",
+    "cancel": "取消",
+    "inviteFrom": "来自{}的邀请！"
   },
   "matchmaking": {
-    "play": "Play",
-    "game": "Game",
-    "rankHigherThan": "higher than {}%\nof players",
-    "viewRanks": "View Ranks",
-    "3daysMove": "3 days to move",
-    "90sMove": "90s to move",
-    "playNow": "PLAY NOW",
-    "casual": "Casual Play",
-    "ranked": "Ranked Play",
-    "looking": "Looking for players..."
+    "play": "游玩",
+    "game": "游戏",
+    "rankHigherThan": "比{}%的玩家\n还要高",
+    "viewRanks": "查看排位",
+    "3daysMove": "3天内移动",
+    "90sMove": "90秒内移动",
+    "playNow": "马上游玩",
+    "casual": "休闲游玩",
+    "ranked": "排位游玩",
+    "looking": "正在寻找玩家……"
   },
   "help": {
-    "title": "WELCOME TO LANDOVER!",
-    "rules": "Rules",
-    "video": "Video\nTutorials",
-    "tutorial": "Play\nTutorial",
-    "discord": "Discord!",
-    "questions": "Questions?\n"
+    "title": "欢迎来到LANDOVER！",
+    "rules": "规则",
+    "video": "视频\n教程",
+    "tutorial": "进行\n教程",
+    "discord": "Discord！",
+    "questions": "有问题吗？ \n"
   },
   "themes": {
-    "title": "Theme",
-    "chooseTheme": "Choose Theme",
-    "chooseColor": "Choose Color",
-    "save": "Save",
-    "goGold": "GO GOLD!",
-    "selected": "SELECTED"
+    "title": "主题",
+    "chooseTheme": "选择主题",
+    "chooseColor": "选择颜色",
+    "save": "保存",
+    "goGold": "成为黄金会员！ ",
+    "selected": "已选择"
   },
   "createGame": {
     "options": {
-      "title": "OPTIONS",
-      "on": "On",
-      "off": "Off",
-      "time": "Time per Turn",
-      "points": "Victory Points",
-      "barbDelay": "Barbarians Delay",
-      "barbDelayTooltip": "Number of barbarian rolls before\nthe barbarians start to advance\ntowards an attack.",
-      "name": "Game Name (optional)",
-      "namePlaceholder": "Enter name",
-      "public": "Public Game",
+      "title": "选项",
+      "on": "开启",
+      "off": "关闭",
+      "time": "每回合时间",
+      "points": "胜利点（VP）",
+      "barbDelay": "蛮族延迟",
+      "barbDelayTooltip": "蛮族开始向进攻前的掷骰次数。",
+      "name": "游戏名称（可选）",
+      "namePlaceholder": "输入名称",
+      "public": "公共游戏",
       "mapHints": {
-        "title": "Map Hints",
-        "tooltip": "Enables map hint indicators when building structures."
+        "title": "地图提示",
+        "tooltip": "建造时启用地图提示器。"
       },
       "charity": {
-        "title": "Charity 7 Rolls",
-        "tooltip": "Give one random resource when a 7 is rolled"
+        "title": "慈善7掷骰",
+        "tooltip": "掷骰得到7点时可获得一个随机资源"
       },
       "resources": {
-        "title": "Starting Resources",
-        "tooltip": "Give every user one resource of every type when a game starts"
+        "title": "起始资源",
+        "tooltip": "游戏开始时，每个用户都有一个每种资源"
       },
       "raids": {
-        "title": "Raids",
-        "tooltip": "Enable/Disable spending one military to raid your opponent."
+        "title": "袭击",
+        "tooltip": "启用/禁用花费1点军事力量来袭击对手。"
       },
       "fairDice": {
-        "title": "Fair Dice",
-        "tooltip": "Replaces true random with an even\ndistribution of dice rolls."
+        "title": "公平骰子",
+        "tooltip": "用均匀分布的骰子\n来代替真正的随机骰子。"
       },
       "culture": {
-        "title": "Culture",
-        "tooltip": "Enables Science, Politics, and Commerce\nupgrades so you can collect dev cards\nand earn metros."
+        "title": "文化",
+        "tooltip": "让科学、政治和商业可升级，以便你收集发展卡并获得首都。"
       },
       "luckyRaid": {
-        "title": "Lucky 7 Raid",
-        "tooltip": "Player in last place who rolls a 7\nis rewarded with a free raid."
+        "title": "幸运7袭击",
+        "tooltip": "最后一名投掷出7点的玩家可获得免费袭击作为奖励。"
       }
     },
     "map": {
-      "title": "SELECT MAP",
-      "maps": "MAPS",
-      "favorites": "Favorites",
-      "lastPlayed": "Last Played",
-      "moreSlots": "Subscribe for more slots",
-      "giant": "Giant",
-      "normal": "Normal",
-      "mapType": "Choose map type",
-      "mapTypeMsg": "Choose the type of map you want to create.",
-      "createMap": "Create New Map",
-      "register": "Register",
-      "createAccount": "Create Account",
-      "createAccountMsg": "You must register an account to create maps.",
-      "search": "Search maps",
-      "mapName": "Name",
-      "gamesPlayed": "# of games",
-      "createdOn": "Created on",
-      "noUserMaps": "You have not created any maps",
-      "noMaps": "No maps found",
-      "noRecentGames": "You have no recent games",
-      "noFavorites": "You have no favorite maps",
+      "title": "选择地图",
+      "maps": "地图",
+      "favorites": "最爱",
+      "lastPlayed": "上次游玩",
+      "moreSlots": "订阅以获得更多栏位",
+      "giant": "巨大,
+      "normal": "正常",
+      "mapType": "选择地图类型",
+      "mapTypeMsg": "选择你想创建的地图。",
+      "createMap": "创建新地图",
+      "register": "注册",
+      "createAccount": "创建账户",
+      "createAccountMsg": "你必须注册一个账户才能创建地图。",
+      "search": "搜索地图",
+      "mapName": "名称",
+      "gamesPlayed": "游戏次数",
+      "createdOn": "创建日期： ",
+      "noUserMaps": "你还没有创建任何地图",
+      "noMaps": "没发现任何地图",
+      "noRecentGames": "你没有最近的游戏",
+      "noFavorites": "你没有最爱的地图",
       "tabs": {
-        "standard": "STANDARD",
-        "myMaps": "MY MAPS",
-        "favorites": "FAVORITES",
-        "all": "ALL"
+        "standard": "标准",
+        "myMaps": "我的地图",
+        "favorites": "最爱",
+        "all": "全部"
       },
       "adminControls": {
         "confirmDialog": {
-          "yes": "Yes",
-          "no": "No",
-          "confirm": "Confirm",
-          "duplicate": "Are you sure you want to duplicate this map?",
-          "makeOfficial": "Are you sure you want to make this map official?",
-          "deleteFromOfficial": "Are you sure you want to delete this map from official maps?"
+          "yes": "是",
+          "no": "否",
+          "confirm": "确认",
+          "duplicate": "你确定要复制这份地图吗？ ",
+          "makeOfficial": "你确定要将这份地图设为正式地图吗？ ",
+          "deleteFromOfficial": "你确定要从正式地图中删除这份地图吗？ "
         }
       },
       "sort": {
-        "newest": "Newest",
-        "oldest": "Oldest",
-        "mostGames": "Most Games",
-        "leastGames": "Least Games",
-        "alphabetical": "Alphabetical",
-        "reverseAlphabetical": "Alphabetical Desc",
-        "popular": "Popular"
+        "newest": "最新",
+        "oldest": "最旧",
+        "mostGames": "最多游戏",
+        "leastGames": "最少游戏",
+        "alphabetical": "按字母顺序排列",
+        "reverseAlphabetical": "按字母逆序排列",
+        "popular": "热门"
       },
       "preview": {
-        "selectMap": "Select Map",
-        "deleteMap": "Delete Map",
-        "editMap": "Edit Map"
+        "selectMap": "选择地图",
+        "deleteMap": "删除地图",
+        "editMap": "编辑地图"
       }
     },
     "playTutorial": {
-      "title": "Play tutorial",
-      "message": "As a new player to Landover, you must complete one solo game against the bots before you jump into a public game. Try the tutorial!"
+      "title": "进行教程",
+      "message": "作为Landover的新玩家，你需要完成一局与机器人对战的单人游戏才能加入公共游戏。马上进行教程吧！ "
     },
-    "createGame": "Create Game"
+    "createGame": "创建游戏"
   },
   "join": {
-    "title": "Join Games",
-    "gameNotAvailable": "This game is not available, try another one",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "title": "加入游戏",
+    "gameNotAvailable": "此游戏无法使用，请尝试其他游戏",
+    "createGame": "创建游戏",
+    "joinByCode": "以代码加入",
     "filter": {
-      "title": "FILTER",
-      "button": "Filter",
-      "clear": "Clear",
-      "allGames": "All Games",
-      "liveGames": "Live Games",
-      "dailyGames": "Daily Games",
-      "allPoints": "All Points",
-      "xPoints": "{} points"
+      "title": "筛选",
+      "button": "筛选",
+      "clear": "清楚",
+      "allGames": "所有游戏",
+      "liveGames": "实时游戏",
+      "dailyGames": "每日游戏",
+      "allPoints": "所有点数",
+      "xPoints": "{}点"
     }
   },
   "lobby": {
     "leave": {
-      "title": "Leave Game",
-      "message": "Are you sure you want to leave this game?",
-      "yes": "Leave"
+      "title": "离开游戏",
+      "message": "你确定要离开这个游戏？ ",
+      "yes": "离开"
     },
     "add": {
-      "recent": "+ Recent",
-      "bot": "+ Add Bot",
-      "invite": "+ Invite"
+      "recent": "+ 最近",
+      "bot": "+ 添加机器人",
+      "invite": "+ 邀请"
     },
     "boot": {
-      "button": "Remove",
-      "title": "Are you sure you want to kick "
+      "button": "移除",
+      "title": "确定要踢出"
     },
     "options": {
-      "on": "On",
-      "off": "Off",
-      "points": "Victory Points",
-      "time": "Turn timer",
-      "luckyRaid": "Lucky 7 Raid",
-      "culture": "Culture",
-      "barbDelay": "Barbarians Delay",
-      "fairDice": "Fair Dice",
-      "raids": "Raids"
+      "on": "启用",
+      "off": "关闭",
+      "points": "胜利点（VP）",
+      "time": "回合计时器",
+      "luckyRaid": "幸运7袭击",
+      "culture": "文化",
+      "barbDelay": "蛮族延迟",
+      "fairDice": "公平骰子",
+      "raids": "袭击"
     },
     "addBot": {
-      "title": "ADD BOT",
-      "alreadyAdded": "Already Added",
-      "unlockBot": "Unlock Bot",
-      "addBot": "Add Bot"
+      "title": "添加机器人",
+      "alreadyAdded": "已添加",
+      "unlockBot": "解锁机器人",
+      "addBot": "添加机器人"
     },
     "getReady": {
-      "title": "GET READY!",
-      "cancel": "Cancel",
-      "ready": "Ready"
+      "title": "准备好了！ ",
+      "cancel": "取消",
+      "ready": "准备"
     },
     "ranked": {
-      "title": "Joined!",
-      "message": "You joined a daily game match! You will be notified when game starts."
+      "title": "已加入！ ",
+      "message": "你已加入每日比赛！游戏开始时会通知你的。"
     },
     "recent": {
-      "title": "INVITE PLAYERS",
-      "notificationTurnedOf": "This player has turned off invitations from recent players. This player will be removed from your list.",
-      "noRecent": "No recent players!"
+      "title": "邀请玩家",
+      "notificationTurnedOf": "此玩家已关闭来自最近玩家的邀请。此玩家将从你的列表中移除。",
+      "noRecent": "没有最近的玩家！ "
     },
     "joinPrivate": {
-      "joinAnyway": "Join anyway",
-      "cancel": "Cancel"
+      "joinAnyway": "加入吧",
+      "cancel": "取消"
     },
     "gameType": {
-      "ranked": "RANKED GAME",
-      "quick": "QUICK GAME",
-      "tutorial": "TUTORIAL",
-      "daily": "DAILY GAME",
-      "solo": "SOLO GAME",
-      "live": "LIVE GAME"
+      "ranked": "排位游戏",
+      "quick": "速战游戏",
+      "tutorial": "教程",
+      "daily": "每日游戏",
+      "solo": "单人游戏",
+      "live": "实时游戏"
     },
-    "lobbyLabel": "Lobby:",
-    "code": "Code: ",
-    "join": "JOIN",
-    "waiting": "Waiting...",
-    "waitingForHost": "Waiting for host...",
-    "start": "Start",
-    "starting": "Game Starting",
-    "startingTutorial": "Starting tutorial",
-    "initTutorial": "Initializing tutorial...",
-    "creatingNewLobby": "Creating new lobby...",
-    "checkingExisting": "Checking existing games...",
-    "matchingGameFound": "Matching game found!",
-    "loadingLobby": "Loading game lobby...",
-    "loadingGame": "Loading game...",
-    "joined": "Joined!",
-    "alreadyInQueue": "You are already in the queue, you will be notified when a game starts.",
-    "lobbyFull": "Lobby full!",
-    "hostToAdd": "You must be a host to add a bot",
-    "cannotBoot": "You cannot boot this player",
-    "notFound": "Lobby not found",
-    "waitingForLot": "You are already waiting for a lot of games to start. We’ll notify you when it’s your turn to move.",
-    "kicked": "Kicked!",
-    "kickedMsg": "The host has removed you from this game. Try joining a different game.",
-    "timeOut": "Timed out",
-    "timeOutMsg": "You didn't accept the game in time.",
-    "rematchCanceled": "Rematch canceled",
-    "rematchCanceledMsg": "Someone rejected this game.",
-    "gameCanceled": "Game canceled",
-    "gameCanceledMsg": "The host has ended this game."
+    "lobbyLabel": "大厅： ",
+    "code": "代码： ",
+    "join": "加入",
+    "waiting": "等待中……",
+    "waitingForHost": "等待房主……",
+    "start": "开始",
+    "starting": "游戏即将开始",
+    "startingTutorial": "教程开始",
+    "initTutorial": "初始化教程…… ",
+    "creatingNewLobby": "创建新的大厅…… ",
+    "checkingExisting": "检查现有游戏…… ",
+    "matchingGameFound": "找到匹配的游戏！ ",
+    "loadingLobby": "载入游戏大厅…… ",
+    "loadingGame": "载入游戏……",
+    "joined": "已加入！",
+    "alreadyInQueue": "你已经在队列中，游戏开始时会通知你的。",
+    "lobbyFull": "大厅已满！ ",
+    "hostToAdd": "你必须是房主才能添加机器人",
+    "cannotBoot": "你无法踢出这位玩家",
+    "notFound": "未找到大厅",
+    "waitingForLot": "你所等待的游戏开始已经很多了，我们会在轮到你的回合时通知你的。",
+    "kicked": "已踢出！ ",
+    "kickedMsg": "房主已将你移出这局游戏。试着加入其他游戏吧。",
+    "timeOut": "已超时",
+    "timeOutMsg": "你未能及时接受游戏。",
+    "rematchCanceled": "已取消再战",
+    "rematchCanceledMsg": "有人拒绝这局游戏。",
+    "gameCanceled": "游戏已取消",
+    "gameCanceledMsg": "房主已结束这局游戏。"
   },
   "builder": {
     "create": {
-      "title": "CREATE MAP!",
-      "ok": "Ok",
-      "firstMap": "Want to create your first custom map?\nUse the map builder to design your very own world!",
-      "randomNumber": "Any tiles without a number will be randomly assigned a number each game",
-      "mysteryTiles": "A mystery tile that cannot be placed on initially and is only revealed when a player explores it",
-      "randomResources": "A randomly assigned land resource at game start"
+      "title": "创建地图！ ",
+      "ok": "确定",
+      "firstMap": "想要创建你的第一张定制地图吗？\n使用地图构建器设计你自己的世界！ ",
+      "randomNumber": "任何没有数字的方块将在每局游戏中随机分配一个数字",
+      "mysteryTiles": "一块无法在初始时放置的神秘方块只会在玩家探索它时显示",
+      "randomResources": "游戏开始时将随机分配土地资源"
     },
     "controls": {
-      "info": "Information",
-      "tiles": "Tiles",
-      "harbors": "Harbors"
+      "info": "信息",
+      "tiles": "方块",
+      "harbors": "港口"
     },
     "info": {
       "name": {
-        "title": "Name",
-        "placeholder": "Enter name..."
+        "title": "名称",
+        "placeholder": "输入名称…… "
       },
       "description": {
-        "title": "Description",
-        "placeholder": "Enter description..."
+        "title": "描述",
+        "placeholder": "输入描述……"
       },
-      "points": "Victory Points"
+      "points": "胜利点（VP）"
     },
     "terrain": {
-      "nonPlacement": "Non Placement Tile",
-      "nonPlacementHint": "Select land tiles that are not allowed initial settlements."
+      "nonPlacement": "不可放置方块",
+      "nonPlacementHint": "选择不可在初始时可定居的土地方块。"
     },
     "unsaved": {
-      "title": "Unsaved Changes",
-      "message": "You have unsaved changes to this map?",
-      "yes": "Exit",
-      "no": "Save & Exit"
+      "title": "未保存的更改",
+      "message": "你在这张地图上还有未保存的更改。",
+      "yes": "推出",
+      "no": "保存并推出"
     },
-    "title": "MAP BUILDER",
-    "save": "Save",
-    "openControls": "Open Controls",
-    "profanity": "Profanity detected. Try again.",
+    "title": "地图构建器",
+    "save": "保存",
+    "openControls": "打开控制",
+    "profanity": "检测到脏话，请重试。",
     "saved": {
-      "title": "Success!",
-      "message": "Your map has been saved!"
+      "title": "成功！",
+      "message": "你的地图已保存！ "
     },
     "validation": {
-      "emptyName": "Please give your map a name.",
-      "invalidName": "Please enter a valid map name."
+      "emptyName": "请为你的地图命名。",
+      "invalidName": "请输入有效的地图名称。"
     },
     "list": {
-      "by": "By: {}",
-      "on": "On: {}",
-      "games": "Games: {}",
-      "vp": "VP: {}",
+      "by": "由{}",
+      "on": "创建于：{}",
+      "games": "游戏：{}",
+      "vp": "VP：{}",
       "deleteOfficial": {
-        "title": "Delete Action",
-        "message": "Official maps are undeletable."
+        "title": "删除操作",
+        "message": "正式地图无法删除。"
       },
       "delete": {
-        "title": "Delete",
-        "message": "Are you sure you want to delete this map?",
-        "yes": "Delete",
-        "no": "Cancel"
+        "title": "删除",
+        "message": "你确定要删除此地图吗？ ",
+        "yes": "删除",
+        "no": "取消"
       }
     }
   },
   "notifications": {
-    "title": "Don't Miss Your Turn!",
-    "enable": "Enable Notifications",
-    "enableEmail": "Enable Email Notifications",
-    "enableText": "Enable notifications and never miss your turn. We'll remind you when it's time to jump back in so you can keep the game moving!",
-    "notNow": "Don't enable for now"
+    "title": "别错过你的回合！ ",
+    "enable": "启用通知",
+    "enableEmail": "启用电邮通知",
+    "enableText": "启用通知，避免错过你的回合。我们将在轮到你的回合时提醒你回到游戏，好让你保持游戏进行！",
+    "notNow": "现在不启用"
   },
   "unsubscribe": {
     "ask": {
-      "title": "Are you sure?",
-      "message": "Are you sure you want to unsubscribe from game updates emails?",
-      "yes": "Unsubscribe"
+      "title": "你确定吗？ ",
+      "message": "你确定要取消订阅游戏更新邮件吗？ ",
+      "yes": "取消订阅"
     },
     "unsubscribed": {
-      "title": "Unsubscribed",
-      "yes": "Home",
-      "message": "You have been successfully unsubscribed. You can turn on game updates emails again in the settings."
+      "title": "已取消",
+      "yes": "主页",
+      "message": "你已成功取消订阅。你可在设置中再次启用游戏更新邮件功能。"
     }
   },
   "loading": {
-    "title": "PLEASE WAIT"
+    "title": "请稍等"
   },
   "rank": {
-    "title": "YOUR\nRANK"
+    "title": "你的\n排位"
   },
   "seasons": {
     "leaderboard": {
-      "title": "SEASON LEADERBOARD",
-      "player": "Player",
-      "games": "# Games",
-      "SP": "SP (Season Points)",
-      "reward": "Reward"
+      "title": "赛季排行榜",
+      "player": "玩家",
+      "games": "游戏次数",
+      "SP": "SP（赛季积分）",
+      "reward": "奖励"
     },
-    "noPlayers": "No players yet",
-    "unlockAchievement": "Complete 10 games\nto unlock achievement"
+    "noPlayers": "暂无玩家",
+    "unlockAchievement": "完成10局游戏\n以解锁成就"
   }
 }
