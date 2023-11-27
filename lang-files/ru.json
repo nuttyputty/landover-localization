@@ -1,1412 +1,1413 @@
 {
   "home": {
-    "takeTurn": "TAKE TURN",
-    "playNow": "PLAY NOW",
-    "createGame": "Create Game",
-    "joinGame": "Join Game",
-    "myGames": "My Games",
-    "startPlaying": "Start Playing Now!",
+    "takeTurn": "ХОД ИГРОКА",
+    "playNow": "ИГРАТЬ СЕЙЧАС",
+    "createGame": "Создать игру",
+    "joinGame": "Присоединиться к игре",
+    "myGames": "Мои игры",
+    "startPlaying": "Начните играть сейчас!",
     "ranked": {
-      "title": "Ranked",
-      "comingSoon": "COMING SOON",
-      "playMore": "Play more games"
+      "title": "Рейтинговые ",
+      "comingSoon": "СКОРО",
+      "playMore": "Играть больше игр"
     },
-    "goGold": "GO GOLD!"
+    "goGold": "ВПЕРЕД, ЗОЛОТО!"
   },
   "playNow": {
-    "unlock": "Play more casual games to unlock Ranked!"
+    "unlock": "Играйте в больше неформальных игр, чтобы открыть рейтинговые игры!"
   },
   "update": {
-    "title": "Update available!",
+    "title": "Доступно обновление!",
     "web": {
-      "label": "Please click bellow to clear web browser cache and get the latest update",
-      "button": "Clear cache"
+      "label": "Пожалуйста, нажмите ниже, чтобы очистить cache веб-браузера и получить последнее обновление",
+      "button": "Очистить cache"
     },
     "mobile": {
-      "label": "Please click bellow to download the latest update.",
-      "button": "Update"
+      "label": "Пожалуйста, нажмите ниже, чтобы загрузить последнее обновление.",
+      "button": "Обновить"
     },
-    "androidSuffix": "\nIf the update does not appear please clear Play Store's cache"
+    "androidSuffix": "\nЕсли обновление не появляется, пожалуйста, очистите cache Play Store"
   },
   "noConnection": {
-    "title": "Connection error",
-    "message": "Unable to connect with the server.\nCheck your internet connection and try again",
-    "action": "Try again"
+    "title": "Ошибка подключения",
+    "message": "Невозможно соединиться с сервером.\nПроверьте ваше интернет-соединение и попробуйте снова",
+    "action": "Попробовать снова"
   },
   "avatar": {
-    "save": "Save Changes",
-    "uploadPhoto": "Upload Photo"
+    "save": "Сохранить изменения",
+    "uploadPhoto": "Загрузить фото"
   },
   "achievements": {
-    "title": "ACHIEVEMENTS",
-    "earned": "Earned Achievement: {}",
-    "openEarned": "OPEN"
+    "title": "ДОСТИЖЕНИЯ",
+    "earned": "Получено достижение: {}",
+    "openEarned": "ОТКРЫТЬ"
   },
   "errors": {
-    "gameAlreadyStarted": "Game already started",
-    "gameDoesNotExist": "Your game doesn't exist anymore.",
-    "generic": "Something went wrong. Try again.",
-    "genericBig": "Something went wrong, a report has been sent to our team.",
-    "uhOh": "Uh Oh",
-    "error": "Error",
-    "tryAgain": "Try again",
-    "home": "Home",
+    "gameAlreadyStarted": "Игра уже началась",
+    "gameDoesNotExist": "Вашей игры больше не существует.",
+    "generic": "Что-то пошло не так. Попробуйте снова.",
+    "genericBig": "Что-то пошло не так, отчет был отправлен нашей команде.",
+    "uhOh": "Упс",
+    "error": "Ошибка",
+    "tryAgain": "Попробуйте снова",
+    "home": "Главная",
     "login": {
       "google": {
-        "failed": "Unable to sign into your google account. Please try again",
-        "popupBlocked": "You have a popup blocker or ad blocker. Please allow popups and try again.",
-        "popupClosed": "You didn't finish Google Sign in. Please try again.",
-        "cookiesDisabled": "Please enable cookies and allow popups to continue."
+        "failed": "Не удается войти в вашу учетную запись Google. Пожалуйста, попробуйте снова",
+        "popupBlocked": "У вас блокировщик всплывающих окон или рекламы. Пожалуйста, разрешите всплывающие окна и попробуйте снова.",
+        "popupClosed": "Вы не завершили вход в Google. Пожалуйста, попробуйте снова.",
+        "cookiesDisabled": "Пожалуйста, включите файлы cookie и разрешите всплывающие окна для продолжения."
       },
       "email": {
-        "wrongPassword": "That password isn't right. Please try again.",
-        "alreadyExists": "This email already exists as a Google or Apple login. Login with Google or Apple.",
-        "notExist": "We cannot find an account associated with that email address. Please try again.",
-        "wrongCode": "Code is wrong",
-        "failedToLink": "Failed to link credentials, try again",
-        "badFormat": "Invalid email format.",
-        "notAssociated": "No user was found with that email address.",
-        "generatingVerifyLinkFailed": "Error generating email link"
+        "wrongPassword": "Этот пароль не подходит. Пожалуйста, попробуйте снова.",
+        "alreadyExists": "Этот адрес электронной почты уже существует как учетная запись Google или Apple. Войдите через Google или Apple.",
+        "notExist": "Мы не можем найти учетную запись, связанную с этим адресом электронной почты. Пожалуйста, попробуйте снова.",
+        "wrongCode": "Код неверен",
+        "failedToLink": "Не удалось связать учетные данные, попробуйте снова",
+        "badFormat": "Неверный формат электронной почты.",
+        "notAssociated": "Не найден пользователь с этим адресом электронной почты.",
+        "generatingVerifyLinkFailed": "Ошибка при генерации ссылки для электронной почты"
       },
       "facebook": {
-        "failed": "Unable to sign into your facebook account. Please try again"
+        "failed": "Не удается войти в вашу учетную запись Facebook. Пожалуйста, попробуйте снова"
       },
-      "generic": "{} Please try again"
+      "generic": "{} Пожалуйста, попробуйте снова"
     }
   },
   "game": {
     "logs": {
-      "tooltip": "Live log",
-      "noLogs": "No Logs",
+      "tooltip": "Живой лог",
+      "noLogs": "Нет логов",
       "military": {
-        "upgraded": "upgraded",
-        "military": "military"
+        "upgraded": "улучшено",
+        "military": "военное"
       },
       "tokens": {
-        "islandExploredSuffix": "explored a new island. Earned 1 VP!",
-        "longestTrailSuffix": "got longest road ({}). Earned 2 VP!",
-        "portAuthoritySuffix": "got Port Authority. Earned 2 VP!"
+        "islandExploredSuffix": "исследовал новый остров. Получено 1 VP!",
+        "longestTrailSuffix": "получил самую длинную дорогу ({}). Получено 2 VP!",
+        "portAuthoritySuffix": "получил Портовое Управление. Получено 2 VP!"
       },
       "started": {
-        "prefix": "New",
-        "suffix": "player game started on"
+        "prefix": "Новая",
+        "suffix": "игра для игроков началась в"
       },
       "raid": {
-        "raided": "raided",
-        "freeRaided": "free raided"
+        "raided": "нападение",
+        "freeRaided": "бесплатное нападение"
       },
       "trade": {
-        "traded": "traded",
-        "for": "for"
+        "traded": "обменено",
+        "for": "на"
       },
       "catapult": {
-        "catapult": "catapult",
-        "removed": "spent one military to remove",
-        "allRemoved": "All Catapults have been removed from the board."
+        "catapult": "катапульта",
+        "removed": "потрачена одна военная единица для удаления",
+        "allRemoved": "Все катапульты были удалены с поля."
       },
       "devCards": {
-        "drawn": "drew a development card"
+        "drawn": "вытянута карта развития"
       },
       "resources": {
-        "received": "Received",
-        "discarded": "discarded",
-        "earned": "earned",
-        "aqueductSuffix": "from aqueduct"
+        "received": "Получено",
+        "discarded": "выброшено",
+        "earned": "заработано",
+        "aqueductSuffix": "из акведука"
       },
       "charity": {
-        "charity": "Charity!",
-        "earnedPrefix": "Everyone but",
-        "earnedSuffix": "earned",
-        "everyoneEarned": "Everyone earned"
+        "charity": "Благотворительность!",
+        "earnedPrefix": "Каждый, кроме",
+        "earnedSuffix": "заработал",
+        "everyoneEarned": "Все заработали"
       },
       "barbarian": {
-        "attack": "Barbarian attack",
-        "failed": "The players failed to defend the",
-        "lostCity": "lost a city.",
-        "defended": "successfully defended",
-        "earnedVP": "earned VP with highest military",
-        "earnedCardSuffix": "rewarded a development card."
+        "attack": "Нападение варваров",
+        "failed": "Игроки не смогли защитить",
+        "lostCity": "потеряли город.",
+        "defended": "успешно защитили",
+        "earnedVP": "заработали VP с самой высокой военной мощью",
+        "earnedCardSuffix": "награждены картой развития."
       },
       "culture": {
-        "upgradedPrefix": "upgraded",
-        "upgradedSuffix": "culture"
+        "upgradedPrefix": "улучшили",
+        "upgradedSuffix": "культура"
       },
-      "bonusTime": "received {} turn timer bonus",
-      "gameOver": "Game Over",
-      "you": "You",
-      "your": "Your",
-      "were": "were",
-      "was": "was",
-      "turn": "Turn",
-      "rolled": "rolled",
-      "built": "built a",
+      "bonusTime": "получили бонус времени хода {}",
+      "gameOver": "Игра окончена",
+      "you": "Вы",
+      "your": "Ваш",
+      "were": "были",
+      "was": "был",
+      "turn": "Ход",
+      "rolled": "выбросили",
+      "built": "построили",
       "stole": {
-        "one": "Stole from {} player",
-        "many": "Stole from {} players",
-        "other": "Stole from {} players",
-        "failed": "Couldn't steal resources."
+        "one": "Украли у {} игрока",
+        "many": "Украли у {} игроков",
+        "other": "Украли у {} игроков",
+        "failed": "Не удалось украсть ресурсы."
       }
     },
     "devCards": {
-      "title": "played {} card.",
-      "newDevCard": "New dev card: {}",
+      "title": "сыграл {} карту.",
+      "newDevCard": "Новая карта развития: {}",
       "subtitle": {
         "masterMerchant": {
-          "oneCard": "Took one card from {}",
-          "twoCards": "Took two cards from {}"
+          "oneCard": "Взял одну карту у {}",
+          "twoCards": "Взял две карты у {}"
         },
         "merchant": {
-          "withVP": "on {}, earned 1 VP.",
-          "withoutVP": "on {}."
+          "withVP": "на {}, заработал 1 VP.",
+          "withoutVP": "на {}."
         },
         "merchantFleet": {
-          "oneResource": "Can now trade {} 2:1 this turn",
-          "allResources": "Can now trade {} 2:1"
+          "oneResource": "Теперь может обменивать {} по курсу 2:1 в этом ходу",
+          "allResources": "Теперь может обменивать все ресурсы по курсу 2:1"
         },
-        "commercialHarbor": "Traded 1 resource for 1 commodity",
+        "commercialHarbor": "Обменял 1 ресурс на 1 товар",
         "resourceMonopoly": {
-          "oneWithoutResources": "Stole resources from {}",
-          "moreWithoutResources": "Stole resources from {} players",
-          "failed": "Tried to steal some resources but got nothing",
-          "failedWithResource": "Tried to steal {} but got nothing",
-          "withResourcesAllSame": "Stole {} {} from {}",
-          "withResourcesDifferent": "Stole 2 {} from {} and 1 $resourceName from {}"
+          "oneWithoutResources": "Украл ресурсы у {}",
+          "moreWithoutResources": "Украл ресурсы у {} игроков",
+          "failed": "Попытался украсть ресурсы, но ничего не получил",
+          "failedWithResource": "Попытался украсть {}, но ничего не получил",
+          "withResourcesAllSame": "Украл {} {} у {}",
+          "withResourcesDifferent": "Украл 2 {} у {} и 1 $Наименование источника у {}"
         },
         "commodityMonopoly": {
-          "oneVictim": "Stole commodities from {}",
-          "moreVictims": "Stole commodities from {} players",
-          "failed": "Tried to steal some commodities but got nothing"
+          "oneVictim": "Украл товары у {}",
+          "moreVictims": "Украл товары у {} игроков",
+          "failed": "Попытался украсть товары, но ничего не получил"
         },
-        "expedition": "Converted tile to gold",
-        "famine": "{} discarded random cards",
+        "expedition": "Преобразовал плитку в золото",
+        "famine": "{} выбросил случайные карты",
         "plenty": {
-          "withoutResources": "Got 2 resources",
-          "withResources": "Got 2 resources: {}"
+          "withoutResources": "Получил 2 ресурса",
+          "withResources": "Получил 2 ресурса: {}"
         },
-        "excavation": "Received two clays for each building on a clay tile",
-        "forestry": "Received two wood for each building on a wood tile",
-        "irrigation": "Received two wheat for each building on a wheat tile",
-        "mining": "Received two ore for each building on an ore tile",
-        "borderCollie": "Received two sheep for each building on a sheep tile",
-        "inventor": "Swapped two number tiles",
-        "medicine": "Built a city for 2 ore and 1 wheat",
-        "roadBuilding": "Built two roads/bridges",
-        "military": "Upgraded military",
-        "crane": "Reduced culture upgrade cost",
+        "excavation": "Получил две глины за каждое здание на плитке глины",
+        "forestry": "Получил два дерева за каждое здание на плитке дерева",
+        "irrigation": "Получил две пшеницы за каждое здание на плитке пшеницы",
+        "mining": "Получил две руды за каждое здание на плитке руды",
+        "borderCollie": "Получил две овцы за каждое здание на плитке овцы",
+        "inventor": "Поменял местами две номерные плитки",
+        "medicine": "Построил город за 2 руды и 1 пшеницу",
+        "roadBuilding": "Построил две дороги/мосты",
+        "military": "Улучшил военные",
+        "crane": "Уменьшил стоимость улучшения культуры",
         "siege": {
-          "oneVictim": "Stole resources from {}",
-          "moreVictims": "Stole resources from {} players"
+          "oneVictim": "Украл ресурсы у {}",
+          "moreVictims": "Украл ресурсы у {} игроков"
         },
-        "bishop": "Removed catapult",
-        "deserter": "Stole military from {}",
-        "vandal": "Destroyed {}'s bridge/road",
-        "diplomat": "Moved one trail",
-        "raze": "Destroyed {}'s city",
-        "spy": "Stole dev card from {}",
+        "bishop": "Удалил катапульту",
+        "deserter": "Украл военные у {}",
+        "vandal": "Уничтожил мост/дорогу {}",
+        "diplomat": "Передвинул один путь",
+        "raze": "Уничтожил город {}",
+        "spy": "Украл карту развития у {}",
         "wedding": {
-          "oneVictim": "Stole cards from {}",
-          "moreVictims": "Stole cards from {} players"
+          "oneVictim": "Украл карты у {}",
+          "moreVictims": "Украл карты у {} игроков"
         },
-        "anarchy": "Randomized number tiles",
-        "alchemist": "Chose dice roll numbers",
-        "traitor": "Advanced the barbarians tracker"
+        "anarchy": "Рандомизировал номерные плитки",
+        "alchemist": "Выбрал номера для броска кубиков",
+        "traitor": "Продвинул трекер варваров"
       },
       "masterMerchant": {
-        "title": "Master Merchant",
-        "description": "Pick any player with more victory points, see their hand and pick two resource or commodity cards.",
-        "cannotPlay": "There are no players that have more victory points than you",
+        "title": "Мастер Торговец",
+        "description": "Выберите любого игрока с большим количеством очков победы, посмотрите его руку и выберите две карты ресурсов или товаров.",
+        "cannotPlay": "Нет игроков, у которых больше очков победы, чем у вас",
         "dialog": {
-          "title": "Steal!"
+          "title": "Украсть!"
         }
       },
       "merchant": {
-        "title": "Merchant",
-        "description": "Move the merchant token to your own settlement or city. The player that possesses the merchant may trade that resource 2:1 with the bank. Worth 1 VP.",
+        "title": "Торговец",
+        "description": "Переместите жетон торговца на свою поселение или город. Игрок, у которого есть торговец, может торговать этим ресурсом 2:1 с банком. Стоит 1 ОП.",
         "dialog": {
-          "title": "Place Merchant",
-          "message": "Are you sure you want to place a merchant here?",
-          "yes": "Yup!",
-          "no": "Cancel"
+          "title": "Разместить Торговца",
+          "message": "Вы уверены, что хотите разместить здесь торговца?",
+          "yes": "Да!",
+          "no": "Отмена"
         }
       },
       "merchantFleet": {
-        "title": "Merchant Fleet",
-        "description": "Pick one resource or commodity of your choice to trade with the bank at a 2:1 rate for this turn only."
+        "title": "Торговый Флот",
+        "description": "Выберите один ресурс или товар по своему выбору, чтобы торговать с банком по курсу 2:1 только в этот ход."
       },
       "commercialHarbor": {
-        "title": "Commercial Harbor",
-        "description": "Trade 1 resource for 1 commodity."
+        "title": "Торговый Порт",
+        "description": "Обменять 1 ресурс на 1 товар."
       },
       "resourceMonopoly": {
-        "title": "Resource Monopoly",
-        "description": "Pick a resource. Each player must give you (up to) two of those resources if they have it."
+        "title": "Монополия на Ресурсы",
+        "description": "Выберите ресурс. Каждый игрок должен отдать вам (до) два таких ресурса, если они у него есть."
       },
       "commodityMonopoly": {
-        "title": "Commodity Monopoly",
-        "description": "Pick a commodity. Each player must give you one of that commodity if they have it."
+        "title": "Монополия на Товары",
+        "description": "Выберите товар. Каждый игрок должен отдать вам один такой товар, если он у него есть."
       },
       "expedition": {
-        "title": "Expedition",
-        "description": "Choose any tile on the board and convert it to a gold resource tile.",
+        "title": "Экспедиция",
+        "description": "Выберите любую плитку на доске и преобразуйте ее в плитку золотого ресурса.",
         "dialog": {
-          "title": "Are you sure",
-          "message": "Do you want to turn this tile into gold?",
-          "no": "No",
-          "yes": "Yes"
+          "title": "Вы уверены?",
+          "message": "Вы хотите превратить эту плитку в золото?",
+          "no": "Нет",
+          "          "yes": "Да"
         }
       },
       "famine": {
-        "title": "Famine",
-        "description": "All players with more VPs than you discard 2 random resources.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "Голод",
+        "description": "Все игроки с большим количеством ОП, чем у вас, выбрасывают 2 случайных ресурса.",
+        "cannotPlay": "Нет игроков с большим количеством очков победы, чем у вас."
       },
       "plenty": {
-        "title": "Plenty",
-        "description": "Get two resources of your choice."
+        "title": "Изобилие",
+        "description": "Получите два ресурса на ваш выбор."
       },
       "excavation": {
-        "title": "Excavation",
-        "description": "Receive 2 clay per settlement on each clay tile"
+        "title": "Раскопки",
+        "description": "Получите 2 глины за каждое поселение на каждой плитке глины"
       },
       "forestry": {
-        "title": "Forestry",
-        "description": "Receive 2 wood per settlement on each wood tile"
+        "title": "Лесное Хозяйство",
+        "description": "Получите 2 дерева за каждое поселение на каждой плитке дерева"
       },
       "irrigation": {
-        "title": "Irrigation",
-        "description": "Receive 2 wheat per settlement on each wheat tile"
+        "title": "Орошение",
+        "description": "Получите 2 пшеницы за каждое поселение на каждой плитке пшеницы"
       },
       "mining": {
-        "title": "Mining",
-        "description": "Receive 2 ore per settlement on each ore tile"
+        "title": "Добыча",
+        "description": "Получите 2 руды за каждое поселение на каждой плитке руды"
       },
       "borderCollie": {
-        "title": "Border Collie",
-        "description": "Receive 2 sheep per settlement on each sheep tile"
+        "title": "Пограничный Колли",
+        "description": "Получите 2 овцы за каждое поселение на каждой плитке овцы"
       },
       "inventor": {
-        "title": "Inventor",
-        "description": "Swap two number tiles on the board. Swappable numbers are: 3, 4, 5, 9, 10, and 11.",
-        "tileSelected": "Swap these tiles?",
+        "title": "Изобретатель",
+        "description": "Поменяйте местами две номерные плитки на доске. Меняемые номера: 3, 4, 5, 9, 10 и 11.",
+        "tileSelected": "Поменять эти плитки?",
         "dialog": {
-          "title": "Swap Tiles",
-          "message": "Do you want swap the values of these two tiles?",
-          "yes": "Yes",
-          "no": "Cancel"
+          "title": "Обмен Плиток",
+          "message": "Вы хотите поменять местами значения этих двух плиток?",
+          "yes": "Да",
+          "no": "Отмена"
         }
       },
       "medicine": {
-        "title": "Medicine",
-        "description": "Build a city for 2 ore and 1 wheat.",
-        "cannotAfford": "You need to have at least two ore and one wheat to use this card",
-        "cannotPlace": "There is no where on the board to place a city",
-        "upgradeTitle": "Build {} with {}"
+        "title": "Медицина",
+        "description": "Постройте город за 2 руды и 1 пшеницу.",
+        "cannotAfford": "У вас должно быть хотя бы две руды и одна пшеница, чтобы использовать эту карту",
+        "cannotPlace": "На доске нет места для размещения города",
+        "upgradeTitle": "Постройте {} за {}"
       },
       "roadBuilding": {
-        "title": "Road Building",
-        "description": "Place two roads or two bridges, or one of each, at no cost to you."
+        "title": "Строительство Дорог",
+        "description": "Разместите две дороги или два моста, или одно и другое, без затрат для вас."
       },
       "military": {
-        "title": "Military",
-        "description": "Upgrade your military power by one level.",
-        "cannotPlay": "You are already have the maximum military power."
+        "title": "Военные",
+        "description": "Улучшите свою военную мощь на один уровень.",
+        "cannotPlay": "У вас уже максимальная военная мощь."
       },
       "crane": {
-        "title": "Crane",
-        "description": "After playing this card, your next culture improvement this turn costs one fewer commodity",
-        "cannotPlay": "You cannot play this card because you have no cities or you have a Crane Card already in play."
+        "title": "Кран",
+        "description": "После использования этой карты, ваше следующее улучшение культуры в этот ход стоит на один товар меньше",
+        "cannotPlay": "Вы не можете использовать эту карту, потому что у вас нет городов или у вас уже есть карта Крана в игре."
       },
       "siege": {
-        "title": "Siege",
-        "description": "Carry out a raid but steal one random resource from every player who has a village or city on the raided tile. Does not cost a military point"
+        "title": "Осада",
+        "description": "Проведите рейд, но украдите один случайный ресурс у каждого игрока, у которого есть деревня или город на осажденной плитке. Не требует военной единицы"
       },
       "bishop": {
-        "title": "Bishop",
-        "description": "Remove a catapult from the board.",
-        "cannotPlay": "There are no catapults on the board for you to remove."
+        "title": "Епископ",
+        "description": "Удалите катапульту с доски.",
+        "cannotPlay": "На доске нет катапульт для удаления."
       },
       "deserter": {
-        "title": "Deserter",
-        "description": "Steal one level of military power from a player of your choice.",
-        "cannotPlayMaxedPower": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "cannotPlayBarracks": "You already have max military power.",
-        "cannotPlayEmpty": "No one has any military power; there is nothing to steal"
+        "title": "Дезертир",
+        "description": "Украдите один уровень военной мощи у игрока по вашему выбору.",
+        "cannotPlayMaxedPower": "Ваша военная мощь достигла максимума в 3. Улучшите свою политику до уровня 3, чтобы увеличить максимум.",
+        "cannotPlayBarracks": "У вас уже максимальная военная мощь.",
+        "cannotPlayEmpty": "Ни у кого нет военной мощи; нечего красть"
       },
       "vandal": {
-        "title": "Vandal",
-        "description": "Remove another player's road or bridge of your choosing."
+        "title": "Вандал",
+        "description": "Удалите дорогу или мост другого игрока на ваш выбор."
       },
       "diplomat": {
-        "title": "Diplomat",
-        "description": "Move one of your own roads or bridges to a new location.",
-        "cannotPlay": "You have no trails to move."
+        "title": "Дипломат",
+        "description": "Переместите одну из своих дорог или мостов на новое место.",
+        "cannotPlay": "У вас нет путей для перемещения."
       },
       "raze": {
-        "title": "Raze",
-        "description": "Lose 1 military power and destroy a non walled city of any player with more VPs than you. You must have military power greater than or equal to 1 to play this card.",
-        "cannotPlayNoPlayers": "There are no players with more victory points than you",
-        "cannotPlayNoBuildings": "There are no buildings to destroy",
-        "cannotPlayNoMilitary": "You must have at least one military power to use this card",
+        "title": "Разгром",
+        "description": "Потеряйте 1 военную мощь и уничтожьте незащищенный город любого игрока с большим количеством ОП, чем у вас. У вас должна быть военная мощь не менее 1, чтобы использовать эту карту.",
+        "cannotPlayNoPlayers": "Нет игроков с большим количеством очков победы, чем у вас",
+        "cannotPlayNoBuildings": "Нет зданий для уничтожения",
+        "cannotPlayNoMilitary": "У вас должна быть хотя бы одна военная мощь, чтобы использовать эту карту",
         "dialog": {
-          "title": "Are you sure?",
-          "message": "Do you want to destroy this city?",
-          "yes": "Yes!",
-          "no": "No"
+          "title": "Вы уверены?",
+          "message": "Вы хотите уничтожить этот город?",
+          "yes": "Да!",
+          "no": "Нет"
         }
       },
       "spy": {
-        "title": "Spy",
-        "description": "Pick a player, see their dev cards and choose one to steal.",
-        "cannotPlay": "No other player currently has development cards.",
+        "title": "Шпион",
+        "description": "Выберите игрока, посмотрите его карты развития и выберите одну для кражи.",
+        "cannotPlay": "Ни у одного игрока в данный момент нет карт развития.",
         "dialog": {
-          "title": "Steal!"
+          "title": "Украсть!"
         }
       },
-      "wedding": {
-        "title": "Wedding",
-        "description": "Steal two random cards (resources or commodities) from every player that has more victory points than you.",
-        "cannotPlay": "There are no players with more victory points than you."
+      "wedding":: {
+        "title": "Свадьба",
+        "description": "Украдите две случайные карты (ресурсы или товары) у каждого игрока, у которого больше очков победы, чем у вас.",
+        "cannotPlay": "Нет игроков с большим количеством очков победы, чем у вас."
       },
       "anarchy": {
-        "title": "Anarchy",
-        "description": "Randomize all the number tiles on the board until a 7 is rolled."
+        "title": "Анархия",
+        "description": "Рандомизируйте все номерные плитки на доске до тех пор, пока не выпадет 7."
       },
       "alchemist": {
-        "title": "Alchemist",
-        "description": "Each turn you possess this card, you have the option of choosing the exact numbers on both 6-sided dice or doing a normal random roll.",
-        "cannotPlay": "This development card is only playable at the beginning of the turn."
+        "title": "Алхимик",
+        "description": "Каждый ход, пока у вас есть эта карта, вы можете выбирать точные номера на обоих 6-сторонних кубиках или делать обычный случайный бросок.",
+        "cannotPlay": "Эта карта развития играется только в начале хода."
       },
       "traitor": {
-        "title": "Traitor",
-        "description": "Advance the barbarian 2 spots. Will stop just before an attack."
+        "title": "Предатель",
+        "description": "Продвиньте варваров на 2 клетки. Остановится прямо перед атакой."
       },
       "constitution": {
-        "title": "Constitution",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "Конституция",
+        "description": "1 очко победы. Играется немедленно и не учитывается в максимальном количестве 5 карт развития."
       },
       "printer": {
-        "title": "Printer",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "Печатник",
+        "description": "1 очко победы. Играется немедленно и не учитывается в максимальном количестве 5 карт развития."
       }
     },
     "chat": {
-      "loadingError": "Something went wrong, please try again",
-      "noMessages": "No messages yet",
-      "emptyMsg": "Your message is empty. Please enter some text.",
-      "addMsgHint": "Add message",
-      "yourMsg": "you",
-      "banned": "You are chat restricted until f{}. Please be respectful when chatting to avoid future bans. We want to keep this community fun for everyone!",
+      "loadingError": "Что-то пошло не так, пожалуйста, попробуйте снова",
+      "noMessages": "Сообщений пока нет",
+      "emptyMsg": "Ваше сообщение пусто. Пожалуйста, введите текст.",
+      "addMsgHint": "Добавить сообщение",
+      "yourMsg": "вы",
+      "banned": "Вы ограничены в чате до {}. Пожалуйста, будьте вежливы в общении, чтобы избежать будущих блокировок. Мы хотим, чтобы наше сообщество было веселым для всех!",
       "banConfirmation": {
-        "title": "Ban Player",
-        "message": "Are you sure you want to ban this player from chat? You won't see any messages from them",
-        "yes": "Yes",
-        "no": "No",
-        "failed": "Something went wrong, please try again"
+        "title": "Заблокировать Игрока",
+        "message": "Вы уверены, что хотите заблокировать этого игрока в чате? Вы не увидите никаких сообщений от него",
+        "yes": "Да",
+        "no": "Нет",
+        "failed": "Что-то пошло не так, пожалуйста, попробуйте снова"
       }
     },
     "playerTurnOverlay": {
-      "playerNameSuffix": "'s",
-      "playerTurn": "turn"
+      "playerNameSuffix": "с",
+      "playerTurn": "ход"
     },
     "buildDialog": {
-      "title": "BUILD",
-      "trade": "Trade",
-      "cannotAfford": "You can't afford that!",
-      "structureRequires": "{} requires:",
-      "cannotBuild": "Cannot build {}",
-      "cannotBuildReason": "You have nowhere to put it."
+      "title": "СТРОИТЕЛЬСТВО",
+      "trade": "Торговля",
+      "cannotAfford": "Вы не можете себе этого позволить!",
+      "structureRequires": "{} требует:",
+      "cannotBuild": "Невозможно построить {}",
+      "cannotBuildReason": "У вас нет места для его размещения."
     },
     "trailTypeDialog": {
-      "title": "CHOOSE ONE",
-      "subtitle": "What would you like to build?",
-      "cannotAfford": "You can't afford that!",
-      "trailsRequires": "{} requires:"
+      "title": "ВЫБЕРИТЕ ОДИН",
+      "subtitle": "Что вы хотели бы построить?",
+      "cannotAfford": "Вы не можете себе этого позволить!",
+      "trailsRequires": "{} требует:"
     },
     "devCardsDialog": {
-      "title": "DEV CARDS",
-      "defaultButton": "Play Card",
-      "noCards": "No Development Cards",
-      "cannotPlay": "Can't Play {} Card"
+      "title": "КАРТЫ РАЗВИТИЯ",
+      "defaultButton": "Играть картой",
+      "noCards": "Нет карт развития",
+      "cannotPlay": "Нельзя играть картой {}"
     },
     "playerModalDialog": {
-      "military": "Military",
-      "militaryUpgrade": "Upgrade",
-      "militaryRequires": "Upgrading your military requires",
-      "militaryCannotAfford": "You can't afford that!",
-      "raid": "Raid",
-      "culture": "Culture",
-      "cultureUpgrade": "Upgrade",
-      "devCards": "Dev Cards",
-      "devCardsPlay": "Play",
-      "build": "Build",
-      "trade": "Trade",
+      "military": "Военные",
+      "militaryUpgrade": "Улучшение",
+      "militaryRequires": "Улучшение ваших военных требует",
+      "militaryCannotAfford": "Вы не можете себе этого позволить!",
+      "raid": "Рейд",
+      "culture": "Культура",
+      "cultureUpgrade": "Улучшение",
+      "devCards": "Карты Развития",
+      "devCardsPlay": "Играть",
+      "build": "Строить",
+      "trade": "Торговать",
       "raidError": {
-        "title": "Unable to raid",
-        "message": "You cannot raid right now"
+        "title": "Невозможно провести рейд",
+        "message": "Сейчас вы не можете провести рейд"
       },
       "points": {
-        "victoryPoints": "Victory Points",
-        "longestRoute": "Longest Route",
-        "military": "Military",
-        "islands": "Islands Explored",
-        "devCards": "Dev Cards",
-        "merchant": "Merchant Tokens",
-        "ports": "Port Authority"
+        "victoryPoints": "Очки победы",
+        "longestRoute": "Самый длинный маршрут",
+        "military": "Военные",
+        "islands": "Исследованные острова",
+        "devCards": "Карты развития",
+        "merchant": "Жетоны торговца",
+        "ports": "Портовая власть"
       }
     },
     "safeRollDialog": {
-      "title": "SAFE ROLL?",
-      "message": "You're at risk of discarding half of your hand!",
-      "riskyRoll": "Risky Roll",
-      "safeRoll": "Safe Roll"
+      "title": "БЕЗОПАСНЫЙ БРОСОК?",
+      "message": "Вы рискуете выбросить половину своих карт!",
+      "riskyRoll": "Рискованный Бросок",
+      "safeRoll": "Безопасный Бросок"
     },
     "safeTokens": {
-      "title": "BUY SAFE TOKENS"
+      "title": "КУПИТЬ БЕЗОПАСНЫЕ ЖЕТОНЫ"
     },
     "rollType": {
-      "description": "Roll dice or use your Alchemist card to choose your numbers",
-      "alchemist": "Use Alchemist",
-      "random": "Random Roll"
+      "description": "Бросить кубики или использовать карту Алхимика, чтобы выбрать свои номера",
+      "alchemist": "Использовать Алхимика",
+      "random": "Случайный бросок"
     },
     "gameOver": {
-      "title": "Game Over",
-      "stats": "Stats",
-      "home": "Home",
-      "linkCopied": "Game link copied to clipboard",
-      "goGold": "GO GOLD!",
-      "rematch": "Rematch",
-      "favoriteMap": "Favorite Map",
-      "unfavoriteMap": "Unfavorite Map",
-      "won": "{} \nwon!",
-      "upgradeToSee": "Upgrade to see \n 12 more stats!"
+      "title": "Игра окончена",
+      "stats": "Статистика",
+      "home": "Домой",
+      "linkCopied": "Ссылка на игру скопирована в буфер обмена",
+      "goGold": "ЗОЛОТО!",
+      "rematch": "Реванш",
+      "favoriteMap": "Любимая карта",
+      "unfavoriteMap": "Не любимая карта",
+      "won": "{} \nпобедил!",
+      "upgradeToSee": "Улучшите, чтобы увидеть \n еще 12 статистик!"
     },
     "players": {
-      "resourceCards": "Resource Cards",
-      "devCards": "Development Cards",
-      "military": "Military Points",
-      "scienceLevel": "Science Level",
-      "commerceLevel": "Commerce Level",
-      "politicsLevel": "Politics Level",
-      "merchant": "Merchant Token",
-      "portPoints": "Port Points",
-      "longestRoad": "Longest Road",
-      "victoryPoints": "Victory Points"
+      "resourceCards": "Карты ресурсов",
+      "devCards": "Карты развития",
+      "military": "Военные Очки",
+      "scienceLevel": "Уровень науки",
+      "commerceLevel": "Уровень торговли",
+      "politicsLevel": "Уровень политики",
+      "merchant": "Жетон торговца",
+      "portPoints": "Портовые очки",
+      "longestRoad": "Самая длинная дорога",
+      "victoryPoints": "Очки победы"
     },
     "rematch": {
       "canceled": {
-        "title": "REMATCH",
-        "close": "Close",
-        "declined": "Rematch declined"
+        "title": "РЕВАНШ",
+        "close": "Закрыть",
+        "declined": "Реванш отклонен"
       },
       "ready": {
-        "title": "GET READY!",
-        "cancel": "CANCEL"
+        "title": "ПРИГОТОВЬТЕСЬ!",
+        "cancel": "ОТМЕНА"
       },
       "request": {
-        "title": "Rematch Requested",
-        "yes": "Yes",
-        "no": "No"
+        "title": "Запрос на реванш",
+        "yes": "Да",
+        "no": "Нет"
       },
       "reject": {
-        "title": "Reject Rematch?",
-        "message": "re you sure you want to reject this game?",
-        "yes": "Reject"
+        "title": "Отклонить реванш?",
+        "message": "Вы уверены, что хотите отклонить эту игру?",
+        "yes": "Отклонить"
       }
     },
     "replay": {
-      "turnNumber": "Turn {} of {}",
-      "replayLast": "Replay last",
+      "turnNumber": "Ход {} из {}",
+      "replayLast": "Повторить последний",
       "turn": {
-        "one": "turn",
-        "many": "turns",
-        "other": "turns"
+        "one": "ход",
+        "many": "ходы",
+        "other": "ходов"
       },
       "purchase": {
-        "title": "REPLAYS",
-        "description": "Replays allow you to rewatch all turns to see what happened since your last turn…or replay the whole game when it’s over!  Want to unlock full replays?",
-        "no": "No thanks",
-        "yes": "Go Gold"
+        "title": "ПОВТОРЫ",
+        "description": "Повторы позволяют пересмотреть все ходы, чтобы узнать, что произошло с вашего последнего хода... или пересмотреть всю игру после ее окончания! Хотите разблокировать полные повторы?",
+        "no": "Нет, спасибо",
+        "yes": "Стать Золотым"
       }
     },
     "swipeableDevCardDialog": {
-      "close": "Close",
-      "play": "Play Card",
-      "cannotPlay": "Can't play {}",
-      "wrongTurn": "It's not your turn"
+      "close": "Закрыть",
+      "play": "Играть картой",
+      "cannotPlay": "Нельзя играть картой {}",
+      "wrongTurn": "Сейчас не ваш ход"
     },
     "actions": {
       "raid": {
-        "tileSelected": "Raid this tile?",
-        "removeCatapult": "Remove this catapult?"
+        "tileSelected": "Напасть на эту плитку?",
+        "removeCatapult": "Удалить эту катапульту?"
       },
       "metro": {
-        "placeIt": "Metro! Select any of your cities to place it."
+        "placeIt": "Метро! Выберите любой из ваших городов, чтобы разместить его."
       },
       "chooseTile": {
-        "bishop": "Choose catapult to remove",
-        "expedition": "Choose tile to convert to gold",
-        "inventor": "Choose two tiles to swap numbers",
-        "merchant": "Place your merchant token",
-        "siege": "Choose tile to siege",
-        "raid": "Choose tile to raid"
+        "bishop": "Выберите катапульту для удаления",
+        "expedition": "Выберите плитку для преобразования в золото",
+        "inventor": "Выберите две плитки для обмена номерами",
+        "merchant": "Разместите ваш жетон торговца",
+        "siege": "Выберите плитку для осады",
+        "raid": "Выберите плитку для нападения"
       },
       "chooseRoads": {
-        "placeRoad": "Place road or bridge",
-        "place2Roads": "Place 2 roads or bridges",
-        "selectRoad": "Select a road or bridge",
-        "selectEnemyRoad": "Select an enemy road or bridge",
-        "confirm": "Build {}?"
+        "placeRoad": "Разместить дорогу или мост",
+        "place2Roads": "Разместить 2 дороги или мосты",
+        "selectRoad": "Выберите дорогу или мост",
+        "selectEnemyRoad": "Выберите дорогу или мост противника",
+        "confirm": "Построить {}?"
       },
       "chooseCorner": {
-        "selectEnemyCity": "Select an enemy city",
-        "placeVillage": "Place your village",
-        "placeCity": "Place your city",
-        "confirmVillage": "Build a village?",
-        "confirmCity": "Build a city?",
-        "confirmCityWall": "Build a city wall?",
-        "confirmMetro": "Build a metro?"
+        "selectEnemyCity": "Выберите город противника",
+        "placeVillage": "Разместите вашу деревню",
+        "placeCity": "Разместите ваш город",
+        "confirmVillage": "Построить деревню?",
+        "confirmCity": "Построить город?",
+        "confirmCityWall": "Построить стену города?",
+        "confirmMetro": "Построить метро?"
       },
-      "roll": "Roll the Dice"
+      "roll": "Бросить Кубики"
     },
     "menu": {
-      "gameActions": "GAME ACTIONS",
-      "info": "INFO",
-      "turnReplay": "Turn Replays",
-      "rollFirst": "Please roll dice first.",
-      "surrender": "Surrender",
+      "gameActions": "ИГРОВЫЕ ДЕЙСТВИЯ",
+      "info": "ИНФО",
+      "turnReplay": "Повторы Хода",
+      "rollFirst": "Пожалуйста, сначала бросьте кубики.",
+      "surrender": "Сдаться",
       "surrenderDialog": {
-        "title": "Surrender",
-        "message": "Are you sure you want to surrender?\nThere is no penalty for admitting defeat.",
-        "yes": "Surrender",
-        "no": "Cancel"
+        "title": "Сдаться",
+        "message": "Вы уверены, что хотите сдаться?\nЗа признание поражения нет наказания.",
+        "yes": "Сдаться",
+        "no": "Отмена"
       },
-      "share": "Share",
+      "share": "Поделиться",
       "reportBug": {
-        "title": "Report Bug",
-        "thanks": "Thanks!",
-        "message": "Thank you for sharing your feedback with us!"
+        "title": "Сообщить о Проблеме",
+        "thanks": "Спасибо!",
+        "message": "Спасибо за ваш отзыв!"
       },
-      "settings": "Settings",
-      "prodChart": "Prod Chart",
-      "devCards": "Dev Cards",
-      "rules": "Rules",
-      "cancel": "Cancel"
+      "settings": "Настройки",
+      "prodChart": "Таблица Производства",
+      "devCards": "Карты Развития",
+      "rules": "Правила",
+      "cancel": "Отмена"
     },
     "settings": {
-      "title": "SETTINGS",
-      "sound": "Sound",
-      "music": "Music",
-      "mapHints": "Map Hints",
-      "chatNotifications": "Chat Notifications",
-      "turnNotifications": "Turn Notifications",
-      "autoJump": "Auto jump to next game",
-      "showReplays": "Show Replays",
-      "autoRoll": "Auto-Roll Dice"
+      "title": "НАСТРОЙКИ",
+      "sound": "Звук",
+      "music": "Музыка",
+      "mapHints": "Подсказки карты",
+      "chatNotifications": "Уведомления чата",
+      "turnNotifications": "Уведомления Хода",
+      "autoJump": "Автоматический переход к следующей игре",
+      "showReplays": "Показывать повторы",
+      "autoRoll": "Автоматический бросок кубиков"
     },
     "playerControls": {
-      "military": "Military",
-      "science": "Science",
-      "commerce": "Commerce",
-      "politics": "Politics"
+      "military": "Военные",
+      "science": "Наука",
+      "commerce": "Торговля",
+      "politics": "Политика"
     },
     "pickPlayer": {
-      "title": "PICK PLAYER",
-      "noPlayers": "No players to steal from.\nAll players have zero resources.",
-      "button": "Select"
+      "title": "ВЫБРАТЬ ИГРОКА",
+      "noPlayers": "Нет игроков для кражи.\nУ всех игроков нулевые ресурсы.",
+      "button": "Выбрать"
     },
     "barbarianDialogs": {
-      "basic": "Barbarians",
-      "barbarianLead": "Barbarians Lead",
-      "playerLead": "Player Lead",
-      "defense": "Total defense",
-      "barbarianStrength": "Barbarian Strength",
-      "attackPossibleIn": "Attack possible in {} Turns",
-      "leaderboard": "Leaderboard",
+      "basic": "Варвары",
+      "barbarianLead": "Варвары ведут",
+      "playerLead": "Игрок ведет",
+      "defense": "Общая защита",
+      "barbarianStrength": "Сила варваров",
+      "      "attackPossibleIn": "Атака возможна через {} ходов",
+      "leaderboard": "Таблица лидеров",
       "defeat": {
-        "title": "Defeat",
-        "playersAffected": "{} players",
-        "leastMilitary": "Least Military",
+        "title": "Поражение",
+        "playersAffected": "{} игроков",
+        "leastMilitary": "Наименьшая военная мощь",
         "lostCity": {
-          "one": "Lost a city",
-          "many": "Each lost a city",
-          "other": "Each lost a city"
+          "one": "Потерян город",
+          "many": "Каждый потерял город",
+          "other": "Каждый потерял город"
         }
       },
-      "upgradeMilitary": "Upgrade Military",
-      "result": "BARBARIANS ATTACK",
+      "upgradeMilitary": "Улучшить Военные",
+      "result": "АТАКА ВАРВАРОВ",
       "won": {
-        "title": "Defended",
-        "playersAffected": "{} players",
-        "mostMilitary": "Most Military",
+        "title": "Отражена",
+        "playersAffected": "{} игроков",
+        "mostMilitary": "Наибольшая военная мощь",
         "prize": {
-          "one": "+1 VP",
-          "many": "+1 Dev Card each",
-          "other": "+1 Dev Card each"
+          "one": "+1 ОП",
+          "many": "Каждому +1 карта развития",
+          "other": "Каждому +1 карта развития"
         }
       },
-      "dataNotAvailable": "Data not available"
+      "dataNotAvailable": "Данные недоступны"
     },
     "stats": {
-      "victoryPoints": "Victory Points",
-      "villages": "Villages",
-      "cities": "Cities",
-      "roadsBridges": "Roads/Bridges",
-      "military": "Military",
-      "metros": "Metros",
-      "self7Rolls": "Self 7 Rolls",
-      "discards": "Discards",
-      "devCards": "Dev Cards",
-      "raids": "Raids",
-      "raided": "Raided",
-      "trades": "Trades",
-      "wheat": "Wheat",
-      "ore": "Ore",
-      "brick": "Brick",
-      "wood": "Wood",
-      "sheep": "Sheep",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin"
+      "victoryPoints": "Очки Победы",
+      "villages": "Деревни",
+      "cities": "Города",
+      "roadsBridges": "Дороги/Мосты",
+      "military": "Военные",
+      "metros": "Метро",
+      "self7Rolls": "Свои Броски 7",
+      "discards": "Выбросы",
+      "devCards": "Карты Развития",
+      "raids": "Рейды",
+      "raided": "Подверглись Рейду",
+      "trades": "Торговля",
+      "wheat": "Пшеница",
+      "ore": "Руда",
+      "brick": "Кирпич",
+      "wood": "Дерево",
+      "sheep": "Овцы",
+      "paper": "Бумага",
+      "cloth": "Ткань",
+      "coin": "Монета"
     },
     "metroEarned": {
-      "title": "Metro!",
-      "msg": "Congratulations, you've earned a metro. Tap on any city to place it.",
-      "ok": "Ok!"
+      "title": "Метро!",
+      "msg": "Поздравляем, вы заработали метро. Нажмите на любой город, чтобы разместить его.",
+      "ok": "ОК!"
     },
     "merchant": {
-      "title": "Merchant Token",
-      "msg": "The player who controls the merchant token may trade this resource 2:1."
+      "title": "Жетон Торговца",
+      "msg": "Игрок, контролирующий жетон торговца, может торговать этим ресурсом 2:1."
     },
     "harbor": {
-      "title": "Harbor",
-      "tradeAmount2": "2 {} resources",
-      "tradeAmount3": "3 resources of a single type",
-      "description": "Trade $tradeAmount for 1\n other resource or commodity."
+      "title": "Порт",
+      "tradeAmount2": "2 {} ресурса",
+      "tradeAmount3": "3 ресурса одного типа",
+      "description": "Обменять $tradeAmount на 1\n другой ресурс или товар."
     },
     "bottomBar": {
-      "confirmAction": "Yes",
-      "cancelAction": "No"
+      "confirmAction": "Да",
+      "cancelAction": "Нет"
     },
     "culture": {
-      "title": "CULTURE",
-      "upgrade": "Upgrade"
+      "title": "КУЛЬТУРА",
+      "upgrade": "Улучшение"
     },
     "cultureUpgrade": {
-      "close": "Close",
-      "achieved": "ACHIEVED!",
-      "upgrade": "Upgrade {}",
-      "cannotUpgrade": "Cannot upgrade",
-      "noCity": "You must have an open city with no metropolis to upgrade your culture to level 4 or 5."
+      "close": "Закрыть",
+      "achieved": "ДОСТИГНУТО!",
+      "upgrade": "Улучшить {}",
+      "cannotUpgrade": "Невозможно улучшить",
+      "noCity": "Для улучшения вашей культуры до уровня 4 или 5 нужен свободный город без метрополии."
     },
     "devCardsInfo": {
-      "title": "DEV CARDS"
+      "title": "КАРТЫ РАЗВИТИЯ"
     },
     "diceRolls": {
-      "title": "DICE ROLLS",
-      "history": "Roll History:"
+      "title": "БРОСКИ КУБИКОВ",
+      "history": "История Бросков:"
     },
     "devDiscard": {
-      "title": "Discard",
-      "description": "You may only keep {} cards. Choose {} below to discard.",
+      "title": "Выброс",
+      "description": "Вы можете держать только {} карт. Выберите {} ниже для выброса.",
       "cardsDiscarded": {
-        "one": "a card",
-        "many": "{} cards",
-        "other": "{} cards"
+        "one": "одну карту",
+        "many": "{} карт",
+        "other": "{} карт"
       }
     },
     "feedback": {
-      "title": "Feedback",
-      "send": "Send",
-      "label": "Bug find or brilliant idea?",
-      "placeholder": "We love to hear from our users!",
-      "emptyError": "Please enter some feedback"
+      "title": "Обратная связь",
+      "send": "Отправить",
+      "label": "Найденная ошибка или блестящая идея?",
+      "placeholder": "Нам нравится получать отзывы от наших пользователей!",
+      "emptyError": "Пожалуйста, введите отзыв"
     },
     "freeRaid": {
-      "title": "Free Raid",
-      "description": "Last place 7 roll awards you a free raid. Place your catapult to steal a resource from an opponent. ",
-      "button": "Raid"
+      "title": "Бесплатный Рейд",
+      "description": "Последний бросок 7 на последнем месте дает вам бесплатный рейд. Разместите вашу катапульту, чтобы украсть ресурс у противника.",
+      "button": "Напасть"
     },
     "military": {
-      "title": "MILITARY",
-      "maxPart1": "Max military: ",
-      "maxPart2": "3 (Barracks increases to 6)",
-      "raid": "Raid",
-      "raidUnable": "Unable to raid",
-      "cannotRaid": "You can't afford to raid",
-      "raid-1": "Raid   -1",
-      "militaryPower": "Your Military Power",
-      "vs": "vs",
-      "barbarianStrength": "Barbarian Strength",
-      "totalDefense": "Total Defense",
+      "title": "ВОЕННЫЕ",
+      "maxPart1": "Макс. военная мощь: ",
+      "maxPart2": "3 (Казармы увеличивают до 6)",
+      "raid": "Рейд",
+      "raidUnable": "Невозможно напасть",
+      "cannotRaid": "Вы не можете позволить себе напасть",
+      "raid-1": "Рейд   -1",
+      "militaryPower": "Ваша военная мощь",
+      "vs": "против",
+      "barbarianStrength": "Сила варваров",
+      "totalDefense": "Общая Защита",
       "upgrade": {
-        "title": "Upgrade",
-        "cannotAfford": "You cannot afford it!",
-        "upgradeRequires": "Upgrading your military requires",
-        "maxPower": "Max Military Power",
-        "maxPowerDesc": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "maxPowerBarracks": "Max Military Power",
-        "maxPowerBarracksDesc": "Your military has reached its max power of 6. Launch raids to use your military."
+        "title": "Улучшение",
+        "cannotAfford": "Вы не можете себе этого позволить!",
+        "upgradeRequires": "Для улучшения вашей военной мощи требуется",
+        "maxPower": "Макс. военная мощь",
+        "maxPowerDesc": "Ваша военная мощь достигла максимума в 3. Улучшите вашу политику до уровня 3, чтобы увеличить максимум.",
+        "maxPowerBarracks": "Макс. военная мощь",
+        "maxPowerBarracksDesc": "Ваша военная мощь достигла максимума в 6. Проведите рейды, чтобы использовать вашу военную мощь."
       }
     },
     "newIsland": {
-      "title": "ISLAND EXPLORED!",
-      "description": "You´ve explored a new island!",
-      "prize": "+1 Victory Point",
-      "button": "OK"
+      "title": "ОСТРОВ ИССЛЕДОВАН!",
+      "description": "Вы исследовали новый остров!",
+      "prize": "+1 Очко Победы",
+      "button": "ОК"
     },
     "prodChart": {
-      "title": "PRODUCTION CHART",
-      "village": "Village",
-      "city": "City"
-    },
+      "title": "ТАБЛИЦА ПРОИЗВОДСТВА",
+      "village": "Деревня",
+      "city": "Город"
+0020ц},
     "selectCard": {
-      "button": "Confirm",
-      "choose": "Choose {}"
+      "button": "Подтвердить",
+      "choose": "Выберите {}"
     },
     "trade": {
-      "title": "TRADE",
-      "give": "GIVE",
-      "receive": "RECEIVE",
-      "resourcesLabel": "Your resources:",
-      "emptyTrade": "Nothing to trade"
+      "title": "ТОРГОВЛЯ",
+      "give": "ОТДАТЬ",
+      "receive": "ПОЛУЧИТЬ",
+      "resourcesLabel": "Ваши ресурсы:",
+      "emptyTrade": "Нечего торговать"
     },
     "tradeToBuild": {
-      "title": "TRADE TO BUILD",
-      "build": "Build {}",
-      "missing": "Missing",
-      "resourcesLabel": "Your resources",
-      "and": "and"
+      "title": "ТОРГОВЛЯ ДЛЯ СТРОИТЕЛЬСТВА",
+      "build": "Построить {}",
+      "missing": "Не хватает",
+      "resourcesLabel": "Ваши ресурсы",
+      "and": "и"
     },
     "endTurn": {
-      "nextGame": "Next game",
-      "wait": "Wait",
-      "end": "End",
-      "turn": "Turn",
-      "endTurn": "End Turn",
-      "nothingToDo": "Looks like there’s nothing left to do.",
-      "endTurnConfirm": "End Turn?",
-      "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
-      "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "nextGame": "Следующая игра",
+      "wait": "Подождите",
+      "end": "Закончить",
+      "turn": "Ход",
+      "endTurn": "Закончить ход",
+      "nothingToDo": "Похоже, больше нечего делать.",
+      "endTurnConfirm": "Закончить ход?",
+      "canUpgrade": "Вы уверены, что хотите закончить ход? Вы можете улучшить свою культуру без торговли!",
+      "lotOfResources": "Вы уверены, что хотите закончить свой ход? У вас много неиспользованных ресурсов.",
+      "cancel": "Отменить"
     },
     "errors": {
-      "cannotFindGame": "We can't find the game, please try again",
-      "timeExpired": "Time Expired",
-      "timeExpiredMsg": "You have run out of time and been removed from the game."
+      "cannotFindGame": "Мы не можем найти игру, пожалуйста, попробуйте снова",
+      "timeExpired": "Время Истекло",
+      "timeExpiredMsg": "Время истекло, и вы были удалены из игры."
     }
   },
 
   "tutorial": {
-    "viewProductChart": "View Product Chart Table",
-    "continue": "Tap to continue",
+    "viewProductChart": "Посмотреть таблицу производства",
+    "continue": "Нажмите для продолжения",
     "learningMode": {
-      "title": "Learning Mode",
-      "description": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire. Let's try it out in this game. Your goal is to achieve 15 Victory Points!'"
+      "title": "Режим обучения",
+      "description": "Цель игры Landover - набрать очки победы, строя поселения и расширяя свою империю. Давайте попробуем это в этой игре. Ваша цель - достичь 15 очков победы!'"
     },
     "firstVillage": {
-      "title": "First Village",
-      "description": "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep."
+      "title": "Первая деревня",
+      "description": "Разместите вашу деревню на высокоценном углу ниже. Они указаны красным. Попробуйте выбрать тот, где есть 3 различных типа ресурсов. Всегда хорошо начинать с пшеницы, глины, дерева или овец."
     },
     "firstRoad": {
-      "title": "First Road",
-      "description": "Now place a road from your village towards another good corner."
+      "title": "Первая дорога",
+      "description": "Теперь разместите дорогу от вашей деревни к другому хорошему углу."
     },
     "firstCity": {
-      "title": "First City",
-      "description": "Place your city on another high value corner below. Whatever resources you didn't get with your village, try and get those with your city. Remember cities and villages must always be separated by at least one empty corner."
+      "title": "Первый город",
+      "description": "Разместите ваш город на другом высокоценном углу ниже. Какие бы ресурсы вы не получили с вашей деревни, попробуйте получить их с вашим городом. Помните, города и деревни всегда должны быть разделены хотя бы одним пустым углом."
     },
     "secondRoad": {
-      "title": "Second Road",
-      "description": "And again place a road from your city towards another good corner."
+      "title": "Вторая дорога",
+      "description": "И снова разместите дорогу от вашего города к другому хорошему углу."
     },
     "rollTime": {
-      "title": "Time to Roll",
-      "description": "'Now that you have placed your initial settlements, it's time to roll the dice and start collecting resources. Keep rolling until you have enough resources to build some more stuff."
+      "title": "Время бросать кубики",
+      "description": "Теперь, когда вы разместили свои начальные поселения, пришло время бросить кубики и начать собирать ресурсы. Продолжайте бросать, пока у вас не будет достаточно ресурсов для строительства чего-то еще."
     },
     "moreRoads": {
-      "title": "Build more Roads",
-      "description": "It looks like you have enough resources to build more roads. Go ahead and build more roads further from your settlements."
+      "title": "Постройте больше дорог",
+      "description": "Похоже, у вас достаточно ресурсов, чтобы построить больше дорог. Постройте больше дорог дальше от ваших поселений."
     },
     "anotherVillage": {
-      "title": "Build another Village",
-      "description": "'You now have enough resources to build a village and there is an open spot waiting for you. Go ahead and build another village to expand your empire and collect more resources each turn."
+      "title": "Постройте еще одну деревню",
+      "description": "У вас теперь достаточно ресурсов, чтобы построить деревню, и для вас ждет свободное место. Постройте еще одну деревню, чтобы расширить свою империю и собирать больше ресурсов каждый ход."
     },
     "productionChart": {
-      "title": "Production Chart",
-      "description": "Below is how many resources villages and cities produce: "
+      "title": "Таблица производства",
+      "description": "Ниже указано, сколько ресурсов производят деревни и города: "
     },
     "trading": {
-      "title": "Trading",
-      "description": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability."
+      "title": "Торговля",
+      "      "description": "Банк Landover позволяет вам торговать любым ресурсом или товаром 3 за 1. Похоже, вы можете улучшить вашу деревню до города, но для этого требуется обмен. Попробуйте построить город, и вы должны увидеть запрос на Торговлю для cтроительства. Если вы хотите более экономичную торговлю, попробуйте построить деревню на порту, который дает вам возможность торговать 2 за 1."
     },
     "culture": {
-      "title": "Culture",
-      "description": "Now that you have a commodity, go ahead and open up the culture modal and upgrade. Upgrading culture will give you the potential of earning valuable dev cards, unlocking new abilities, or eventually earning metros which are worth additional VPs."
+      "title": "Культура",
+      "description": "Теперь, когда у вас есть товар, откройте модальное окно культуры и улучшите его. Улучшение культуры даст вам возможность получать ценные карты развития, открывать новые возможности или в конечном итоге заработать метро, которые стоят дополнительных очков победы."
     },
     "cities": {
-      "title": "Cities",
-      "description": "Go ahead and choose a village you'd like to upgrade to a city. It costs 3 ore and 2 wheat but will double the production of your village!"
+      "title": "Города",
+      "description": "Выберите деревню, которую вы хотели бы улучшить до города. Это стоит 3 руды и 2 пшеницы, но удвоит производство вашей деревни!"
     },
     "military": {
-      "title": "Military",
-      "description": "Now that your economy is moving along, it's time to build some military to ward off barbarian attacks. You need one military power for each city when barbarians attack to avoid losing a city. The barbarian tracker is top right and shows how many rolls until they attack. Go ahead…"
+      "title": "Военные",
+      "description": "Теперь, когда ваша экономика набирает обороты, пришло время построить военные, чтобы отразить атаки варваров. Вам нужна одна военная единица для каждого города, когда варвары атакуют, чтобы не потерять город. Счетчик варваров находится в верхнем правом углу и показывает, сколько ходов до их атаки. Давайте..."
     },
     "barbarians": {
-      "title": "Barbarians",
-      "description": "Barbarians are on their way. The shield top right shows if you are safe or not. If it's red, you need more military. If it's green, then you are safe. Each time they attack you'll lose 1 military power so be sure to keep adding more military over time."
+      "title": "Варвары",
+      "description": "Варвары приближаются. Щит в верхнем правом углу показывает, безопасны вы или нет. Если он красный, вам нужны больше военные. Если зеленый, тогда вы в безопасности. Каждый раз, когда они атакуют, вы теряете 1 военную мощь, поэтому не забывайте постоянно увеличивать свои военные."
     },
     "metros": {
-      "title": "Metros",
-      "description": "Be sure to keep upgrading your culture with your commodity cards. Once you reach level 4 you'll receive a metro worth +2VP. Metros are immune from barbarian attacks and can't be razed by other players."
+      "title": "Метро",
+      "description": "Не забывайте улучшать свою культуру с помощью ваших карт товаров. Как только вы достигнете уровня 4, вы получите метро стоимостью +2 VP. Метро защищены от атак варваров и не могут быть разрушены другими игроками."
     },
     "spendResources": {
-      "title": "Spend Your Resources",
-      "description": "You currently are at risk of discarding half your cards if a 7 is rolled! Be sure to spend your resources or build city walls to increase your hand size. City walls cost 2 clay and can be built on any cities. "
+      "title": "Тратить Ресурсы",
+      "description": "В настоящее время вы рискуете потерять половину своих карт, если выпадет 7! Обязательно тратите свои ресурсы или стройте городские стены, чтобы увеличить размер вашей руки. Стены города стоят 2 глины и могут быть построены на любых городах."
     },
     "goodLuck": {
-      "title": "Good Luck!",
-      "description": "It looks like you are well on your way to 15 VPs. Keep expanding, building villages, upgrading to cities, leveling up your military, and building metros. If you have questions, join us on discord. Try some games against the bots, and when you're ready, challenge your friends!"
+      "title": "Удачи!",
+      "description": "Похоже, вы на пути к 15 VP. Продолжайте расширяться, строить деревни, улучшать города, повышать уровень военных и строить метро. Если у вас возникнут вопросы, присоединяйтесь к нам в Discord. Попробуйте сыграть несколько игр против ботов, а когда будете готовы, бросьте вызов своим друзьям!"
     },
     "end": {
-      "title": "Congratulations",
-      "description": "You have just reached 15 VPs and have won the game! Hopefully you had some fun along the way. We highly recommend you try a solo game against one bot."
+      "title": "Поздравляем",
+      "description": "Вы только что достигли 15 VP и выиграли игру! Надеемся, вам было весело по пути. Мы настоятельно рекомендуем вам попробовать одиночную игру против одного бота."
     }
   },
   "subscription": {
     "cancel": {
-      "title": "Cancel Subscription",
-      "message": "Sorry to see you are not happy with your subscription. Can you please take a moment to leave some feedback for us in our Discord channel first? We're always trying to improve the app!",
-      "feedbackButton": "Leave Feedback",
-      "cancelButton": "Cancel Subscription"
+      "title": "Отмена подписки",
+      "message": "Жаль, что вам не понравилась подписка. Не могли бы вы уделить минутку, чтобы оставить нам отзыв на нашем канале Discord? Мы всегда стараемся улучшить приложение!",
+      "feedbackButton": "Оставить отзыв",
+      "cancelButton": "Отменить подписку"
     }
   },
   "discord": {
-    "title": "JOIN THE COMMUNITY!",
-    "msg1": "Woah, you're building some momentum!",
-    "msg2": "Want to meet other Landover players, find games, learn about new features and talk directly with our dev team?",
-    "button": "Join Discord"
+    "title": "ПРИСОЕДИНИТЕСЬ К СООБЩЕСТВУ!",
+    "msg1": "Ого, вы набираете обороты!",
+    "msg2": "Хотите встретить других игроков Landover, найти игры, узнать о новых функциях и поговорить напрямую с нашей командой разработчиков?",
+    "button": "Присоединиться к Discord"
   },
   "itp": {
-    "titleLetsPlay": "LET'S PLAY",
-    "titleSuccess": "GREAT!",
-    "message": "Looks like you need some games. We have players ready and waiting!",
+    "titleLetsPlay": "ДАВАЙТЕ ИГРАТЬ",
+    "titleSuccess": "ЗДОРОВО!",
+    "message": "Похоже, вам нужны игры. У нас есть игроки, готовые и ждущие!",
     "messageSuccess": {
-      "one": "You are now in {} game!",
-      "many": "You are now in {} games!",
-      "other": "You are now in {} games!"
+      "one": "Теперь вы в {} игре!",
+      "many": "Теперь вы в {} играх!",
+      "other": "Теперь вы в {} играх!"
     },
-    "myGames": "Go to My Games",
+    "myGames": "Перейти в мои игры",
     "startGames": {
-      "one": "Start {} Game",
-      "many": "Start {} Games",
-      "other": "Start {} Games"
+      "one": "Начать {} игру",
+      "many": "Начать {} игры",
+      "other": "Начать {} игры"
     },
-    "footerMessage": "No pressure! We'll just ping you when it's your turn to move.",
-    "error": "We were unable to join you to the selected games"
+    "footerMessage": "Без давления! Мы просто сообщим вам, когда наступит ваш ход.",
+    "error": "Мы не смогли подключить вас к выбранным играм"
   },
   "ongoingGame": {
     "inLobby": {
-      "title": "LIVE GAME LOBBY",
-      "leaveBtn": "Leave",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game lobby!",
-      "bottomMsg2": "Please leave or rejoin the game lobby so you’re ready to go once the game starts."
+      "title": "ЛОББИ АКТИВНОЙ ИГРЫ",
+      "leaveBtn": "Покинуть",
+      "rejoinBtn": "Присоединиться снова",
+      "bottomMsg1": "Вы находитесь в лобби активной игры!",
+      "bottomMsg2": "Пожалуйста, покиньте или присоединитесь к лобби игры, чтобы быть готовыми к началу игры."
     },
     "inGame": {
-      "title": "LIVE GAME",
-      "leaveBtn": "Surrender",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game!",
-      "bottomMsg2": "Please surrender or rejoin this game so other\nplayers don’t wait on you."
+      "title": "АКТИВНАЯ ИГРА",
+      "leaveBtn": "Сдаться",
+      "rejoinBtn": "Присоединиться снова",
+      "bottomMsg1": "Вы находитесь в активной игре!",
+      "bottomMsg2": "Пожалуйста, сдайтесь или присоединитесь к этой игре, чтобы другие\nигроки не ждали вас."
     },
-    "gameNotExist": "Your game doesn't exist anymore.",
-    "somethingWentWrong": "Something went wrong. Try again or start a new game."
+    "gameNotExist": "Вашей игры больше не существует.",
+    "somethingWentWrong": "Что-то пошло не так. Попробуйте снова или начните новую игру."
   },
   "upgradeDialog": {
-    "title": "UPGRADE TO GOLD",
-    "error": "Purchase error",
+    "title": "ПЕРЕЙТИ НА ЗОЛОТО",
+    "error": "Ошибка покупки",
     "footer": {
-      "comingSoon": "Coming soon...",
-      "createAccount": "Create Account",
-      "watchAd": "Watch Ad",
-      "noAds": "Sorry, there's no ads available right now",
-      "restore": "Restore Purchase",
-      "noPurchase": "There is no active subscription"
+      "comingSoon": "Скоро будет...",
+      "createAccount": "Создать Аккаунт",
+      "watchAd": "Посмотреть Рекламу",
+      "noAds": "Извините, сейчас нет доступной рекламы",
+      "restore": "Восстановить Покупку",
+      "noPurchase": "Нет активной подписки"
     }
   },
   "buildingStyles": {
-    "default": "default",
-    "alien": "alien",
-    "modern": "modern",
-    "fantasy": "fantasy",
-    "toys": "toys"
+    "default": "стандартный",
+    "alien": "инопланетный",
+    "modern": "современный",
+    "fantasy": "фэнтези",
+    "toys": "игрушки"
   },
   "culture": {
     "science": {
-      "abilityName": "Aqueduct",
-      "abilityDescription": "If a player does not receive\nany resources for a given\nroll, they are given one\nrandom resource.",
-      "abilityAnnouncement": "If you don't get any resources on a roll, you will now be given one random resource."
+      "abilityName": "Акведук",
+      "abilityDescription": "Если игрок не получает\nникаких ресурсов за данный\nбросок, ему дается один\nслучайный ресурс.",
+      "abilityAnnouncement": "Если вы не получаете ресурсы за бросок, теперь вам будет дан один случайный ресурс."
     },
     "commerce": {
-      "abilityName": "Bank",
-      "abilityDescription": "Allows players to trade\ncommodities 2:1 with the\nbank for any resource or\ncommodity.",
-      "abilityAnnouncement": "You can now trade commodities 2:1 with the bank."
+      "abilityName": "Банк",
+      "abilityDescription": "Позволяет игрокам торговать\nтоварами 2:1 с\nбанком за любой ресурс или\nтовар.",
+      "abilityAnnouncement": "Теперь вы можете торговать товарами 2:1 с банком."
     },
     "politics": {
-      "abilityName": "Barracks",
-      "abilityDescription": "Military power can be\nincreased above level 3. Military power can be\nincreased above level 3.",
-      "abilityAnnouncement": "Your max military power has been increased from 3 to 6."
+      "abilityName": "Казармы",
+      "abilityDescription": "Военная мощь может быть\nувеличена выше уровня 3. Военная мощь может быть\nувеличена выше уровня 3.",
+      "abilityAnnouncement": "Ваш максимальный уровень военной мощи увеличен с 3 до 6."
     }
   },
   "gameStartTypes": {
-    "ranked": "Ranked",
-    "quick": "Quick",
-    "custom": "Custom",
-    "welcome": "Welcome"
+    "ranked": "Рейтинговая",
+    "quick": "Быстрая",
+    "custom": "Настроенная",
+    "welcome": "Добро пожаловать"
   },
   "gameType": {
-    "custom": "Live",
-    "daily": "Daily",
-    "tutorial": "Tutorial",
-    "solo": "Solo",
-    "private": "Private"
+    "custom": "Живая",
+    "daily": "Ежедневная",
+    "tutorial": "Учебник",
+    "solo": "Одиночная",
+    "private": "Частная"
   },
   "premium": {
-    "premiumBots": "Play with 14 Bots each with unique strengths",
-    "premiumStyles": "Get access to 4 alternative themes and preferred colours",
-    "premiumPlayersNumber": "Create epic 8 player games with friends",
-    "premiumGameOptions": "Create custom games tailored to you",
-    "premiumStats": "Analyze the game results to become better",
-    "premiumAvatars": "Use any image you want as an in-game avatar",
-    "premiumMaps": "Design new and exciting maps",
-    "premiumNoAds": "No ADS. Directly support the developers!",
-    "title": "Gold Member",
-    "lastPayment": "Last Payment",
-    "nextPayment": "Next Payment",
-    "cancelled": "Cancelled\nEnds on:",
-    "cancel": "Cancel",
-    "canceledTitle": "Subscription",
-    "canceledMessage": "Subscription successfully canceled",
+    "premiumBots": "Играйте с 14 ботами, каждый со своими уникальными сильными сторонами",
+    "premiumStyles": "Получите доступ к 4 альтернативным темам и предпочтительным цветам",
+    "premiumPlayersNumber": "Создайте эпические игры на 8 игроков с друзьями",
+    "premiumGameOptions": "Создайте настраиваемые игры по вашему вкусу",
+    "premiumStats": "Анализируйте результаты игры, чтобы стать лучше",
+    "premiumAvatars": "Используйте любое изображение в качестве аватара в игре",
+    "premiumMaps": "Разрабатывайте новые и захватывающие карты",
+    "premiumNoAds": "Без рекламы. Напрямую поддерживайте разработчиков!",
+    "title": "Золотой Член",
+    "lastPayment": "Последний Платеж",
+    "nextPayment": "Следующий Платеж",
+    "cancelled": "Отменено\nЗаканчивается:",
+    "cancel": "Отменить",
+    "canceledTitle": "Подписка",
+    "canceledMessage": "Подписка успешно отменена",
     "success": {
-      "title": "Success!",
-      "home": "Home",
-      "message": "You are now a gold user",
-      "safeRollMsg": "Safe Roll tokens successfully purchased."
+      "title": "Успех!",
+      "home": "Домой",
+      "message": "Теперь вы золотой пользователь",
+      "safeRollMsg": "Жетоны безопасного броска успешно приобретены."
     },
     "canceled": {
-      "title": "Canceled",
-      "home": "Home",
-      "message": "Something went wrong during checkout"
+      "title": "Отменено",
+      "home": "Домой",
+      "message": "Что-то пошло не так во время оплаты"
     }
   },
   "ranks": {
     "promoted": {
-      "title": "PROMOTED!",
-      "message": "Congratulations! \nYour amazing play has earned you a ranking level up!"
+      "title": "ПОВЫШЕНИЕ!",
+      "message": "Поздравляем! \nВаша удивительная игра принесла вам повышение в рейтинге!"
     },
     "demoted": {
-      "title": "DEMOTED!",
-      "message": "Oh no! You have ranked down.\nMaybe it's time to try a new strategy or pray to the dice gods?"
+      "title": "ПОНИЖЕНИЕ!",
+      "message": "О нет! Вы понизились в рейтинге.\nМожет быть, пора попробовать новую стратегию или молиться богам кубиков?"
     },
-    "viewRanks": "View Ranks",
-    "title": "RANKS",
-    "rules": "How rankings work"
+    "viewRanks": "Посмотреть Рейтинги",
+    "title": "РЕЙТИНГИ",
+    "rules": "Как работают рейтинги"
   },
   "dailyGames": {
-    "noGames": "No Games in progress",
-    "startGame": "Start a Game",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "noGames": "Нет игр в процессе",
+    "startGame": "Начать Игру",
+    "createGame": "Создать Игру",
+    "joinByCode": "Присоединиться по Коду",
     "turnCount": {
-      "many": "turns",
-      "single": "turn"
+      "many": "ходы",
+      "single": "ход"
     },
     "gameType": {
-      "ranked": "Ranked",
-      "casual": "Casual"
+      "ranked": "Рейтинговая",
+      "casual": "Обычная"
     },
-    "title": "My Games",
+    "title": "Мои Игры",
     "game": {
-      "waiting": "Waiting...",
-      "rematchRequest": "Rematch Request",
-      "gameOver": "Game Over",
-      "play": "Play",
-      "invite": "Invite players",
-      "start": "Start Game?"
+      "waiting": "Ожидание...",
+      "rematchRequest": "Запрос на реванш",
+      "      "gameOver": "Игра окончена",
+      "play": "Играть",
+      "invite": "Пригласить игроков",
+      "start": "Начать игру?"
     }
   },
   "profile": {
-    "editInfo": "Edit info",
-    "city": "City",
-    "description": "Description",
-    "email": "Email",
-    "name": "Name",
-    "status": "Status",
-    "save": "Save",
-    "linkCopied": "Profile link copied to clipboard",
+    "editInfo": "Редактировать информацию",
+    "city": "Город",
+    "description": "Описание",
+    "email": "Электронная почта",
+    "name": "Имя",
+    "status": "Статус",
+    "save": "Сохранить",
+    "linkCopied": "Ссылка на профиль скопирована в буфер обмена",
     "settings": {
-      "turnEmails": "Send Turn Emails",
-      "chatNotifications": "Chat Notifications",
-      "recentInvites": "Allow Recent Invites",
-      "autoJump": "Auto-Jump to Next Daily Game",
-      "mapHints": "Map Hints",
-      "showReplays": "Show Replays",
-      "acceptNewGames": "Auto-Accept New Games",
-      "autoRoll": "Auto-Roll Dice on Turn Start"
+      "turnEmails": "Отправлять письма о ходах",
+      "chatNotifications": "Уведомления чата",
+      "recentInvites": "Разрешить последние приглашения",
+      "autoJump": "Авто-переход к следующей ежедневной игре",
+      "mapHints": "Подсказки карты",
+      "showReplays": "Показывать повторы",
+      "acceptNewGames": "Авто-принятие новых игр",
+      "autoRoll": "Авто-бросок кубиков в начале хода"
     },
     "account": {
-      "signUp": "Sign Up",
-      "saveAccount": "SAVE ACCOUNT",
-      "emailSentTitle": "Email sent",
-      "emailSentMsg": "Please check your mailbox and confirm your email address. Then you can use this account."
+      "signUp": "Зарегистрироваться",
+      "saveAccount": "СОХРАНИТЬ АККАУНТ",
+      "emailSentTitle": "Письмо отправлено",
+      "emailSentMsg": "Пожалуйста, проверьте ваш почтовый ящик и подтвердите ваш электронный адрес. Затем вы сможете использовать этот аккаунт."
     },
     "history": {
-      "title": "History",
-      "filter": "Filter",
-      "empty": "No Match History"
+      "title": "История",
+      "filter": "Фильтр",
+      "empty": "Нет истории матчей"
     },
     "mapStats": {
-      "title": "Map Stats",
-      "filter": "Filter",
-      "empty": "No Stats"
+      "title": "Статистика карты",
+      "filter": "Фильтр",
+      "empty": "Нет статистики"
     },
-    "rank": "Rank",
+    "rank": "Рейтинг",
     "season": {
-      "progress": "Season Progress"
+      "progress": "Прогресс сезона"
     },
     "delete": {
-      "title": "Delete Account",
+      "title": "Удалить аккаунт",
       "dialog": {
-        "title": "Are you sure?",
-        "message": "We’re sorry to see you go! Are you sure you want to delete your account? All your stats and games will be permanently removed.\nYou must confirm your account to delete it.",
-        "no": "No",
-        "yes": "Yes"
+        "title": "Вы уверены?",
+        "message": "Нам жаль, что вы уходите! Вы действительно хотите удалить ваш аккаунт? Вся ваша статистика и игры будут удалены навсегда.\nВы должны подтвердить ваш аккаунт для удаления.",
+        "no": "Нет",
+        "yes": "Да"
       },
-      "enterPassword": "Enter a password",
-      "enterPasswordInstruction": "Please enter a password for your account below"
+      "enterPassword": "Введите пароль",
+      "enterPasswordInstruction": "Пожалуйста, введите ниже пароль для вашего аккаунта"
     },
     "stats": {
       "filter": {
-        "title": "FILTER",
-        "clear": "Clear",
-        "filter": "Filter"
+        "title": "ФИЛЬТР",
+        "clear": "Очистить",
+        "filter": "Фильтр"
       },
-      "totalGames": "Total Games - ",
-      "unlockAll": "Go Gold to Unlock All Stats"
+      "totalGames": "Всего игр - ",
+      "unlockAll": "Стать золотым, чтобы Ррзблокировать все статистики"
     },
     "info": {
-      "hometown": "Hometown: ",
-      "editInfo": "Edit info",
-      "joinedOn": "Joined on {}",
-      "1stPlace": "1st Place",
-      "2ndPlace": "2nd Place",
-      "3rdPlace": "3rd Place",
-      "totalGames": "Total Games",
-      "asOfMay": "as of May 2023"
+      "hometown": "Родной город: ",
+      "editInfo": "Редактировать информацию",
+      "joinedOn": "Присоединился {}",
+      "1stPlace": "1-е Место",
+      "2ndPlace": "2-е Место",
+      "3rdPlace": "3-е Место",
+      "totalGames": "Всего игр",
+      "asOfMay": "по состоянию на май 2023"
     },
     "errors": {
-      "updateFailed": "Failed to update",
-      "nameProfanity": "Name cannot have profanities",
-      "nameTaken": "Name is already taken",
-      "nameEmpty": "Name cannot be empty",
-      "statusProfanity": "Status cannot have profanities",
-      "descriptionProfanity": "Description cannot have profanities",
-      "cityProfanity": "City cannot have profanities"
+      "updateFailed": "Не удалось обновить",
+      "nameProfanity": "Имя не должно содержать нецензурных выражений",
+      "nameTaken": "Имя уже занято",
+      "nameEmpty": "Имя не может быть пустым",
+      "statusProfanity": "Статус не должен содержать нецензурных выражений",
+      "descriptionProfanity": "Описание не должно содержать нецензурных выражений",
+      "cityProfanity": "Город не должен содержать нецензурных выражений"
     }
   },
   "auth": {
     "fb": {
-      "newPassword": "New password",
-      "newPasswordHint": "Enter your new password",
-      "verifiedTitle": "Verified",
-      "verifiedMsg": "You email has been successfully verified.",
-      "passResetMsg": "Your password email has been successfully changed.",
-      "expired": "Invalid or expired link, try to verify email again.",
-      "weakPass": "Password too weak, try again.",
-      "expiredPassReset": "Invalid or expired link, try to reset your password again."
+      "newPassword": "Новый пароль",
+      "newPasswordHint": "Введите ваш новый пароль",
+      "verifiedTitle": "Подтверждено",
+      "verifiedMsg": "Ваш электронный адрес был успешно подтвержден.",
+      "passResetMsg": "Ваш пароль был успешно изменен.",
+      "expired": "Неверная или истекшая ссылка, попробуйте подтвердить электронный адрес снова.",
+      "weakPass": "Пароль слишком слабый, попробуйте снова.",
+      "expiredPassReset": "Неверная или истекшая ссылка, попробуйте сбросить пароль снова."
     },
     "linking": {
-      "title": "Account Linking",
-      "message": "Logging in with $newProvider will override your existing logins. Continue?",
-      "no": "No",
-      "yes": "Yes"
+      "title": "Связывание аккаунтов",
+      "message": "Вход с помощью $newProvider переопределит ваши существующие входы. Продолжить?",
+      "no": "Нет",
+      "yes": "Да"
     },
     "footer": {
-      "agree": "By tapping a sign in button, you agree to the\n",
-      "tos": "Terms of Service",
-      "and": " and ",
-      "privacy": "Privacy Policy"
+      "agree": "Нажимая на кнопку входа, вы соглашаетесь с\n",
+      "tos": "Условиями обслуживания",
+      "and": " и ",
+      "privacy": "Политикой конфиденциальности"
     },
     "code": {
-      "msg": "Enter the code sent to {}",
-      "confirm": "Confirm",
-      "sent": "Email sent",
-      "sentMsg": "A new code has been sent to {}",
-      "resend": "Resend Code",
-      "continueWithEmail": "Have a password? Continue here"
+      "msg": "Введите код, отправленный на {}",
+      "confirm": "Подтвердить",
+      "sent": "Письмо отправлено",
+      "sentMsg": "Новый код был отправлен на {}",
+      "resend": "Отправить код снова",
+      "continueWithEmail": "Есть пароль? Продолжить здесь"
     },
     "email": {
-      "label": "Enter your email to sign up or login into Landover",
-      "button": "Confirm"
+      "label": "Введите вашу электронную почту для регистрации или входа в Landover",
+      "button": "Подтвердить"
     },
     "signUp": {
       "nickname": {
-        "label": "Nickname",
-        "placeholder": "Enter Nickname...",
-        "empty": "Please enter a nickname",
-        "short": "Please enter a nickname of at least 3 characters",
-        "profanity": "Profanity detected. Try again."
+        "label": "Псевдоним",
+        "placeholder": "Введите Псевдоним...",
+        "placeholder": "Введите псевдоним...",
+        "empty": "Пожалуйста, введите псевдоним",
+        "short": "Пожалуйста, введите псевдоним из не менее чем 3 символов",
+        "profanity": "Обнаружен ненормативный язык. Попробуйте снова."
       },
       "password": {
-        "label": "Confirm Password",
-        "placeholder": "Confirm Password...",
-        "empty": "Please enter a password",
-        "mismatch": "Passwords do not match"
+        "label": "Подтвердите пароль",
+        "placeholder": "Подтвердите пароль...",
+        "empty": "Пожалуйста, введите пароль",
+        "mismatch": "Пароли не совпадают"
       }
     },
     "verify": {
-      "email": "Verify your email",
-      "message": "A verification email has been sent to you! Please check your mailbox to verify the account before you sign in",
-      "resend": "Resend"
+      "email": "Подтвердите вашу электронную почту",
+      "message": "На вашу почту было отправлено письмо с подтверждением! Пожалуйста, проверьте свой почтовый ящик для подтверждения аккаунта перед входом",
+      "resend": "Отправить снова"
     },
-    "login": "Log In",
-    "useFB": "Continue with Facebook",
-    "useGoogle": "Continue with Google",
-    "useEmail": "Continue with Email",
-    "useApple": "Continue with Apple",
-    "or": "OR",
-    "passRequired": "Your password is required",
-    "enterPassword": "Please enter your password for {}"
+    "login": "Войти",
+    "useFB": "Продолжить с Facebook",
+    "useGoogle": "Продолжить с Google",
+    "useEmail": "Продолжить с Email",
+    "useApple": "Продолжить с Apple",
+    "or": "ИЛИ",
+    "passRequired": "Требуется ваш пароль",
+    "enterPassword": "Пожалуйста, введите ваш пароль для {}"
   },
   "alerts": {
-    "ok": "OK",
-    "cancel": "Cancel"
+    "ok": "ОК",
+    "cancel": "Отмена"
   },
   "forms": {
-    "submit": "Submit",
-    "nicknameEmpty": "Please enter a nickname",
-    "nicknameShort": "Please enter a nickname of at least 3 characters",
-    "email": "Email",
-    "emailEmpty": "Please enter an email",
-    "emailPlaceholder": "Enter Email...",
-    "emailInvalid": "Please enter a valid email address",
-    "password": "Password",
-    "passwordPlaceholder": "Enter Password...",
-    "passwordEmpty": "Please enter a password",
-    "forgotPassword": "Forgot Password?",
-    "resetPasswordTitle": "Reset Password",
-    "resetPasswordEmail": "Enter your email",
-    "resetPasswordEmailSent": "Email sent",
-    "resetPasswordEmailSentMsg": "Please check your inbox"
+    "submit": "Отправить",
+    "nicknameEmpty": "Пожалуйста, введите псевдоним",
+    "nicknameShort": "Пожалуйста, введите псевдоним из не менее чем 3 символов",
+    "email": "Электронная почта",
+    "emailEmpty": "Пожалуйста, введите электронную почту",
+    "emailPlaceholder": "Введите электронную почту...",
+    "emailInvalid": "Пожалуйста, введите действительный адрес электронной почты",
+    "password": "Пароль",
+    "passwordPlaceholder": "Введите пароль...",
+    "passwordEmpty": "Пожалуйста, введите пароль",
+    "forgotPassword": "Забыли пароль?",
+    "resetPasswordTitle": "Сброс пароля",
+    "resetPasswordEmail": "Введите вашу электронную почту",
+    "resetPasswordEmailSent": "Письмо отправлено",
+    "resetPasswordEmailSentMsg": "Пожалуйста, проверьте ваш почтовый ящик"
   },
   "codeJoin": {
-    "join": "Join"
+    "join": "Присоединиться"
   },
   "history": {
-    "title": "HISTORY",
-    "notAvailable": "Old game results are unavailable.",
-    "turns": "{} Turns",
-    "players": "{} players",
-    "noHistory": "No Match History"
+    "title": "ИСТОРИЯ",
+    "notAvailable": "Результаты старых игр недоступны.",
+    "turns": "{} Ходов",
+    "players": "{} игроков",
+    "noHistory": "Нет истории матчей"
   },
   "settings": {
-    "title": "SETTINGS",
-    "editInfo": "Edit info",
-    "stats": "Stats",
-    "themes": "Themes & Colors",
-    "history": "History",
+    "title": "НАСТРОЙКИ",
+    "editInfo": "Редактировать информацию",
+    "stats": "Статистика",
+    "themes": "Темы и Цвета",
+    "history": "История",
     "logout": {
-      "title": "Log Out",
+      "title": "Выйти",
       "guest": {
-        "title": "Warning!",
-        "message": "You are about to logout of your guest account. All data will be lost and all your games will be forfeited. To avoid this, first authenticate your account with another login. Continue?",
-        "delete": "Delete Account",
-        "cancel": "Cancel"
+        "title": "Внимание!",
+        "message": "Вы собираетесь выйти из аккаунта гостя. Все данные будут потеряны, и все ваши игры будут аннулированы. Чтобы избежать этого, сначала аутентифицируйте свой аккаунт с другим логином. Продолжить?",
+        "delete": "Удалить аккаунт",
+        "cancel": "Отмена"
       }
     },
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия предоставления услуг"
   },
   "invite": {
-    "play": "Play",
-    "cancel": "Cancel",
-    "inviteFrom": "Invite from {}!"
+    "play": "Играть",
+    "cancel": "Отмена",
+    "inviteFrom": "Приглашение от {}!"
   },
   "matchmaking": {
-    "play": "Play",
-    "game": "Game",
-    "rankHigherThan": "higher than {}%\nof players",
-    "viewRanks": "View Ranks",
-    "3daysMove": "3 days to move",
-    "90sMove": "90s to move",
-    "playNow": "PLAY NOW",
-    "casual": "Casual Play",
-    "ranked": "Ranked Play",
-    "looking": "Looking for players..."
+    "play": "Играть",
+    "game": "Игра",
+    "rankHigherThan": "выше, чем у {}%\nигроков",
+    "viewRanks": "Посмотреть рейтинги",
+    "3daysMove": "3 дня на ход",
+    "90sMove": "90 секунд на ход",
+    "playNow": "ИГРАТЬ СЕЙЧАС",
+    "casual": "Обычная игра",
+    "ranked": "Рейтинговая игра",
+    "looking": "Ищем игроков..."
   },
   "help": {
-    "title": "WELCOME TO LANDOVER!",
-    "rules": "Rules",
-    "video": "Video\nTutorials",
-    "tutorial": "Play\nTutorial",
+    "title": "ДОБРО ПОЖАЛОВАТЬ В LANDOVER!",
+    "rules": "Правила",
+    "video": "Видео\nУроки",
+    "tutorial": "Играть\nУчебник",
     "discord": "Discord!",
-    "questions": "Questions?\n"
+    "questions": "Вопросы?\n"
   },
   "themes": {
-    "title": "Theme",
-    "chooseTheme": "Choose Theme",
-    "chooseColor": "Choose Color",
-    "save": "Save",
-    "goGold": "GO GOLD!",
-    "selected": "SELECTED"
+    "title": "Тема",
+    "chooseTheme": "Выбрать Тему",
+    "chooseColor": "Выбрать Цвет",
+    "save": "Сохранить",
+    "goGold": "СТАТЬ ЗОЛОТЫМ!",
+    "selected": "ВЫБРАНО"
   },
   "createGame": {
     "options": {
-      "title": "OPTIONS",
-      "on": "On",
-      "off": "Off",
-      "time": "Time per Turn",
-      "points": "Victory Points",
-      "barbDelay": "Barbarians Delay",
-      "barbDelayTooltip": "Number of barbarian rolls before\nthe barbarians start to advance\ntowards an attack.",
-      "name": "Game Name (optional)",
-      "namePlaceholder": "Enter name",
-      "public": "Public Game",
+      "title": "ОПЦИИ",
+      "on": "Вкл",
+      "off": "Выкл",
+      "time": "Время на ход",
+      "points": "Очки победы",
+      "barbDelay": "Задержка варваров",
+      "barbDelayTooltip": "Количество бросков варваров до\nначала их продвижения к атаке.",
+      "name": "Название игры (необязательно)",
+      "namePlaceholder": "Введите название",
+      "public": "Публичная игра",
       "mapHints": {
-        "title": "Map Hints",
-        "tooltip": "Enables map hint indicators when building structures."
+        "title": "Подсказки карты",
+        "tooltip": "Включает индикаторы подсказок карты при строительстве структур."
       },
       "charity": {
-        "title": "Charity 7 Rolls",
-        "tooltip": "Give one random resource when a 7 is rolled"
+        "title": "Благотворительные Броски 7",
+        "tooltip": "Дает один случайный ресурс при броске 7"
       },
-      "resources": {
-        "title": "Starting Resources",
-        "tooltip": "Give every user one resource of every type when a game starts"
+      "    "resources": {
+        "title": "Начальные Ресурсы",
+        "tooltip": "Давать каждому пользователю по одному ресурсу каждого типа при начале игры"
       },
       "raids": {
-        "title": "Raids",
-        "tooltip": "Enable/Disable spending one military to raid your opponent."
+        "title": "Рейды",
+        "tooltip": "Включить/Отключить возможность тратить одну военную единицу для рейда на противника."
       },
       "fairDice": {
-        "title": "Fair Dice",
-        "tooltip": "Replaces true random with an even\ndistribution of dice rolls."
+        "title": "Честные Кубики",
+        "tooltip": "Заменяет истинную случайность на равномерное\nраспределение бросков кубиков."
       },
       "culture": {
-        "title": "Culture",
-        "tooltip": "Enables Science, Politics, and Commerce\nupgrades so you can collect dev cards\nand earn metros."
+        "title": "Культура",
+        "tooltip": "Включает улучшения Науки, Политики и Торговли\nчтобы вы могли собирать карты развития\nи зарабатывать метро."
       },
       "luckyRaid": {
-        "title": "Lucky 7 Raid",
-        "tooltip": "Player in last place who rolls a 7\nis rewarded with a free raid."
+        "title": "Удачный Рейд 7",
+        "tooltip": "Игрок на последнем месте, который бросает 7,\nнаграждается бесплатным рейдом."
       }
     },
     "map": {
-      "title": "SELECT MAP",
-      "maps": "MAPS",
-      "favorites": "Favorites",
-      "lastPlayed": "Last Played",
-      "moreSlots": "Subscribe for more slots",
-      "giant": "Giant",
-      "normal": "Normal",
-      "mapType": "Choose map type",
-      "mapTypeMsg": "Choose the type of map you want to create.",
-      "createMap": "Create New Map",
-      "register": "Register",
-      "createAccount": "Create Account",
-      "createAccountMsg": "You must register an account to create maps.",
-      "search": "Search maps",
-      "mapName": "Name",
-      "gamesPlayed": "# of games",
-      "createdOn": "Created on",
-      "noUserMaps": "You have not created any maps",
-      "noMaps": "No maps found",
-      "noRecentGames": "You have no recent games",
-      "noFavorites": "You have no favorite maps",
+      "title": "ВЫБРАТЬ КАРТУ",
+      "maps": "КАРТЫ",
+      "favorites": "Избранное",
+      "lastPlayed": "Последняя Игра",
+      "moreSlots": "Подпишитесь для большего количества слотов",
+      "giant": "Гигантская",
+      "normal": "Обычная",
+      "mapType": "Выберите тип карты",
+      "mapTypeMsg": "Выберите тип карты, которую хотите создать.",
+      "createMap": "Создать Новую Карту",
+      "register": "Зарегистрироваться",
+      "createAccount": "Создать Аккаунт",
+      "createAccountMsg": "Вы должны зарегистрировать аккаунт, чтобы создать карты.",
+      "search": "Поиск карт",
+      "mapName": "Название",
+      "gamesPlayed": "# игр",
+      "createdOn": "Создано",
+      "noUserMaps": "Вы не создали ни одной карты",
+      "noMaps": "Карты не найдены",
+      "noRecentGames": "У вас нет недавних игр",
+      "noFavorites": "У вас нет избранных карт",
       "tabs": {
-        "standard": "STANDARD",
-        "myMaps": "MY MAPS",
-        "favorites": "FAVORITES",
-        "all": "ALL"
+        "standard": "СТАНДАРТНЫЕ",
+        "myMaps": "МОИ КАРТЫ",
+        "favorites": "ИЗБРАННОЕ",
+        "all": "ВСЕ"
       },
       "adminControls": {
         "confirmDialog": {
-          "yes": "Yes",
-          "no": "No",
-          "confirm": "Confirm",
-          "duplicate": "Are you sure you want to duplicate this map?",
-          "makeOfficial": "Are you sure you want to make this map official?",
-          "deleteFromOfficial": "Are you sure you want to delete this map from official maps?"
+          "yes": "Да",
+          "no": "Нет",
+          "confirm": "Подтвердить",
+          "duplicate": "Вы уверены, что хотите дублировать эту карту?",
+          "makeOfficial": "Вы уверены, что хотите сделать эту карту официальной?",
+          "deleteFromOfficial": "Вы уверены, что хотите удалить эту карту из официальных карт?"
         }
       },
       "sort": {
-        "newest": "Newest",
-        "oldest": "Oldest",
-        "mostGames": "Most Games",
-        "leastGames": "Least Games",
-        "alphabetical": "Alphabetical",
-        "reverseAlphabetical": "Alphabetical Desc",
-        "popular": "Popular"
+        "newest": "Новейшие",
+        "oldest": "Старейшие",
+        "mostGames": "Больше всего Игр",
+        "leastGames": "Меньше всего Игр",
+        "alphabetical": "По Алфавиту",
+        "reverseAlphabetical": "По Алфавиту Обратно",
+        "popular": "Популярные"
       },
       "preview": {
-        "selectMap": "Select Map",
-        "deleteMap": "Delete Map",
-        "editMap": "Edit Map"
+        "selectMap": "Выбрать карту",
+        "deleteMap": "Удалить карту",
+        "editMap": "Редактировать карту"
       }
     },
     "playTutorial": {
-      "title": "Play tutorial",
-      "message": "As a new player to Landover, you must complete one solo game against the bots before you jump into a public game. Try the tutorial!"
+      "title": "Играть в Учебник",
+      "message": "Как новому игроку в Landover, вы должны завершить одну одиночную игру против ботов, прежде чем перейти к публичной игре. Попробуйте учебник!"
     },
-    "createGame": "Create Game"
+    "createGame": "Создать Игру"
   },
   "join": {
-    "title": "Join Games",
-    "gameNotAvailable": "This game is not available, try another one",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "title": "Присоединиться к играм",
+    "gameNotAvailable": "Эта игра недоступна, попробуйте другую",
+    "createGame": "Создать игру",
+    "joinByCode": "Присоединиться по коду",
     "filter": {
-      "title": "FILTER",
-      "button": "Filter",
-      "clear": "Clear",
-      "allGames": "All Games",
-      "liveGames": "Live Games",
-      "dailyGames": "Daily Games",
-      "allPoints": "All Points",
-      "xPoints": "{} points"
+      "title": "ФИЛЬТР",
+      "button": "Фильтр",
+      "clear": "Очистить",
+      "allGames": "Все игры",
+      "liveGames": "Живые игры",
+      "dailyGames": "Ежедневные игры",
+      "allPoints": "Все очки",
+      "xPoints": "{} очков"
     }
   },
   "lobby": {
     "leave": {
-      "title": "Leave Game",
-      "message": "Are you sure you want to leave this game?",
-      "yes": "Leave"
+      "title": "Покинуть игру",
+      "message": "Вы уверены, что хотите покинуть эту игру?",
+      "yes": "Покинуть"
     },
     "add": {
-      "recent": "+ Recent",
-      "bot": "+ Add Bot",
-      "invite": "+ Invite"
+      "recent": "+ Недавние",
+      "bot": "+ Добавить Бота",
+      "invite": "+ Пригласить"
     },
     "boot": {
-      "button": "Remove",
-      "title": "Are you sure you want to kick "
+      "button": "Удалить",
+      "title": "Вы уверены, что хотите выгнать "
     },
     "options": {
-      "on": "On",
-      "off": "Off",
-      "points": "Victory Points",
-      "time": "Turn timer",
-      "luckyRaid": "Lucky 7 Raid",
-      "culture": "Culture",
-      "barbDelay": "Barbarians Delay",
-      "fairDice": "Fair Dice",
-      "raids": "Raids"
+      "on": "Вкл",
+      "off": "Выкл",
+      "points": "Очки победы",
+      "time": "Таймер хода",
+      "luckyRaid": "Удачный рейд 7",
+      "culture": "Культура",
+      "barbDelay": "Задержка варваров",
+      "fairDice": "Честные Кубики",
+      "raids": "Рейды"
     },
     "addBot": {
-      "title": "ADD BOT",
-      "alreadyAdded": "Already Added",
-      "unlockBot": "Unlock Bot",
-      "addBot": "Add Bot"
+      "title": "ДОБАВИТЬ БОТА",
+      "alreadyAdded": "Уже добавлен",
+      "unlockBot": "Разблокировать бота",
+      "addBot": "Добавить бота"
     },
     "getReady": {
       "title": "GET READY!",
@@ -1419,149 +1420,161 @@
     },
     "recent": {
       "title": "INVITE PLAYERS",
-      "notificationTurnedOf": "This player has turned off invitations from recent players. This player will be removed from your list.",
-      "noRecent": "No recent players!"
-    },
-    "joinPrivate": {
-      "joinAnyway": "Join anyway",
-      "cancel": "Cancel"
-    },
-    "gameType": {
-      "ranked": "RANKED GAME",
-      "quick": "QUICK GAME",
-      "tutorial": "TUTORIAL",
-      "daily": "DAILY GAME",
-      "solo": "SOLO GAME",
-      "live": "LIVE GAME"
-    },
-    "lobbyLabel": "Lobby:",
-    "code": "Code: ",
-    "join": "JOIN",
-    "waiting": "Waiting...",
-    "waitingForHost": "Waiting for host...",
-    "start": "Start",
-    "starting": "Game Starting",
-    "startingTutorial": "Starting tutorial",
-    "initTutorial": "Initializing tutorial...",
-    "creatingNewLobby": "Creating new lobby...",
-    "checkingExisting": "Checking existing games...",
-    "matchingGameFound": "Matching game found!",
-    "loadingLobby": "Loading game lobby...",
-    "loadingGame": "Loading game...",
-    "joined": "Joined!",
-    "alreadyInQueue": "You are already in the queue, you will be notified when a game starts.",
-    "lobbyFull": "Lobby full!",
-    "hostToAdd": "You must be a host to add a bot",
-    "cannotBoot": "You cannot boot this player",
-    "notFound": "Lobby not found",
-    "waitingForLot": "You are already waiting for a lot of games to start. We’ll notify you when it’s your turn to move.",
-    "kicked": "Kicked!",
-    "kickedMsg": "The host has removed you from this game. Try joining a different game.",
-    "timeOut": "Timed out",
-    "timeOutMsg": "You didn't accept the game in time.",
-    "rematchCanceled": "Rematch canceled",
-    "rematchCanceledMsg": "Someone rejected this game.",
-    "gameCanceled": "Game canceled",
-    "gameCanceledMsg": "The host has ended this game."
+      "{
+  "getReady": {
+    "title": "ПРИГОТОВЬТЕСЬ!",
+    "cancel": "Отмена",
+    "ready": "Готов"
   },
-  "builder": {
-    "create": {
-      "title": "CREATE MAP!",
-      "ok": "Ok",
-      "firstMap": "Want to create your first custom map?\nUse the map builder to design your very own world!",
-      "randomNumber": "Any tiles without a number will be randomly assigned a number each game",
-      "mysteryTiles": "A mystery tile that cannot be placed on initially and is only revealed when a player explores it",
-      "randomResources": "A randomly assigned land resource at game start"
+  "ranked": {
+    "title": "Присоединились!",
+    "message": "Вы присоединились к ежедневной игре! Вас уведомят, когда игра начнется."
+  },
+  "recent": {
+    "title": "ПРИГЛАСИТЬ ИГРОКОВ",
+    "notificationTurnedOf": "Этот игрок отключил приглашения от недавних игроков. Этот игрок будет удален из вашего списка.",
+    "noRecent": "Нет недавних игроков!"
+  },
+  "joinPrivate": {
+    "joinAnyway": "Присоединиться в любом случае",
+    "cancel": "Отмена"
+  },
+  "gameType": {
+    "ranked": "РЕЙТИНГОВАЯ ИГРА",
+    "quick": "БЫСТРАЯ ИГРА",
+    "tutorial": "ОБУЧЕНИЕ",
+    "daily": "ЕЖЕДНЕВНАЯ ИГРА",
+    "solo": "ОДИНОЧНАЯ ИГРА",
+    "live": "ИГРА В РЕАЛЬНОМ ВРЕМЕНИ"
+  },
+  "lobbyLabel": "Лобби:",
+  "code": "Код: ",
+  "join": "ПРИСОЕДИНИТЬСЯ",
+  "waiting": "Ожидание...",
+  "waitingForHost": "Ожидание хоста...",
+  "start": "Начать",
+  "starting": "Игра начинается",
+  "startingTutorial": "Начало обучения",
+  "initTutorial": "Инициализация обучения...",
+  "creatingNewLobby": "Создание нового лобби...",
+  "checkingExisting": "Проверка существующих игр...",
+  "matchingGameFound": "Найдена подходящая игра!",
+  "loadingLobby": "Загрузка лобби игры...",
+  "loadingGame": "Загрузка игры...",
+  "joined": "Присоединились!",
+  "alreadyInQueue": "Вы уже в очереди, вас уведомят, когда начнется игра.",
+  "lobbyFull": "Лобби заполнено!",
+  "hostToAdd": "Вы должны быть хостом, чтобы добавить бота",
+  "cannotBoot": "Вы не можете выгнать этого игрока",
+  "notFound": "Лобби не найдено",
+  "waitingForLot": "Вы уже ожидаете начала многих игр. Мы уведомим вас, когда придет ваша очередь ходить.",
+  "kicked": "Выгнан!",
+  "kickedMsg": "Хост удалил вас из этой игры. Попробуйте присоединиться к другой игре.",
+  "timeOut": "Время вышло",
+  "timeOutMsg": "Вы не приняли игру вовремя.",
+  "rematchCanceled": "Переигровка отменена",
+  "rematchCanceledMsg": "Кто-то отклонил эту игру.",
+  "gameCanceled": "Игра отменена",
+  "gameCanceledMsg": "Хост завершил эту игру."
+},
+"builder": {
+  "create": {
+    "title": "СОЗДАТЬ КАРТУ!",
+    "ok": "Ок",
+    "firstMap": "Хотите создать свою первую пользовательскую карту?\nИспользуйте картостроитель для создания собственного мира!",
+    "randomNumber": "Любым клеткам без номера будет случайным образом присвоен номер в каждой игре",
+    "mysteryTiles": "Тайная клетка, которая не может быть занята изначально и открывается только когда игрок ее исследует",
+    "randomResources": "Случайно назначаемый ресурс земли в начале игры"
+  },
+  "controls": {
+    "info": "Информация",
+    "tiles": "Клетки",
+    "harbors": "Порты"
+  },
+  "info": {
+    "name": {
+      "title": "Имя",
+      "placeholder": "Введите имя..."
     },
-    "controls": {
-      "info": "Information",
-      "tiles": "Tiles",
-      "harbors": "Harbors"
+    "description": {
+      "title": "Описание",
+      "placeholder": "Введите описание..."
     },
-    "info": {
-      "name": {
-        "title": "Name",
-        "placeholder": "Enter name..."
-      },
-      "description": {
-        "title": "Description",
-        "placeholder": "Enter description..."
-      },
-      "points": "Victory Points"
+    "points": "Очки Победы"
+  },
+  "terrain": {
+    "nonPlacement": "Клетка без Размещения",
+    "nonPlacementHint": "Выберите клетки земли, на которых нельзя размещать начальные поселения."
+  },
+  "unsaved": {
+    "title": "Несохраненные Изменения",
+    "message": "У вас есть несохраненные изменения в этой карте?",
+    "yes": "Выйти",
+    "no": "Сохранить иввыйти"
+  },
+  "title": "КАРТОСТРОИТЕЛЬ",
+  "save": "Сохранить",
+  "openControls": "Открыть управление",
+  "profanity": "Обнаружен нецензурный язык. Попробуйте снова.",
+  "saved": {
+    "title": "Успех!",
+    "message": "Ваша карта сохранена!"
+  },
+  "validation": {
+    "emptyName": "Пожалуйста, дайте название вашей карте.",
+    "invalidName": "Пожалуйста, введите допустимое имя карты."
+  },
+  "list": {
+    "by": "Автор: {}",
+    "on": "Дата: {}",
+    "games": "Игры: {}",
+    "vp": "ОП: {}",
+    "deleteOfficial": {
+      "title": "Действие Удаления",
+      "message": "Официальные карты нельзя удалить."
     },
-    "terrain": {
-      "nonPlacement": "Non Placement Tile",
-      "nonPlacementHint": "Select land tiles that are not allowed initial settlements."
-    },
-    "unsaved": {
-      "title": "Unsaved Changes",
-      "message": "You have unsaved changes to this map?",
-      "yes": "Exit",
-      "no": "Save & Exit"
-    },
-    "title": "MAP BUILDER",
-    "save": "Save",
-    "openControls": "Open Controls",
-    "profanity": "Profanity detected. Try again.",
-    "saved": {
-      "title": "Success!",
-      "message": "Your map has been saved!"
-    },
-    "validation": {
-      "emptyName": "Please give your map a name.",
-      "invalidName": "Please enter a valid map name."
-    },
-    "list": {
-      "by": "By: {}",
-      "on": "On: {}",
-      "games": "Games: {}",
-      "vp": "VP: {}",
-      "deleteOfficial": {
-        "title": "Delete Action",
-        "message": "Official maps are undeletable."
-      },
-      "delete": {
-        "title": "Delete",
-        "message": "Are you sure you want to delete this map?",
-        "yes": "Delete",
-        "no": "Cancel"
-      }
+    "delete": {
+      "title": "Удалить",
+      "message": "Вы уверены, что хотите удалить эту карту?",
+      "yes": "Удалить",
+      "no": "Отмена"
     }
-  },
-  "notifications": {
-    "title": "Don't Miss Your Turn!",
-    "enable": "Enable Notifications",
-    "enableEmail": "Enable Email Notifications",
-    "enableText": "Enable notifications and never miss your turn. We'll remind you when it's time to jump back in so you can keep the game moving!",
-    "notNow": "Don't enable for now"
-  },
-  "unsubscribe": {
-    "ask": {
-      "title": "Are you sure?",
-      "message": "Are you sure you want to unsubscribe from game updates emails?",
-      "yes": "Unsubscribe"
-    },
-    "unsubscribed": {
-      "title": "Unsubscribed",
-      "yes": "Home",
-      "message": "You have been successfully unsubscribed. You can turn on game updates emails again in the settings."
-    }
-  },
-  "loading": {
-    "title": "PLEASE WAIT"
-  },
-  "rank": {
-    "title": "YOUR\nRANK"
-  },
-  "seasons": {
-    "leaderboard": {
-      "title": "SEASON LEADERBOARD",
-      "player": "Player",
-      "games": "# Games",
-      "SP": "SP (Season Points)",
-      "reward": "Reward"
-    },
-    "noPlayers": "No players yet",
-    "unlockAchievement": "Complete 10 games\nto unlock achievement"
   }
+},
+"notifications": {
+  "title": "Не Пропустите Ваш Ход!",
+  "enable": "Включить Уведомления",
+  "enableEmail": "Включить Уведомления по Электронной Почте",
+  "enableText": "Включите уведомления и никогда не пропустите свой ход. Мы напомним вам, когда придет время вернуться в игру, чтобы вы могли продолжить игру!",
+  "notNow": "Не включать сейчас"
+},
+"unsubscribe": {
+  "ask": {
+    "title": "Вы уверены?",
+    "message": "Вы действительно хотите отписаться от электронных писем с обновлениями игры?",
+    "yes": "Отписаться"
+  },
+  "unsubscribed": {
+    "title": "Отписан",
+    "yes": "Главная",
+    "message": "Вы успешно отписались. Вы можете снова включить электронные письма с обновлениями игры в настройках."
+  }
+},
+"loading": {
+  "title": "ПОДОЖДИТЕ ПОЖАЛУЙСТА"
+},
+"rank": {
+  "title": "ВАШ\nРЕЙТИНГ"
+},
+"seasons": {
+  "leaderboard": {
+    "title": "ТАБЛИЦА ЛИДЕРОВ СЕЗОНА",
+    "player": "Игрок",
+    "games": "# Игр",
+    "SP": "ОС (Очки Сезона)",
+      "reward": "Награда"
+    },
+    "noPlayers": "Игроков пока нет",
+    "unlockAchievement": "Завершите 10 игр\nчтобы разблокировать достижение" 
+ }
 }
