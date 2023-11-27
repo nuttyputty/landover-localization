@@ -1,1567 +1,1566 @@
 {
   "home": {
-    "takeTurn": "TAKE TURN",
-    "playNow": "PLAY NOW",
-    "createGame": "Create Game",
-    "joinGame": "Join Game",
-    "myGames": "My Games",
-    "startPlaying": "Start Playing Now!",
+    "takeTurn": "TOMAR TURNO",
+    "playNow": "JUGAR AHORA",
+    "createGame": "Crear juego",
+    "joinGame": "Unirse al juego",
+    "myGames": "Mis juegos",
+    "startPlaying": "¡Comienza a jugar ahora!",
     "ranked": {
-      "title": "Ranked",
-      "comingSoon": "COMING SOON",
-      "playMore": "Play more games"
+      "title": "Clasificado",
+      "comingSoon": "PRÓXIMAMENTE",
+      "playMore": "Juega más juegos"
     },
-    "goGold": "GO GOLD!"
+    "goGold": "¡CONVIÉRTETE EN ORO!"
   },
   "playNow": {
-    "unlock": "Play more casual games to unlock Ranked!"
+    "unlock": "¡Juega más juegos casuales para desbloquear el modo Clasificado!"
   },
   "update": {
-    "title": "Update available!",
+    "title": "¡Actualización disponible!",
     "web": {
-      "label": "Please click bellow to clear web browser cache and get the latest update",
-      "button": "Clear cache"
+      "label": "Haz clic a continuación para borrar la caché del navegador web y obtener la última actualización",
+      "button": "Borrar caché"
     },
     "mobile": {
-      "label": "Please click bellow to download the latest update.",
-      "button": "Update"
+      "label": "Haz clic a continuación para descargar la última actualización.",
+      "button": "Actualizar"
     },
-    "androidSuffix": "\nIf the update does not appear please clear Play Store's cache"
+    "androidSuffix": "\nSi la actualización no aparece, borra la caché de la Play Store."
   },
   "noConnection": {
-    "title": "Connection error",
-    "message": "Unable to connect with the server.\nCheck your internet connection and try again",
-    "action": "Try again"
+    "title": "Error de conexión",
+    "message": "No se puede conectar con el servidor.\nVerifica tu conexión a Internet e inténtalo de nuevo",
+    "action": "Intentar de nuevo"
   },
   "avatar": {
-    "save": "Save Changes",
-    "uploadPhoto": "Upload Photo"
+    "save": "Guardar cambios",
+    "uploadPhoto": "Subir foto"
   },
   "achievements": {
-    "title": "ACHIEVEMENTS",
-    "earned": "Earned Achievement: {}",
-    "openEarned": "OPEN"
+    "title": "LOGROS",
+    "earned": "Logro obtenido: {}",
+    "openEarned": "ABRIR"
   },
   "errors": {
-    "gameAlreadyStarted": "Game already started",
-    "gameDoesNotExist": "Your game doesn't exist anymore.",
-    "generic": "Something went wrong. Try again.",
-    "genericBig": "Something went wrong, a report has been sent to our team.",
-    "uhOh": "Uh Oh",
+    "gameAlreadyStarted": "El juego ya ha comenzado",
+    "gameDoesNotExist": "Tu juego ya no existe.",
+    "generic": "Algo salió mal. Vuelve a intentarlo.",
+    "genericBig": "Algo salió mal, se ha enviado un informe a nuestro equipo.",
+    "uhOh": "¡Oh-oh!",
     "error": "Error",
-    "tryAgain": "Try again",
-    "home": "Home",
+    "tryAgain": "Intentar de nuevo",
+    "home": "Inicio",
     "login": {
       "google": {
-        "failed": "Unable to sign into your google account. Please try again",
-        "popupBlocked": "You have a popup blocker or ad blocker. Please allow popups and try again.",
-        "popupClosed": "You didn't finish Google Sign in. Please try again.",
-        "cookiesDisabled": "Please enable cookies and allow popups to continue."
+        "failed": "No se puede iniciar sesión en tu cuenta de Google. Por favor, inténtalo de nuevo",
+        "popupBlocked": "Tienes un bloqueador de ventanas emergentes o bloqueador de anuncios. Por favor, permite las ventanas emergentes e inténtalo de nuevo.",
+        "popupClosed": "No completaste el inicio de sesión con Google. Por favor, inténtalo de nuevo.",
+        "cookiesDisabled": "Por favor, habilita las cookies y permite las ventanas emergentes para continuar."
       },
       "email": {
-        "wrongPassword": "That password isn't right. Please try again.",
-        "alreadyExists": "This email already exists as a Google or Apple login. Login with Google or Apple.",
-        "notExist": "We cannot find an account associated with that email address. Please try again.",
-        "wrongCode": "Code is wrong",
-        "failedToLink": "Failed to link credentials, try again",
-        "badFormat": "Invalid email format.",
-        "notAssociated": "No user was found with that email address.",
-        "generatingVerifyLinkFailed": "Error generating email link"
+        "wrongPassword": "Esa contraseña no es correcta. Por favor, inténtalo de nuevo.",
+        "alreadyExists": "Este correo electrónico ya existe como inicio de sesión de Google o Apple. Inicia sesión con Google o Apple.",
+        "notExist": "No podemos encontrar una cuenta asociada a esa dirección de correo electrónico. Por favor, inténtalo de nuevo.",
+        "wrongCode": "El código es incorrecto",
+        "failedToLink": "Error al vincular las credenciales, inténtalo de nuevo",
+        "badFormat": "Formato de correo electrónico no válido.",
+        "notAssociated": "No se encontró ningún usuario con esa dirección de correo electrónico.",
+        "generatingVerifyLinkFailed": "Error al generar el enlace de verificación por correo electrónico"
       },
       "facebook": {
-        "failed": "Unable to sign into your facebook account. Please try again"
+        "failed": "No se puede iniciar sesión en tu cuenta de Facebook. Por favor, inténtalo de nuevo"
       },
-      "generic": "{} Please try again"
+      "generic": "{} Por favor, inténtalo de nuevo"
     }
   },
   "game": {
     "logs": {
-      "tooltip": "Live log",
-      "noLogs": "No Logs",
+      "tooltip": "Registro en vivo",
+      "noLogs": "Sin registros",
       "military": {
-        "upgraded": "upgraded",
-        "military": "military"
+        "upgraded": "mejorado",
+        "military": "militar"
       },
       "tokens": {
-        "islandExploredSuffix": "explored a new island. Earned 1 VP!",
-        "longestTrailSuffix": "got longest road ({}). Earned 2 VP!",
-        "portAuthoritySuffix": "got Port Authority. Earned 2 VP!"
+        "islandExploredSuffix": "exploró una nueva isla. ¡Ganó 1 VP!",
+        "longestTrailSuffix": "obtuvo la carretera más larga ({}). ¡Ganó 2 VP!",
+        "portAuthoritySuffix": "obtuvo la Autoridad Portuaria. ¡Ganó 2 VP!"
       },
       "started": {
-        "prefix": "New",
-        "suffix": "player game started on"
+        "prefix": "Nuevo",
+        "suffix": "jugador comenzó el juego en"
       },
       "raid": {
-        "raided": "raided",
-        "freeRaided": "free raided"
+        "raided": "saqueó",
+        "freeRaided": "saqueo gratuito"
       },
       "trade": {
-        "traded": "traded",
-        "for": "for"
+        "traded": "intercambió",
+        "for": "por"
       },
       "catapult": {
-        "catapult": "catapult",
-        "removed": "spent one military to remove",
-        "allRemoved": "All Catapults have been removed from the board."
+        "catapult": "catapulta",
+        "removed": "gastó un punto militar para quitar",
+        "allRemoved": "Todas las catapultas han sido eliminadas del tablero."
       },
       "devCards": {
-        "drawn": "drew a development card"
+        "drawn": "sacó una carta de desarrollo"
       },
       "resources": {
-        "received": "Received",
-        "discarded": "discarded",
-        "earned": "earned",
-        "aqueductSuffix": "from aqueduct"
+        "received": "Recibido",
+        "discarded": "descartado",
+        "earned": "ganado",
+        "aqueductSuffix": "del acueducto"
       },
       "charity": {
-        "charity": "Charity!",
-        "earnedPrefix": "Everyone but",
-        "earnedSuffix": "earned",
-        "everyoneEarned": "Everyone earned"
+        "charity": "¡Caridad!",
+        "earnedPrefix": "Todos excepto",
+        "earnedSuffix": "ganado",
+        "everyoneEarned": "Todos ganaron"
       },
       "barbarian": {
-        "attack": "Barbarian attack",
-        "failed": "The players failed to defend the",
-        "lostCity": "lost a city.",
-        "defended": "successfully defended",
-        "earnedVP": "earned VP with highest military",
-        "earnedCardSuffix": "rewarded a development card."
+        "attack": "Ataque bárbaro",
+        "failed": "Los jugadores no pudieron defender al",
+        "lostCity": "perdió una ciudad.",
+        "defended": "defendió con éxito",
+        "earnedVP": "ganó VP con la mayor fuerza militar",
+        "earnedCardSuffix": "recompensó una carta de desarrollo."
       },
       "culture": {
-        "upgradedPrefix": "upgraded",
-        "upgradedSuffix": "culture"
+        "upgradedPrefix": "mejorado",
+        "upgradedSuffix": "cultura"
       },
-      "bonusTime": "received {} turn timer bonus",
-      "gameOver": "Game Over",
-      "you": "You",
-      "your": "Your",
-      "were": "were",
-      "was": "was",
-      "turn": "Turn",
-      "rolled": "rolled",
-      "built": "built a",
+      "bonusTime": "recibió un bono de {} turno",
+      "gameOver": "Fin del juego",
+      "you": "Tú",
+      "your": "Tu",
+      "were": "fue",
+      "was": "fue",
+      "turn": "Turno",
+      "rolled": "lanzó",
+      "built": "construyó un",
       "stole": {
-        "one": "Stole from {} player",
-        "many": "Stole from {} players",
-        "other": "Stole from {} players",
-        "failed": "Couldn't steal resources."
+        "one": "Robó a {} jugador",
+        "many": "Robó a {} jugadores",
+        "other": "Robó a {} jugadores",
+        "failed": "No pudo robar recursos."
       }
     },
     "devCards": {
-      "title": "played {} card.",
-      "newDevCard": "New dev card: {}",
+      "title": "jugó la carta {}.",
+      "newDevCard": "Nueva carta de desarrollo: {}",
       "subtitle": {
         "masterMerchant": {
-          "oneCard": "Took one card from {}",
-          "twoCards": "Took two cards from {}"
+          "oneCard": "Tomó una carta de {}",
+          "twoCards": "Tomó dos cartas de {}"
         },
         "merchant": {
-          "withVP": "on {}, earned 1 VP.",
-          "withoutVP": "on {}."
+          "withVP": "en {}, ganó 1 VP.",
+          "withoutVP": "en {}."
         },
         "merchantFleet": {
-          "oneResource": "Can now trade {} 2:1 this turn",
-          "allResources": "Can now trade {} 2:1"
+          "oneResource": "Ahora puedes intercambiar {} 2:1 este turno",
+          "allResources": "Ahora puedes intercambiar {} 2:1"
         },
-        "commercialHarbor": "Traded 1 resource for 1 commodity",
+        "commercialHarbor": "Intercambió 1 recurso por 1 producto básico",
         "resourceMonopoly": {
-          "oneWithoutResources": "Stole resources from {}",
-          "moreWithoutResources": "Stole resources from {} players",
-          "failed": "Tried to steal some resources but got nothing",
-          "failedWithResource": "Tried to steal {} but got nothing",
-          "withResourcesAllSame": "Stole {} {} from {}",
-          "withResourcesDifferent": "Stole 2 {} from {} and 1 $resourceName from {}"
+          "oneWithoutResources": "Robó recursos a {}",
+          "moreWithoutResources": "Robó recursos a {} jugadores",
+          "failed": "Intenté robar algunos recursos pero no obtuve nada",
+          "failedWithResource": "Intenté robar {} pero no obtuve nada",
+          "withResourcesAllSame": "Robó {} {} a {}",
+          "withResourcesDifferent": "Robó 2 {} a {} y 1 $resourceName a {}"
         },
         "commodityMonopoly": {
-          "oneVictim": "Stole commodities from {}",
-          "moreVictims": "Stole commodities from {} players",
-          "failed": "Tried to steal some commodities but got nothing"
+          "oneVictim": "Robó mercancías a {}",
+          "moreVictims": "Robó mercancías a {} jugadores",
+          "failed": "Intenté robar algunas mercancías pero no obtuve nada"
         },
-        "expedition": "Converted tile to gold",
-        "famine": "{} discarded random cards",
+        "expedition": "Convirtió una casilla en oro",
+        "famine": "{} cartas aleatorias descartadas",
         "plenty": {
-          "withoutResources": "Got 2 resources",
-          "withResources": "Got 2 resources: {}"
+          "withoutResources": "Obtuvó 2 recursos",
+          "withResources": "Obtuvó 2 recursos: {}"
         },
-        "excavation": "Received two clays for each building on a clay tile",
-        "forestry": "Received two wood for each building on a wood tile",
-        "irrigation": "Received two wheat for each building on a wheat tile",
-        "mining": "Received two ore for each building on an ore tile",
-        "borderCollie": "Received two sheep for each building on a sheep tile",
-        "inventor": "Swapped two number tiles",
-        "medicine": "Built a city for 2 ore and 1 wheat",
-        "roadBuilding": "Built two roads/bridges",
-        "military": "Upgraded military",
-        "crane": "Reduced culture upgrade cost",
+        "excavation": "Recibió dos arcillas para cada edificio en una casilla de arcilla.",
+        "forestry": "Recibió dos maderas para cada edificio en una casilla de madera.",
+        "irrigation": "Recibió dos trigo por cada edificio en una casilla de trigo",
+        "mining": "Recibió dos minerales por cada edificio en una casilla de mineral",
+        "borderCollie": "Recibió dos ovejas por cada edificio en una casilla de ovejas",
+        "inventor": "Intercambió dos casillas numéricas",
+        "medicine": "Construyó una ciudad con 2 minerales y 1 trigo",
+        "roadBuilding": "Construyó dos carreteras/puentes",
+        "military": "Militar mejorado",
+        "crane": "Costo reducido de actualización de cultivo",
         "siege": {
-          "oneVictim": "Stole resources from {}",
-          "moreVictims": "Stole resources from {} players"
+          "oneVictim": "Robó recursos a {}",
+          "moreVictims": "Robó recursos a {} jugadores"
         },
-        "bishop": "Removed catapult",
-        "deserter": "Stole military from {}",
-        "vandal": "Destroyed {}'s bridge/road",
-        "diplomat": "Moved one trail",
-        "raze": "Destroyed {}'s city",
-        "spy": "Stole dev card from {}",
+        "bishop": "Catapulta eliminada",
+        "deserter": "Robó militares de {}",
+        "vandal": "Destruyó el puente/carretera de {}",
+        "diplomat": "Movió un sendero",
+        "raze": "Destruyó la ciudad de {}",
+        "spy": "Robó una carta de desarrollo de {}",
         "wedding": {
-          "oneVictim": "Stole cards from {}",
-          "moreVictims": "Stole cards from {} players"
+          "oneVictim": "Robó cartas de {}",
+          "moreVictims": "Robó cartas de {} jugadores"
         },
-        "anarchy": "Randomized number tiles",
-        "alchemist": "Chose dice roll numbers",
-        "traitor": "Advanced the barbarians tracker"
+        "anarchy": "Aleatorizó las casillas numéricas",
+        "alchemist": "Eligió los números de dados",
+        "traitor": "Avanzó el rastreador de bárbaros."
       },
       "masterMerchant": {
-        "title": "Master Merchant",
-        "description": "Pick any player with more victory points, see their hand and pick two resource or commodity cards.",
-        "cannotPlay": "There are no players that have more victory points than you",
+        "title": "Maestro Comerciante",
+        "description": "Elige a cualquier jugador con más puntos de victoria, ve su mano y elige dos cartas de recursos o mercancías",
+        "cannotPlay": "No hay jugadores que tengan más puntos de victoria que tú",
         "dialog": {
-          "title": "Steal!"
+          "title": "¡Robar!"
         }
       },
       "merchant": {
-        "title": "Merchant",
-        "description": "Move the merchant token to your own settlement or city. The player that possesses the merchant may trade that resource 2:1 with the bank. Worth 1 VP.",
+        "title": "Comerciante",
+        "description": "Mueve la ficha de comerciante a tu propio asentamiento o ciudad. El jugador que posea el comerciante puede intercambiar ese recurso 2:1 con el banco. Vale 1 VP.",
         "dialog": {
-          "title": "Place Merchant",
-          "message": "Are you sure you want to place a merchant here?",
-          "yes": "Yup!",
-          "no": "Cancel"
+          "title": "Colocar Comerciante",
+          "message": "¿Estás seguro de que deseas iniciar un servicio?",
+          "yes": "¡Sí!",
+          "no": "Cancelar"
         }
       },
       "merchantFleet": {
-        "title": "Merchant Fleet",
-        "description": "Pick one resource or commodity of your choice to trade with the bank at a 2:1 rate for this turn only."
+        "title": "Flota del comerciante",
+        "description": "Elige un recurso o producto básico de tu elección para comerciar con el banco a una tasa de 2:1 solo durante este turno."
       },
       "commercialHarbor": {
-        "title": "Commercial Harbor",
-        "description": "Trade 1 resource for 1 commodity."
+        "title": "Puerto comercial",
+        "description": "Intercambia 1 recurso por 1 producto básico."
       },
       "resourceMonopoly": {
-        "title": "Resource Monopoly",
-        "description": "Pick a resource. Each player must give you (up to) two of those resources if they have it."
+        "title": "Monopolio de recursos",
+        "description": "Elige un recurso. Cada jugador debe darte (hasta) dos de esos recursos si los tiene."
       },
       "commodityMonopoly": {
-        "title": "Commodity Monopoly",
-        "description": "Pick a commodity. Each player must give you one of that commodity if they have it."
+        "title": "Monopolio de mercancías",
+        "description": "Elige una mercancía. Cada jugador debe darte una de esas mercancías si la tiene."
       },
       "expedition": {
-        "title": "Expedition",
-        "description": "Choose any tile on the board and convert it to a gold resource tile.",
+        "title": "Expedición",
+        "description": "Elige cualquier casilla del tablero y conviértela en una casilla de recurso dorado.",
         "dialog": {
-          "title": "Are you sure",
-          "message": "Do you want to turn this tile into gold?",
+          "title": "Estás seguro",
+          "message": "¿Quieres convertir esta casilla en oro?",
           "no": "No",
-          "yes": "Yes"
+          "yes": "Sí"
         }
       },
       "famine": {
-        "title": "Famine",
-        "description": "All players with more VPs than you discard 2 random resources.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "Hambruna",
+        "description": "Todos los jugadores con más VP que tú descartan 2 recursos aleatorios.",
+        "cannotPlay": "No hay jugadores que tengan más puntos de victoria que tú"
       },
       "plenty": {
-        "title": "Plenty",
-        "description": "Get two resources of your choice."
+        "title": "Abundancia",
+        "description": "Obtén dos recursos de tu elección."
       },
       "excavation": {
-        "title": "Excavation",
-        "description": "Receive 2 clay per settlement on each clay tile"
+        "title": "Excavación",
+        "description": "Recibe 2 piezas de arcilla por asentamiento en cada casilla de arcilla"
       },
       "forestry": {
-        "title": "Forestry",
-        "description": "Receive 2 wood per settlement on each wood tile"
+        "title": "Silvicultura",
+        "description": "Reciba 2 maderas por asentamiento en cada casilla de madera"
       },
       "irrigation": {
-        "title": "Irrigation",
-        "description": "Receive 2 wheat per settlement on each wheat tile"
+        "title": "Irrigación",
+        "description": "Recibe 2 trigo por asentamiento en cada casilla de trigo"
       },
       "mining": {
-        "title": "Mining",
-        "description": "Receive 2 ore per settlement on each ore tile"
+        "title": "Minería",
+        "description": "Reciba 2 minerales por asentamiento en cada casilla de mineral"
       },
       "borderCollie": {
         "title": "Border Collie",
-        "description": "Receive 2 sheep per settlement on each sheep tile"
+        "description": "Recibe 2 ovejas por asentamiento en cada casilla de oveja"
       },
       "inventor": {
         "title": "Inventor",
-        "description": "Swap two number tiles on the board. Swappable numbers are: 3, 4, 5, 9, 10, and 11.",
-        "tileSelected": "Swap these tiles?",
+        "description": "Intercambia dos casillas numéricas en el tablero. Los números intercambiables son: 3, 4, 5, 9, 10, y 11.",
+        "tileSelected": "¿Intercambiar estas casillas?",
         "dialog": {
-          "title": "Swap Tiles",
-          "message": "Do you want swap the values of these two tiles?",
-          "yes": "Yes",
-          "no": "Cancel"
+          "title": "Intercambiar casillas",
+          "message": "¿Quieres intercambiar los valores de estas dos casillas?",
+          "yes": "Sí",
+          "no": "Cancelar"
         }
       },
       "medicine": {
-        "title": "Medicine",
-        "description": "Build a city for 2 ore and 1 wheat.",
-        "cannotAfford": "You need to have at least two ore and one wheat to use this card",
-        "cannotPlace": "There is no where on the board to place a city",
-        "upgradeTitle": "Build {} with {}"
+        "title": "Medicina",
+        "description": "Construye una ciudad con 2 minerales y 1 trigo.",
+        "cannotAfford": "Necesitas tener al menos dos minerales y un trigo para usar esta carta",
+        "cannotPlace": "No hay ningún lugar en el tablero para colocar una ciudad",
+        "upgradeTitle": "Construye {} con {}"
       },
       "roadBuilding": {
-        "title": "Road Building",
-        "description": "Place two roads or two bridges, or one of each, at no cost to you."
+        "title": "Construcción de carreteras",
+        "description": "Coloca dos carreteras o dos puentes, o uno de cada uno, sin costo para ti."
       },
       "military": {
-        "title": "Military",
-        "description": "Upgrade your military power by one level.",
-        "cannotPlay": "You are already have the maximum military power."
+        "title": "Militar",
+        "description": "Mejora tu poder militar en un nivel.",
+        "cannotPlay": "Ya tienes el máximo poder militar."
       },
       "crane": {
-        "title": "Crane",
-        "description": "After playing this card, your next culture improvement this turn costs one fewer commodity",
-        "cannotPlay": "You cannot play this card because you have no cities or you have a Crane Card already in play."
+        "title": "Grúa",
+        "description": "Después de jugar esta carta, tu próxima mejora de cultura en este turno cuesta una mercancía menos.",
+        "cannotPlay": "No puedes jugar esta carta porque no tienes ciudades o porque ya tienes una carta de Grúa en juego."
       },
       "siege": {
-        "title": "Siege",
-        "description": "Carry out a raid but steal one random resource from every player who has a village or city on the raided tile. Does not cost a military point"
+        "title": "Asedio",
+        "description": "Lleva a cabo un asedio, pero roba un recurso aleatorio de cada jugador que tenga una aldea o ciudad en la casilla atacada. No cuesta un punto militar"
       },
       "bishop": {
-        "title": "Bishop",
-        "description": "Remove a catapult from the board.",
-        "cannotPlay": "There are no catapults on the board for you to remove."
+        "title": "Obispo",
+        "description": "Retira una catapulta del tablero.",
+        "cannotPlay": "No hay catapultas en el tablero para que las elimines."
       },
       "deserter": {
-        "title": "Deserter",
-        "description": "Steal one level of military power from a player of your choice.",
-        "cannotPlayMaxedPower": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "cannotPlayBarracks": "You already have max military power.",
-        "cannotPlayEmpty": "No one has any military power; there is nothing to steal"
+        "title": "Desertor",
+        "description": "Roba un nivel de poder militar a un jugador de tu elección.",
+        "cannotPlayMaxedPower": "Tu ejército ha alcanzado su potencia máxima de 3. Mejora tu política al nivel 3 para aumentar tu máximo.",
+        "cannotPlayBarracks": "Ya tienes el poder militar máximo.",
+        "cannotPlayEmpty": "Nadie tiene poder militar; no hay nada que robar"
       },
       "vandal": {
-        "title": "Vandal",
-        "description": "Remove another player's road or bridge of your choosing."
+        "title": "Vándalo",
+        "description": "Elimina la carretera o el puente que elijas de otro jugador."
       },
       "diplomat": {
-        "title": "Diplomat",
-        "description": "Move one of your own roads or bridges to a new location.",
-        "cannotPlay": "You have no trails to move."
+        "title": "Diplomático",
+        "description": "Mueve una de tus carreteras o puentes a una nueva ubicación.",
+        "cannotPlay": "No tienes senderos para moverte."
       },
       "raze": {
-        "title": "Raze",
-        "description": "Lose 1 military power and destroy a non walled city of any player with more VPs than you. You must have military power greater than or equal to 1 to play this card.",
-        "cannotPlayNoPlayers": "There are no players with more victory points than you",
-        "cannotPlayNoBuildings": "There are no buildings to destroy",
-        "cannotPlayNoMilitary": "You must have at least one military power to use this card",
+        "title": "Arrasar",
+        "description": "Pierde 1 poder militar y destruye una ciudad no amurallada de cualquier jugador con más VP que tú. Debes tener un poder militar mayor o igual a 1 para jugar esta carta.",
+        "cannotPlayNoPlayers": "No hay jugadores que tengan más puntos de victoria que tú",
+        "cannotPlayNoBuildings": "No hay edificios que destruir",
+        "cannotPlayNoMilitary": "Debes tener al menos un poder militar para usar esta carta",
         "dialog": {
-          "title": "Are you sure?",
-          "message": "Do you want to destroy this city?",
-          "yes": "Yes!",
+          "title": "¿Estás seguro?",
+          "message": "¿Quieres destruir esta ciudad?",
+          "yes": "¡Sí!",
           "no": "No"
         }
       },
       "spy": {
-        "title": "Spy",
-        "description": "Pick a player, see their dev cards and choose one to steal.",
-        "cannotPlay": "No other player currently has development cards.",
+        "title": "Espía",
+        "description": "Elige un jugador, mira sus cartas de desarrollo y elige una para robar.",
+        "cannotPlay": "Ningún otro jugador tiene actualmente cartas de desarrollo.",
         "dialog": {
-          "title": "Steal!"
+          "title": "¡Robar!"
         }
       },
       "wedding": {
-        "title": "Wedding",
-        "description": "Steal two random cards (resources or commodities) from every player that has more victory points than you.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "Boda",
+        "description": "Roba dos cartas aleatorias (recursos o mercancías) de cada jugador que tenga más puntos de victoria que tú.",
+        "cannotPlay": "No hay jugadores que tengan más puntos de victoria que tú"
       },
       "anarchy": {
-        "title": "Anarchy",
-        "description": "Randomize all the number tiles on the board until a 7 is rolled."
+        "title": "Anarquía",
+        "description": "Aleatoriza todas las casillas numéricas del tablero hasta que salga un 7."
       },
       "alchemist": {
-        "title": "Alchemist",
-        "description": "Each turn you possess this card, you have the option of choosing the exact numbers on both 6-sided dice or doing a normal random roll.",
-        "cannotPlay": "This development card is only playable at the beginning of the turn."
+        "title": "Alquimista",
+        "description": "Cada turno que poseas esta carta, tienes la opción de elegir los números exactos en ambos dados de 6 caras o hacer una tirada aleatoria normal.",
+        "cannotPlay": "Esta carta de desarrollo solo se puede jugar al principio del turno."
       },
       "traitor": {
-        "title": "Traitor",
-        "description": "Advance the barbarian 2 spots. Will stop just before an attack."
+        "title": "Traidor",
+        "description": "Avanza los 2 puestos de bárbaro. Se detendrá justo antes de un ataque."
       },
       "constitution": {
-        "title": "Constitution",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "Constitución",
+        "description": "1 Punto de victoria. Se juega de inmediato y no cuenta para tus 5 cartas de desarrollador como máximo."
       },
       "printer": {
-        "title": "Printer",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "Impresora",
+        "description": "1 Punto de victoria. Se juega de inmediato y no cuenta para tus 5 cartas de desarrollador como máximo."
       }
     },
     "chat": {
-      "loadingError": "Something went wrong, please try again",
-      "noMessages": "No messages yet",
-      "emptyMsg": "Your message is empty. Please enter some text.",
-      "addMsgHint": "Add message",
-      "yourMsg": "you",
-      "banned": "You are chat restricted until f{}. Please be respectful when chatting to avoid future bans. We want to keep this community fun for everyone!",
+      "loadingError": "Algo salió mal, inténtalo de nuevo",
+      "noMessages": "Aún no hay mensajes",
+      "emptyMsg": "Tu mensaje está vacío. Por favor, introduce algún texto.",
+      "addMsgHint": "Añadir mensaje",
+      "yourMsg": "tú",
+      "banned": "Estás restringido al chat hasta f{}. Sé respetuoso al chatear para evitar futuras prohibiciones. ¡Queremos que esta comunidad sea divertida para todos!",
       "banConfirmation": {
-        "title": "Ban Player",
-        "message": "Are you sure you want to ban this player from chat? You won't see any messages from them",
-        "yes": "Yes",
+        "title": "Prohibir jugador",
+        "message": "¿Estás seguro de que quieres prohibir a este jugador del chat? No verás ningún mensaje de ellos",
+        "yes": "Sí",
         "no": "No",
-        "failed": "Something went wrong, please try again"
+        "failed": "Algo salió mal, inténtalo de nuevo"
       }
     },
     "playerTurnOverlay": {
-      "playerNameSuffix": "'s",
-      "playerTurn": "turn"
+      "playerNameSuffix": "de",
+      "playerTurn": "turno"
     },
     "buildDialog": {
-      "title": "BUILD",
-      "trade": "Trade",
-      "cannotAfford": "You can't afford that!",
-      "structureRequires": "{} requires:",
-      "cannotBuild": "Cannot build {}",
-      "cannotBuildReason": "You have nowhere to put it."
+      "title": "CONSTRUIR",
+      "trade": "Intercambiar",
+      "cannotAfford": "¡No puedes permitirte eso!",
+      "structureRequires": "{} requiere:",
+      "cannotBuild": "No se puede construir {}",
+      "cannotBuildReason": "No tienes dónde ponerlo."
     },
     "trailTypeDialog": {
-      "title": "CHOOSE ONE",
-      "subtitle": "What would you like to build?",
-      "cannotAfford": "You can't afford that!",
-      "trailsRequires": "{} requires:"
+      "title": "ELIGE UNO",
+      "subtitle": "¿Qué te gustaría construir?",
+      "cannotAfford": "¡No puedes permitirte eso!",
+      "trailsRequires": "{} requiere:"
     },
     "devCardsDialog": {
-      "title": "DEV CARDS",
-      "defaultButton": "Play Card",
-      "noCards": "No Development Cards",
-      "cannotPlay": "Can't Play {} Card"
+      "title": "TARJETAS DE DESARROLLO",
+      "defaultButton": "Tarjeta de juego",
+      "noCards": "Sin tarjetas de desarrollo",
+      "cannotPlay": "No puedo jugar {} cartas"
     },
     "playerModalDialog": {
-      "military": "Military",
-      "militaryUpgrade": "Upgrade",
-      "militaryRequires": "Upgrading your military requires",
-      "militaryCannotAfford": "You can't afford that!",
-      "raid": "Raid",
-      "culture": "Culture",
-      "cultureUpgrade": "Upgrade",
-      "devCards": "Dev Cards",
-      "devCardsPlay": "Play",
-      "build": "Build",
-      "trade": "Trade",
+      "military": "Militar",
+      "militaryUpgrade": "Actualizar",
+      "militaryRequires": "Actualizar sus fuerzas armadas requiere",
+      "militaryCannotAfford": "¡No puedes permitirte eso!",
+      "raid": "Saqueo",
+      "culture": "Cultura",
+      "cultureUpgrade": "Actualizar",
+      "devCards": "TARJETAS DE DESARROLLO",
+      "devCardsPlay": "Jugar",
+      "build": "Construir",
+      "trade": "Intercambiar",
       "raidError": {
-        "title": "Unable to raid",
-        "message": "You cannot raid right now"
+        "title": "No se puede saquear",
+        "message": "No puedes saquear en este momento"
       },
       "points": {
-        "victoryPoints": "Victory Points",
-        "longestRoute": "Longest Route",
-        "military": "Military",
-        "islands": "Islands Explored",
-        "devCards": "Dev Cards",
-        "merchant": "Merchant Tokens",
-        "ports": "Port Authority"
+        "victoryPoints": "Puntos de victoria",
+        "longestRoute": "Ruta más larga",
+        "military": "Militar",
+        "islands": "Islas exploradas",
+        "devCards": "TARJETAS DE DESARROLLO",
+        "merchant": "Fichas de comerciante",
+        "ports": "Autoridad portuaria"
       }
     },
     "safeRollDialog": {
-      "title": "SAFE ROLL?",
-      "message": "You're at risk of discarding half of your hand!",
-      "riskyRoll": "Risky Roll",
-      "safeRoll": "Safe Roll"
+      "title": "¿TIRADA SEGURA?",
+      "message": "¡Corres el riesgo de descartar la mitad de tu mano!",
+      "riskyRoll": "Tirada arriesgada",
+      "safeRoll": "Tirada segura"
     },
     "safeTokens": {
-      "title": "BUY SAFE TOKENS"
+      "title": "COMPRAR FICHAS SEGURAS"
     },
     "rollType": {
-      "description": "Roll dice or use your Alchemist card to choose your numbers",
-      "alchemist": "Use Alchemist",
-      "random": "Random Roll"
+      "description": "Tira los dados o usa tu carta de alquimista para elegir tus números",
+      "alchemist": "Usar alquimista",
+      "random": "Tirada aleatoria"
     },
     "gameOver": {
-      "title": "Game Over",
-      "stats": "Stats",
-      "home": "Home",
-      "linkCopied": "Game link copied to clipboard",
-      "goGold": "GO GOLD!",
-      "rematch": "Rematch",
-      "favoriteMap": "Favorite Map",
-      "unfavoriteMap": "Unfavorite Map",
-      "won": "{} \nwon!",
-      "upgradeToSee": "Upgrade to see \n 12 more stats!"
+      "title": "Fin del juego",
+      "stats": "Estadísticas",
+      "home": "Inicio",
+      "linkCopied": "Enlace del juego copiado al portapapeles",
+      "goGold": "¡CONVIÉRTETE EN ORO!",
+      "rematch": "Revancha",
+      "favoriteMap": "Mapa favorito",
+      "unfavoriteMap": "Mapa desfavorecido",
+      "won": "{} \nganado!",
+      "upgradeToSee": "Actualiza para ver \n ¡12 estadísticas más!"
     },
     "players": {
-      "resourceCards": "Resource Cards",
-      "devCards": "Development Cards",
-      "military": "Military Points",
-      "scienceLevel": "Science Level",
-      "commerceLevel": "Commerce Level",
-      "politicsLevel": "Politics Level",
-      "merchant": "Merchant Token",
-      "portPoints": "Port Points",
-      "longestRoad": "Longest Road",
-      "victoryPoints": "Victory Points"
+      "resourceCards": "Cartas de recursos",
+      "devCards": "Cartas de desarrollo",
+      "military": "Puntos militares",
+      "scienceLevel": "Nivel de ciencias",
+      "commerceLevel": "Nivel de comercio",
+      "politicsLevel": "Nivel de política",
+      "merchant": "Ficha de comerciante",
+      "portPoints": "Puntos portuarios",
+      "longestRoad": "Camino más largo",
+      "victoryPoints": "Puntos de victoria"
     },
     "rematch": {
       "canceled": {
-        "title": "REMATCH",
-        "close": "Close",
-        "declined": "Rematch declined"
+        "title": "REVANCHA",
+        "close": "Cerrar",
+        "declined": "Revancha rechazada"
       },
       "ready": {
-        "title": "GET READY!",
-        "cancel": "CANCEL"
+        "title": "¡PREPÁRATE!",
+        "cancel": "CANCELAR"
       },
       "request": {
-        "title": "Rematch Requested",
-        "yes": "Yes",
+        "title": "Revancha solicitada",
+        "yes": "Sí",
         "no": "No"
       },
       "reject": {
-        "title": "Reject Rematch?",
-        "message": "re you sure you want to reject this game?",
-        "yes": "Reject"
+        "title": "¿Rechazar la revancha?",
+        "message": "¿Estás seguro de que quieres rechazar este juego?",
+        "yes": "Rechazar"
       }
     },
     "replay": {
-      "turnNumber": "Turn {} of {}",
-      "replayLast": "Replay last",
+      "turnNumber": "Turno {} de {}",
+      "replayLast": "Reproducir último",
       "turn": {
-        "one": "turn",
-        "many": "turns",
-        "other": "turns"
+        "one": "turno",
+        "many": "turnos",
+        "other": "turnos"
       },
       "purchase": {
-        "title": "REPLAYS",
-        "description": "Replays allow you to rewatch all turns to see what happened since your last turn…or replay the whole game when it’s over!  Want to unlock full replays?",
-        "no": "No thanks",
-        "yes": "Go Gold"
+        "title": "REPETICIONES",
+        "description": "Las repeticiones te permiten volver a ver todos los turnos para ver qué sucedió desde tu último turno! ¡o reproducir todo el juego cuando termine!  ¿Quieres desbloquear las repeticiones completas?",
+        "no": "No, gracias",
+        "yes": "Convertirse en Oro"
       }
     },
     "swipeableDevCardDialog": {
-      "close": "Close",
-      "play": "Play Card",
-      "cannotPlay": "Can't play {}",
-      "wrongTurn": "It's not your turn"
+      "close": "Cerrar",
+      "play": "Tarjeta de juego",
+      "cannotPlay": "No se puede jugar {}",
+      "wrongTurn": "No es tu turno"
     },
     "actions": {
       "raid": {
-        "tileSelected": "Raid this tile?",
-        "removeCatapult": "Remove this catapult?"
+        "tileSelected": "¿Saquear esta casilla?",
+        "removeCatapult": "¿Quitar esta catapulta?"
       },
       "metro": {
-        "placeIt": "Metro! Select any of your cities to place it."
+        "placeIt": "¡Metro! Selecciona cualquiera de tus ciudades para colocarla."
       },
       "chooseTile": {
-        "bishop": "Choose catapult to remove",
-        "expedition": "Choose tile to convert to gold",
-        "inventor": "Choose two tiles to swap numbers",
-        "merchant": "Place your merchant token",
-        "siege": "Choose tile to siege",
-        "raid": "Choose tile to raid"
+        "bishop": "Elige la catapulta para eliminarla",
+        "expedition": "Elige la casilla para convertirla en oro",
+        "inventor": "Elige dos fichas para intercambiar números",
+        "merchant": "Coloca tu ficha de comerciante",
+        "siege": "Elige la casilla para asediarla",
+        "raid": "Elige la casilla para saquearla"
       },
       "chooseRoads": {
-        "placeRoad": "Place road or bridge",
-        "place2Roads": "Place 2 roads or bridges",
-        "selectRoad": "Select a road or bridge",
-        "selectEnemyRoad": "Select an enemy road or bridge",
-        "confirm": "Build {}?"
+        "placeRoad": "Coloca la carretera o puente",
+        "place2Roads": "Coloca 2 carreteras o puentes",
+        "selectRoad": "Selecciona una carretera o puente",
+        "selectEnemyRoad": "Selecciona una carretera o puente enemigo",
+        "confirm": "¿Construir {}?"
       },
       "chooseCorner": {
-        "selectEnemyCity": "Select an enemy city",
-        "placeVillage": "Place your village",
-        "placeCity": "Place your city",
-        "confirmVillage": "Build a village?",
-        "confirmCity": "Build a city?",
-        "confirmCityWall": "Build a city wall?",
-        "confirmMetro": "Build a metro?"
+        "selectEnemyCity": "Selecciona una ciudad enemiga",
+        "placeVillage": "Coloca tu aldea",
+        "placeCity": "Coloca tu ciudad",
+        "confirmVillage": "¿Construir una aldea?",
+        "confirmCity": "¿Construir una ciudad?",
+        "confirmCityWall": "¿Construir una muralla?",
+        "confirmMetro": "¿Construir un metro?"
       },
-      "roll": "Roll the Dice"
+      "roll": "Tira los dados"
     },
     "menu": {
-      "gameActions": "GAME ACTIONS",
-      "info": "INFO",
-      "turnReplay": "Turn Replays",
-      "rollFirst": "Please roll dice first.",
-      "surrender": "Surrender",
+      "gameActions": "ACCIONES DEL JUEGO",
+      "info": "INFORMACIÓN",
+      "turnReplay": "Repeticiones de turnos",
+      "rollFirst": "Por favor, tira los dados primero.",
+      "surrender": "Rendirte",
       "surrenderDialog": {
-        "title": "Surrender",
-        "message": "Are you sure you want to surrender?\nThere is no penalty for admitting defeat.",
-        "yes": "Surrender",
-        "no": "Cancel"
+        "title": "Rendirte",
+        "message": "¿Estás seguro de que quieres rendirte?\nNo hay penalización por admitir la derrota.",
+        "yes": "Rendirte",
+        "no": "Cancelar"
       },
-      "share": "Share",
+      "share": "Compartir",
       "reportBug": {
-        "title": "Report Bug",
-        "thanks": "Thanks!",
-        "message": "Thank you for sharing your feedback with us!"
+        "title": "Informar error",
+        "thanks": "¡Gracias!",
+        "message": "¡Gracias por compartir tus comentarios con nosotros!"
       },
-      "settings": "Settings",
-      "prodChart": "Prod Chart",
-      "devCards": "Dev Cards",
-      "rules": "Rules",
-      "cancel": "Cancel"
+      "settings": "Ajustes",
+      "prodChart": "Gráfico Prod",
+      "devCards": "TARJETAS DE DESARROLLO",
+      "rules": "Reglas",
+      "cancel": "Cancelar"
     },
     "settings": {
-      "title": "SETTINGS",
-      "sound": "Sound",
-      "music": "Music",
-      "mapHints": "Map Hints",
-      "chatNotifications": "Chat Notifications",
-      "turnNotifications": "Turn Notifications",
-      "autoJump": "Auto jump to next game",
-      "showReplays": "Show Replays",
-      "autoRoll": "Auto-Roll Dice"
+      "title": "AJUSTES",
+      "sound": "Sonido",
+      "music": "Música",
+      "mapHints": "Sugerencias de mapas",
+      "chatNotifications": "Notificaciones de chat",
+      "turnNotifications": "Notificaciones de turno",
+      "autoJump": "Salto automático al siguiente juego",
+      "showReplays": "Mostrar repeticiones",
+      "autoRoll": "Tirar dados automáticamente"
     },
     "playerControls": {
-      "military": "Military",
-      "science": "Science",
-      "commerce": "Commerce",
-      "politics": "Politics"
+      "military": "Militar",
+      "science": "Ciencia",
+      "commerce": "Comercio",
+      "politics": "Política"
     },
     "pickPlayer": {
-      "title": "PICK PLAYER",
-      "noPlayers": "No players to steal from.\nAll players have zero resources.",
-      "button": "Select"
+      "title": "ELEGIR UN JUGADOR",
+      "noPlayers": "No hay jugadores a quienes robar.\nTodos los jugadores tienen cero recursos.",
+      "button": "Seleccionar"
     },
     "barbarianDialogs": {
-      "basic": "Barbarians",
-      "barbarianLead": "Barbarians Lead",
-      "playerLead": "Player Lead",
-      "defense": "Total defense",
-      "barbarianStrength": "Barbarian Strength",
-      "attackPossibleIn": "Attack possible in {} Turns",
-      "leaderboard": "Leaderboard",
+      "basic": "Bárbaros",
+      "barbarianLead": "Líder de bárbaros",
+      "playerLead": "Líder del jugador",
+      "defense": "Defensa total",
+      "barbarianStrength": "Fuerza bárbara",
+      "attackPossibleIn": "Ataque posible en {} turnos",
+      "leaderboard": "Tabla de clasificación",
       "defeat": {
-        "title": "Defeat",
-        "playersAffected": "{} players",
-        "leastMilitary": "Least Military",
+        "title": "Derrotar",
+        "playersAffected": "{} jugadores",
+        "leastMilitary": "Menos militares",
         "lostCity": {
-          "one": "Lost a city",
-          "many": "Each lost a city",
-          "other": "Each lost a city"
+          "one": "Perdió una ciudad",
+          "many": "Cada uno perdió una ciudad",
+          "other": "Cada uno perdió una ciudad"
         }
       },
-      "upgradeMilitary": "Upgrade Military",
-      "result": "BARBARIANS ATTACK",
+      "upgradeMilitary": "Actualizar militar",
+      "result": "ATAQUE BÁRBARO",
       "won": {
-        "title": "Defended",
-        "playersAffected": "{} players",
-        "mostMilitary": "Most Military",
+        "title": "Defendido",
+        "playersAffected": "{} jugadores",
+        "mostMilitary": "La mayoría de los militares",
         "prize": {
           "one": "+1 VP",
-          "many": "+1 Dev Card each",
-          "other": "+1 Dev Card each"
+          "many": "+1 Carta de desarrollador cada uno",
+          "other": "+1 Carta de desarrollador cada uno"
         }
       },
-      "dataNotAvailable": "Data not available"
+      "dataNotAvailable": "Datos no disponibles"
     },
     "stats": {
-      "victoryPoints": "Victory Points",
-      "villages": "Villages",
-      "cities": "Cities",
-      "roadsBridges": "Roads/Bridges",
-      "military": "Military",
+      "victoryPoints": "Puntos de victoria",
+      "villages": "Aldeas",
+      "cities": "Ciudades",
+      "roadsBridges": "Carreteras/Puentes",
+      "military": "Militar",
       "metros": "Metros",
-      "self7Rolls": "Self 7 Rolls",
-      "discards": "Discards",
-      "devCards": "Dev Cards",
-      "raids": "Raids",
-      "raided": "Raided",
-      "trades": "Trades",
-      "wheat": "Wheat",
-      "ore": "Ore",
-      "brick": "Brick",
-      "wood": "Wood",
-      "sheep": "Sheep",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin"
+      "self7Rolls": "7 tiradas automáticas",
+      "discards": "Descartados",
+      "devCards": "TARJETAS DE DESARROLLO",
+      "raids": "Saqueos",
+      "raided": "Saqueó",
+      "trades": "Intercambios",
+      "wheat": "Trigo",
+      "ore": "Mineral",
+      "brick": "Ladrillo",
+      "wood": "Madera",
+      "sheep": "Oveja",
+      "paper": "Papel",
+      "cloth": "Ropa",
+      "coin": "Moneda"
     },
     "metroEarned": {
-      "title": "Metro!",
-      "msg": "Congratulations, you've earned a metro. Tap on any city to place it.",
-      "ok": "Ok!"
+      "title": "¡Metro!",
+      "msg": "Felicitaciones, te has ganado un metro. Toca en cualquier ciudad para colocarla.",
+      "ok": "¡Vale!"
     },
     "merchant": {
-      "title": "Merchant Token",
-      "msg": "The player who controls the merchant token may trade this resource 2:1."
+      "title": "Ficha de comerciante",
+      "msg": "El jugador que controle la ficha de comerciante puede intercambiar este recurso 2:1."
     },
     "harbor": {
-      "title": "Harbor",
-      "tradeAmount2": "2 {} resources",
-      "tradeAmount3": "3 resources of a single type",
-      "description": "Trade $tradeAmount for 1\n other resource or commodity."
+      "title": "Puerto",
+      "tradeAmount2": "2 {} recursos",
+      "tradeAmount3": "3 recursos de un solo tipo",
+      "description": "Intercambiar $tradeAmount por 1\n otro recurso o mercancía."
     },
     "bottomBar": {
-      "confirmAction": "Yes",
+      "confirmAction": "Sí",
       "cancelAction": "No"
     },
     "culture": {
-      "title": "CULTURE",
-      "upgrade": "Upgrade"
+      "title": "CULTURA",
+      "upgrade": "Actualizar"
     },
     "cultureUpgrade": {
-      "close": "Close",
-      "achieved": "ACHIEVED!",
-      "upgrade": "Upgrade {}",
-      "cannotUpgrade": "Cannot upgrade",
-      "noCity": "You must have an open city with no metropolis to upgrade your culture to level 4 or 5."
+      "close": "Cerrar",
+      "achieved": "¡LOGRADO!",
+      "upgrade": "Actualizar {}",
+      "cannotUpgrade": "No se puede actualizar",
+      "noCity": "Debes tener una ciudad abierta sin metrópolis para mejorar tu cultura al nivel 4 o 5."
     },
     "devCardsInfo": {
-      "title": "DEV CARDS"
+      "title": "TARJETAS DE DESARROLLO"
     },
     "diceRolls": {
-      "title": "DICE ROLLS",
-      "history": "Roll History:"
+      "title": "TIRADAS DE DADOS",
+      "history": "Historial de tiradas:"
     },
     "devDiscard": {
-      "title": "Discard",
-      "description": "You may only keep {} cards. Choose {} below to discard.",
+      "title": "Descartar",
+      "description": "Solo puedes quedarte con {} cartas. Elige {} a continuación para descartarla.",
       "cardsDiscarded": {
-        "one": "a card",
-        "many": "{} cards",
-        "other": "{} cards"
+        "one": "una carta",
+        "many": "{} cartas",
+        "other": "{} cartas"
       }
     },
     "feedback": {
-      "title": "Feedback",
-      "send": "Send",
-      "label": "Bug find or brilliant idea?",
-      "placeholder": "We love to hear from our users!",
-      "emptyError": "Please enter some feedback"
+      "title": "Comentarios",
+      "send": "Enviar",
+      "label": "¿Hallazgo de errores o idea brillante?",
+      "placeholder": "¡Nos encanta saber de nuestros usuarios!",
+      "emptyError": "Por favor ingresa algunos comentarios"
     },
     "freeRaid": {
-      "title": "Free Raid",
-      "description": "Last place 7 roll awards you a free raid. Place your catapult to steal a resource from an opponent. ",
-      "button": "Raid"
+      "title": "Saqueo gratuito",
+      "description": "La tirada del último puesto 7 te otorga un saqueo gratis. Coloca tu catapulta para robar un recurso de un oponente. ",
+      "button": "Saqueo"
     },
     "military": {
-      "title": "MILITARY",
-      "maxPart1": "Max military: ",
-      "maxPart2": "3 (Barracks increases to 6)",
-      "raid": "Raid",
-      "raidUnable": "Unable to raid",
-      "cannotRaid": "You can't afford to raid",
-      "raid-1": "Raid   -1",
-      "militaryPower": "Your Military Power",
+      "title": "MILITAR",
+      "maxPart1": "Máx. militar: ",
+      "maxPart2": "3 (Cuartel aumenta a 6)",
+      "raid": "Saqueo",
+      "raidUnable": "No se puede saquear",
+      "cannotRaid": "No puedes permitirte un saqueo",
+      "raid-1": "Saqueo  -1",
+      "militaryPower": "Tu poder militar",
       "vs": "vs",
-      "barbarianStrength": "Barbarian Strength",
-      "totalDefense": "Total Defense",
+      "barbarianStrength": "Fuerza bárbara",
+      "totalDefense": "Defensa total",
       "upgrade": {
-        "title": "Upgrade",
-        "cannotAfford": "You cannot afford it!",
-        "upgradeRequires": "Upgrading your military requires",
-        "maxPower": "Max Military Power",
-        "maxPowerDesc": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "maxPowerBarracks": "Max Military Power",
-        "maxPowerBarracksDesc": "Your military has reached its max power of 6. Launch raids to use your military."
+        "title": "Actualizar",
+        "cannotAfford": "¡No puedes permitírtelo!",
+        "upgradeRequires": "Actualizar sus fuerzas armadas requiere",
+        "maxPower": "Máximo poder militar",
+        "maxPowerDesc": "Tu ejército ha alcanzado su potencia máxima de 3. Mejora tu política al nivel 3 para aumentar tu máximo.",
+        "maxPowerBarracks": "Máximo poder militar",
+        "maxPowerBarracksDesc": "Tu ejército ha alcanzado su potencia máxima de 6. Lanza incursiones para usar a tus militares."
       }
     },
     "newIsland": {
-      "title": "ISLAND EXPLORED!",
-      "description": "You´ve explored a new island!",
-      "prize": "+1 Victory Point",
-      "button": "OK"
+      "title": "¡ISLA EXPLORADA!",
+      "description": "¡Has explorado una nueva isla!",
+      "prize": "+ 1 Punto de victoria",
+      "button": "Vale"
     },
     "prodChart": {
-      "title": "PRODUCTION CHART",
-      "village": "Village",
-      "city": "City"
+      "title": "GRÁFICO DE PRODUCCIÓN",
+      "village": "Aldea",
+      "city": "Ciudad"
     },
     "selectCard": {
-      "button": "Confirm",
-      "choose": "Choose {}"
+      "button": "Confirmar",
+      "choose": "Elegir {}"
     },
     "trade": {
-      "title": "TRADE",
-      "give": "GIVE",
-      "receive": "RECEIVE",
-      "resourcesLabel": "Your resources:",
-      "emptyTrade": "Nothing to trade"
+      "title": "INTERCAMBIAR",
+      "give": "DAR",
+      "receive": "RECIBIR",
+      "resourcesLabel": "Tus recursos:",
+      "emptyTrade": "Nada para intercambiar"
     },
     "tradeToBuild": {
-      "title": "TRADE TO BUILD",
-      "build": "Build {}",
-      "missing": "Missing",
-      "resourcesLabel": "Your resources",
-      "and": "and"
+      "title": "INTERCAMBIAR PARA CONSTRUIR",
+      "build": "Construir {}",
+      "missing": "Faltante",
+      "resourcesLabel": "Tus recursos",
+      "and": "y"
     },
     "endTurn": {
-      "nextGame": "Next game",
-      "wait": "Wait",
-      "end": "End",
-      "turn": "Turn",
-      "endTurn": "End Turn",
-      "nothingToDo": "Looks like there’s nothing left to do.",
-      "endTurnConfirm": "End Turn?",
-      "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
-      "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "nextGame": "Próximo juego",
+      "wait": "Espera",
+      "end": "Fin",
+      "turn": "Turno",
+      "endTurn": "Terminar turno",
+      "nothingToDo": "Parece que no queda nada por hacer.",
+      "endTurnConfirm": "¿Terminar turno?",
+      "canUpgrade": "¿Estás seguro de que quieres terminar el turno? ¡Puedes mejorar tu cultura sin un intercambio!",
+      "lotOfResources": "¿Estás seguro de que quieres terminar tu turno? Tienes muchos recursos no gastados.",
+      "cancel": "Cancelar"
     },
     "errors": {
-      "cannotFindGame": "We can't find the game, please try again",
-      "timeExpired": "Time Expired",
-      "timeExpiredMsg": "You have run out of time and been removed from the game."
+      "cannotFindGame": "No podemos encontrar el juego, inténtalo de nuevo. ",
+      "timeExpired": "Tiempo expirado",
+      "timeExpiredMsg": "Te has quedado sin tiempo y has sido eliminado del juego."
     }
   },
-
   "tutorial": {
-    "viewProductChart": "View Product Chart Table",
-    "continue": "Tap to continue",
+    "viewProductChart": "Ver tabla de gráficos de productos",
+    "continue": "Toca para continua",
     "learningMode": {
-      "title": "Learning Mode",
-      "description": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire. Let's try it out in this game. Your goal is to achieve 15 Victory Points!'"
+      "title": "Modo de aprendizaje",
+      "description": "El objetivo de Landover es conseguir puntos de victoria construyendo asentamientos y expandiendo tu imperio. Probémoslo en este juego. ¡Tu objetivo es lograr 15 puntos de victoria!'"
     },
     "firstVillage": {
-      "title": "First Village",
-      "description": "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep."
+      "title": "Primera aldea",
+      "description": "Coloca tu aldea en una esquina de alto valor debajo. Están indicados en rojo. Trata de obtener uno que tenga 3 tipos diferentes de recursos. Siempre es bueno comenzar con trigo, arcilla, madera u oveja."
     },
     "firstRoad": {
-      "title": "First Road",
-      "description": "Now place a road from your village towards another good corner."
+      "title": "Primer camino",
+      "description": "Ahora coloca un camino desde tu aldea hacia otra buena esquina."
     },
     "firstCity": {
-      "title": "First City",
-      "description": "Place your city on another high value corner below. Whatever resources you didn't get with your village, try and get those with your city. Remember cities and villages must always be separated by at least one empty corner."
+      "title": "Primera ciudad",
+      "description": "Coloca tu aldea en una esquina de alto valor debajo. Cualesquiera que sean los recursos que no obtuviste con tu aldea, intenta obtenerlos con tu ciudad. Recuerda que las ciudades y pueblos siempre deben estar separados por al menos una esquina vacía."
     },
     "secondRoad": {
-      "title": "Second Road",
-      "description": "And again place a road from your city towards another good corner."
+      "title": "Segundo camino",
+      "description": "Y nuevamente coloca una carretera desde tu ciudad hacia otra buena esquina."
     },
     "rollTime": {
-      "title": "Time to Roll",
-      "description": "'Now that you have placed your initial settlements, it's time to roll the dice and start collecting resources. Keep rolling until you have enough resources to build some more stuff."
+      "title": "Hora de tirar",
+      "description": "'Ahora que has colocado tus asentamientos iniciales, es hora de tirar los dados y comenzar a recolectar recursos. Sigue tirando hasta que tengas suficientes recursos para construir más cosas."
     },
     "moreRoads": {
-      "title": "Build more Roads",
-      "description": "It looks like you have enough resources to build more roads. Go ahead and build more roads further from your settlements."
+      "title": "Construye más carreteras",
+      "description": "Parece que tienes suficientes recursos para construir más carreteras. Continúa y construye más carreteras más lejos de tus asentamientos."
     },
     "anotherVillage": {
-      "title": "Build another Village",
-      "description": "'You now have enough resources to build a village and there is an open spot waiting for you. Go ahead and build another village to expand your empire and collect more resources each turn."
+      "title": "Construye otra aldea",
+      "description": "'Ahora tienes suficientes recursos para construir una aldea y hay un lugar abierto esperándote . Sigue adelante y construye otra aldea para expandir tu imperio y recolectar más recursos en cada turno."
     },
     "productionChart": {
-      "title": "Production Chart",
-      "description": "Below is how many resources villages and cities produce: "
+      "title": "GRÁFICO DE PRODUCCIÓN",
+      "description": "A continuación, se muestra cuántos recursos producen las aldeas y ciudades: "
     },
     "trading": {
-      "title": "Trading",
-      "description": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability."
+      "title": "Intercambio",
+      "description": "El banco Landover te permite intercambiar cualquier recurso o producto 3 por 1. Parece que puedes convertir tu aldea en una ciudad, pero requiere un intercambio. Continúa e intenta construir una ciudad. Deberías ver el aviso de Intercambiar para construir. Si quieres oficios más económicos, intenta construir una aldea en un puerto que te dé una habilidad de 2 por 1."
     },
     "culture": {
-      "title": "Culture",
-      "description": "Now that you have a commodity, go ahead and open up the culture modal and upgrade. Upgrading culture will give you the potential of earning valuable dev cards, unlocking new abilities, or eventually earning metros which are worth additional VPs."
+      "title": "Cultura",
+      "description": "Ahora que tienes un producto básico, continúa y abre el modal de cultura y actualiza. Actualizar la cultura te dará la posibilidad de ganar valiosas cartas de desarrollador, desbloquear nuevas habilidades o, finalmente, ganar metros que valen VP adicionales."
     },
     "cities": {
-      "title": "Cities",
-      "description": "Go ahead and choose a village you'd like to upgrade to a city. It costs 3 ore and 2 wheat but will double the production of your village!"
+      "title": "Ciudades",
+      "description": "Continúa y elige una alfea que te gustaría actualizar a una ciudad. ¡Cuesta 3 minerales y 2 trigo, pero duplicará la producción de tu aldea!"
     },
     "military": {
-      "title": "Military",
-      "description": "Now that your economy is moving along, it's time to build some military to ward off barbarian attacks. You need one military power for each city when barbarians attack to avoid losing a city. The barbarian tracker is top right and shows how many rolls until they attack. Go ahead…"
+      "title": "Militar",
+      "description": "Ahora que tu economía avanza, es hora de construir algunas fuerzas armadas para protegerte de los ataques bárbaros. Necesitas un poder militar para cada ciudad cuando los bárbaros atacan para evitar perder una ciudad. El rastreador de bárbaros está arriba a la derecha y muestra cuántas tiradas quedan hasta que ataquen. Adelante..."
     },
     "barbarians": {
-      "title": "Barbarians",
-      "description": "Barbarians are on their way. The shield top right shows if you are safe or not. If it's red, you need more military. If it's green, then you are safe. Each time they attack you'll lose 1 military power so be sure to keep adding more military over time."
+      "title": "Bárbaros",
+      "description": "Los bárbaros están en camino. El escudo en la esquina superior derecha muestra si estás a salvo o no. Si es rojo, necesitas más militares. Si es verde, entonces estás a salvo. Cada vez que ataquen perderás 1 poder militar, así que asegúrate de seguir agregando más militares."
     },
     "metros": {
       "title": "Metros",
-      "description": "Be sure to keep upgrading your culture with your commodity cards. Once you reach level 4 you'll receive a metro worth +2VP. Metros are immune from barbarian attacks and can't be razed by other players."
+      "description": "Asegúrate de seguir mejorando tu cultura con tus tarjetas de productos básicos. Una vez que alcances el nivel 4, recibirás un metro por valor de +2 VP. Los metros son inmunes a los ataques bárbaros y no pueden ser arrasados por otros jugadores."
     },
     "spendResources": {
-      "title": "Spend Your Resources",
-      "description": "You currently are at risk of discarding half your cards if a 7 is rolled! Be sure to spend your resources or build city walls to increase your hand size. City walls cost 2 clay and can be built on any cities. "
+      "title": "Gasta tus recursos",
+      "description": "¡Actualmente corres el riesgo de descartar la mitad de tus cartas si sale un 7! Asegúrate de gastar tus recursos o construir murallas para aumentar el tamaño de tu mano. Las murallas de la ciudad cuestan 2 de arcilla y se pueden construir en cualquier ciudad. "
     },
     "goodLuck": {
-      "title": "Good Luck!",
-      "description": "It looks like you are well on your way to 15 VPs. Keep expanding, building villages, upgrading to cities, leveling up your military, and building metros. If you have questions, join us on discord. Try some games against the bots, and when you're ready, challenge your friends!"
+      "title": "¡Buena suerte!",
+      "description": "Parece que estás en camino de alcanzar los 15 VPs. Sigue expandiéndote, construyendo aldeas, mejorando a ciudades, subiendo de nivel a tus fuerzas armadas y construyendo metros. Si tienes preguntas, únete a nosotros en Discord. ¡Prueba algunos juegos contra los bots y, cuando estés listo, desafía a tus amigos!"
     },
     "end": {
-      "title": "Congratulations",
-      "description": "You have just reached 15 VPs and have won the game! Hopefully you had some fun along the way. We highly recommend you try a solo game against one bot."
+      "title": "Felicitaciones",
+      "description": "¡Acabas de alcanzar los 15 VP y has ganado el juego! Espero que te hayas divertido. Te recomendamos encarecidamente que pruebes un juego en solitario contra un bot."
     }
   },
   "subscription": {
     "cancel": {
-      "title": "Cancel Subscription",
-      "message": "Sorry to see you are not happy with your subscription. Can you please take a moment to leave some feedback for us in our Discord channel first? We're always trying to improve the app!",
-      "feedbackButton": "Leave Feedback",
-      "cancelButton": "Cancel Subscription"
+      "title": "Cancelar suscripción",
+      "message": "Lamentamos ver que no estás satisfecho con tu suscripción. ¿Puedes tomarte un momento para dejarnos algunos comentarios primero en nuestro canal de Discord? ¡Siempre estamos tratando de mejorar la app!",
+      "feedbackButton": "Dejar comentario",
+      "cancelButton": "Cancelar suscripción"
     }
   },
   "discord": {
-    "title": "JOIN THE COMMUNITY!",
-    "msg1": "Woah, you're building some momentum!",
-    "msg2": "Want to meet other Landover players, find games, learn about new features and talk directly with our dev team?",
-    "button": "Join Discord"
+    "title": "¡UNIRME A LA COMUNIDAD!",
+    "msg1": "¡Vaya, estás ganando fuerza! ",
+    "msg2": "¿Quieres conocer a otros jugadores de Landover, encontrar juegos, conocer nuevas funciones y hablar directamente con nuestro equipo de desarrollo?",
+    "button": "Únete a Discord"
   },
   "itp": {
-    "titleLetsPlay": "LET'S PLAY",
-    "titleSuccess": "GREAT!",
-    "message": "Looks like you need some games. We have players ready and waiting!",
+    "titleLetsPlay": "VAMOS A JUGAR",
+    "titleSuccess": "¡GENIAL!",
+    "message": "Parece que necesitas algunos juegos. ¡Tenemos jugadores listos y esperando!",
     "messageSuccess": {
-      "one": "You are now in {} game!",
-      "many": "You are now in {} games!",
-      "other": "You are now in {} games!"
+      "one": "¡Ahora estás en el juego {}!",
+      "many": "¡Ahora estás en los juegos {}!",
+      "other": "¡Ahora estás en los juegos {}!"
     },
-    "myGames": "Go to My Games",
+    "myGames": "Ir a Mis juegos",
     "startGames": {
-      "one": "Start {} Game",
-      "many": "Start {} Games",
-      "other": "Start {} Games"
+      "one": "Iniciar juego {}",
+      "many": "Iniciar juegos {}",
+      "other": "Iniciar juegos {}"
     },
-    "footerMessage": "No pressure! We'll just ping you when it's your turn to move.",
-    "error": "We were unable to join you to the selected games"
+    "footerMessage": "¡Sin presión! Simplemente te avisaremos cuando sea tu turno de moverte.",
+    "error": "No hemos podido unirte a los juegos seleccionados"
   },
   "ongoingGame": {
     "inLobby": {
-      "title": "LIVE GAME LOBBY",
-      "leaveBtn": "Leave",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game lobby!",
-      "bottomMsg2": "Please leave or rejoin the game lobby so you’re ready to go once the game starts."
+      "title": "VESTÍBULO DEL JUEGO EN VIVO",
+      "leaveBtn": "Abandonar",
+      "rejoinBtn": "Volver a unirse",
+      "bottomMsg1": "¡Actualmente estás en un vestíbulo de juego en vivo!",
+      "bottomMsg2": "Abandona o vuelve a unirte al vestíbulo del juego para estar listo una vez que comience el juego."
     },
     "inGame": {
-      "title": "LIVE GAME",
-      "leaveBtn": "Surrender",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game!",
-      "bottomMsg2": "Please surrender or rejoin this game so other\nplayers don’t wait on you."
+      "title": "JUEGO EN VIVO",
+      "leaveBtn": "Rendirte",
+      "rejoinBtn": "Volver a unirse",
+      "bottomMsg1": "¡Actualmente estás en un juego en vivo!",
+      "bottomMsg2": "Por favor, ríndete o vuelve a unirte a este juego para que otros\njugadores no te esperen."
     },
-    "gameNotExist": "Your game doesn't exist anymore.",
-    "somethingWentWrong": "Something went wrong. Try again or start a new game."
+    "gameNotExist": "Tu juego ya no existe.",
+    "somethingWentWrong": "Algo salió mal. Inténtalo de nuevo o comienza un juego nuevo."
   },
   "upgradeDialog": {
-    "title": "UPGRADE TO GOLD",
-    "error": "Purchase error",
+    "title": "ACTUALIZAR A ORO",
+    "error": "Error de compra",
     "footer": {
-      "comingSoon": "Coming soon...",
-      "createAccount": "Create Account",
-      "watchAd": "Watch Ad",
-      "noAds": "Sorry, there's no ads available right now",
-      "restore": "Restore Purchase",
-      "noPurchase": "There is no active subscription"
+      "comingSoon": "Próximamente...",
+      "createAccount": "Crear cuenta",
+      "watchAd": "Ver anuncio",
+      "noAds": "Lo sentimos, no hay anuncios disponibles en este momento",
+      "restore": "Restaurar compra",
+      "noPurchase": "No hay suscripción activa"
     }
   },
   "buildingStyles": {
-    "default": "default",
-    "alien": "alien",
-    "modern": "modern",
-    "fantasy": "fantasy",
-    "toys": "toys"
+    "default": "Predeterminado",
+    "alien": "alienígena",
+    "modern": "moderno",
+    "fantasy": "fantasía",
+    "toys": "juguetes"
   },
   "culture": {
     "science": {
-      "abilityName": "Aqueduct",
-      "abilityDescription": "If a player does not receive\nany resources for a given\nroll, they are given one\nrandom resource.",
-      "abilityAnnouncement": "If you don't get any resources on a roll, you will now be given one random resource."
+      "abilityName": "Acueducto",
+      "abilityDescription": "Si un jugador no recibe\nningún recurso para una determinada\ntirada, se les da un\nrecurso aleatorio.",
+      "abilityAnnouncement": "Si no obtienes ningún recurso en una tirada, recibirás un recurso aleatorio."
     },
     "commerce": {
-      "abilityName": "Bank",
-      "abilityDescription": "Allows players to trade\ncommodities 2:1 with the\nbank for any resource or\ncommodity.",
-      "abilityAnnouncement": "You can now trade commodities 2:1 with the bank."
+      "abilityName": "Banco",
+      "abilityDescription": "Permite a los jugadores intercambiar\nproductos básicos 2: 1 con el\nbanco para cualquier recurso o\nmercancía",
+      "abilityAnnouncement": "Ahora puedes comerciar con mercancías 2: 1 con el banco."
     },
     "politics": {
-      "abilityName": "Barracks",
-      "abilityDescription": "Military power can be\nincreased above level 3. Military power can be\nincreased above level 3.",
-      "abilityAnnouncement": "Your max military power has been increased from 3 to 6."
+      "abilityName": "Cuarteles",
+      "abilityDescription": "El poder militar puede ser\naumentado por encima del nivel 3. El poder militar puede ser\naumentado por encima del nivel 3.",
+      "abilityAnnouncement": "Se ha aumentado tu poder militar máximo de 3 a 6."
     }
   },
   "gameStartTypes": {
-    "ranked": "Ranked",
-    "quick": "Quick",
-    "custom": "Custom",
-    "welcome": "Welcome"
+    "ranked": "Clasificado",
+    "quick": "Rápido",
+    "custom": "Personalizado",
+    "welcome": "Bienvenido"
   },
   "gameType": {
-    "custom": "Live",
-    "daily": "Daily",
+    "custom": "En vivo",
+    "daily": "Diario",
     "tutorial": "Tutorial",
     "solo": "Solo",
-    "private": "Private"
+    "private": "Privado"
   },
   "premium": {
-    "premiumBots": "Play with 14 Bots each with unique strengths",
-    "premiumStyles": "Get access to 4 alternative themes and preferred colours",
-    "premiumPlayersNumber": "Create epic 8 player games with friends",
-    "premiumGameOptions": "Create custom games tailored to you",
-    "premiumStats": "Analyze the game results to become better",
-    "premiumAvatars": "Use any image you want as an in-game avatar",
-    "premiumMaps": "Design new and exciting maps",
-    "premiumNoAds": "No ADS. Directly support the developers!",
-    "title": "Gold Member",
-    "lastPayment": "Last Payment",
-    "nextPayment": "Next Payment",
-    "cancelled": "Cancelled\nEnds on:",
-    "cancel": "Cancel",
-    "canceledTitle": "Subscription",
-    "canceledMessage": "Subscription successfully canceled",
+    "premiumBots": "Juega con 14 bots, cada uno con fortalezas únicas",
+    "premiumStyles": "Obtén acceso a 4 temas alternativos y colores preferidos",
+    "premiumPlayersNumber": "Crea juegos épicos para 8 jugadores con amigos",
+    "premiumGameOptions": "Crea juegos personalizados a tu medida",
+    "premiumStats": "Analiza los resultados del juego para mejorar",
+    "premiumAvatars": "Usa cualquier imagen que quieras como avatar en el juego",
+    "premiumMaps": "Diseña mapas nuevos y emocionantes",
+    "premiumNoAds": "Sin ANUNCIOS. ¡Apoya directamente a los desarrolladores!",
+    "title": "Miembro de Oro",
+    "lastPayment": "Último pago",
+    "nextPayment": "Próximo pago",
+    "cancelled": "Cancelado\nTermina el:",
+    "cancel": "Cancelar",
+    "canceledTitle": "Suscripción",
+    "canceledMessage": "Suscripción cancelada con éxito",
     "success": {
-      "title": "Success!",
-      "home": "Home",
-      "message": "You are now a gold user",
-      "safeRollMsg": "Safe Roll tokens successfully purchased."
+      "title": "¡Enhorabuena!",
+      "home": "Inicio",
+      "message": "Ahora eres un usuario Oro",
+      "safeRollMsg": "Fichas de tiradas sefuras compradas con éxito."
     },
     "canceled": {
-      "title": "Canceled",
-      "home": "Home",
-      "message": "Something went wrong during checkout"
+      "title": "Cancelado",
+      "home": "Inicio",
+      "message": "Algo salió mal durante el pago"
     }
   },
   "ranks": {
     "promoted": {
-      "title": "PROMOTED!",
-      "message": "Congratulations! \nYour amazing play has earned you a ranking level up!"
+      "title": "¡ASCENDIDO!",
+      "message": "¡Enhorabuena! \n¡Tu increíble juego te ha hecho subir de nivel en la clasificación!"
     },
     "demoted": {
-      "title": "DEMOTED!",
-      "message": "Oh no! You have ranked down.\nMaybe it's time to try a new strategy or pray to the dice gods?"
+      "title": "¡DEGRADADO!",
+      "message": "¡Oh, no! Has sido degradado.\n¿Quizás es hora de probar una nueva estrategia o rezarle a los dioses de los dados?"
     },
-    "viewRanks": "View Ranks",
-    "title": "RANKS",
-    "rules": "How rankings work"
+    "viewRanks": "Ver rangos",
+    "title": "RANGOS",
+    "rules": "Cómo funcionan las clasificaciones"
   },
   "dailyGames": {
-    "noGames": "No Games in progress",
-    "startGame": "Start a Game",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "noGames": "No hay juegos en progreso",
+    "startGame": "Iniciar un juego",
+    "createGame": "Crear juego",
+    "joinByCode": "Unirse con código",
     "turnCount": {
-      "many": "turns",
-      "single": "turn"
+      "many": "turnos",
+      "single": "turno"
     },
     "gameType": {
-      "ranked": "Ranked",
+      "ranked": "Clasificado",
       "casual": "Casual"
     },
-    "title": "My Games",
+    "title": "Mis juegos",
     "game": {
-      "waiting": "Waiting...",
-      "rematchRequest": "Rematch Request",
-      "gameOver": "Game Over",
-      "play": "Play",
-      "invite": "Invite players",
-      "start": "Start Game?"
+      "waiting": "Esperando...",
+      "rematchRequest": "Solicitud de revancha",
+      "gameOver": "Fin del juego",
+      "play": "Jugar",
+      "invite": "Invitar a jugadores",
+      "start": "¿Iniciar juego?"
     }
   },
   "profile": {
-    "editInfo": "Edit info",
-    "city": "City",
-    "description": "Description",
-    "email": "Email",
-    "name": "Name",
-    "status": "Status",
-    "save": "Save",
-    "linkCopied": "Profile link copied to clipboard",
+    "editInfo": "Editar información",
+    "city": "Ciudad",
+    "description": "Descripción",
+    "email": "Correo electrónico",
+    "name": "Nombre",
+    "status": "Estado",
+    "save": "Guardar",
+    "linkCopied": "Enlace de perfil copiado al portapapeles",
     "settings": {
-      "turnEmails": "Send Turn Emails",
-      "chatNotifications": "Chat Notifications",
-      "recentInvites": "Allow Recent Invites",
-      "autoJump": "Auto-Jump to Next Daily Game",
-      "mapHints": "Map Hints",
-      "showReplays": "Show Replays",
-      "acceptNewGames": "Auto-Accept New Games",
-      "autoRoll": "Auto-Roll Dice on Turn Start"
+      "turnEmails": "Enviar correos electrónicos de turnos",
+      "chatNotifications": "Notificaciones de chat",
+      "recentInvites": "Permitir invitaciones recientes",
+      "autoJump": "Saltar automáticamente al siguiente juego diario",
+      "mapHints": "Sugerencias de mapas",
+      "showReplays": "Mostrar repeticiones",
+      "acceptNewGames": "Aceptar automáticamente nuevos juegos",
+      "autoRoll": "Lanzamiento automático de dados al iniciar el turno"
     },
     "account": {
-      "signUp": "Sign Up",
-      "saveAccount": "SAVE ACCOUNT",
-      "emailSentTitle": "Email sent",
-      "emailSentMsg": "Please check your mailbox and confirm your email address. Then you can use this account."
+      "signUp": "Registrarse",
+      "saveAccount": "GUARDAR CUENTA",
+      "emailSentTitle": "Correo electrónico enviado",
+      "emailSentMsg": "Comprueba tu buzón de correo y confirma tu dirección de correo electrónico. Entonces puedes usar esta cuenta."
     },
     "history": {
-      "title": "History",
-      "filter": "Filter",
-      "empty": "No Match History"
+      "title": "Historial",
+      "filter": "Filtro",
+      "empty": "Sin historial de juegos"
     },
     "mapStats": {
-      "title": "Map Stats",
-      "filter": "Filter",
-      "empty": "No Stats"
+      "title": "Estadísticas del mapa",
+      "filter": "Filtro",
+      "empty": "Sin estadísticas"
     },
-    "rank": "Rank",
+    "rank": "Calificación",
     "season": {
-      "progress": "Season Progress"
+      "progress": "Progreso de temporada"
     },
     "delete": {
-      "title": "Delete Account",
+      "title": "Eliminar cuenta",
       "dialog": {
-        "title": "Are you sure?",
-        "message": "We’re sorry to see you go! Are you sure you want to delete your account? All your stats and games will be permanently removed.\nYou must confirm your account to delete it.",
+        "title": "¿Estás seguro?",
+        "message": "¡Lamentamos verte ir! ¿Está seguro de que quiere eliminar su cuenta? Todas tus estadísticas y partidas se eliminarán de forma permanente.\nDebes confirmar tu cuenta para eliminarla.",
         "no": "No",
-        "yes": "Yes"
+        "yes": "Sí"
       },
-      "enterPassword": "Enter a password",
-      "enterPasswordInstruction": "Please enter a password for your account below"
+      "enterPassword": "Introduce una contraseña",
+      "enterPasswordInstruction": "Ingresa una contraseña para tu cuenta a continuación"
     },
     "stats": {
       "filter": {
-        "title": "FILTER",
-        "clear": "Clear",
-        "filter": "Filter"
+        "title": "FILTRO",
+        "clear": "Borrar",
+        "filter": "Filtro"
       },
-      "totalGames": "Total Games - ",
-      "unlockAll": "Go Gold to Unlock All Stats"
+      "totalGames": "Total de juegos - ",
+      "unlockAll": "Vuélvete Oro para desbloquear todas las estadísticas"
     },
     "info": {
-      "hometown": "Hometown: ",
-      "editInfo": "Edit info",
-      "joinedOn": "Joined on {}",
-      "1stPlace": "1st Place",
-      "2ndPlace": "2nd Place",
-      "3rdPlace": "3rd Place",
-      "totalGames": "Total Games",
-      "asOfMay": "as of May 2023"
+      "hometown": "Ciudad natal: ",
+      "editInfo": "Editar información",
+      "joinedOn": "Se unió el {}",
+      "1stPlace": "1.º puesto",
+      "2ndPlace": "2.º puesto",
+      "3rdPlace": "3.º puesto",
+      "totalGames": "Juegos totales",
+      "asOfMay": "a partir de mayo de 2023"
     },
     "errors": {
-      "updateFailed": "Failed to update",
-      "nameProfanity": "Name cannot have profanities",
-      "nameTaken": "Name is already taken",
-      "nameEmpty": "Name cannot be empty",
-      "statusProfanity": "Status cannot have profanities",
-      "descriptionProfanity": "Description cannot have profanities",
-      "cityProfanity": "City cannot have profanities"
+      "updateFailed": "Error al actualizar",
+      "nameProfanity": "El nombre no puede tener blasfemias",
+      "nameTaken": "El nombre ya está tomado",
+      "nameEmpty": "El nombre no puede estar vacío",
+      "statusProfanity": "El estatus no puede tener blasfemias",
+      "descriptionProfanity": "La descripción no puede tener blasfemias",
+      "cityProfanity": "La ciudad no puede tener blasfemias"
     }
   },
   "auth": {
     "fb": {
-      "newPassword": "New password",
-      "newPasswordHint": "Enter your new password",
-      "verifiedTitle": "Verified",
-      "verifiedMsg": "You email has been successfully verified.",
-      "passResetMsg": "Your password email has been successfully changed.",
-      "expired": "Invalid or expired link, try to verify email again.",
-      "weakPass": "Password too weak, try again.",
-      "expiredPassReset": "Invalid or expired link, try to reset your password again."
+      "newPassword": "Nueva contraseña",
+      "newPasswordHint": "Ingresa tu nueva contraseña",
+      "verifiedTitle": "Verificado",
+      "verifiedMsg": "Tu correo electrónico ha sido verificado con éxito.",
+      "passResetMsg": "Tu correo electrónico de contraseña se ha cambiado correctamente.",
+      "expired": "Enlace no válido o caducado, intenta verificar el correo electrónico nuevamente.",
+      "weakPass": "Contraseña demasiado débil, inténtalo de nuevo.",
+      "expiredPassReset": "Enlace no válido o caducado, intenta restablecer tu contraseña nuevamente."
     },
     "linking": {
-      "title": "Account Linking",
-      "message": "Logging in with $newProvider will override your existing logins. Continue?",
+      "title": "Vinculación de cuentas",
+      "message": "Iniciar sesión con $newProvider anulará tus inicios de sesión existentes. ¿Continuar?",
       "no": "No",
-      "yes": "Yes"
+      "yes": "Sí"
     },
     "footer": {
-      "agree": "By tapping a sign in button, you agree to the\n",
-      "tos": "Terms of Service",
-      "and": " and ",
-      "privacy": "Privacy Policy"
+      "agree": "Al Iniciar sesión, aceptas el\n",
+      "tos": "Términos de servicio",
+      "and": " y ",
+      "privacy": "Política de privacidad"
     },
     "code": {
-      "msg": "Enter the code sent to {}",
-      "confirm": "Confirm",
-      "sent": "Email sent",
-      "sentMsg": "A new code has been sent to {}",
-      "resend": "Resend Code",
-      "continueWithEmail": "Have a password? Continue here"
+      "msg": "Ingresa el código enviado a {}",
+      "confirm": "Confirmar",
+      "sent": "Correo electrónico enviado",
+      "sentMsg": "Se ha enviado un nuevo código a {}",
+      "resend": "Reenviar código",
+      "continueWithEmail": "¿Tienes una contraseña? Continúa aquí"
     },
     "email": {
-      "label": "Enter your email to sign up or login into Landover",
-      "button": "Confirm"
+      "label": "Ingresa tu correo electrónico para registrarte o iniciar sesión en Landover",
+      "button": "Confirmar"
     },
     "signUp": {
       "nickname": {
-        "label": "Nickname",
-        "placeholder": "Enter Nickname...",
-        "empty": "Please enter a nickname",
-        "short": "Please enter a nickname of at least 3 characters",
-        "profanity": "Profanity detected. Try again."
+        "label": "Alias",
+        "placeholder": "Ingresa el alias...",
+        "empty": "Por favor, ingresa un alias",
+        "short": "Ingresa un alias de al menos 3 caracteres",
+        "profanity": "Blasfemias detectadas. Vuelve a intentarlo."
       },
       "password": {
-        "label": "Confirm Password",
-        "placeholder": "Confirm Password...",
-        "empty": "Please enter a password",
-        "mismatch": "Passwords do not match"
+        "label": "Confirmar contraseña",
+        "placeholder": "Confirmar contraseña...",
+        "empty": "Por favor, introduzca una contraseña",
+        "mismatch": "Las contraseñas no coinciden"
       }
     },
     "verify": {
-      "email": "Verify your email",
-      "message": "A verification email has been sent to you! Please check your mailbox to verify the account before you sign in",
-      "resend": "Resend"
+      "email": "Verifica tu correo electrónico",
+      "message": "¡Se te ha enviado un correo electrónico de verificación! Revisa tu buzón de correo para verificar la cuenta antes de iniciar sesión",
+      "resend": "Reenviar"
     },
-    "login": "Log In",
-    "useFB": "Continue with Facebook",
-    "useGoogle": "Continue with Google",
-    "useEmail": "Continue with Email",
-    "useApple": "Continue with Apple",
-    "or": "OR",
-    "passRequired": "Your password is required",
-    "enterPassword": "Please enter your password for {}"
+    "login": "Iniciar sesión",
+    "useFB": "Continuar con Facebook",
+    "useGoogle": "Continuar con Google",
+    "useEmail": "Continuar con correo electrónico",
+    "useApple": "Continuar con Apple",
+    "or": "O",
+    "passRequired": "Se requiere tu contraseña",
+    "enterPassword": "Por favor, ingresa tu contraseña para {}"
   },
   "alerts": {
-    "ok": "OK",
-    "cancel": "Cancel"
+    "ok": "Vale",
+    "cancel": "Cancelar"
   },
   "forms": {
-    "submit": "Submit",
-    "nicknameEmpty": "Please enter a nickname",
-    "nicknameShort": "Please enter a nickname of at least 3 characters",
-    "email": "Email",
-    "emailEmpty": "Please enter an email",
-    "emailPlaceholder": "Enter Email...",
-    "emailInvalid": "Please enter a valid email address",
-    "password": "Password",
-    "passwordPlaceholder": "Enter Password...",
-    "passwordEmpty": "Please enter a password",
-    "forgotPassword": "Forgot Password?",
-    "resetPasswordTitle": "Reset Password",
-    "resetPasswordEmail": "Enter your email",
-    "resetPasswordEmailSent": "Email sent",
-    "resetPasswordEmailSentMsg": "Please check your inbox"
+    "submit": "Enviar",
+    "nicknameEmpty": "Por favor, ingresa un alias",
+    "nicknameShort": "Ingresa un alias de al menos 3 caracteres",
+    "email": "Correo electrónico",
+    "emailEmpty": "Por favor, ingresa un correo electrónico",
+    "emailPlaceholder": "Ingresa el correo electrónico...",
+    "emailInvalid": "Por favor, ingresa un correo electrónico válido",
+    "password": "Contraseña",
+    "passwordPlaceholder": "Ingresa la contraseña...",
+    "passwordEmpty": "Por favor, introduzca una contraseña",
+    "forgotPassword": "¿Has olvidado la contraseña?",
+    "resetPasswordTitle": "Restablecer contraseña",
+    "resetPasswordEmail": "Ingresa tu correo electrónico",
+    "resetPasswordEmailSent": "Correo electrónico enviado",
+    "resetPasswordEmailSentMsg": "Por favor, revisa tu bandeja de entrada"
   },
   "codeJoin": {
-    "join": "Join"
+    "join": "Ingresar"
   },
   "history": {
-    "title": "HISTORY",
-    "notAvailable": "Old game results are unavailable.",
-    "turns": "{} Turns",
-    "players": "{} players",
-    "noHistory": "No Match History"
+    "title": "HISTORIAL",
+    "notAvailable": "Los resultados de juegos antiguos no están disponibles.",
+    "turns": "{} turnos",
+    "players": "{} jugadores",
+    "noHistory": "Sin historial de juegos"
   },
   "settings": {
-    "title": "SETTINGS",
-    "editInfo": "Edit info",
-    "stats": "Stats",
-    "themes": "Themes & Colors",
-    "history": "History",
+    "title": "AJUSTES",
+    "editInfo": "Editar información",
+    "stats": "Estadísticas",
+    "themes": "Temas y colores",
+    "history": "Historial",
     "logout": {
-      "title": "Log Out",
+      "title": "Cerrar sesión",
       "guest": {
-        "title": "Warning!",
-        "message": "You are about to logout of your guest account. All data will be lost and all your games will be forfeited. To avoid this, first authenticate your account with another login. Continue?",
-        "delete": "Delete Account",
-        "cancel": "Cancel"
+        "title": "¡Advertencia!",
+        "message": "Estás a punto de cerrar sesión en tu cuenta de invitado. Se perderán todos los datos y se perderán todos sus juegos. Para evitar esto, primero autentica tu cuenta con otro inicio de sesión. ¿Continuar?",
+        "delete": "Eliminar cuenta",
+        "cancel": "Cancelar"
       }
     },
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio"
   },
   "invite": {
-    "play": "Play",
-    "cancel": "Cancel",
-    "inviteFrom": "Invite from {}!"
+    "play": "Jugar",
+    "cancel": "Cancelar",
+    "inviteFrom": "¡Invitación de {}!"
   },
   "matchmaking": {
-    "play": "Play",
-    "game": "Game",
-    "rankHigherThan": "higher than {}%\nof players",
-    "viewRanks": "View Ranks",
-    "3daysMove": "3 days to move",
-    "90sMove": "90s to move",
-    "playNow": "PLAY NOW",
-    "casual": "Casual Play",
-    "ranked": "Ranked Play",
-    "looking": "Looking for players..."
+    "play": "Jugar",
+    "game": "Juego",
+    "rankHigherThan": "mayor que {}%\nde jugadores",
+    "viewRanks": "Ver rangos",
+    "3daysMove": "3 días para moverte",
+    "90sMove": "90s para moverte",
+    "playNow": "JUGAR AHORA",
+    "casual": "Juego casual",
+    "ranked": "Juego clasificado",
+    "looking": "Buscando jugadores..."
   },
   "help": {
-    "title": "WELCOME TO LANDOVER!",
-    "rules": "Rules",
-    "video": "Video\nTutorials",
-    "tutorial": "Play\nTutorial",
+    "title": "¡BIENVENIDO A LANDOVER!",
+    "rules": "Reglas",
+    "video": "Vídeo\nTutoriales",
+    "tutorial": "Jugar\nTutorial",
     "discord": "Discord!",
-    "questions": "Questions?\n"
+    "questions": "¿Preguntas?\n"
   },
   "themes": {
-    "title": "Theme",
-    "chooseTheme": "Choose Theme",
-    "chooseColor": "Choose Color",
-    "save": "Save",
-    "goGold": "GO GOLD!",
-    "selected": "SELECTED"
+    "title": "Tema",
+    "chooseTheme": "Elegir tema",
+    "chooseColor": "Elegir color",
+    "save": "Guardar",
+    "goGold": "¡CONVIÉRTETE EN ORO!",
+    "selected": "SELECCIONADO"
   },
   "createGame": {
     "options": {
-      "title": "OPTIONS",
-      "on": "On",
-      "off": "Off",
-      "time": "Time per Turn",
-      "points": "Victory Points",
-      "barbDelay": "Barbarians Delay",
-      "barbDelayTooltip": "Number of barbarian rolls before\nthe barbarians start to advance\ntowards an attack.",
-      "name": "Game Name (optional)",
-      "namePlaceholder": "Enter name",
-      "public": "Public Game",
+      "title": "OPCIONES",
+      "on": "Sí",
+      "off": "No",
+      "time": "Tiempo por turno",
+      "points": "Puntos de victoria",
+      "barbDelay": "Retraso de los bárbaros",
+      "barbDelayTooltip": "Número de tiradas de bárbaros antes de quue\nlos bárbaros comiecen a avanzar\nhacia un ataque.",
+      "name": "Nombre del juego (opcional)",
+      "namePlaceholder": "Ingresa el nombre",
+      "public": "Juego público",
       "mapHints": {
-        "title": "Map Hints",
-        "tooltip": "Enables map hint indicators when building structures."
+        "title": "Sugerencias de mapas",
+        "tooltip": "Habilita indicadores de sugerencias de mapas al construir estructuras."
       },
       "charity": {
-        "title": "Charity 7 Rolls",
-        "tooltip": "Give one random resource when a 7 is rolled"
+        "title": "tiradas de 7 de caridad",
+        "tooltip": "Da un recurso aleatorio cuando se tira un 7"
       },
       "resources": {
-        "title": "Starting Resources",
-        "tooltip": "Give every user one resource of every type when a game starts"
+        "title": "Recursos iniciales",
+        "tooltip": "Da a cada usuario un recurso de cada tipo cuando comience un juego"
       },
       "raids": {
-        "title": "Raids",
-        "tooltip": "Enable/Disable spending one military to raid your opponent."
+        "title": "Saqueos",
+        "tooltip": "Activar/desactivar gastar un ejército para atacar a tu oponente."
       },
       "fairDice": {
-        "title": "Fair Dice",
-        "tooltip": "Replaces true random with an even\ndistribution of dice rolls."
+        "title": "Dado justo",
+        "tooltip": "Reemplaza el verdadero aleatorio con una\ndistribución justa de tiradas de dados."
       },
       "culture": {
-        "title": "Culture",
-        "tooltip": "Enables Science, Politics, and Commerce\nupgrades so you can collect dev cards\nand earn metros."
+        "title": "Cultura",
+        "tooltip": "Habilita las mejoras de Ciencia, Política y Comercio\npara que puedas coleccionar cartas de desarrollo\ny ganar metros."
       },
       "luckyRaid": {
-        "title": "Lucky 7 Raid",
-        "tooltip": "Player in last place who rolls a 7\nis rewarded with a free raid."
+        "title": "Saque de Lucky 7",
+        "tooltip": "El jugador en último lugar que tira un 7\nes recompensado con un saqueo gratuita."
       }
     },
     "map": {
-      "title": "SELECT MAP",
-      "maps": "MAPS",
-      "favorites": "Favorites",
-      "lastPlayed": "Last Played",
-      "moreSlots": "Subscribe for more slots",
-      "giant": "Giant",
+      "title": "SELECCIONAR MAPA",
+      "maps": "MAPAS",
+      "favorites": "Favoritos",
+      "lastPlayed": "Última jugada",
+      "moreSlots": "Suscríbete para más tragamonedas",
+      "giant": "Gigante",
       "normal": "Normal",
-      "mapType": "Choose map type",
-      "mapTypeMsg": "Choose the type of map you want to create.",
-      "createMap": "Create New Map",
-      "register": "Register",
-      "createAccount": "Create Account",
-      "createAccountMsg": "You must register an account to create maps.",
-      "search": "Search maps",
-      "mapName": "Name",
-      "gamesPlayed": "# of games",
-      "createdOn": "Created on",
-      "noUserMaps": "You have not created any maps",
-      "noMaps": "No maps found",
-      "noRecentGames": "You have no recent games",
-      "noFavorites": "You have no favorite maps",
+      "mapType": "Elige el tipo de mapa",
+      "mapTypeMsg": "Elige el tipo de mapa que deseas crear.",
+      "createMap": "Crear nuevo mapa",
+      "register": "Registrarse",
+      "createAccount": "Crear cuenta",
+      "createAccountMsg": "Debes registrar una cuenta para crear mapas.",
+      "search": "Mapas de búsqueda",
+      "mapName": "Nombre",
+      "gamesPlayed": "# de juegos",
+      "createdOn": "Creado el",
+      "noUserMaps": "No has creado ningún mapa",
+      "noMaps": "No se han encontrado mapas",
+      "noRecentGames": "No tienes juegos recientes",
+      "noFavorites": "No tienes mapas favoritos",
       "tabs": {
-        "standard": "STANDARD",
-        "myMaps": "MY MAPS",
-        "favorites": "FAVORITES",
-        "all": "ALL"
+        "standard": "ESTÁNDAR",
+        "myMaps": "MIS MAPAS",
+        "favorites": "FAVORITOS",
+        "all": "TODO"
       },
       "adminControls": {
         "confirmDialog": {
-          "yes": "Yes",
+          "yes": "Sí",
           "no": "No",
-          "confirm": "Confirm",
-          "duplicate": "Are you sure you want to duplicate this map?",
-          "makeOfficial": "Are you sure you want to make this map official?",
-          "deleteFromOfficial": "Are you sure you want to delete this map from official maps?"
+          "confirm": "Confirmar",
+          "duplicate": "¿Estás seguro de que quieres duplicar este mapa?",
+          "makeOfficial": "¿Estás seguro de que quieres que este mapa sea oficial?",
+          "deleteFromOfficial": "¿Estás seguro de que quieres eliminar este mapa de los mapas oficiales?"
         }
       },
       "sort": {
-        "newest": "Newest",
-        "oldest": "Oldest",
-        "mostGames": "Most Games",
-        "leastGames": "Least Games",
-        "alphabetical": "Alphabetical",
-        "reverseAlphabetical": "Alphabetical Desc",
+        "newest": "Más nuevo",
+        "oldest": "Más viejo",
+        "mostGames": "La mayoría de los juegos",
+        "leastGames": "La minoría de juegos",
+        "alphabetical": "Alfabético",
+        "reverseAlphabetical": "Desc alfabético",
         "popular": "Popular"
       },
       "preview": {
-        "selectMap": "Select Map",
-        "deleteMap": "Delete Map",
-        "editMap": "Edit Map"
+        "selectMap": "SELECCIONAR MAPA",
+        "deleteMap": "Eliminar mapa",
+        "editMap": "Editar mapa"
       }
     },
     "playTutorial": {
-      "title": "Play tutorial",
-      "message": "As a new player to Landover, you must complete one solo game against the bots before you jump into a public game. Try the tutorial!"
+      "title": "Reproducir tutorial",
+      "message": "Como nuevo jugador de Landover, debes completar una partida en solitario contra los bots antes de ir a una partida pública. ¡Prueba el tutorial!"
     },
-    "createGame": "Create Game"
+    "createGame": "Crear juego"
   },
   "join": {
-    "title": "Join Games",
-    "gameNotAvailable": "This game is not available, try another one",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "title": "Unirse a los juegos",
+    "gameNotAvailable": "Este juego no está disponible, prueba con otro",
+    "createGame": "Crear juego",
+    "joinByCode": "Unirse con código",
     "filter": {
-      "title": "FILTER",
-      "button": "Filter",
-      "clear": "Clear",
-      "allGames": "All Games",
-      "liveGames": "Live Games",
-      "dailyGames": "Daily Games",
-      "allPoints": "All Points",
-      "xPoints": "{} points"
+      "title": "FILTRO",
+      "button": "Filtro",
+      "clear": "Borrar",
+      "allGames": "Todos los juegos",
+      "liveGames": "Juegos en vivo",
+      "dailyGames": "Juegos diarios",
+      "allPoints": "Todos los puntos",
+      "xPoints": "{} puntos"
     }
   },
   "lobby": {
     "leave": {
-      "title": "Leave Game",
-      "message": "Are you sure you want to leave this game?",
-      "yes": "Leave"
+      "title": "Abandonar juego",
+      "message": "¿Seguro que quieres abandonar el juego?",
+      "yes": "Abandonar"
     },
     "add": {
-      "recent": "+ Recent",
-      "bot": "+ Add Bot",
-      "invite": "+ Invite"
+      "recent": "+ Reciente",
+      "bot": "+ Añadir Bot",
+      "invite": "+ Invitar"
     },
     "boot": {
-      "button": "Remove",
-      "title": "Are you sure you want to kick "
+      "button": "Eliminar",
+      "title": "¿Estás seguro de que quieres salir "
     },
     "options": {
-      "on": "On",
-      "off": "Off",
-      "points": "Victory Points",
-      "time": "Turn timer",
-      "luckyRaid": "Lucky 7 Raid",
-      "culture": "Culture",
-      "barbDelay": "Barbarians Delay",
-      "fairDice": "Fair Dice",
-      "raids": "Raids"
+      "on": "Sí",
+      "off": "No",
+      "points": "Puntos de victoria",
+      "time": "Temporizador de turno",
+      "luckyRaid": "Saque de Lucky 7",
+      "culture": "Cultura",
+      "barbDelay": "Retraso de los bárbaros",
+      "fairDice": "Dado justo",
+      "raids": "Saqueos"
     },
     "addBot": {
-      "title": "ADD BOT",
-      "alreadyAdded": "Already Added",
-      "unlockBot": "Unlock Bot",
-      "addBot": "Add Bot"
+      "title": "AÑADIR BOT",
+      "alreadyAdded": "Ya añadido",
+      "unlockBot": "Desbloquear Bot",
+      "addBot": "AÑADIR BOT"
     },
     "getReady": {
-      "title": "GET READY!",
-      "cancel": "Cancel",
-      "ready": "Ready"
+      "title": "¡PREPÁRATE!",
+      "cancel": "Cancelar",
+      "ready": "Listo"
     },
     "ranked": {
-      "title": "Joined!",
-      "message": "You joined a daily game match! You will be notified when game starts."
+      "title": "¡Dentro!",
+      "message": "¡Te uniste a un juego diario! Se te notificará cuando comience el juego."
     },
     "recent": {
-      "title": "INVITE PLAYERS",
-      "notificationTurnedOf": "This player has turned off invitations from recent players. This player will be removed from your list.",
-      "noRecent": "No recent players!"
+      "title": "INVITAR A JUGADORES",
+      "notificationTurnedOf": "Este jugador ha desactivado las invitaciones de jugadores recientes. Este jugador será eliminado de tu lista.",
+      "noRecent": "¡No hay jugadores recientes!"
     },
     "joinPrivate": {
-      "joinAnyway": "Join anyway",
-      "cancel": "Cancel"
+      "joinAnyway": "Unirse de todos modos",
+      "cancel": "Cancelar"
     },
     "gameType": {
-      "ranked": "RANKED GAME",
-      "quick": "QUICK GAME",
+      "ranked": "JUEGO CLASIFICADO",
+      "quick": "JUEGO RÁPIDO",
       "tutorial": "TUTORIAL",
-      "daily": "DAILY GAME",
-      "solo": "SOLO GAME",
-      "live": "LIVE GAME"
+      "daily": "JUEGO DIARIO",
+      "solo": "JUEGO EN SOLITARIO",
+      "live": "JUEGO EN VIVO"
     },
-    "lobbyLabel": "Lobby:",
-    "code": "Code: ",
-    "join": "JOIN",
-    "waiting": "Waiting...",
-    "waitingForHost": "Waiting for host...",
-    "start": "Start",
-    "starting": "Game Starting",
-    "startingTutorial": "Starting tutorial",
-    "initTutorial": "Initializing tutorial...",
-    "creatingNewLobby": "Creating new lobby...",
-    "checkingExisting": "Checking existing games...",
-    "matchingGameFound": "Matching game found!",
-    "loadingLobby": "Loading game lobby...",
-    "loadingGame": "Loading game...",
-    "joined": "Joined!",
-    "alreadyInQueue": "You are already in the queue, you will be notified when a game starts.",
-    "lobbyFull": "Lobby full!",
-    "hostToAdd": "You must be a host to add a bot",
-    "cannotBoot": "You cannot boot this player",
-    "notFound": "Lobby not found",
-    "waitingForLot": "You are already waiting for a lot of games to start. We’ll notify you when it’s your turn to move.",
-    "kicked": "Kicked!",
-    "kickedMsg": "The host has removed you from this game. Try joining a different game.",
-    "timeOut": "Timed out",
-    "timeOutMsg": "You didn't accept the game in time.",
-    "rematchCanceled": "Rematch canceled",
-    "rematchCanceledMsg": "Someone rejected this game.",
-    "gameCanceled": "Game canceled",
-    "gameCanceledMsg": "The host has ended this game."
+    "lobbyLabel": "Vestíbulo:",
+    "code": "Código: ",
+    "join": "INGRESAR",
+    "waiting": "Esperando...",
+    "waitingForHost": "Esperando al anfitrión...",
+    "start": "Iniciar",
+    "starting": "Inicio del juego",
+    "startingTutorial": "Tutorial de inicio",
+    "initTutorial": "Tutorial de inicialización...",
+    "creatingNewLobby": "Creación de un nuevo vestíbulo...",
+    "checkingExisting": "Comprobando los juegos existentes...",
+    "matchingGameFound": "¡Juego coincidente encontrado!",
+    "loadingLobby": "Cargando vestíbulo del juego...",
+    "loadingGame": "Cargando juego...",
+    "joined": "¡Dentro!",
+    "alreadyInQueue": "Ya estás en la cola, se te notificará cuando comience un juego.",
+    "lobbyFull": "¡Vestíbulo lleno!",
+    "hostToAdd": "Debes ser un anfitrión para agregar un bot",
+    "cannotBoot": "No puedes expulsar a este jugador",
+    "notFound": "Vestíbulo no encontrado",
+    "waitingForLot": "Ya estás esperando que comiencen muchos juegos. Te notificaremos cuando sea tu turno de moverte.",
+    "kicked": "¡Expulsado!",
+    "kickedMsg": "El anfitrión te ha sacado de este juego. Intenta unirte a un juego diferente.",
+    "timeOut": "Agotado el tiempo de espera",
+    "timeOutMsg": "No aceptaste el juego a tiempo.",
+    "rematchCanceled": "Revancha cancelada",
+    "rematchCanceledMsg": "Alguien rechazó este juego.",
+    "gameCanceled": "Juego cancelado",
+    "gameCanceledMsg": "El anfitrión ha terminado este juego."
   },
   "builder": {
     "create": {
-      "title": "CREATE MAP!",
-      "ok": "Ok",
-      "firstMap": "Want to create your first custom map?\nUse the map builder to design your very own world!",
-      "randomNumber": "Any tiles without a number will be randomly assigned a number each game",
-      "mysteryTiles": "A mystery tile that cannot be placed on initially and is only revealed when a player explores it",
-      "randomResources": "A randomly assigned land resource at game start"
+      "title": "¡CREAR MAPA!",
+      "ok": "Vale",
+      "firstMap": "¿Quieres crear tu primer mapa personalizado?\n¡Usa el creador de mapas para diseñar tu propio mundo!",
+      "randomNumber": "A las casillas sin número se les asignará un número al azar en cada juego",
+      "mysteryTiles": "Una casilla misteriosa que no se puede colocar inicialmente y solo se revela cuando un jugador la explora.",
+      "randomResources": "Un recurso terrestre asignado al azar al comienzo del juego"
     },
     "controls": {
-      "info": "Information",
-      "tiles": "Tiles",
-      "harbors": "Harbors"
+      "info": "Información",
+      "tiles": "Casillas",
+      "harbors": "Puertos"
     },
     "info": {
       "name": {
-        "title": "Name",
-        "placeholder": "Enter name..."
+        "title": "Nombre",
+        "placeholder": "Ingresa el nombre..."
       },
       "description": {
-        "title": "Description",
-        "placeholder": "Enter description..."
+        "title": "Descripción",
+        "placeholder": "Ingresa la descripción..."
       },
-      "points": "Victory Points"
+      "points": "Puntos de victoria"
     },
     "terrain": {
-      "nonPlacement": "Non Placement Tile",
-      "nonPlacementHint": "Select land tiles that are not allowed initial settlements."
+      "nonPlacement": "Casilla sin colocación",
+      "nonPlacementHint": "Selecciona casillas de tierras que no estén permitidas en los asentamientos iniciales."
     },
     "unsaved": {
-      "title": "Unsaved Changes",
-      "message": "You have unsaved changes to this map?",
-      "yes": "Exit",
-      "no": "Save & Exit"
+      "title": "Cambios no guardados",
+      "message": "¿Tienes cambios sin guardar en este mapa?",
+      "yes": "Salir",
+      "no": "Guardar y salir"
     },
-    "title": "MAP BUILDER",
-    "save": "Save",
-    "openControls": "Open Controls",
-    "profanity": "Profanity detected. Try again.",
+    "title": "CONSTRUCTOR DE MAPAS",
+    "save": "Guardar",
+    "openControls": "Controles abiertos",
+    "profanity": "Blasfemias detectadas. Vuelve a intentarlo.",
     "saved": {
-      "title": "Success!",
-      "message": "Your map has been saved!"
+      "title": "¡Enhorabuena!",
+      "message": "¡Tu mapa ha sido guardado!"
     },
     "validation": {
-      "emptyName": "Please give your map a name.",
-      "invalidName": "Please enter a valid map name."
+      "emptyName": "Por favor, dale un nombre a tu mapa.",
+      "invalidName": "Ingresa un nombre de mapa válido."
     },
     "list": {
-      "by": "By: {}",
-      "on": "On: {}",
-      "games": "Games: {}",
+      "by": "Por: {}",
+      "on": "En/El: {}",
+      "games": "Juegos: {}",
       "vp": "VP: {}",
       "deleteOfficial": {
-        "title": "Delete Action",
-        "message": "Official maps are undeletable."
+        "title": "Eliminar acción",
+        "message": "Los mapas oficiales son indelebles."
       },
       "delete": {
-        "title": "Delete",
-        "message": "Are you sure you want to delete this map?",
-        "yes": "Delete",
-        "no": "Cancel"
+        "title": "Eliminar",
+        "message": "¿Estás seguro de que deseas eliminar este mapa?",
+        "yes": "Eliminar",
+        "no": "Cancelar"
       }
     }
   },
   "notifications": {
-    "title": "Don't Miss Your Turn!",
-    "enable": "Enable Notifications",
-    "enableEmail": "Enable Email Notifications",
-    "enableText": "Enable notifications and never miss your turn. We'll remind you when it's time to jump back in so you can keep the game moving!",
-    "notNow": "Don't enable for now"
+    "title": "¡No pierdas tu turno!",
+    "enable": "Habilitar notificaciones",
+    "enableEmail": "Habilitar notificaciones por correo electrónico",
+    "enableText": "Habilita las notificaciones y nunca pierdas tu turno. ¡Te recordaremos cuándo es el momento de volver a entrar para que puedas seguir jugando!",
+    "notNow": "No habilitar por ahora"
   },
   "unsubscribe": {
     "ask": {
-      "title": "Are you sure?",
-      "message": "Are you sure you want to unsubscribe from game updates emails?",
-      "yes": "Unsubscribe"
+      "title": "¿Estás seguro?",
+      "message": "¿Estás seguro de que quieres darte de baja de los correos electrónicos de las actualizaciones del juego?",
+      "yes": "Darme de baja"
     },
     "unsubscribed": {
-      "title": "Unsubscribed",
-      "yes": "Home",
-      "message": "You have been successfully unsubscribed. You can turn on game updates emails again in the settings."
+      "title": "Dado de baja",
+      "yes": "Inicio",
+      "message": "Se te ha dado de baja correctamente. Puedes activar los correos electrónicos de actualizaciones del juego nuevamente en la configuración."
     }
   },
   "loading": {
-    "title": "PLEASE WAIT"
+    "title": "ESPERA UN MOMENTO"
   },
   "rank": {
-    "title": "YOUR\nRANK"
+    "title": "TU\nCALIFICACIÓN"
   },
   "seasons": {
     "leaderboard": {
-      "title": "SEASON LEADERBOARD",
-      "player": "Player",
-      "games": "# Games",
-      "SP": "SP (Season Points)",
-      "reward": "Reward"
+      "title": "TABLA DE CLASIFICACIÓN DE LA TEMPORADA",
+      "player": "Jugador",
+      "games": "# Juegos",
+      "SP": "SP (Puntos de temporada)",
+      "reward": "Recompensa"
     },
-    "noPlayers": "No players yet",
-    "unlockAchievement": "Complete 10 games\nto unlock achievement"
+    "noPlayers": "Aún no hay jugadores",
+    "unlockAchievement": "Completa 10 juegos\npara desbloquear los logros"
   }
 }
