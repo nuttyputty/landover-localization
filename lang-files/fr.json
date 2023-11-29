@@ -60,7 +60,7 @@
       },
       "email": {
         "wrongPassword": "Ce mot de passe n'est pas correct. Veuillez réessayer.",
-        "alreadyExists": "Cet email existe déjà en tant que login Google ou Apple. Connectez-vous avec Google ou Apple,
+        "alreadyExists": "Cet email existe déjà en tant que login Google ou Apple. Connectez-vous avec Google ou Apple",
         "notExist": "Nous ne pouvons pas trouver de compte associé à cette adresse électronique. Veuillez réessayer.",
         "wrongCode": "Le code est incorrect",
         "failedToLink": "Échec de la liaison des données d'identification, réessayez.",
