@@ -1408,9 +1408,12 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting": "Please wait... Looking for {} more players",
+        "waiting":{
+          "one": "Please wait... Looking for {} more player",
+          "other": "Please wait... Looking for {} more players"
+        },
         "areYouReady": "Are you ready?",
-        "starting": "Game is staring",
+        "starting": "Game is starting",
         "waitingForOther": "Waiting for other players..."
       },
       "readyButton": "Ready",
