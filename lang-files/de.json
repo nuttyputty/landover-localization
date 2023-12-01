@@ -1405,6 +1405,31 @@
       "button": "Entfernen",
       "title": "Bist du sicher über den Rauswurf von "
     },
+    "rankedLiveLobby": {
+      "title": "LIVE RANKED GAME",
+      "lobbyState": {
+        "waiting":{
+          "one": "Please wait... Looking for {} more player",
+          "other": "Please wait... Looking for {} more players"
+        },
+        "areYouReady": "Are you ready?",
+        "starting": "Game is starting",
+        "waitingForOther": "Waiting for other players..."
+      },
+      "readyButton": "Ready",
+      "opponent": "Opponent",
+      "VS": "VS",
+      "randomMap": "Random map",
+      "gameData": {
+        "winCondition": "Win Condition",
+        "startingResources": "Starting Resources",
+        "charity": "Charity",
+        "fairDice": "Fair Dice",
+        "turnTimer": "Turn Timer",
+        "on": "On",
+        "off": "Off"
+      }
+    },
     "options": {
       "on": "An",
       "off": "Aus",
