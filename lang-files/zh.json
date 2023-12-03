@@ -330,7 +330,7 @@
         "description": "从你选择的玩家那里偷取1级军事力量。",
         "cannotPlayMaxedPower": "你的军事力量已经达到最大值：3。请将政治力量也到升到3级以提升军事力量的最大值。",
         "cannotPlayBarracks": "你已拥有最强军事力量。",
-        "cannotPlayEmpty": "没有玩家拥有军事力量
+        "cannotPlayEmpty": "没有玩家拥有军事力量"
       },
       "vandal": {
         "title": "破坏者",
@@ -723,7 +723,7 @@
     },
     "freeRaid": {
       "title": "免费袭击",
-      "description": "最后一名投掷出7点，可让你拥有一次免费的袭击。放置你的投石器以从对手那里偷取一种资源。
+      "description": "最后一名投掷出7点，可让你拥有一次免费的袭击。放置你的投石器以从对手那里偷取一种资源。",
       "button": "袭击"
     },
     "military": {
@@ -917,7 +917,8 @@
       "leaveBtn": "投降",
       "rejoinBtn": "重新加入",
       "bottomMsg1": "你当前正在进行一局实时游戏！ ",
-      "bottomMsg2": "请投降或重新加入此游戏，\n免得其他玩家一直在等你。",
+      "bottomMsg2": "请投降或重新加入此游戏，\n免得其他玩家一直在等你。"
+    },
     "gameNotExist": "你的游戏已经不存在了。",
     "somethingWentWrong": "出了点问题，请重试或开始新游戏。"
   },
@@ -976,7 +977,7 @@
     "premiumPlayersNumber": "与朋友一起创建史诗般的8人游戏",
     "premiumGameOptions": "创建适合你的定制游戏",
     "premiumStats": "分析游戏结果以便再创佳绩",
-    "premiumAvatars": "使用任何你想用的图像作为游戏头像,
+    "premiumAvatars": "使用任何你想用的图像作为游戏头像",
     "premiumMaps": "设计新颖有趣的地图",
     "premiumNoAds": "无广告。直接支持开发人员吧！",
     "title": "黄金会员",
@@ -1097,12 +1098,9 @@
       "hometown": "故乡：",
       "editInfo": "编辑信息",
       "joinedOn": "加入时间：{}",
-      "1stPlace": "第1
-",
-      "2ndPlace": "第2
-",
-      "3rdPlace": "第3
-",
+      "1stPlace": "第1",
+      "2ndPlace": "第2",
+      "3rdPlace": "第3",
       "totalGames": "总游戏数",
       "asOfMay": "截至2023年5月"
     },
@@ -1309,7 +1307,7 @@
       "favorites": "最爱",
       "lastPlayed": "上次游玩",
       "moreSlots": "订阅以获得更多栏位",
-      "giant": "巨大,
+      "giant": "巨大",
       "normal": "正常",
       "mapType": "选择地图类型",
       "mapTypeMsg": "选择你想创建的地图。",
@@ -1396,7 +1394,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting":{
+        "waiting": {
           "one": "Please wait... Looking for {} more player",
           "other": "Please wait... Looking for {} more players"
         },

@@ -30,7 +30,7 @@
   },
   "noConnection": {
     "title": "Erreur de connexion",
-    "message": "Impossible de se connecter au serveur.\NVérifier votre connexion internet et réessayez.",
+    "message": "Impossible de se connecter au serveur.\nVérifier votre connexion internet et réessayez.",
     "action": "Réessayer"
   },
   "avatar": {
@@ -125,7 +125,7 @@
         "lostCity": "a perdu une ville",
         "defended": "défendu avec succès",
         "earnedVP": "VP mérité avec le grade militaire le plus élevé",
-        "earnedCardSuffix": "récompensé par une carte de développement".
+        "earnedCardSuffix": "récompensé par une carte de développement"
       },
       "culture": {
         "upgradedPrefix": "améliorée",
@@ -144,7 +144,7 @@
         "one": "Volé à {} joueur ",
         "many": "Volé à {} joueurs",
         "other": "Volé à {} joueurs ",
-        "failed": "Impossible de voler des ressources".
+        "failed": "Impossible de voler des ressources"
       }
     },
     "devCards": {
@@ -183,7 +183,7 @@
           "withoutResources": "A 2 ressources",
           "withResources": "a obtenu 2 ressources: {}"
         },
-        "excavation": "Réception de deux argiles pour chaque bâtiment sur un carreau d'argile,
+        "excavation": "Réception de deux argiles pour chaque bâtiment sur un carreau d'argile",
         "forestry": "Reçu deux bois pour chaque bâtiment sur une tuile de bois",
         "irrigation": "Reçu deux blés pour chaque bâtiment sur une tuile de blé",
         "mining": "Reçoit deux minerais pour chaque bâtiment situé sur une tuile de minerai",
@@ -235,7 +235,7 @@
       },
       "commercialHarbor": {
         "title": "Port de commerce",
-        "description": "Échange 1 ressource contre 1 marchandise".
+        "description": "Échange 1 ressource contre 1 marchandise"
       },
       "resourceMonopoly": {
         "title": "Monopole des ressources",
@@ -262,7 +262,7 @@
       },
       "plenty": {
         "title": "Nombreux",
-        "description": "Obtenez deux ressources de votre choix".
+        "description": "Obtenez deux ressources de votre choix"
       },
       "excavation": {
         "title": "Excavation",
@@ -304,7 +304,7 @@
       },
       "roadBuilding": {
         "title": "Construction de routes",
-        "description": "Placez deux routes ou deux ponts, ou un de chaque, sans frais pour vous".
+        "description": "Placez deux routes ou deux ponts, ou un de chaque, sans frais pour vous"
       },
       "military": {
         "title": "Militaire",
@@ -314,7 +314,7 @@
       "crane": {
         "title": "Grue",
         "description": "Après avoir joué cette carte, votre prochaine amélioration culturelle de ce tour coûte une marchandise de moins",
-        "cannotPlay": "Vous ne pouvez pas jouer cette carte parce que vous n'avez pas de ville ou que vous avez déjà une carte Grue en jeu".
+        "cannotPlay": "Vous ne pouvez pas jouer cette carte parce que vous n'avez pas de ville ou que vous avez déjà une carte Grue en jeu"
       },
       "siege": {
         "Title": "Siège",
@@ -334,12 +334,12 @@
       },
       "vandal": {
         "title": "Vandale",
-        "description": "Retirez la route ou le pont d'un autre joueur que vous avez choisi".
+        "description": "Retirez la route ou le pont d'un autre joueur que vous avez choisi"
       },
       "diplomat": {
         "title": "Diplomate",
         "description": "Déplacer l'une de vos routes ou l'un de vos ponts vers un nouvel emplacement",
-        "cannotPlay": "Vous n'avez pas de pistes à déplacer".
+        "cannotPlay": "Vous n'avez pas de pistes à déplacer"
       },
       "raze": {
         "title": "Raze",
@@ -414,7 +414,7 @@
       "cannotAfford": "Vous ne pouvez pas vous le permettre!",
       "structureRequires": "{} requiert :",
       "cannotBuild": "Impossible de construire {}",
-      "cannotBuildReason": "Vous n'avez nulle part où le mettre".
+      "cannotBuildReason": "Vous n'avez nulle part où le mettre"
     },
     "trailTypeDialog": {
       "title": "CHOISIR UN",
@@ -801,7 +801,7 @@
     "continue": "Tapez pour continuer",
     "learningMode": {
       "title": "Mode d'apprentissage",
-      "description": "L'objectif de Landover est d'obtenir des points de victoire en construisant des colonies et en développant votre empire. Essayons-le dans ce jeu. Votre objectif est d'atteindre 15 points de victoire!""
+      "description": "L'objectif de Landover est d'obtenir des points de victoire en construisant des colonies et en développant votre empire. Essayons-le dans ce jeu. Votre objectif est d'atteindre 15 points de victoire!"
     },
     "firstVillage": {
       "title": "Premier village",
@@ -809,7 +809,7 @@
     },
     "firstRoad": {
       "title": "Première route",
-      "description": "Maintenant, placez une route de votre village vers un autre bon coin".
+      "description": "Maintenant, placez une route de votre village vers un autre bon coin"
     },
     "firstCity": {
       "title": "Première ville",
@@ -817,7 +817,7 @@
     },
     "secondRoad": {
       "title": "Deuxième route",
-      "description": "Et encore une fois, placez une route de votre ville vers un autre bon coin".
+      "description": "Et encore une fois, placez une route de votre ville vers un autre bon coin"
     },
     "rollTime": {
       "title": "Le temps de rouler",
@@ -837,7 +837,7 @@
     },
     "trading": {
       "title": "échange",
-      "description": "La banque Landover vous permet d'échanger n'importe quelle ressource ou marchandise 3 pour 1. Il semble que vous puissiez transformer votre village en ville, mais cela nécessite un échange. Allez-y et essayez de construire une ville et vous devriez voir l'invite Trade to Build. Si vous voulez des échanges plus économiques, essayez de construire un village sur un port qui vous donne une capacité de 2 pour 1".
+      "description": "La banque Landover vous permet d'échanger n'importe quelle ressource ou marchandise 3 pour 1. Il semble que vous puissiez transformer votre village en ville, mais cela nécessite un échange. Allez-y et essayez de construire une ville et vous devriez voir l'invite Trade to Build. Si vous voulez des échanges plus économiques, essayez de construire un village sur un port qui vous donne une capacité de 2 pour 1"
     },
     "culture": {
       "title": "Culture",
@@ -910,7 +910,7 @@
       "leaveBtn": "Quitter",
       "rejoinBtn": "Rejoindre",
       "bottomMsg1": "Vous êtes actuellement dans un lobby de jeu en direct!",
-      "bottomMsg2": "Veuillez quitter ou rejoindre le lobby du jeu afin d'être prêt à partir lorsque le jeu commencera".
+      "bottomMsg2": "Veuillez quitter ou rejoindre le lobby du jeu afin d'être prêt à partir lorsque le jeu commencera"
     },
     "inGame": {
       "title": "JEU LIVE",
@@ -944,13 +944,13 @@
   "culture": {
     "science": {
       "abilityName": "Aqueduc",
-      "abilityDescription": ""Si un joueur ne reçoit \n’importe quelle ressource pour un \nlancement donné, il reçoit une \naléatoire ressource.",
+      "abilityDescription": "Si un joueur ne reçoit \n’importe quelle ressource pour un \nlancement donné, il reçoit une \naléatoire ressource.",
       "abilityAnnouncement": "Si vous n'obtenez aucune ressource sur un jet, vous recevrez désormais une ressource aléatoire."
     },
     "commerce": {
       "abilityName": "Banque",
-      "abilityDescription": "Permet aux joueurs d'échanger des\Nmarchandises dans un rapport de 2:1 avec la\nbanque contre n'importe quelle ressource ou\Nmarchandise",
-      "abilityAnnouncement": "Vous pouvez désormais échanger des matières premières 2:1 avec la banque".
+      "abilityDescription": "Permet aux joueurs d'échanger des\nmarchandises dans un rapport de 2:1 avec la\nbanque contre n'importe quelle ressource ou\nmarchandise",
+      "abilityAnnouncement": "Vous pouvez désormais échanger des matières premières 2:1 avec la banque"
     },
     "politics": {
       "abilityName": "Caserne",
@@ -979,7 +979,7 @@
     "premiumStats": "Analyser les résultats du jeu pour s'améliorer",
     "premiumAvatars": "Utilisez l'image de votre choix comme avatar dans le jeu",
     "premiumMaps": "Concevoir de nouvelles cartes passionnantes",
-    "premiumNoAds": "Pas de publicité. Soutenez directement les développeurs!
+    "premiumNoAds": "Pas de publicité. Soutenez directement les développeurs!",
     "title": "Membre Gold",
     "lastPayment": "Dernier paiement",
     "nextPayment": "Prochain paiement",
@@ -991,7 +991,7 @@
       "title": "Succès!",
       "home": "Accueil",
       "message": "Vous êtes maintenant un utilisateur gold",
-      "safeRollMsg": "Les jetons du roulement sécurisé ont été achetés avec succès".
+      "safeRollMsg": "Les jetons du roulement sécurisé ont été achetés avec succès"
     },
     "canceled": {
       "title": "Annulé",
@@ -1002,7 +1002,7 @@
   "ranks": {
     "promoted": {
       "title": "PROMU!",
-      "message": "Félicitations! \Votre incroyable jeu vous a permis de gagner un niveau de classement!"
+      "message": "Félicitations! Votre incroyable jeu vous a permis de gagner un niveau de classement!"
     },
     "demoted": {
       "title": "RÉTROGRADÉ!",
@@ -1250,7 +1250,7 @@
     "video": "Video\nTutoriels",
     "tutorial": "Play\nTutoriel",
     "discord": "Discord!",
-    "questions": "Questions?\N"
+    "questions": "Questions?"
   },
   "themes": {
     "title": "Thème",
@@ -1286,7 +1286,7 @@
       },
       "raids": {
         "title": "Raids",
-        "tooltip": "Activer/Désactiver la dépense d'un militaire pour effectuer un raid sur votre adversaire".
+        "tooltip": "Activer/Désactiver la dépense d'un militaire pour effectuer un raid sur votre adversaire"
       },
       "fairDice": {
         "title": "Dés juste",
@@ -1394,7 +1394,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting":{
+        "waiting": {
           "one": "Please wait... Looking for {} more player",
           "other": "Please wait... Looking for {} more players"
         },
@@ -1539,11 +1539,11 @@
     "list": {
       "by": "Par: {}",
       "on": "On : {}",
-      "games": "Jeux": {}",
+      "games": "Jeux: {}",
       "vp": "VP: {}",
       "deleteOfficial": {
         "title": "Supprimer l'action",
-        "message": "Les cartes officielles ne sont pas modifiables".
+        "message": "Les cartes officielles ne sont pas modifiables"
       },
       "delete": {
         "title": "Supprimer",
@@ -1576,7 +1576,7 @@
     "title": "VEUILLEZ PATIENTER"
   },
   "rank": {
-    "title": "VOTRE\NCLASSEMENT"
+    "title": "VOTRE\nCLASSEMENT"
   },
   "seasons": {
     "leaderboard": {
@@ -1587,6 +1587,6 @@
       "reward": "Récompense"
     },
     "noPlayers": "Pas de joueurs pour l'instant",
-    "unlockAchievement": "Terminez 10 parties\nto pour débloquer le succès".
+    "unlockAchievement": "Terminez 10 parties\nto pour débloquer le succès"
   }
 }
