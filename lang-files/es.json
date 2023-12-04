@@ -11,7 +11,12 @@
       "comingSoon": "PRÓXIMAMENTE",
       "playMore": "Juega más juegos"
     },
-    "goGold": "¡CONVIÉRTETE EN ORO!"
+    "goGold": "¡CONVIÉRTETE EN ORO!",
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
   },
   "playNow": {
     "unlock": "¡Juega más juegos casuales para desbloquear el modo Clasificado!"

@@ -11,7 +11,12 @@
       "comingSoon": "СКОРО",
       "playMore": "Играть больше игр"
     },
-    "goGold": "ВПЕРЕД, ЗОЛОТО!"
+    "goGold": "ВПЕРЕД, ЗОЛОТО!",
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
   },
   "playNow": {
     "unlock": "Играйте в больше неформальных игр, чтобы открыть рейтинговые игры!"

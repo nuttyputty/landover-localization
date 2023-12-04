@@ -11,7 +11,12 @@
       "comingSoon": "即将推出",
       "playMore": "玩更多游戏"
     },
-    "goGold": "加入黄金会员！ "
+    "goGold": "加入黄金会员！ ",
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
   },
   "playNow": {
     "unlock": "玩更多休闲游戏以解锁排位！"

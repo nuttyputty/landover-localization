@@ -11,7 +11,12 @@
       "comingSoon": "DEMNÄCHST VERFÜGBAR",
       "playMore": "Spiel mehr Spiele"
     },
-    "goGold": "werde GOLD!"
+    "goGold": "werde GOLD!",
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
   },
   "playNow": {
     "unlock": "Spiele mehr Gelegenheitsspiele, um Rangspiele freizuschalten!"

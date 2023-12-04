@@ -11,7 +11,12 @@
       "comingSoon": "PROCHAINEMENT",
       "playMore": "Jouer à d'autres jeux"
     },
-    "goGold": "GO GOLD!"
+    "goGold": "GO GOLD!",
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
   },
   "playNow": {
     "unlock": "Jouez plus de parties normales pour débloquer le classement!"

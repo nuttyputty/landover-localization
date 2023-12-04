@@ -11,7 +11,12 @@
       "comingSoon": "COMING SOON",
       "playMore": "Play more games"
     },
-    "goGold": "GO GOLD!"
+    "goGold": "GO GOLD!",
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
   },
   "playNow": {
     "unlock": "Play more casual games to unlock Ranked!"
