@@ -805,8 +805,8 @@
     "viewProductChart": "Voir le tableau des produits",
     "continue": "Tapez pour continuer",
     "learningMode": {
-      "title": "Mode d'apprentissage",
-      "description": "L'objectif de Landover est d'obtenir des points de victoire en construisant des colonies et en développant votre empire. Essayons-le dans ce jeu. Votre objectif est d'atteindre 15 points de victoire!"
+      "title": "Welcome to Landover!",
+      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
     },
     "firstVillage": {
       "title": "Premier village",
@@ -1593,5 +1593,23 @@
     },
     "noPlayers": "Pas de joueurs pour l'instant",
     "unlockAchievement": "Terminez 10 parties\nto pour débloquer le succès"
+  },
+  "showcase": {
+    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
+    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
+    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
+    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The highest the corner value, the better it is!",
+    "resources1": "These are your resource cards!",
+    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
+    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
+    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
+    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
+    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
+    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
+    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
+    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
+    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
+    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
+    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."    
   }
 }
