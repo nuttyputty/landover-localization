@@ -47,6 +47,12 @@
     "earned": "Получено достижение: {}",
     "openEarned": "ОТКРЫТЬ"
   },
+  "watchLiveGames": {
+    "title": "Watch Live Games",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "button": "WATCH\nLIVE GAMES"
+  },
   "errors": {
     "gameAlreadyStarted": "Игра уже началась",
     "gameDoesNotExist": "Вашей игры больше не существует.",

@@ -47,6 +47,12 @@
     "earned": "Logro obtenido: {}",
     "openEarned": "ABRIR"
   },
+  "watchLiveGames": {
+    "title": "Watch Live Games",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "button": "WATCH\nLIVE GAMES"
+  },
   "errors": {
     "gameAlreadyStarted": "El juego ya ha comenzado",
     "gameDoesNotExist": "Tu juego ya no existe.",

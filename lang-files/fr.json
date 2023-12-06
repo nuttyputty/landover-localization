@@ -47,6 +47,12 @@
     "earned": "Succès acquis: {}",
     "openEarned": "OUVRIR"
   },
+  "watchLiveGames": {
+    "title": "Watch Live Games",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "button": "WATCH\nLIVE GAMES"
+  },
   "errors": {
     "gameAlreadyStarted": "Partie déjà commencé",
     "gameDoesNotExist": "Votre partie n'existe plus",

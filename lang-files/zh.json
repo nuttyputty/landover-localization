@@ -47,6 +47,12 @@
     "earned": "已获得成就：{}",
     "openEarned": "查看"
   },
+  "watchLiveGames": {
+    "title": "Watch Live Games",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "button": "WATCH\nLIVE GAMES"
+  },
   "errors": {
     "gameAlreadyStarted": "游戏已经开始",
     "gameDoesNotExist": "你的游戏已不存在。",

@@ -47,6 +47,12 @@
     "earned": "Earned Achievement: {}",
     "openEarned": "OPEN"
   },
+  "watchLiveGames": {
+    "title": "Watch Live Games",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "button": "WATCH\nLIVE GAMES"
+  },
   "errors": {
     "gameAlreadyStarted": "Game already started",
     "gameDoesNotExist": "Your game doesn't exist anymore.",
