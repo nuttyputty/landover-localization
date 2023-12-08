@@ -1,1628 +1,1606 @@
 {
   "home": {
-    "takeTurn": "TAKE TURN",
-    "playNow": "PLAY NOW",
-    "createGame": "Create Game",
-    "joinGame": "Join Game",
-    "myGames": "My Games",
-    "startPlaying": "Start Playing Now!",
+    "takeTurn": "FELVÁLTVA",
+    "playNow": "JÁTSSZ MOST",
+    "createGame": "Játék létrehozása",
+    "joinGame": "Csatlakozz egy játékhoz",
+    "myGames": "Játékaim",
+    "startPlaying": "Kezdj el játszani most!",
     "ranked": {
-      "title": "Ranked",
-      "comingSoon": "COMING SOON",
-      "playMore": "Play more games"
+      "title": "Rangsorolt",
+      "comingSoon": "HAMAROSAN",
+      "playMore": "További játékok"
     },
-    "goGold": "GO GOLD!",
-    "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "users": "USERS",
-      "movesMade": "MOVES MADE"
-    }
+    "goGold": "LÉGY ARANY!"
   },
   "playNow": {
-    "unlock": "Play more casual games to unlock Ranked!"
+    "unlock": "Játssz több alkalmi játékot, hogy feloldd a rangsorolást!"
   },
   "update": {
-    "title": "Update available!",
+    "title": "Frissítés elérhető!",
     "web": {
-      "label": "Please click bellow to clear web browser cache and get the latest update",
-      "button": "Clear cache"
+      "label": "Kérjük, kattints lentebb a böngésző gyorsítótárának törléséhez és a legújabb frissítéshez",
+      "button": "Gyorsítótár törlése"
     },
     "mobile": {
-      "label": "Please click bellow to download the latest update.",
-      "button": "Update"
+      "label": "A legújabb frissítés letöltéséhez kattints az alábbi gombra.",
+      "button": "Frissítés"
     },
-    "androidSuffix": "\nIf the update does not appear please clear Play Store's cache"
+    "androidSuffix": "\nHa a frissítés nem jelenik meg, kérjük, ürítsd a Play Store gyorsítótárad"
   },
   "noConnection": {
-    "title": "Connection error",
-    "message": "Unable to connect with the server.\nCheck your internet connection and try again",
-    "action": "Try again"
+    "title": "Csatlakozási hiba",
+    "message": "Nem sikerült kapcsolódni a szerverhez. \nEllenőrizd az internetkapcsolatodat, és próbáld meg újra.",
+    "action": "Próbálja újra"
   },
   "avatar": {
-    "save": "Save Changes",
-    "uploadPhoto": "Upload Photo"
+    "save": "Változások mentése",
+    "uploadPhoto": "Fénykép feltöltése"
   },
   "achievements": {
-    "title": "ACHIEVEMENTS",
-    "earned": "Earned Achievement: {}",
-    "openEarned": "OPEN"
-  },
-  "watchLiveGames": {
-    "title": "Watch Live Games",
-    "emptyList": "There are no active games",
-    "gameLabel": "Live",
-    "button": "WATCH\nLIVE GAMES"
+    "title": "TELJESÍTMÉNYEK",
+    "earned": "Megszerzett teljesítmény: {}",
+    "openEarned": "MEGNYITÁS"
   },
   "errors": {
-    "gameAlreadyStarted": "Game already started",
-    "gameDoesNotExist": "Your game doesn't exist anymore.",
-    "generic": "Something went wrong. Try again.",
-    "genericBig": "Something went wrong, a report has been sent to our team.",
-    "uhOh": "Uh Oh",
-    "error": "Error",
-    "tryAgain": "Try again",
-    "home": "Home",
+    "gameAlreadyStarted": "A játék már elindult",
+    "gameDoesNotExist": "A játékod már nem létezik.",
+    "generic": "Valami rosszul sült el. Próbáld újra.",
+    "genericBig": "Valami rosszul sült el, jelentést küldtünk a csapatunknak.",
+    "uhOh": "Oh ne",
+    "error": "Hiba",
+    "tryAgain": "Próbálja újra",
+    "home": "Kezdőlap",
     "login": {
       "google": {
-        "failed": "Unable to sign into your google account. Please try again",
-        "popupBlocked": "You have a popup blocker or ad blocker. Please allow popups and try again.",
-        "popupClosed": "You didn't finish Google Sign in. Please try again.",
-        "cookiesDisabled": "Please enable cookies and allow popups to continue."
+        "failed": "Nem sikerült bejelentkezni a Google-fiókba. Kérjük, próbálja újra",
+        "popupBlocked": "Felugró ablakblokkolója vagy reklámblokkolója van.",
+        "popupClosed": "Nem fejezte be a Google bejelentkezést. Kérjük, próbálja meg újra.",
+        "cookiesDisabled": "Kérjük, engedélyezze a sütiket és a felugró ablakokat a folytatáshoz."
       },
       "email": {
-        "wrongPassword": "That password isn't right. Please try again.",
-        "alreadyExists": "This email already exists as a Google or Apple login. Login with Google or Apple.",
-        "notExist": "We cannot find an account associated with that email address. Please try again.",
-        "wrongCode": "Code is wrong",
-        "failedToLink": "Failed to link credentials, try again",
-        "badFormat": "Invalid email format.",
-        "notAssociated": "No user was found with that email address.",
-        "generatingVerifyLinkFailed": "Error generating email link"
+        "wrongPassword": "Ez a jelszó nem jó. Kérjük, próbálja meg újra.",
+        "alreadyExists": "Ez az e-mail már létezik Google vagy Apple bejelentkezésként. Jelentkezzen be a Google vagy az Apple segítségével.",
+        "notExist": "Nem találunk ehhez az e-mail címhez kapcsolódó fiókot. Kérjük, próbálja meg újra.",
+        "wrongCode": "A kód rossz",
+        "failedToLink": "Nem sikerült összekapcsolni a hitelesítő adatokat, próbálja újra",
+        "badFormat": "Érvénytelen e-mail formátum.",
+        "notAssociated": "Nem találtunk felhasználót ezzel az e-mail címmel.",
+        "generatingVerifyLinkFailed": "Hiba az e-mail link generálásában"
       },
       "facebook": {
-        "failed": "Unable to sign into your facebook account. Please try again"
+        "failed": "Nem sikerült bejelentkezni a facebook fiókjába. Kérjük, próbálkozzon újra."
       },
-      "generic": "{} Please try again"
+      "generic": "{} Kérjük, próbálja meg újra"
     }
   },
   "game": {
     "logs": {
-      "tooltip": "Live log",
-      "noLogs": "No Logs",
+      "tooltip": "Élő napló",
+      "noLogs": "Nincsenek naplók",
       "military": {
-        "upgraded": "upgraded",
-        "military": "military"
+        "upgraded": "fejlesztett",
+        "military": "katonaság"
       },
       "tokens": {
-        "islandExploredSuffix": "explored a new island. Earned 1 VP!",
-        "longestTrailSuffix": "got longest road ({}). Earned 2 VP!",
-        "portAuthoritySuffix": "got Port Authority. Earned 2 VP!"
+        "islandExploredSuffix": "felfedezett egy új szigetet. Szerzett 1 VP-t!",
+        "longestTrailSuffix": "megszerezte a leghosszabb útat ({}). Szerzett 2 VP-t!",
+        "portAuthoritySuffix": "megszerezte a kikötői engedélyt. Szerzett 2 VP-t!"
       },
       "started": {
-        "prefix": "New",
-        "suffix": "player game started on"
+        "prefix": "Új",
+        "suffix": "játékos játék kezdődött ezen"
       },
       "raid": {
-        "raided": "raided",
-        "freeRaided": "free raided"
+        "raided": "portyázott",
+        "freeRaided": "ingyenes portyázott"
       },
       "trade": {
-        "traded": "traded",
-        "for": "for"
+        "traded": "cserélt",
+        "for": "erre"
       },
       "catapult": {
-        "catapult": "catapult",
-        "removed": "spent one military to remove",
-        "allRemoved": "All Catapults have been removed from the board."
+        "catapult": "katapult",
+        "removed": "egy katonaság elköltve az eltávolításra",
+        "allRemoved": "Az összes katapult el lett távolítva a tábláról."
       },
       "devCards": {
-        "drawn": "drew a development card"
+        "drawn": "húzott egy fejlesztési kártyát"
       },
       "resources": {
-        "received": "Received",
-        "discarded": "discarded",
-        "earned": "earned",
-        "aqueductSuffix": "from aqueduct"
+        "received": "Kapott",
+        "discarded": "eldobta",
+        "earned": "szerzett",
+        "aqueductSuffix": "vízvezetékből"
       },
       "charity": {
-        "charity": "Charity!",
-        "earnedPrefix": "Everyone but",
-        "earnedSuffix": "earned",
-        "everyoneEarned": "Everyone earned"
+        "charity": "Jótékonyság!",
+        "earnedPrefix": "Mindenki, kivéve",
+        "earnedSuffix": "szerzett",
+        "everyoneEarned": "Mindenki megszerzett"
       },
       "barbarian": {
-        "attack": "Barbarian attack",
-        "failed": "The players failed to defend the",
-        "lostCity": "lost a city.",
-        "defended": "successfully defended",
-        "earnedVP": "earned VP with highest military",
-        "earnedCardSuffix": "rewarded a development card."
+        "attack": "Barbár támadás",
+        "failed": "A játékosok nem tudták megvédeni a",
+        "lostCity": "elvesztettek egy várost.",
+        "defended": "sikeresen megvédték",
+        "earnedVP": "szerzett VP a legmagasabb katonaságért",
+        "earnedCardSuffix": "jutalma egy fejlesztési kártya."
       },
       "culture": {
-        "upgradedPrefix": "upgraded",
-        "upgradedSuffix": "culture"
+        "upgradedPrefix": "fejlesztett",
+        "upgradedSuffix": "kultúra"
       },
-      "bonusTime": "received {} turn timer bonus",
-      "gameOver": "Game Over",
-      "you": "You",
-      "your": "Your",
-      "were": "were",
-      "was": "was",
-      "turn": "Turn",
-      "rolled": "rolled",
-      "built": "built a",
+      "bonusTime": "{} fordulóidőzítő bónuszt kapott",
+      "gameOver": "Játék vége",
+      "you": "Te",
+      "your": "Tiéd",
+      "were": "volt",
+      "was": "volt",
+      "turn": "Forduló",
+      "rolled": "dobott",
+      "built": "épített egy",
       "stole": {
-        "one": "Stole from {} player",
-        "many": "Stole from {} players",
-        "other": "Stole from {} players",
-        "failed": "Couldn't steal resources."
+        "one": "Lopott {} játékostól",
+        "many": "Lopott {} játékosoktól",
+        "other": "Lopott {} játékosoktól",
+        "failed": "Nem tudott nyersanyagokat lopni."
       }
     },
     "devCards": {
-      "title": "played {} card.",
-      "newDevCard": "New dev card: {}",
+      "title": "kijátszott {} kártyát.",
+      "newDevCard": "Új fejlesztői kártya: {}",
       "subtitle": {
         "masterMerchant": {
-          "oneCard": "Took one card from {}",
-          "twoCards": "Took two cards from {}"
+          "oneCard": "Elvett egy kártyát tőle {}",
+          "twoCards": "Elvett két kártyát tőle {}"
         },
         "merchant": {
-          "withVP": "on {}, earned 1 VP.",
-          "withoutVP": "on {}."
+          "withVP": "ezen {}-n, 1 VP-t szerzett.",
+          "withoutVP": "ezen {}."
         },
         "merchantFleet": {
-          "oneResource": "Can now trade {} 2:1 this turn",
-          "allResources": "Can now trade {} 2:1"
+          "oneResource": "Most már 2:1 arányban kereskedhetsz {} ebben a körben.",
+          "allResources": "Most már 2:1 arányban kereskedhetsz {}"
         },
-        "commercialHarbor": "Traded 1 resource for 1 commodity",
+        "commercialHarbor": "1 nyersanyagot cseréltél 1 árura",
         "resourceMonopoly": {
-          "oneWithoutResources": "Stole resources from {}",
-          "moreWithoutResources": "Stole resources from {} players",
-          "failed": "Tried to steal some resources but got nothing",
-          "failedWithResource": "Tried to steal {} but got nothing",
-          "withResourcesAllSame": "Stole {} {} from {}",
-          "withResourcesDifferent": "Stole 2 {} from {} and 1 $resourceName from {}"
+          "oneWithoutResources": "nyersanyagokat lopott {}",
+          "moreWithoutResources": "nyersanyagokat lopott {} játékosoktól",
+          "failed": "Megpróbáltál nyersanyagot lopni, de nem kaptál semmit",
+          "failedWithResource": "Megpróbáltál lopni ezt {}, de nem kaptál semmit",
+          "withResourcesAllSame": "Ellopott {} {} játékosoktól {}",
+          "withResourcesDifferent": "Ellopott 2 {}  játékosoktól {} és 1 $resourceName játékosoktól {}"
         },
         "commodityMonopoly": {
-          "oneVictim": "Stole commodities from {}",
-          "moreVictims": "Stole commodities from {} players",
-          "failed": "Tried to steal some commodities but got nothing"
+          "oneVictim": "Ellopott nyersanyagokat {}",
+          "moreVictims": "Ellopott nyersanyagokat {} játékosoktól",
+          "failed": "Megpróbált ellopni néhány nyersanyagot, de nem kapott semmit"
         },
-        "expedition": "Converted tile to gold",
-        "famine": "{} discarded random cards",
+        "expedition": "Átalakítottam a lapkát arannyá",
+        "famine": "{} véletlenszerű kártyákat dobott el",
         "plenty": {
-          "withoutResources": "Got 2 resources",
-          "withResources": "Got 2 resources: {}"
+          "withoutResources": "2 nyersanyagot kaptam",
+          "withResources": "2 nyersanyagot kaptam"
         },
-        "excavation": "Received two clays for each building on a clay tile",
-        "forestry": "Received two wood for each building on a wood tile",
-        "irrigation": "Received two wheat for each building on a wheat tile",
-        "mining": "Received two ore for each building on an ore tile",
-        "borderCollie": "Received two sheep for each building on a sheep tile",
-        "inventor": "Swapped two number tiles",
-        "medicine": "Built a city for 2 ore and 1 wheat",
-        "roadBuilding": "Built two roads/bridges",
-        "military": "Upgraded military",
-        "crane": "Reduced culture upgrade cost",
+        "excavation": "Két agyagot kapott minden épületért az agyaglapkán.",
+        "forestry": "Két fát kapott minden épülethez egy fa lapkán.",
+        "irrigation": "Két búzát kapott minden épülethez egy búzalapkán",
+        "mining": "Két ércet kapott minden épülethez egy érclapkán",
+        "borderCollie": "Két birkát kapott minden épülethez egy birkalapkán",
+        "inventor": "Két számlapot cserélt",
+        "medicine": "Várost épített 2 ércért és 1 búzáért",
+        "roadBuilding": "Építettél két utat/hidat",
+        "military": "Katonaságot fejlesztett",
+        "crane": "Csökkentette a kultúra fejlesztési költségét",
         "siege": {
-          "oneVictim": "Stole resources from {}",
-          "moreVictims": "Stole resources from {} players"
+          "oneVictim": "nyersanyagokat lopott tőle {}",
+          "moreVictims": "nyersanyagokat lopott {} játékosoktól"
         },
-        "bishop": "Removed catapult",
-        "deserter": "Stole military from {}",
-        "vandal": "Destroyed {}'s bridge/road",
-        "diplomat": "Moved one trail",
-        "raze": "Destroyed {}'s city",
-        "spy": "Stole dev card from {}",
+        "bishop": "Eltávolította a katapultot",
+        "deserter": "Ellopta a hadsereget tőle {}",
+        "vandal": "Elpusztította {} hídját/útját",
+        "diplomat": "Elmozdított egy ösvényt",
+        "raze": "Elpusztította {} városát",
+        "spy": "Ellopott egy fejlesztési kártyát tőle {}",
         "wedding": {
-          "oneVictim": "Stole cards from {}",
-          "moreVictims": "Stole cards from {} players"
+          "oneVictim": "Lopott kártyákat tőle {}",
+          "moreVictims": "Lopott kártyákat {} játékosoktól"
         },
-        "anarchy": "Randomized number tiles",
-        "alchemist": "Chose dice roll numbers",
-        "traitor": "Advanced the barbarians tracker"
+        "anarchy": "Véletlenszerű számlapkák",
+        "alchemist": "Kockadobás számokat választott",
+        "traitor": "Továbbfejlesztette a barbárok nyomkövetőjét"
       },
       "masterMerchant": {
-        "title": "Master Merchant",
-        "description": "Pick any player with more victory points, see their hand and pick two resource or commodity cards.",
-        "cannotPlay": "There are no players that have more victory points than you",
+        "title": "Kereskedő mester",
+        "description": "Válaszd ki bármelyik játékost, akinek több győzelmi pontja van, nézd meg a kezét, és válassz két nyersanyag- vagy árukártyát.",
+        "cannotPlay": "Nincs olyan játékos, akinek több győzelmi pontja van, mint neked.",
         "dialog": {
-          "title": "Steal!"
+          "title": "Lopj!"
         }
       },
       "merchant": {
-        "title": "Merchant",
-        "description": "Move the merchant token to your own settlement or city. The player that possesses the merchant may trade that resource 2:1 with the bank. Worth 1 VP.",
+        "title": "Kereskedő",
+        "description": "Mozgasd a kereskedőjelzőt a saját településedre vagy városodra. Az a játékos, akinél a kereskedő van, 2:1 arányban cserélheti az adott nyersanyagot a bankkal. 1 VP-t ér.",
         "dialog": {
-          "title": "Place Merchant",
-          "message": "Are you sure you want to place a merchant here?",
-          "yes": "Yup!",
-          "no": "Cancel"
+          "title": "Kereskedő elhelyezése",
+          "message": "Biztos vagy benne, hogy ide akarod helyezni a kereskedőt?",
+          "yes": "Igen!",
+          "no": "Mégse"
         }
       },
       "merchantFleet": {
-        "title": "Merchant Fleet",
-        "description": "Pick one resource or commodity of your choice to trade with the bank at a 2:1 rate for this turn only."
+        "title": "Kereskedő flotta",
+        "description": "Válassz egy nyersanyagot vagy árut, amellyel 2:1 arányban kereskedhetsz a bankkal, csak ebben a körben."
       },
       "commercialHarbor": {
-        "title": "Commercial Harbor",
-        "description": "Trade 1 resource for 1 commodity."
+        "title": "Kereskedelmi kikötő",
+        "description": "Cserélj 1 nyersanyagot 1 árura."
       },
       "resourceMonopoly": {
-        "title": "Resource Monopoly",
-        "description": "Pick a resource. Each player must give you (up to) two of those resources if they have it."
+        "title": "Erőforrás-monopólium",
+        "description": "Válassz egy nyersanyagot. Minden játékosnak (legfeljebb) két nyersanyagot kell adnia neked ezekből, ha van nála."
       },
       "commodityMonopoly": {
-        "title": "Commodity Monopoly",
-        "description": "Pick a commodity. Each player must give you one of that commodity if they have it."
+        "title": "Árumonopólium",
+        "description": "Válasszatok egy árucikket. Minden játékosnak adnia kell nektek egyet ebből az árucikkből, ha van neki."
       },
       "expedition": {
-        "title": "Expedition",
-        "description": "Choose any tile on the board and convert it to a gold resource tile.",
+        "title": "Expedíció",
+        "description": "Válassz a táblán egy tetszőleges lapkát, és alakítsd át arany nyersanyaglapkává.",
         "dialog": {
-          "title": "Are you sure",
-          "message": "Do you want to turn this tile into gold?",
-          "no": "No",
-          "yes": "Yes"
+          "title": "Biztos vagy benne, hogy",
+          "message": "Át akarod alakítani ezt a lapkát arannyá?",
+          "no": "Nem",
+          "yes": "Igen"
         }
       },
       "famine": {
-        "title": "Famine",
-        "description": "All players with more VPs than you discard 2 random resources.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "Éhínség",
+        "description": "Minden játékos, akinek több VP-je van, mint neked, eldob 2 véletlenszerű nyersanyagot.",
+        "cannotPlay": "Nincs olyan játékos, akinek több győzelmi pontja van, mint neked."
       },
       "plenty": {
-        "title": "Plenty",
-        "description": "Get two resources of your choice."
+        "title": "Bőség",
+        "description": "Szerezz két szabadon választható nyersanyagot."
       },
       "excavation": {
-        "title": "Excavation",
-        "description": "Receive 2 clay per settlement on each clay tile"
+        "title": "Ásatás",
+        "description": "Településenként 2 agyagot kapsz minden agyaglapkáért"
       },
       "forestry": {
-        "title": "Forestry",
-        "description": "Receive 2 wood per settlement on each wood tile"
+        "title": "Erdészet",
+        "description": "Településenként 2 fát kapsz minden falapkáért"
       },
       "irrigation": {
-        "title": "Irrigation",
-        "description": "Receive 2 wheat per settlement on each wheat tile"
+        "title": "Öntözés",
+        "description": "Településenként 2 búzát kapsz minden búzalapkáért"
       },
       "mining": {
-        "title": "Mining",
-        "description": "Receive 2 ore per settlement on each ore tile"
+        "title": "Bányászat",
+        "description": "Településenként 2 ércet kapsz minden érclapkáért"
       },
       "borderCollie": {
         "title": "Border Collie",
-        "description": "Receive 2 sheep per settlement on each sheep tile"
+        "description": "Településenként 2 juhot kapsz minden juhlapkáért"
       },
       "inventor": {
-        "title": "Inventor",
-        "description": "Swap two number tiles on the board. Swappable numbers are: 3, 4, 5, 9, 10, and 11.",
-        "tileSelected": "Swap these tiles?",
+        "title": "Feltaláló",
+        "description": "Cserélj fel két számlapkát a táblán. A cserélhető számok a következők: 3, 4, 5, 9, 10 és 11.",
+        "tileSelected": "Ezeket a lapkákat cseréled fel?",
         "dialog": {
-          "title": "Swap Tiles",
-          "message": "Do you want swap the values of these two tiles?",
-          "yes": "Yes",
-          "no": "Cancel"
+          "title": "Lapkák cseréje",
+          "message": "Szeretnéd felcserélni ennek a két lapkának az értékeit?",
+          "yes": "Igen",
+          "no": "Mégse"
         }
       },
       "medicine": {
-        "title": "Medicine",
-        "description": "Build a city for 2 ore and 1 wheat.",
-        "cannotAfford": "You need to have at least two ore and one wheat to use this card",
-        "cannotPlace": "There is no where on the board to place a city",
-        "upgradeTitle": "Build {} with {}"
+        "title": "Gyógyszer",
+        "description": "Építs várost 2 ércért és 1 búzáért.",
+        "cannotAfford": "Legalább két érc és egy búza kell, hogy legyen a birtokodban, hogy használhasd ezt a kártyát.",
+        "cannotPlace": "A táblán nincs hely, ahová várost lehetne építeni.",
+        "upgradeTitle": "Építs ezzel {} ezt {}"
       },
       "roadBuilding": {
-        "title": "Road Building",
-        "description": "Place two roads or two bridges, or one of each, at no cost to you."
+        "title": "Útépítés",
+        "description": "Helyezz el két utat vagy két hidat, vagy mindkettőből egyet, költségmentesen."
       },
       "military": {
-        "title": "Military",
-        "description": "Upgrade your military power by one level.",
-        "cannotPlay": "You are already have the maximum military power."
+        "title": "Katonaság",
+        "description": "Fejleszd a katonai hatalmadat egy szinttel.",
+        "cannotPlay": "Már most is a maximális katonai erővel rendelkezel."
       },
       "crane": {
-        "title": "Crane",
-        "description": "After playing this card, your next culture improvement this turn costs one fewer commodity",
-        "cannotPlay": "You cannot play this card because you have no cities or you have a Crane Card already in play."
+        "title": "Daru",
+        "description": "Miután kijátszottad ezt a kártyát, a következő kultúrafejlesztésed ebben a körben eggyel kevesebb árucikkbe kerül",
+        "cannotPlay": "Ezt a kártyát nem játszhatod ki, mert nincsenek városaid, vagy már van darukártyád játékban."
       },
       "siege": {
-        "title": "Siege",
-        "description": "Carry out a raid but steal one random resource from every player who has a village or city on the raided tile. Does not cost a military point"
+        "title": "Ostrom",
+        "description": "Végezz el egy rajtaütést és lopj el egy véletlenszerű nyersanyagot minden olyan játékostól, akinek a rajtaütött lapkán faluja vagy városa van. Nem kerül katonai pontba."
       },
       "bishop": {
-        "title": "Bishop",
-        "description": "Remove a catapult from the board.",
-        "cannotPlay": "There are no catapults on the board for you to remove."
+        "title": "Püspök",
+        "description": "Távolíts el egy katapultot a játéktábláról.",
+        "cannotPlay": "A táblán nincsenek olyan katapultok, amelyeket el tudnál távolítani."
       },
       "deserter": {
-        "title": "Deserter",
-        "description": "Steal one level of military power from a player of your choice.",
-        "cannotPlayMaxedPower": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "cannotPlayBarracks": "You already have max military power.",
-        "cannotPlayEmpty": "No one has any military power; there is nothing to steal"
+        "title": "Dezertőr",
+        "description": "Lopj el egy katonai erőszintet egy általad választott játékostól.",
+        "cannotPlayMaxedPower": "A katonaságod elérte a maximális erejét, ami 3. Fejleszd a politikádat 3. szintre, hogy növeld a maximális erődet.",
+        "cannotPlayBarracks": "Már elérted a maximális katonai erőd.",
+        "cannotPlayEmpty": "Senkinek sincs katonai ereje; nincs mit ellopni."
       },
       "vandal": {
-        "title": "Vandal",
-        "description": "Remove another player's road or bridge of your choosing."
+        "title": "Vandál",
+        "description": "Távolítsd el egy másik játékos útját vagy hídját tetszésed szerint."
       },
       "diplomat": {
-        "title": "Diplomat",
-        "description": "Move one of your own roads or bridges to a new location.",
-        "cannotPlay": "You have no trails to move."
+        "title": "Diplomata",
+        "description": "Helyezd át egyik saját utadat vagy hidadat egy új helyre.",
+        "cannotPlay": "Nincsenek áthelyezendő útvonalaid."
       },
       "raze": {
-        "title": "Raze",
-        "description": "Lose 1 military power and destroy a non walled city of any player with more VPs than you. You must have military power greater than or equal to 1 to play this card.",
-        "cannotPlayNoPlayers": "There are no players with more victory points than you",
-        "cannotPlayNoBuildings": "There are no buildings to destroy",
-        "cannotPlayNoMilitary": "You must have at least one military power to use this card",
+        "title": "Fosztogatás",
+        "description": "Veszíts el 1 katonai hatalmat, és pusztítsd el bármelyik játékos egy nálad több VP-vel rendelkező, nem fallal körülvett városát. Ahhoz, hogy ezt a kártyát kijátszhasd, legalább 1-nél nagyobb katonai erővel kell rendelkezned.",
+        "cannotPlayNoPlayers": "Nincs olyan játékos, akinek több győzelmi pontja van, mint neked",
+        "cannotPlayNoBuildings": "Nincsenek lerombolandó épületek",
+        "cannotPlayNoMilitary": "Legalább egy katonai erővel kell rendelkezned ahhoz, hogy ezt a kártyát használhasd",
         "dialog": {
-          "title": "Are you sure?",
-          "message": "Do you want to destroy this city?",
-          "yes": "Yes!",
-          "no": "No"
+          "title": "Biztos vagy benne?",
+          "message": "El akarod pusztítani ezt a várost?",
+          "yes": "Igen!",
+          "no": "Nem"
         }
       },
       "spy": {
-        "title": "Spy",
-        "description": "Pick a player, see their dev cards and choose one to steal.",
-        "cannotPlay": "No other player currently has development cards.",
+        "title": "Kém",
+        "description": "Válassz egy játékost, nézd meg a fejlesztő kártyáit, és válassz egyet, amit ellopsz.",
+        "cannotPlay": "Jelenleg egyetlen más játékosnak sincs fejlesztőkártyája.",
         "dialog": {
-          "title": "Steal!"
+          "title": "Lopj!"
         }
       },
       "wedding": {
-        "title": "Wedding",
-        "description": "Steal two random cards (resources or commodities) from every player that has more victory points than you.",
-        "cannotPlay": "There are no players with more victory points than you."
+        "title": "Esküvő",
+        "description": "Lopj el két véletlenszerű kártyát (nyersanyagot vagy árut) minden olyan játékostól, akinek több győzelmi pontja van, mint neked.",
+        "cannotPlay": "Nincs olyan játékos, akinek több győzelmi pontja van, mint neked."
       },
       "anarchy": {
-        "title": "Anarchy",
-        "description": "Randomize all the number tiles on the board until a 7 is rolled."
+        "title": "Anarchia",
+        "description": "Véletlenszerűen dobjatok ki minden számlapkát a táblán, amíg egy 7-est nem dobtok."
       },
       "alchemist": {
-        "title": "Alchemist",
-        "description": "Each turn you possess this card, you have the option of choosing the exact numbers on both 6-sided dice or doing a normal random roll.",
-        "cannotPlay": "This development card is only playable at the beginning of the turn."
+        "title": "Alkimista",
+        "description": "Minden fordulóban, amikor ezt a kártyát birtoklod, lehetőséged van arra, hogy mindkét 6 oldalú kockán a pontos számokat válaszd ki, vagy normál véletlenszerű dobást végezz.",
+        "cannotPlay": "Ez a fejlődéskártya csak a forduló elején játszható ki."
       },
       "traitor": {
-        "title": "Traitor",
-        "description": "Advance the barbarian 2 spots. Will stop just before an attack."
+        "title": "Áruló",
+        "description": "A barbár 2 hellyel előrébb lép. Közvetlenül a támadás előtt megáll."
       },
       "constitution": {
-        "title": "Constitution",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "Alkotmány",
+        "description": "1 VP. Azonnal kijátszható, és nem számít bele a max. 5 fejlesztői kártyádba."
       },
       "printer": {
-        "title": "Printer",
-        "description": "1 Victory Point. Played immediately and does not count towards your max 5 dev cards."
+        "title": "Nyomtató",
+        "description": "1 VP. Azonnal kijátszható, és nem számít bele a max. 5 fejlesztői kártyádba."
       }
     },
     "chat": {
-      "loadingError": "Something went wrong, please try again",
-      "noMessages": "No messages yet",
-      "emptyMsg": "Your message is empty. Please enter some text.",
-      "addMsgHint": "Add message",
-      "yourMsg": "you",
-      "banned": "You are chat restricted until f{}. Please be respectful when chatting to avoid future bans. We want to keep this community fun for everyone!",
+      "loadingError": "Valami rosszul sült el, kérjük, próbáld újra.",
+      "noMessages": "Még nincs üzeneted",
+      "emptyMsg": "Üzeneted üres. Kérjük, írj be valamilyen szöveget.",
+      "addMsgHint": "Üzenet hozzáadása",
+      "yourMsg": "te",
+      "banned": "Ön csevegési korlátozás alatt áll {}-ig. Kérjük, légy tisztelettudó a csevegés során, hogy elkerüld a későbbi kitiltásokat. Szeretnénk, ha ez a közösség mindenki számára szórakoztató maradna!",
       "banConfirmation": {
-        "title": "Ban Player",
-        "message": "Are you sure you want to ban this player from chat? You won't see any messages from them",
-        "yes": "Yes",
-        "no": "No",
-        "failed": "Something went wrong, please try again"
-      },
-      "profanityDetected": "Profanity detected. Try again."
+        "title": "Játékos kitiltása",
+        "message": "Biztos vagy benne, hogy ki akarod tiltani ezt a játékost a csevegésből? Nem fogsz látni tőle semmilyen üzenetet",
+        "yes": "Igen",
+        "no": "Nem",
+        "failed": "Valami rosszul sült el, kérlek próbáld meg újra"
+      }
     },
     "playerTurnOverlay": {
-      "playerNameSuffix": "'s",
-      "playerTurn": "turn"
+      "playerNameSuffix": "játékosé",
+      "playerTurn": "forduló"
     },
     "buildDialog": {
-      "title": "BUILD",
-      "trade": "Trade",
-      "cannotAfford": "You can't afford that!",
-      "structureRequires": "{} requires:",
-      "cannotBuild": "Cannot build {}",
-      "cannotBuildReason": "You have nowhere to put it."
+      "title": "ÉPÍTÉS",
+      "trade": "Kereskedés",
+      "cannotAfford": "Ezt nem engedheted meg magadnak!",
+      "structureRequires": "{} szükséges:",
+      "cannotBuild": "Nem lehet építeni {}",
+      "cannotBuildReason": "Nincs hová tenned."
     },
     "trailTypeDialog": {
-      "title": "CHOOSE ONE",
-      "subtitle": "What would you like to build?",
-      "cannotAfford": "You can't afford that!",
-      "trailsRequires": "{} requires:"
+      "title": "VÁLASSZ EGYET",
+      "subtitle": "Mit szeretnél építeni?",
+      "cannotAfford": "Ezt nem engedheted meg magadnak!",
+      "trailsRequires": "{} szükség van rá:"
     },
     "devCardsDialog": {
-      "title": "DEV CARDS",
-      "defaultButton": "Play Card",
-      "noCards": "No Development Cards",
-      "cannotPlay": "Can't Play {} Card"
+      "title": "FEJLESZTŐI KÁRTYÁK",
+      "defaultButton": "Játssz kártyát",
+      "noCards": "Nincsenek fejlesztési kártyák",
+      "cannotPlay": "Nem játszhatsz ki {} kártyát"
     },
     "playerModalDialog": {
-      "military": "Military",
-      "militaryUpgrade": "Upgrade",
-      "militaryRequires": "Upgrading your military requires",
-      "militaryCannotAfford": "You can't afford that!",
-      "raid": "Raid",
-      "culture": "Culture",
-      "cultureUpgrade": "Upgrade",
-      "devCards": "Dev Cards",
-      "devCardsPlay": "Play",
-      "build": "Build",
-      "trade": "Trade",
+      "military": "Katonaság",
+      "militaryUpgrade": "Fejlesztés",
+      "militaryRequires": "A hadsereg fejlesztéséhez szükséges",
+      "militaryCannotAfford": "Ezt nem engedheted meg magadnak!",
+      "raid": "Rajtaütés",
+      "culture": "Kultúra",
+      "cultureUpgrade": "Fejlesztés",
+      "devCards": "Fejlesztői kártyák",
+      "devCardsPlay": "Játssz",
+      "build": "Építs",
+      "trade": "Kereskedés",
       "raidError": {
-        "title": "Unable to raid",
-        "message": "You cannot raid right now"
+        "title": "Nem tudsz rajtaütni",
+        "message": "Jelenleg nem tudsz rajtaütni"
       },
       "points": {
-        "victoryPoints": "Victory Points",
-        "longestRoute": "Longest Route",
-        "military": "Military",
-        "islands": "Islands Explored",
-        "devCards": "Dev Cards",
-        "merchant": "Merchant Tokens",
-        "ports": "Port Authority"
+        "victoryPoints": "Győzelmi pontok",
+        "longestRoute": "Leghosszabb útvonal",
+        "military": "Katonaság",
+        "islands": "Felfedezett szigetek",
+        "devCards": "Fejlesztői kártyák",
+        "merchant": "Kereskedő zsetonok",
+        "ports": "Kikötői engedély"
       }
     },
     "safeRollDialog": {
-      "title": "SAFE ROLL?",
-      "message": "You're at risk of discarding half of your hand!",
-      "riskyRoll": "Risky Roll",
-      "safeRoll": "Safe Roll"
+      "title": "BIZTONSÁGOS DOBÁS?",
+      "message": "Lapjaid felének eldobását kockáztatod!",
+      "riskyRoll": "Kockázatos dobás",
+      "safeRoll": "Biztonságos dobás"
     },
     "safeTokens": {
-      "title": "BUY SAFE TOKENS"
+      "title": "BIZTONSÁGOS ZSETONOK VÁSÁRLÁSA"
     },
     "rollType": {
-      "description": "Roll dice or use your Alchemist card to choose your numbers",
-      "alchemist": "Use Alchemist",
-      "random": "Random Roll"
+      "description": "Dobj kockával vagy használd az alkimista kártyádat a számok kiválasztásához",
+      "alchemist": "Használd az alkimistát",
+      "random": "Véletlenszerű dobás"
     },
     "gameOver": {
-      "title": "Game Over",
-      "stats": "Stats",
-      "home": "Home",
-      "linkCopied": "Game link copied to clipboard",
-      "goGold": "GO GOLD!",
-      "rematch": "Rematch",
-      "favoriteMap": "Favorite Map",
-      "unfavoriteMap": "Unfavorite Map",
-      "won": "{} \nwon!",
-      "upgradeToSee": "Upgrade to see \n 12 more stats!"
+      "title": "Játék vége",
+      "stats": "Statisztikák",
+      "home": "Főoldal",
+      "linkCopied": "A játék linkje a vágólapra másolva",
+      "goGold": "LÉGY ARANY!",
+      "rematch": "Visszavágó",
+      "favoriteMap": "Kedvenc térképem",
+      "unfavoriteMap": "Már nem a kedvenc térképem",
+      "won": "{} \ngyőzött!",
+      "upgradeToSee": "Fejlessz, hogy \n 12 további statisztikát láss!"
     },
     "players": {
-      "resourceCards": "Resource Cards",
-      "devCards": "Development Cards",
-      "military": "Military Points",
-      "scienceLevel": "Science Level",
-      "commerceLevel": "Commerce Level",
-      "politicsLevel": "Politics Level",
-      "merchant": "Merchant Token",
-      "portPoints": "Port Points",
-      "longestRoad": "Longest Road",
-      "victoryPoints": "Victory Points"
+      "resourceCards": "Erőforrás kártyák",
+      "devCards": "Fejlesztési kártyák",
+      "military": "Katonai pontok",
+      "scienceLevel": "Tudományos szint",
+      "commerceLevel": "Kereskedelmi szint",
+      "politicsLevel": "Politikai szint",
+      "merchant": "Kereskedő zseton",
+      "portPoints": "Kikötői pontok",
+      "longestRoad": "Leghosszabb út",
+      "victoryPoints": "Győzelmi pontok"
     },
     "rematch": {
       "canceled": {
-        "title": "REMATCH",
-        "close": "Close",
-        "declined": "Rematch declined"
+        "title": "VISSZAVÁGÓ",
+        "close": "Bezárás",
+        "declined": "Visszavágó elutasítva"
       },
       "ready": {
-        "title": "GET READY!",
-        "cancel": "CANCEL"
+        "title": "KÉSZÜLJ FEL!",
+        "cancel": "MÉGSE"
       },
       "request": {
-        "title": "Rematch Requested",
-        "yes": "Yes",
-        "no": "No"
+        "title": "Visszavágó kérése",
+        "yes": "Igen",
+        "no": "Nem"
       },
       "reject": {
-        "title": "Reject Rematch?",
-        "message": "re you sure you want to reject this game?",
-        "yes": "Reject"
+        "title": "Visszautasítod a visszavágót?",
+        "message": "Biztos, hogy el akarod utasítani ezt a játékot?",
+        "yes": "Visszautasítás"
       }
     },
     "replay": {
-      "turnNumber": "Turn {} of {}",
-      "replayLast": "Replay last",
+      "turnNumber": "Forduló {} ennyiből {}",
+      "replayLast": "Az utolsó visszajátszása",
       "turn": {
-        "one": "turn",
-        "many": "turns",
-        "other": "turns"
+        "one": "forduló",
+        "many": "fordulók",
+        "other": "fordulók"
       },
       "purchase": {
-        "title": "REPLAYS",
-        "description": "Replays allow you to rewatch all turns to see what happened since your last turn…or replay the whole game when it’s over!  Want to unlock full replays?",
-        "no": "No thanks",
-        "yes": "Go Gold"
+        "title": "VISSZAJÁTSZÁSOK",
+        "description": "A visszajátszások lehetővé teszik, hogy újra megnézd az összes fordulót, hogy lásd, mi történt az utolsó forduló óta... vagy játszd újra az egész játékot, ha vége van!  Szeretnéd feloldani a teljes visszajátszásokat?",
+        "no": "Nem, köszönöm",
+        "yes": "Légy arany"
       }
     },
     "swipeableDevCardDialog": {
-      "close": "Close",
-      "play": "Play Card",
-      "cannotPlay": "Can't play {}",
-      "wrongTurn": "It's not your turn"
+      "close": "Bezárás",
+      "play": "Kártya lejátszása",
+      "cannotPlay": "Nem tudom kijátszani {}",
+      "wrongTurn": "Nem te jössz"
     },
     "actions": {
       "raid": {
-        "tileSelected": "Raid this tile?",
-        "removeCatapult": "Remove this catapult?"
+        "tileSelected": "Kifosztod ezt a lapkát?",
+        "removeCatapult": "Eltávolítod ezt a katapultot?"
       },
       "metro": {
-        "placeIt": "Metro! Select any of your cities to place it."
+        "placeIt": "Földalatti! Válaszd ki bármelyik városodat, hogy elhelyezd."
       },
       "chooseTile": {
-        "bishop": "Choose catapult to remove",
-        "expedition": "Choose tile to convert to gold",
-        "inventor": "Choose two tiles to swap numbers",
-        "merchant": "Place your merchant token",
-        "siege": "Choose tile to siege",
-        "raid": "Choose tile to raid"
+        "bishop": "Válasszátok ki az eltávolítandó katapultot",
+        "expedition": "Válassza ki a lapot, amelyet arannyá kíván átalakítani",
+        "inventor": "Válassz két lapot a számok cseréjéhez",
+        "merchant": "Helyezd el a kereskedő jelződet",
+        "siege": "Válassz egy lapot az ostromhoz",
+        "raid": "Válassz egy lapot a rajtaütéshez"
       },
       "chooseRoads": {
-        "placeRoad": "Place road or bridge",
-        "place2Roads": "Place 2 roads or bridges",
-        "selectRoad": "Select a road or bridge",
-        "selectEnemyRoad": "Select an enemy road or bridge",
-        "confirm": "Build {}?"
+        "placeRoad": "Helyezz el utat vagy hidat",
+        "place2Roads": "Helyezz el 2 utat vagy hidat",
+        "selectRoad": "Válassz egy utat vagy hidat",
+        "selectEnemyRoad": "Válassz ki egy ellenséges utat vagy hidat",
+        "confirm": "Építsd meg {}?"
       },
       "chooseCorner": {
-        "selectEnemyCity": "Select an enemy city",
-        "placeVillage": "Place your village",
-        "placeCity": "Place your city",
-        "confirmVillage": "Build a village?",
-        "confirmCity": "Build a city?",
-        "confirmCityWall": "Build a city wall?",
-        "confirmMetro": "Build a metro?"
+        "selectEnemyCity": "Válassz egy ellenséges várost",
+        "placeVillage": "Helyezd el a faludat",
+        "placeCity": "Helyezd el a városodat",
+        "confirmVillage": "Építesz egy falut?",
+        "confirmCity": "Építesz egy várost?",
+        "confirmCityWall": "Építesz egy városfalat?",
+        "confirmMetro": "Építesz egy földalattit?"
       },
-      "roll": "Roll the Dice"
+      "roll": "Gurítsd a kockával"
     },
     "menu": {
-      "gameActions": "GAME ACTIONS",
-      "info": "INFO",
-      "turnReplay": "Turn Replays",
-      "rollFirst": "Please roll dice first.",
-      "surrender": "Surrender",
+      "gameActions": "JÁTÉK CSELEKVÉSEK",
+      "info": "INFÓ",
+      "turnReplay": "Fordulók visszajátszása",
+      "rollFirst": "Először dobj a kockával.",
+      "surrender": "Feladás",
       "surrenderDialog": {
-        "title": "Surrender",
-        "message": "Are you sure you want to surrender?\nThere is no penalty for admitting defeat.",
-        "yes": "Surrender",
-        "no": "Cancel"
+        "title": "Feladás",
+        "message": "Biztos, hogy meg akarod adni magad?\nA vereség elismeréséért nem jár büntetés.",
+        "yes": "Feladás",
+        "no": "Mégse"
       },
-      "share": "Share",
+      "share": "Megosztás",
       "reportBug": {
-        "title": "Report Bug",
-        "thanks": "Thanks!",
-        "message": "Thank you for sharing your feedback with us!"
+        "title": "Hiba jelentése",
+        "thanks": "Köszönöm!",
+        "message": "Köszönjük, hogy megosztottad velünk a visszajelzésedet!"
       },
-      "settings": "Settings",
-      "prodChart": "Prod Chart",
-      "devCards": "Dev Cards",
-      "rules": "Rules",
-      "cancel": "Cancel"
+      "settings": "Beállítások",
+      "prodChart": "Termelés diagram",
+      "devCards": "Fejlesztői kártyák",
+      "rules": "Szabályok",
+      "cancel": "Mégse"
     },
     "settings": {
-      "title": "SETTINGS",
-      "sound": "Sound",
-      "music": "Music",
-      "mapHints": "Map Hints",
-      "chatNotifications": "Chat Notifications",
-      "turnNotifications": "Turn Notifications",
-      "autoJump": "Auto jump to next game",
-      "showReplays": "Show Replays",
-      "autoRoll": "Auto-Roll Dice"
+      "title": "BEÁLLÍTÁSOK",
+      "sound": "Hang",
+      "music": "Zene",
+      "mapHints": "Térkép súgók",
+      "chatNotifications": "Csevegő értesítések",
+      "turnNotifications": "Értesítések bekapcsolása",
+      "autoJump": "Automatikus ugrás a következő játékra",
+      "showReplays": "Ismétlések megjelenítése",
+      "autoRoll": "Automatikus kockadobás"
     },
     "playerControls": {
-      "military": "Military",
-      "science": "Science",
-      "commerce": "Commerce",
-      "politics": "Politics"
+      "military": "Katonaság",
+      "science": "Tudomány",
+      "commerce": "Kereskedelem",
+      "politics": "Politika"
     },
     "pickPlayer": {
-      "title": "PICK PLAYER",
-      "noPlayers": "No players to steal from.\nAll players have zero resources.",
-      "button": "Select"
+      "title": "JÁTÉKOS KIVÁLASZTÁSA",
+      "noPlayers": "Nincs olyan játékos, akitől lopni lehetne.\nMinden játékosnak nulla nyersanyaga van.",
+      "button": "Kiválasztás"
     },
     "barbarianDialogs": {
-      "basic": "Barbarians",
-      "barbarianLead": "Barbarians Lead",
-      "playerLead": "Player Lead",
-      "defense": "Total defense",
-      "barbarianStrength": "Barbarian Strength",
-      "attackPossibleIn": "Attack possible in {} Turns",
-      "leaderboard": "Leaderboard",
+      "basic": "Barbárok",
+      "barbarianLead": "Barbár irányított",
+      "playerLead": "Játékos irányított",
+      "defense": "Teljes védelem",
+      "barbarianStrength": "Barbár erősség",
+      "attackPossibleIn": "Támadás lehetséges {} fordulón belül",
+      "leaderboard": "Ranglista",
       "defeat": {
-        "title": "Defeat",
-        "playersAffected": "{} players",
-        "leastMilitary": "Least Military",
+        "title": "Győzz le",
+        "playersAffected": "{} játékost",
+        "leastMilitary": "Legkevesebb katonaság",
         "lostCity": {
-          "one": "Lost a city",
-          "many": "Each lost a city",
-          "other": "Each lost a city"
+          "one": "Elveszített egy várost",
+          "many": "Mindenki elvesztett egy várost",
+          "other": "Mindenki elvesztett egy várost"
         }
       },
-      "upgradeMilitary": "Upgrade Military",
-      "result": "BARBARIANS ATTACK",
+      "upgradeMilitary": "Katonai fejlesztés",
+      "result": "BARBÁROK TÁMADÁSA",
       "won": {
-        "title": "Defended",
-        "playersAffected": "{} players",
-        "mostMilitary": "Most Military",
+        "title": "Megvédett",
+        "playersAffected": "{} játékost",
+        "mostMilitary": "A legtöbb katonai",
         "prize": {
           "one": "+1 VP",
-          "many": "+1 Dev Card each",
-          "other": "+1 Dev Card each"
+          "many": "+1 fejlesztői kártya fejenként",
+          "other": "+1 fejlesztői kártya fejenként"
         }
       },
-      "dataNotAvailable": "Data not available"
+      "dataNotAvailable": "Az adatok nem állnak rendelkezésre"
     },
     "stats": {
-      "victoryPoints": "Victory Points",
-      "villages": "Villages",
-      "cities": "Cities",
-      "roadsBridges": "Roads/Bridges",
-      "military": "Military",
-      "metros": "Metros",
-      "self7Rolls": "Self 7 Rolls",
-      "discards": "Discards",
-      "devCards": "Dev Cards",
-      "raids": "Raids",
-      "raided": "Raided",
-      "trades": "Trades",
-      "wheat": "Wheat",
-      "ore": "Ore",
-      "brick": "Brick",
-      "wood": "Wood",
-      "sheep": "Sheep",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin"
+      "victoryPoints": "Győzelmi pontok",
+      "villages": "Falvak",
+      "cities": "Városok",
+      "roadsBridges": "Utak/hidak",
+      "military": "Katonaság",
+      "metros": "Földalattik",
+      "self7Rolls": "Önálló 7 dobások",
+      "discards": "Eldobja",
+      "devCards": "Fejlesztői kártyák",
+      "raids": "Rajtaütések",
+      "raided": "Rajtaütött",
+      "trades": "Kereskedések",
+      "wheat": "Búza",
+      "ore": "Érc",
+      "brick": "Tégla",
+      "wood": "Fa",
+      "sheep": "Juhok",
+      "paper": "Papír",
+      "cloth": "Ruhák",
+      "coin": "Érme"
     },
     "metroEarned": {
-      "title": "Metro!",
-      "msg": "Congratulations, you've earned a metro. Tap on any city to place it.",
-      "ok": "Ok!"
+      "title": "Földalatti!",
+      "msg": "Gratulálunk, kiérdemeltél egy földalattit. Érintsd meg bármelyik várost, hogy elhelyezd.",
+      "ok": "Oké!"
     },
     "merchant": {
-      "title": "Merchant Token",
-      "msg": "The player who controls the merchant token may trade this resource 2:1."
+      "title": "Kereskedő zseton",
+      "msg": "Az a játékos, aki a kereskedőjelzőt irányítja, 2:1 arányban cserélheti ezt a nyersanyagot."
     },
     "harbor": {
-      "title": "Harbor",
-      "tradeAmount2": "2 {} resources",
-      "tradeAmount3": "3 resources of a single type",
-      "description": "Trade $tradeAmount for 1\n other resource or commodity."
+      "title": "Kikötő",
+      "tradeAmount2": "2 {} nyersanyag",
+      "tradeAmount3": "3 egyfajta nyersanyag",
+      "description": "$tradeAmount cseréje 1\n más nyersanyagra vagy árura."
     },
     "bottomBar": {
-      "confirmAction": "Yes",
-      "cancelAction": "No"
+      "confirmAction": "Igen",
+      "cancelAction": "Nem"
     },
     "culture": {
-      "title": "CULTURE",
-      "upgrade": "Upgrade"
+      "title": "KULTÚRA",
+      "upgrade": "Fejlesztés"
     },
     "cultureUpgrade": {
-      "close": "Close",
-      "achieved": "ACHIEVED!",
-      "upgrade": "Upgrade {}",
-      "cannotUpgrade": "Cannot upgrade",
-      "noCity": "You must have an open city with no metropolis to upgrade your culture to level 4 or 5."
+      "close": "Bezárás",
+      "achieved": "ELÉRVE!",
+      "upgrade": "Fejlesztés {}",
+      "cannotUpgrade": "Nem lehet fejleszteni",
+      "noCity": "A kultúrád 4. vagy 5. szintre való fejlesztéséhez egy nyitott városra van szükséged, ahol nincs metropolisz."
     },
     "devCardsInfo": {
-      "title": "DEV CARDS"
+      "title": "FEJLESZTŐI KÁRTYÁK"
     },
     "diceRolls": {
-      "title": "DICE ROLLS",
-      "history": "Roll History:"
+      "title": "KOCKA DOBÁSOK",
+      "history": "Dobás előzmények:"
     },
     "devDiscard": {
-      "title": "Discard",
-      "description": "You may only keep {} cards. Choose {} below to discard.",
+      "title": "Eldobás",
+      "description": "Csak {} kártyát tarthatsz meg. Válassza  {} kártyát az eldobáshoz.",
       "cardsDiscarded": {
-        "one": "a card",
-        "many": "{} cards",
-        "other": "{} cards"
+        "one": "egy kártya",
+        "many": "{} kártyák",
+        "other": "{} kártyák"
       }
     },
     "feedback": {
-      "title": "Feedback",
-      "send": "Send",
-      "label": "Bug find or brilliant idea?",
-      "placeholder": "We love to hear from our users!",
-      "emptyError": "Please enter some feedback"
+      "title": "Visszajelzés",
+      "send": "Elküldés",
+      "label": "Hibát találtál vagy zseniális ötletet?",
+      "placeholder": "Szeretjük hallani a felhasználóink véleményét!",
+      "emptyError": "Kérjük, adjon visszajelzést"
     },
     "freeRaid": {
-      "title": "Free Raid",
-      "description": "Last place 7 roll awards you a free raid. Place your catapult to steal a resource from an opponent. ",
-      "button": "Raid"
+      "title": "Ingyenes rajtaütés",
+      "description": "Az utolsó helyezett 7-es dobással ingyenes rajtaütést kap. Helyezd el a katapultodat, hogy ellopj egy nyersanyagot az ellenféltől.  ",
+      "button": "Rajtaütés"
     },
     "military": {
-      "title": "MILITARY",
-      "maxPart1": "Max military: ",
-      "maxPart2": "3 (Barracks increases to 6)",
-      "raid": "Raid",
-      "raidUnable": "Unable to raid",
-      "cannotRaid": "You can't afford to raid",
-      "raid-1": "Raid   -1",
-      "militaryPower": "Your Military Power",
-      "vs": "vs",
-      "barbarianStrength": "Barbarian Strength",
-      "totalDefense": "Total Defense",
+      "title": "KATONASÁG",
+      "maxPart1": "Maximális katonaság:  ",
+      "maxPart2": "3 (a laktanyával 6-ra nő)",
+      "raid": "Rajtaütés",
+      "raidUnable": "Rajtaütés nem lehetséges",
+      "cannotRaid": "Nem engedheted meg magadnak a portyázást",
+      "raid-1": "Rajtaütés -1",
+      "militaryPower": "Katonai hatalmad",
+      "vs": "ellene",
+      "barbarianStrength": "Barbár erősség",
+      "totalDefense": "Teljes védelem",
       "upgrade": {
-        "title": "Upgrade",
-        "cannotAfford": "You cannot afford it!",
-        "upgradeRequires": "Upgrading your military requires",
-        "maxPower": "Max Military Power",
-        "maxPowerDesc": "Your military has reached its max power of 3. Upgrade your politics to level 3 to increase your max.",
-        "maxPowerBarracks": "Max Military Power",
-        "maxPowerBarracksDesc": "Your military has reached its max power of 6. Launch raids to use your military."
+        "title": "Fejlesztés",
+        "cannotAfford": "Ezt nem engedheted meg magadnak!",
+        "upgradeRequires": "A hadsereged korszerűsítéséhez",
+        "maxPower": "Maximális katonai erő",
+        "maxPowerDesc": "A katonaságod elérte a maximális erejét, ami 3. Fejleszd a politikádat a 3. szintre, hogy növeld a maximális erődet.",
+        "maxPowerBarracks": "Maximális katonai erő",
+        "maxPowerBarracksDesc": "A hadsereged elérte a 6-os maximális erejét. Indíts rajtaütéseket a hadsereged használatához."
       }
     },
     "newIsland": {
-      "title": "ISLAND EXPLORED!",
-      "description": "You´ve explored a new island!",
-      "prize": "+1 Victory Point",
-      "button": "OK"
+      "title": "SZIGET FELFEDEZVE!",
+      "description": "Felfedeztél egy új szigetet!",
+      "prize": "+1 győzelmi pont",
+      "button": "OKÉ"
     },
     "prodChart": {
-      "title": "PRODUCTION CHART",
-      "village": "Village",
-      "city": "City"
+      "title": "TERMELÉSI DIAGRAM",
+      "village": "Falu",
+      "city": "Város"
     },
     "selectCard": {
-      "button": "Confirm",
-      "choose": "Choose {}"
+      "button": "Megerősítés",
+      "choose": "Válasszon {}"
     },
     "trade": {
-      "title": "TRADE",
-      "give": "GIVE",
-      "receive": "RECEIVE",
-      "resourcesLabel": "Your resources:",
-      "emptyTrade": "Nothing to trade"
+      "title": "KERESKEDELEM",
+      "give": "ADSZ",
+      "receive": "KAPSZ",
+      "resourcesLabel": "Az erőforrásaid:",
+      "emptyTrade": "Nincs mit cserélni"
     },
     "tradeToBuild": {
-      "title": "TRADE TO BUILD",
-      "build": "Build {}",
-      "missing": "Missing",
-      "resourcesLabel": "Your resources",
-      "and": "and"
+      "title": "KERESKEDJ ÉPÍTÉSÉRT",
+      "build": "Építs {}",
+      "missing": "Hiányzik",
+      "resourcesLabel": "Az erőforrásaid",
+      "and": "és"
     },
     "endTurn": {
-      "nextGame": "Next game",
-      "wait": "Wait",
-      "end": "End",
-      "turn": "Turn",
-      "endTurn": "End Turn",
-      "nothingToDo": "Looks like there’s nothing left to do.",
-      "endTurnConfirm": "End Turn?",
-      "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
-      "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "nextGame": "Következő játék",
+      "wait": "Várj",
+      "end": "Vége",
+      "turn": "Forduló",
+      "endTurn": "Forduló vége",
+      "nothingToDo": "Úgy tűnik, már nincs mit tenni.",
+      "endTurnConfirm": "Végzel a fordulóval?",
+      "canUpgrade": "Biztos, hogy be akarod fejezni a fordulót? A kultúrádat kereskedelem nélkül is fejlesztheted!",
+      "lotOfResources": "Biztos, hogy be akarod fejezni a fordulót? Sok el nem költött nyersanyagod van.",
+      "cancel": "Mégse"
     },
     "errors": {
-      "cannotFindGame": "We can't find the game, please try again",
-      "timeExpired": "Time Expired",
-      "timeExpiredMsg": "You have run out of time and been removed from the game."
+      "cannotFindGame": "Nem találjuk a játékot, kérjük, próbáld újra!",
+      "timeExpired": "Lejárt az idő",
+      "timeExpiredMsg": "Lejárt az időd, és kikerültél a játékból."
     }
   },
+
   "tutorial": {
-    "viewProductChart": "View Product Chart Table",
-    "continue": "Tap to continue",
+    "viewProductChart": "Terméktáblázat megtekintése",
+    "continue": "Koppintson a folytatáshoz",
     "learningMode": {
-      "title": "Learning Mode",
-      "description": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire. Let's try it out in this game. Your goal is to achieve 15 Victory Points!'"
+      "title": "Tanuló üzemmód",
+      "description": "A Landover célja, hogy települések építésével és birodalmad bővítésével győzelmi pontokat szerezz. Próbáljuk ki ezt ebben a játékban. A célod a 15 győzelmi pont elérése!'"
     },
     "firstVillage": {
-      "title": "First Village",
-      "description": "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep."
+      "title": "Első falu",
+      "description": "Helyezd el a faludat az alábbi magas értékű sarkon. Ezek piros színnel vannak jelölve. Próbáljatok olyat szerezni, amely 3 különböző típusú nyersanyaggal rendelkezik. Mindig jó, ha búzával, agyaggal, fával vagy juhokkal kezdesz."
     },
     "firstRoad": {
-      "title": "First Road",
-      "description": "Now place a road from your village towards another good corner."
+      "title": "Első út",
+      "description": "Most helyezz el egy utat a faludból egy másik jó sarok felé."
     },
     "firstCity": {
-      "title": "First City",
-      "description": "Place your city on another high value corner below. Whatever resources you didn't get with your village, try and get those with your city. Remember cities and villages must always be separated by at least one empty corner."
+      "title": "Első város",
+      "description": "Helyezd el a városodat egy másik jó értékű sarokra alatta. Bármilyen nyersanyagot nem szereztél meg a faluddal, próbáld meg megszerezni a városoddal. Ne feledd, hogy a városokat és a falvakat mindig legalább egy üres saroknak kell elválasztania egymástól."
     },
     "secondRoad": {
-      "title": "Second Road",
-      "description": "And again place a road from your city towards another good corner."
+      "title": "Második út",
+      "description": "És ismét helyezz el egy utat a városodból egy másik jó sarok felé."
     },
     "rollTime": {
-      "title": "Time to Roll",
-      "description": "'Now that you have placed your initial settlements, it's time to roll the dice and start collecting resources. Keep rolling until you have enough resources to build some more stuff."
+      "title": "Ideje gurítani",
+      "description": "Most, hogy elhelyezted a kezdeti településeidet, itt az ideje, hogy dobj a kockával, és elkezdj nyersanyagokat gyűjteni. Addig dobj, amíg nem lesz elég nyersanyagod ahhoz, hogy újabb dolgokat építhess."
     },
     "moreRoads": {
-      "title": "Build more Roads",
-      "description": "It looks like you have enough resources to build more roads. Go ahead and build more roads further from your settlements."
+      "title": "Építs még több utat",
+      "description": "Úgy tűnik, elég nyersanyagod van ahhoz, hogy további utakat építs. Rajta, építs még több utat a településeidtől távolabb."
     },
     "anotherVillage": {
-      "title": "Build another Village",
-      "description": "'You now have enough resources to build a village and there is an open spot waiting for you. Go ahead and build another village to expand your empire and collect more resources each turn."
+      "title": "Építs egy újabb falut",
+      "description": "Most már elég nyersanyagod van egy falu építéséhez, és egy szabad hely vár rád. Menj előre, és építs egy újabb falut, hogy bővítsd birodalmadat, és minden körben több nyersanyagot gyűjts."
     },
     "productionChart": {
-      "title": "Production Chart",
-      "description": "Below is how many resources villages and cities produce: "
+      "title": "Termelési táblázat",
+      "description": "Az alábbiakban látható, hogy a falvak és városok mennyi nyersanyagot termelnek:  "
     },
     "trading": {
-      "title": "Trading",
-      "description": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability."
+      "title": "Kereskedelem",
+      "description": "A Landover bank lehetővé teszi, hogy bármilyen nyersanyagot vagy árut 3 az 1 ellenében elcserélj. Úgy tűnik, hogy a falut várossá fejlesztheted, de ehhez kereskedelemre van szükség. Haladj előre, és próbálj meg várost építeni, és meg fogod látni a Kereskedj az építéshez felszólítást. Ha gazdaságosabb kereskedelmet szeretnél, próbálj meg egy falut építeni egy kikötőre, ami 2 az 1 ellenében képességet ad."
     },
     "culture": {
-      "title": "Culture",
-      "description": "Now that you have a commodity, go ahead and open up the culture modal and upgrade. Upgrading culture will give you the potential of earning valuable dev cards, unlocking new abilities, or eventually earning metros which are worth additional VPs."
+      "title": "Kultúra",
+      "description": "Most, hogy van egy árucikked, menj előre, nyisd meg a kultúra modált és fejleszd. A kultúra fejlesztésével értékes fejlesztőkártyákat szerezhetsz, új képességeket oldhatsz fel, vagy végül metrókat szerezhetsz, amelyek további VP-ket érnek."
     },
     "cities": {
-      "title": "Cities",
-      "description": "Go ahead and choose a village you'd like to upgrade to a city. It costs 3 ore and 2 wheat but will double the production of your village!"
+      "title": "Városok",
+      "description": "Menj előre, és válassz ki egy falut, amelyet várossá szeretnél fejleszteni. Ez 3 ércbe és 2 búzába kerül, de megduplázza a falud termelését!"
     },
     "military": {
-      "title": "Military",
-      "description": "Now that your economy is moving along, it's time to build some military to ward off barbarian attacks. You need one military power for each city when barbarians attack to avoid losing a city. The barbarian tracker is top right and shows how many rolls until they attack. Go ahead…"
+      "title": "Katonaság",
+      "description": "Most, hogy a gazdaságod jól halad, itt az ideje, hogy hadsereget építs, hogy kivédd a barbárok támadásait. Minden városhoz egy katonai erőre van szükséged, amikor a barbárok támadnak, hogy ne veszítsd el a várost. A barbárok nyomkövetője jobbra fent van, és megmutatja, hány dobás van még a támadásig. Gyerünk..."
     },
     "barbarians": {
-      "title": "Barbarians",
-      "description": "Barbarians are on their way. The shield top right shows if you are safe or not. If it's red, you need more military. If it's green, then you are safe. Each time they attack you'll lose 1 military power so be sure to keep adding more military over time."
+      "title": "Barbárok",
+      "description": "A barbárok már úton vannak. A pajzs jobbra fent mutatja, hogy biztonságban vagy-e vagy sem. Ha piros, akkor több katonára van szükséged. Ha zöld, akkor biztonságban vagy. Minden egyes támadásukkal 1 katonai erőt veszítesz, ezért idővel mindig több katonát kell hozzáadnod."
     },
     "metros": {
-      "title": "Metros",
-      "description": "Be sure to keep upgrading your culture with your commodity cards. Once you reach level 4 you'll receive a metro worth +2VP. Metros are immune from barbarian attacks and can't be razed by other players."
+      "title": "Földalattiak",
+      "description": "Győződj meg róla, hogy folyamatosan fejleszted a kultúrádat az árukártyáiddal. Amint eléritek a 4. szintet, kaptok egy +2 VP értékű földalattit. A földalattik immunisak a barbárok támadásaira, és más játékosok nem rombolhatják le őket."
     },
     "spendResources": {
-      "title": "Spend Your Resources",
-      "description": "You currently are at risk of discarding half your cards if a 7 is rolled! Be sure to spend your resources or build city walls to increase your hand size. City walls cost 2 clay and can be built on any cities. "
+      "title": "Költsd el nyersanyagaidat",
+      "description": "Jelenleg fennáll a veszélye, hogy 7-es dobás esetén eldobod a kártyáid felét! Mindenképpen költsd el az erőforrásaidat, vagy építs városfalakat, hogy növeld a kezed méretét. A városfalak 2 agyagba kerülnek, és bármelyik városra építhetők.  "
     },
     "goodLuck": {
-      "title": "Good Luck!",
-      "description": "It looks like you are well on your way to 15 VPs. Keep expanding, building villages, upgrading to cities, leveling up your military, and building metros. If you have questions, join us on discord. Try some games against the bots, and when you're ready, challenge your friends!"
+      "title": "Sok szerencsét!",
+      "description": "Úgy tűnik, jó úton haladsz a 15 VP elérése felé. Folytassátok a terjeszkedést, építsetek falvakat, fejlesszétek a városaitokat, fejlesszétek a katonaságotokat és építsetek metrókat. Ha kérdésed van, csatlakozz hozzánk a discordon. Próbálj ki néhány játékot a botok ellen, és ha készen állsz, hívd ki barátaidat!"
     },
     "end": {
-      "title": "Congratulations",
-      "description": "You have just reached 15 VPs and have won the game! Hopefully you had some fun along the way. We highly recommend you try a solo game against one bot."
+      "title": "Gratulálunk",
+      "description": "Elérted a 15 VP-t, és megnyerted a játékot! Remélhetőleg jól érezted magad az út során. Nagyon ajánljuk, hogy próbálj ki egy szóló játékot egy bot ellen."
     }
   },
   "subscription": {
     "cancel": {
-      "title": "Cancel Subscription",
-      "message": "Sorry to see you are not happy with your subscription. Can you please take a moment to leave some feedback for us in our Discord channel first? We're always trying to improve the app!",
-      "feedbackButton": "Leave Feedback",
-      "cancelButton": "Cancel Subscription"
+      "title": "Előfizetés törlése",
+      "message": "Sajnálattal látjuk, hogy nem vagy elégedett az előfizetéseddel. Megtennéd, hogy először hagysz nekünk egy kis visszajelzést a Discord szerverünkün? Mindig próbáljuk javítani az alkalmazást!",
+      "feedbackButton": "Hagyj visszajelzést",
+      "cancelButton": "Előfizetés törlése"
     }
   },
   "discord": {
-    "title": "JOIN THE COMMUNITY!",
-    "msg1": "Woah, you're building some momentum!",
-    "msg2": "Want to meet other Landover players, find games, learn about new features and talk directly with our dev team?",
-    "button": "Join Discord"
+    "title": "CSATLAKOZZ A KÖZÖSSÉGHEZ!",
+    "msg1": "Hú, de nagy lendületet vettél!",
+    "msg2": "Szeretnél találkozni más Landover játékosokkal, játékokat találni, új funkciókat megismerni és közvetlenül a fejlesztőcsapattal beszélgetni?",
+    "button": "Csatlakozz a Discordhoz"
   },
   "itp": {
-    "titleLetsPlay": "LET'S PLAY",
-    "titleSuccess": "GREAT!",
-    "message": "Looks like you need some games. We have players ready and waiting!",
+    "titleLetsPlay": "JÁTSSZUNK",
+    "titleSuccess": "NAGYSZERŰ!",
+    "message": "Úgy tűnik, szükséged van néhány játékra. Vannak játékosaink, akik készen állnak és várnak!",
     "messageSuccess": {
-      "one": "You are now in {} game!",
-      "many": "You are now in {} games!",
-      "other": "You are now in {} games!"
+      "one": "Most már {} játékban vagy!!",
+      "many": "Most már {} játékban vagy!!",
+      "other": "Most már {} játékban vagy!!"
     },
-    "myGames": "Go to My Games",
+    "myGames": "Menj a Saját játékaimhoz",
     "startGames": {
-      "one": "Start {} Game",
-      "many": "Start {} Games",
-      "other": "Start {} Games"
+      "one": "Indítsd el a {} Játékot",
+      "many": "Indítsd el a {} Játékot",
+      "other": "Indítsd el a {} Játékot"
     },
-    "footerMessage": "No pressure! We'll just ping you when it's your turn to move.",
-    "error": "We were unable to join you to the selected games"
+    "footerMessage": "Nincs kényszer! Csak értesítünk, amikor te jössz.",
+    "error": "Nem tudtunk csatlakozni a kiválasztott játékokhoz."
   },
   "ongoingGame": {
     "inLobby": {
-      "title": "LIVE GAME LOBBY",
-      "leaveBtn": "Leave",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game lobby!",
-      "bottomMsg2": "Please leave or rejoin the game lobby so you’re ready to go once the game starts."
+      "title": "ÉLŐ JÁTÉK VÁRÓ",
+      "leaveBtn": "Elhagyás",
+      "rejoinBtn": "Újracsatlakozás",
+      "bottomMsg1": "Jelenleg egy élő játék váróban vagy!",
+      "bottomMsg2": "Kérjük, hagyd el vagy csatlakozz újra a játéklobbihez, hogy készen állj a játék kezdetére."
     },
     "inGame": {
-      "title": "LIVE GAME",
-      "leaveBtn": "Surrender",
-      "rejoinBtn": "Rejoin",
-      "bottomMsg1": "You’re currently in a live game!",
-      "bottomMsg2": "Please surrender or rejoin this game so other\nplayers don’t wait on you."
+      "title": "ÉLŐ JÁTÉK",
+      "leaveBtn": "Feladás",
+      "rejoinBtn": "Újracsatlakozás",
+      "bottomMsg1": "Jelenleg élő játékban vagy!",
+      "bottomMsg2": "Kérjük, add meg magad vagy csatlakozz újra a játékhoz, hogy a többi játékos ne várjon rád."
     },
-    "gameNotExist": "Your game doesn't exist anymore.",
-    "somethingWentWrong": "Something went wrong. Try again or start a new game."
+    "gameNotExist": "A játékod már nem létezik.",
+    "somethingWentWrong": "Valami baj történt. Próbáld újra, vagy kezdj új játékot."
   },
   "upgradeDialog": {
-    "title": "UPGRADE TO GOLD",
-    "error": "Purchase error",
+    "title": "FIZESS ELŐ ARANYRA",
+    "error": "Vásárlási hiba",
     "footer": {
-      "comingSoon": "Coming soon...",
-      "createAccount": "Create Account",
-      "watchAd": "Watch Ad",
-      "noAds": "Sorry, there's no ads available right now",
-      "restore": "Restore Purchase",
-      "noPurchase": "There is no active subscription",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app.",
-      "policy": "Subscription Policy"
+      "comingSoon": "Hamarosan...",
+      "createAccount": "Fiók létrehozása",
+      "watchAd": "Hirdetés megtekintése",
+      "noAds": "Sajnáljuk, jelenleg nincsenek elérhető hirdetések",
+      "restore": "Vásárlás visszaállítása",
+      "noPurchase": "Nincs aktív előfizetés"
     }
   },
   "buildingStyles": {
-    "default": "default",
-    "alien": "alien",
+    "default": "alapértelmezett",
+    "alien": "idegen",
     "modern": "modern",
-    "fantasy": "fantasy",
-    "toys": "toys"
+    "fantasy": "fantázia",
+    "toys": "játékos"
   },
   "culture": {
     "science": {
-      "abilityName": "Aqueduct",
-      "abilityDescription": "If a player does not receive\nany resources for a given\nroll, they are given one\nrandom resource.",
-      "abilityAnnouncement": "If you don't get any resources on a roll, you will now be given one random resource."
+      "abilityName": "Vízvezeték",
+      "abilityDescription": "Ha egy játékos nem kap\negy nyersanyagot egy adott\ndobáshoz, akkor kap egy\nvéletlen nyersanyagot.",
+      "abilityAnnouncement": "Ha egy adott dobásra nem kap nyersanyagot, most egy véletlenszerű nyersanyagot kap."
     },
     "commerce": {
       "abilityName": "Bank",
-      "abilityDescription": "Allows players to trade\ncommodities 2:1 with the\nbank for any resource or\ncommodity.",
-      "abilityAnnouncement": "You can now trade commodities 2:1 with the bank."
+      "abilityDescription": "Lehetővé teszi a játékosok számára, hogy 2:1 arányban kereskedjenek nyersanyagokkal a\nbankkal bármilyen nyersanyagért vagy árucikkért.",
+      "abilityAnnouncement": "Mostantól 2:1 arányban kereskedhetsz nyersanyagokkal a bankkal."
     },
     "politics": {
-      "abilityName": "Barracks",
-      "abilityDescription": "Military power can be\nincreased above level 3. Military power can be\nincreased above level 3.",
-      "abilityAnnouncement": "Your max military power has been increased from 3 to 6."
+      "abilityName": "Laktanya",
+      "abilityDescription": "A katonai hatalom a 3. szint fölé növelhető. A katonai erő a 3. szint fölé növelhető.",
+      "abilityAnnouncement": "A maximális katonai erőd 3-ról 6-ra nőtt."
     }
   },
   "gameStartTypes": {
-    "ranked": "Ranked",
-    "quick": "Quick",
-    "custom": "Custom",
-    "welcome": "Welcome"
+    "ranked": "Rangsorolt",
+    "quick": "Gyors",
+    "custom": "Egyedi",
+    "welcome": "Üdvözlünk"
   },
   "gameType": {
-    "custom": "Live",
-    "daily": "Daily",
-    "tutorial": "Tutorial",
-    "solo": "Solo",
-    "private": "Private"
+    "custom": "Élő",
+    "daily": "Napi",
+    "tutorial": "Bemutató",
+    "solo": "Szóló",
+    "private": "Privát"
   },
   "premium": {
-    "premiumBots": "Play with 14 Bots each with unique strengths",
-    "premiumStyles": "Get access to 4 alternative themes and preferred colours",
-    "premiumPlayersNumber": "Create epic 8 player games with friends",
-    "premiumGameOptions": "Create custom games tailored to you",
-    "premiumStats": "Analyze the game results to become better",
-    "premiumAvatars": "Use any image you want as an in-game avatar",
-    "premiumMaps": "Design new and exciting maps",
-    "premiumNoAds": "No ADS. Directly support the developers!",
-    "title": "Gold Member",
-    "lastPayment": "Last Payment",
-    "nextPayment": "Next Payment",
-    "cancelled": "Cancelled\nEnds on:",
-    "cancel": "Cancel",
-    "canceledTitle": "Subscription",
-    "canceledMessage": "Subscription successfully canceled",
+    "premiumBots": "Játssz 14 robottal, amelyek mindegyike egyedi erősséggel rendelkezik.",
+    "premiumStyles": "Hozzáférés 4 alternatív témához és preferált színekhez",
+    "premiumPlayersNumber": "Készíts epikus 8 játékos játékot a barátaiddal",
+    "premiumGameOptions": "Hozzon létre személyre szabott játékokat",
+    "premiumStats": "Elemezd a játékeredményeket, hogy jobbá válj",
+    "premiumAvatars": "Bármilyen képet használhatsz játékbeli avatárként",
+    "premiumMaps": "Tervezz új és izgalmas pályákat",
+    "premiumNoAds": "Nincsenek  REKLÁMOK. Támogasd közvetlenül a fejlesztőket!",
+    "title": "Arany felhasználó",
+    "lastPayment": "Utolsó fizetés",
+    "nextPayment": "Következő fizetés",
+    "cancelled": "Törölt\nVéget ér:",
+    "cancel": "Törölt",
+    "canceledTitle": "Előfizetés",
+    "canceledMessage": "Az előfizetés sikeresen törölve",
     "success": {
-      "title": "Success!",
-      "home": "Home",
-      "message": "You are now a gold user",
-      "safeRollMsg": "Safe Roll tokens successfully purchased."
+      "title": "Siker!",
+      "home": "Főoldal",
+      "message": "Ön mostantól arany felhasználó",
+      "safeRollMsg": "Sikeresen megvásároltad a biztonságos gurítás."
     },
     "canceled": {
-      "title": "Canceled",
-      "home": "Home",
-      "message": "Something went wrong during checkout"
+      "title": "Törölt",
+      "home": "Főoldal",
+      "message": "Valami hiba történt a fizetés során"
     }
   },
   "ranks": {
     "promoted": {
-      "title": "PROMOTED!",
-      "message": "Congratulations! \nYour amazing play has earned you a ranking level up!"
+      "title": "ELŐLÉPTETVE!",
+      "message": "Gratulálunk! \nA lenyűgöző játékoddal egy ranglétrán feljebb léptél!"
     },
     "demoted": {
-      "title": "DEMOTED!",
-      "message": "Oh no! You have ranked down.\nMaybe it's time to try a new strategy or pray to the dice gods?"
+      "title": "LEFOKOZVA!",
+      "message": "Jaj, ne! Visszaesett a ranglistán.\nTalán itt az ideje, hogy új stratégiát próbáljon ki, vagy imádkozzon a kocka istenekhez?"
     },
-    "viewRanks": "View Ranks",
-    "title": "RANKS",
-    "rules": "How rankings work"
+    "viewRanks": "Rangok megtekintése",
+    "title": "RANGOK",
+    "rules": "Hogyan működik a ranglista"
   },
   "dailyGames": {
-    "noGames": "No Games in progress",
-    "startGame": "Start a Game",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "noGames": "Nincsenek folyamatban lévő játékok",
+    "startGame": "Kezdj egy játékot",
+    "createGame": "Játék létrehozása",
+    "joinByCode": "Csatlakozz kóddal",
     "turnCount": {
-      "many": "turns",
-      "single": "turn"
+      "many": "fordulók",
+      "single": "forduló"
     },
     "gameType": {
-      "ranked": "Ranked",
-      "casual": "Casual"
+      "ranked": "Rangsorolt",
+      "casual": "Alkalmi"
     },
-    "title": "My Games",
+    "title": "Az én játékaim",
     "game": {
-      "waiting": "Waiting...",
-      "rematchRequest": "Rematch Request",
-      "gameOver": "Game Over",
-      "play": "Play",
-      "invite": "Invite players",
-      "start": "Start Game?"
+      "waiting": "Várakozás...",
+      "rematchRequest": "Visszavágó kérés",
+      "gameOver": "Játék vége",
+      "play": "Játék",
+      "invite": "Játékosok meghívása",
+      "start": "Játék indítása?"
     }
   },
   "profile": {
-    "editInfo": "Edit info",
-    "city": "City",
-    "description": "Description",
+    "editInfo": "Információ szerkesztése",
+    "city": "Város",
+    "description": "Leírás",
     "email": "Email",
-    "name": "Name",
-    "status": "Status",
-    "save": "Save",
-    "linkCopied": "Profile link copied to clipboard",
+    "name": "Név",
+    "status": "Státusz",
+    "save": "Mentés",
+    "linkCopied": "Profil linkje a vágólapra másolva",
     "settings": {
-      "turnEmails": "Send Turn Emails",
-      "chatNotifications": "Chat Notifications",
-      "recentInvites": "Allow Recent Invites",
-      "autoJump": "Auto-Jump to Next Daily Game",
-      "mapHints": "Map Hints",
-      "showReplays": "Show Replays",
-      "acceptNewGames": "Auto-Accept New Games",
-      "autoRoll": "Auto-Roll Dice on Turn Start"
+      "turnEmails": "Forduló e-mailek küldése",
+      "chatNotifications": "Csevegő értesítések",
+      "recentInvites": "Legutóbbi meghívások engedélyezése",
+      "autoJump": "Automatikus ugrás a következő napi játékra",
+      "mapHints": "Térkép-súgók",
+      "showReplays": "Visszajátszások megjelenítése",
+      "acceptNewGames": "Új játékok automatikus elfogadása",
+      "autoRoll": "Automatikus kockadobás forduló indításakor"
     },
     "account": {
-      "signUp": "Sign Up",
-      "saveAccount": "SAVE ACCOUNT",
-      "emailSentTitle": "Email sent",
-      "emailSentMsg": "Please check your mailbox and confirm your email address. Then you can use this account."
+      "signUp": "Regisztráció",
+      "saveAccount": "FIÓK MENTÉSE",
+      "emailSentTitle": "Elküldött email",
+      "emailSentMsg": "Kérjük, ellenőrizze postafiókját és erősítse meg e-mail címét. Ezután használhatja ezt a fiókot."
     },
     "history": {
-      "title": "History",
-      "filter": "Filter",
-      "empty": "No Match History"
+      "title": "Előzmények",
+      "filter": "Szűrő",
+      "empty": "Nincs találati előzmény"
     },
     "mapStats": {
-      "title": "Map Stats",
-      "filter": "Filter",
-      "empty": "No Stats"
+      "title": "Térkép statisztikák",
+      "filter": "Szűrő",
+      "empty": "Nincs statisztika"
     },
-    "rank": "Rank",
+    "rank": "Rangsor",
     "season": {
-      "progress": "Season Points"
+      "progress": "Szezon előrehaladás"
     },
     "delete": {
-      "title": "Delete Account",
+      "title": "Fiók törlése",
       "dialog": {
-        "title": "Are you sure?",
-        "message": "We’re sorry to see you go! Are you sure you want to delete your account? All your stats and games will be permanently removed.\nYou must confirm your account to delete it.",
-        "no": "No",
-        "yes": "Yes"
+        "title": "Biztos vagy benne?",
+        "message": "Sajnáljuk, hogy el kell menned! Biztos, hogy törölni akarod a fiókodat? Minden statisztikádat és játékodat véglegesen töröljük.\nA fiókodat meg kell erősítened a törléshez.",
+        "no": "Nem",
+        "yes": "Igen"
       },
-      "enterPassword": "Enter a password",
-      "enterPasswordInstruction": "Please enter a password for your account below"
+      "enterPassword": "Adj meg egy jelszót",
+      "enterPasswordInstruction": "Kérjük, adja meg a fiókja jelszavát az alábbiakban"
     },
     "stats": {
       "filter": {
-        "title": "FILTER",
-        "clear": "Clear",
-        "filter": "Filter"
+        "title": "SZŰRŐ",
+        "clear": "Törlés",
+        "filter": "Szűrő"
       },
-      "totalGames": "Total Games - ",
-      "unlockAll": "Go Gold to Unlock All Stats"
+      "totalGames": "Összes játék - ",
+      "unlockAll": "Válts aranyra az összes statisztika feloldásához"
     },
     "info": {
-      "hometown": "Hometown: ",
-      "editInfo": "Edit info",
-      "joinedOn": "Joined on {}",
+      "hometown": "Szülőváros: ",
+      "editInfo": "Szerkeszd az infót",
+      "joinedOn": "Csatlakozott ekkor {}",
       "months": {
         "1": "Jan",
-        "2": "Feb",
-        "3": "Mar",
-        "4": "Apr",
-        "5": "May",
-        "6": "Jun",
-        "7": "Jul",
+        "2": "Febe",
+        "3": "Márc",
+        "4": "Ápr",
+        "5": "Máj",
+        "6": "Jún",
+        "7": "Júl",
         "8": "Aug",
-        "9": "Sep",
-        "10": "Oct",
+        "9": "Szept",
+        "10": "Okt",
         "11": "Nov",
         "12": "Dec"
       },
-      "1stPlace": "1st Place",
-      "2ndPlace": "2nd Place",
-      "3rdPlace": "3rd Place",
-      "totalGames": "Total Games",
-      "asOfMay": "as of May 2023"
+      "1stPlace": "1. helyezés",
+      "2ndPlace": "2. helyezés",
+      "3rdPlace": "3. helyezés",
+      "totalGames": "Játékok összesen",
+      "asOfMay": "2023 májusáig"
     },
     "errors": {
-      "updateFailed": "Failed to update",
-      "nameProfanity": "Name cannot have profanities",
-      "nameTaken": "Name is already taken",
-      "nameEmpty": "Name cannot be empty",
-      "statusProfanity": "Status cannot have profanities",
-      "descriptionProfanity": "Description cannot have profanities",
-      "cityProfanity": "City cannot have profanities"
-    },
-    "emailWillBeChanged": "Email will be changed after confirmation",
-    "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "updateFailed": "Nem sikerült frissíteni",
+      "nameProfanity": "A név nem tartalmazhat káromkodást",
+      "nameTaken": "A név már foglalt",
+      "nameEmpty": "A név nem lehet üres",
+      "statusProfanity": "A státusz nem tartalmazhat káromkodást",
+      "descriptionProfanity": "A leírás nem tartalmazhat trágárságokat",
+      "cityProfanity": "A város nem tartalmazhat trágárságokat"
     }
   },
   "auth": {
     "fb": {
-      "newPassword": "New password",
-      "newPasswordHint": "Enter your new password",
-      "verifiedTitle": "Verified",
-      "verifiedMsg": "You email has been successfully verified.",
-      "passResetMsg": "Your password email has been successfully changed.",
-      "expired": "Invalid or expired link, try to verify email again.",
-      "weakPass": "Password too weak, try again.",
-      "expiredPassReset": "Invalid or expired link, try to reset your password again.",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "newPassword": "Új jelszó",
+      "newPasswordHint": "Adja meg az új jelszavát",
+      "verifiedTitle": "Ellenőrzött",
+      "verifiedMsg": "Az Ön e-mailje sikeresen ellenőrizve lett.",
+      "passResetMsg": "A jelszavad e-mailje sikeresen megváltozott.",
+      "expired": "Érvénytelen vagy lejárt link, próbálja meg újra ellenőrizni az e-mailt.",
+      "weakPass": "Túl gyenge jelszó, próbálja meg újra.",
+      "expiredPassReset": "Érvénytelen vagy lejárt link, próbálja újra visszaállítani jelszavát."
     },
     "linking": {
-      "title": "Account Linking",
-      "message": "Logging in with $newProvider will override your existing logins. Continue?",
-      "no": "No",
-      "yes": "Yes"
+      "title": "Fiókok összekapcsolása",
+      "message": "A $newProviderrel történő bejelentkezés felülírja a meglévő bejelentkezéseket. Folytatja?",
+      "no": "Nem",
+      "yes": "Igen"
     },
     "footer": {
-      "agree": "By tapping a sign in button, you agree to the\n",
-      "tos": "Terms of Service",
-      "and": " and ",
-      "privacy": "Privacy Policy"
+      "agree": "A bejelentkezés gomb megnyomásával Elfogadja a\n",
+      "tos": "Általános Szerződési Feltételeket",
+      "and": " és az ",
+      "privacy": "Adatvédelmi irányelveket"
     },
     "code": {
-      "msg": "Enter the code sent to {}",
-      "confirm": "Confirm",
-      "sent": "Email sent",
-      "sentMsg": "A new code has been sent to {}",
-      "resend": "Resend Code",
-      "continueWithEmail": "Have a password? Continue here"
+      "msg": "Írja be a kódot, amelyet itt kapott meg {}",
+      "confirm": "Megerősítés",
+      "sent": "Elküldött e-mail",
+      "sentMsg": "Új kódot küldtünk a {} címre",
+      "resend": "Kód újraküldése",
+      "continueWithEmail": "Van jelszava? Folytassa itt"
     },
     "email": {
-      "label": "Enter your email to sign up or login into Landover",
-      "button": "Confirm"
+      "label": "Adja meg e-mail címét a regisztrációhoz vagy a Landoverbe való bejelentkezéshez.",
+      "button": "Megerősítés"
     },
     "signUp": {
       "nickname": {
-        "label": "Nickname",
-        "placeholder": "Enter Nickname...",
-        "empty": "Please enter a nickname",
-        "short": "Please enter a nickname of at least 3 characters",
-        "profanity": "Profanity detected. Try again."
+        "label": "Becenév",
+        "placeholder": "Becenév megadása...",
+        "empty": "Kérjük, adjon meg egy becenevet",
+        "short": "Kérjük, adjon meg egy legalább 3 karakteres becenevet",
+        "profanity": "Káromkodás észlelve. Próbálja újra."
       },
       "password": {
-        "label": "Confirm Password",
-        "placeholder": "Confirm Password...",
-        "empty": "Please enter a password",
-        "mismatch": "Passwords do not match"
+        "label": "Jelszó megerősítése",
+        "placeholder": "Jelszó megerősítése...",
+        "empty": "Kérjük, adjon meg egy jelszót",
+        "mismatch": "A jelszavak nem egyeznek"
       }
     },
     "verify": {
-      "email": "Verify your email",
-      "message": "A verification email has been sent to you! Please check your mailbox to verify the account before you sign in",
-      "resend": "Resend"
+      "email": "Ellenőrizze az e-mail címét",
+      "message": "Megerősítő e-mailt küldtünk Önnek! Kérjük, ellenőrizze a postafiókját a fiók ellenőrzéséhez, mielőtt bejelentkezik.",
+      "resend": "Újraküldés"
     },
-    "login": "Log In",
-    "useFB": "Continue with Facebook",
-    "useGoogle": "Continue with Google",
-    "useEmail": "Continue with Email",
-    "useApple": "Continue with Apple",
-    "or": "OR",
-    "passRequired": "Your password is required",
-    "enterPassword": "Please enter your password for {}"
+    "login": "Bejelentkezés",
+    "useFB": "Folytatás Facebook fiókkal",
+    "useGoogle": "Folytatás Google fiókkal",
+    "useEmail": "Folytatás Email fiókkal",
+    "useApple": "Folytatás Apple fiókkal",
+    "or": "VAGY",
+    "passRequired": "A jelszavad szükséges",
+    "enterPassword": "Kérjük, adja meg jelszavát {}"
   },
   "alerts": {
-    "ok": "OK",
-    "cancel": "Cancel"
+    "ok": "OKÉ",
+    "cancel": "Mégse"
   },
   "forms": {
-    "submit": "Submit",
-    "nicknameEmpty": "Please enter a nickname",
-    "nicknameShort": "Please enter a nickname of at least 3 characters",
+    "submit": "Beküldés",
+    "nicknameEmpty": "Kérjük, adjon meg egy becenevet",
+    "nicknameShort": "Kérjük, adjon meg egy legalább 3 karakteres becenevet",
     "email": "Email",
-    "emailEmpty": "Please enter an email",
+    "emailEmpty": "Kérjük, adjon meg egy e-mail címet",
     "emailPlaceholder": "Enter Email...",
-    "emailInvalid": "Please enter a valid email address",
-    "password": "Password",
-    "passwordPlaceholder": "Enter Password...",
-    "passwordEmpty": "Please enter a password",
-    "forgotPassword": "Forgot Password?",
-    "resetPasswordTitle": "Reset Password",
-    "resetPasswordEmail": "Enter your email",
-    "resetPasswordEmailSent": "Email sent",
-    "resetPasswordEmailSentMsg": "Please check your inbox"
+    "emailInvalid": "Adja meg az e-mail címét...",
+    "password": "Jelszó",
+    "passwordPlaceholder": "Jelszó megadása...",
+    "passwordEmpty": "Kérjük, adja meg a jelszót",
+    "forgotPassword": "Elfelejtette jelszavát?",
+    "resetPasswordTitle": "Jelszó visszaállítása",
+    "resetPasswordEmail": "Adja meg e-mail címét",
+    "resetPasswordEmailSent": "E-mail elküldve",
+    "resetPasswordEmailSentMsg": "Kérjük, ellenőrizze postaládáját"
   },
   "codeJoin": {
-    "join": "Join"
+    "join": "Csatlakozás"
   },
   "history": {
-    "title": "HISTORY",
-    "notAvailable": "Old game results are unavailable.",
-    "turns": "{} Turns",
-    "players": "{} players",
-    "noHistory": "No Match History"
+    "title": "ELŐZMÉNYEK",
+    "notAvailable": "A régi mérkőzések eredményei nem elérhetők.",
+    "turns": "{} Forduló",
+    "players": "{} játékos",
+    "noHistory": "Nincs mérkőzés előzmény"
   },
   "settings": {
-    "title": "SETTINGS",
-    "editInfo": "Edit info",
-    "stats": "Stats",
-    "themes": "Themes & Colors",
-    "history": "History",
+    "title": "BEÁLLÍTÁSOK",
+    "editInfo": "Információ szerkesztése",
+    "stats": "Statisztikák",
+    "themes": "Témák és színek",
+    "history": "Előzmények",
     "logout": {
-      "title": "Log Out",
+      "title": "Kijelentkezés",
       "guest": {
-        "title": "Warning!",
-        "message": "You are about to logout of your guest account. All data will be lost and all your games will be forfeited. To avoid this, first authenticate your account with another login. Continue?",
-        "delete": "Delete Account",
-        "cancel": "Cancel"
+        "title": "Figyelmeztetés!",
+        "message": "Ön most készül kijelentkezni vendégfiókjából. Minden adatod elveszik, és minden játékod elveszik. Ennek elkerülése érdekében először hitelesítse fiókját egy másik bejelentkezéssel. Folytatás?",
+        "delete": "Fiók törlése",
+        "cancel": "Mégse"
       }
     },
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Felhasználási feltételek"
   },
   "invite": {
-    "play": "Play",
-    "cancel": "Cancel",
-    "inviteFrom": "Invite from {}!"
+    "play": "Játék",
+    "cancel": "Mégse",
+    "inviteFrom": "Meghívó tőle {}!"
   },
   "matchmaking": {
-    "play": "Play",
-    "game": "Game",
-    "rankHigherThan": "higher than {}%\nof players",
-    "viewRanks": "View Ranks",
-    "3daysMove": "3 days to move",
-    "90sMove": "90s to move",
-    "playNow": "PLAY NOW",
-    "casual": "Casual Play",
-    "ranked": "Ranked Play",
-    "looking": "Looking for players..."
+    "play": "Játssz",
+    "game": "Játék",
+    "rankHigherThan": "magasabb mint {}%\njátékosnak",
+    "viewRanks": "Rangok megtekintése",
+    "3daysMove": "3 nap a mozgásig",
+    "90sMove": "90mp a mozgásig",
+    "playNow": "JÁTSSZON MOST",
+    "casual": "Alkalmi játék",
+    "ranked": "Rangsorolt játék",
+    "looking": "Játékosokat keresünk..."
   },
   "help": {
-    "title": "WELCOME TO LANDOVER!",
-    "rules": "Rules",
-    "video": "Video\nTutorials",
-    "tutorial": "Play\nTutorial",
+    "title": "ÜDVÖZLÜNK LANDOVER-BEN!",
+    "rules": "Szabályok",
+    "video": "Videó\nBemutatók",
+    "tutorial": "Játék\nBemutatók",
     "discord": "Discord!",
-    "questions": "Questions?\n"
+    "questions": "Kérdések?\n"
   },
   "themes": {
-    "title": "Theme",
-    "chooseTheme": "Choose Theme",
-    "chooseColor": "Choose Color",
-    "save": "Save",
-    "goGold": "GO GOLD!",
-    "selected": "SELECTED"
+    "title": "Téma",
+    "chooseTheme": "Téma kiválasztása",
+    "chooseColor": "Szín kiválasztása",
+    "save": "Mentés",
+    "goGold": "LÉGY ARANY!",
+    "selected": "VÁLASZTOTT"
   },
   "createGame": {
     "options": {
-      "title": "OPTIONS",
-      "on": "On",
-      "off": "Off",
-      "time": "Time per Turn",
-      "points": "Victory Points",
-      "barbDelay": "Barbarians Delay",
-      "barbDelayTooltip": "Number of barbarian rolls before\nthe barbarians start to advance\ntowards an attack.",
-      "name": "Game Name (optional)",
-      "namePlaceholder": "Enter name",
-      "public": "Public Game",
+      "title": "BEÁLLÍTÁSOK",
+      "on": "Be",
+      "off": "Ki",
+      "time": "Fordulatonkénti idő",
+      "points": "Győzelmi pontok",
+      "barbDelay": "Barbárok késleltetése",
+      "barbDelayTooltip": "A barbárok dobásainak száma, mielőtt a barbárok elkezdenek előrenyomulni a támadás felé.",
+      "name": "Játék neve (nem kötelező)",
+      "namePlaceholder": "Név megadása",
+      "public": "Nyilvános játék",
       "mapHints": {
-        "title": "Map Hints",
-        "tooltip": "Enables map hint indicators when building structures."
+        "title": "Térképi tippek",
+        "tooltip": "Engedélyezi a térképi súgójelzőket az építmények építésénél."
       },
       "charity": {
-        "title": "Charity 7 Rolls",
-        "tooltip": "Give one random resource when a 7 is rolled"
+        "title": "Adomány 7-es dobások",
+        "tooltip": "Ad egy véletlenszerű nyersanyagot, ha 7-es dobnak"
       },
       "resources": {
-        "title": "Starting Resources",
-        "tooltip": "Give every user one resource of every type when a game starts"
+        "title": "Kezdő nyersanyagok",
+        "tooltip": "Minden felhasználónak ad egy nyersanyagot minden típusból, amikor a játék elkezdődik."
       },
       "raids": {
-        "title": "Raids",
-        "tooltip": "Enable/Disable spending one military to raid your opponent."
+        "title": "Rajtaütések",
+        "tooltip": "Engedélyezd/tiltd egy hadsereg megvételét az ellenfél rajtaütésére."
       },
       "fairDice": {
-        "title": "Fair Dice",
-        "tooltip": "Replaces true random with an even\ndistribution of dice rolls."
+        "title": "Tisztességes kocka",
+        "tooltip": "A valódi véletlenszerűséget a kockadobások egyenletes eloszlásával helyettesíti."
       },
       "culture": {
-        "title": "Culture",
-        "tooltip": "Enables Science, Politics, and Commerce\nupgrades so you can collect dev cards\nand earn metros."
+        "title": "Kultúra",
+        "tooltip": "Engedélyezi a Tudomány, a Politika és a Kereskedelem \nfejlesztését, így fejlesztői kártyákat gyűjthetsz és metrókat szerezhetsz."
       },
       "luckyRaid": {
-        "title": "Lucky 7 Raid",
-        "tooltip": "Player in last place who rolls a 7\nis rewarded with a free raid."
+        "title": "Szerencsés 7-es rajtaütés",
+        "tooltip": "Az utolsó helyen álló játékos, ha 7-est dob, egy ingyenes rajtaütést kap."
       }
     },
     "map": {
-      "title": "SELECT MAP",
-      "maps": "MAPS",
-      "favorites": "Favorites",
-      "lastPlayed": "Last Played",
-      "moreSlots": "Subscribe for more slots",
-      "giant": "Giant",
-      "normal": "Normal",
-      "mapType": "Choose map type",
-      "mapTypeMsg": "Choose the type of map you want to create.",
-      "createMap": "Create New Map",
-      "register": "Register",
-      "createAccount": "Create Account",
-      "createAccountMsg": "You must register an account to create maps.",
-      "search": "Search maps",
-      "mapName": "Name",
-      "gamesPlayed": "# of games",
-      "createdOn": "Created on",
-      "noUserMaps": "You have not created any maps",
-      "noMaps": "No maps found",
-      "noRecentGames": "You have no recent games",
-      "noFavorites": "You have no favorite maps",
+      "title": "TÉRKÉP VÁLASZTÁSA",
+      "maps": "TÉRKÉPEK",
+      "favorites": "Kedvencek",
+      "lastPlayed": "Utoljára játszott",
+      "moreSlots": "Feliratkozás további helyekért",
+      "giant": "Óriás",
+      "normal": "Normál",
+      "mapType": "Térkép típus kiválasztása",
+      "mapTypeMsg": "Válassza ki a létrehozni kívánt térkép típusát.",
+      "createMap": "Új térkép létrehozása",
+      "register": "Regisztráció",
+      "createAccount": "Fiók létrehozása",
+      "createAccountMsg": "A térképek létrehozásához regisztrálnia kell egy fiókot.",
+      "search": "Térképek keresése",
+      "mapName": "Név",
+      "gamesPlayed": "# Játék száma",
+      "createdOn": "Létrehozva",
+      "noUserMaps": "Nem hoztál létre térképet",
+      "noMaps": "Nem találtál térképet",
+      "noRecentGames": "Nincsenek friss játékaid",
+      "noFavorites": "Nincsenek kedvenc térképeid",
       "tabs": {
-        "standard": "STANDARD",
-        "myMaps": "MY MAPS",
-        "favorites": "FAVORITES",
-        "all": "ALL"
+        "standard": "ÁLTALÁNOS",
+        "myMaps": "TÉRKÉPEIM",
+        "favorites": "KEDVENCEK",
+        "all": "ÖSSZES"
       },
       "adminControls": {
         "confirmDialog": {
-          "yes": "Yes",
-          "no": "No",
-          "confirm": "Confirm",
-          "duplicate": "Are you sure you want to duplicate this map?",
-          "makeOfficial": "Are you sure you want to make this map official?",
-          "deleteFromOfficial": "Are you sure you want to delete this map from official maps?"
+          "yes": "Igen",
+          "no": "Nem",
+          "confirm": "Megerősítés",
+          "duplicate": "Biztos benne, hogy szeretné lemásolni ezt a térképet?",
+          "makeOfficial": "Biztos vagy benne, hogy ezt a térképet hivatalosan is be akarod mutatni?",
+          "deleteFromOfficial": "Biztos benne, hogy ezt a térképet törölni kívánja a hivatalos térképek közül?"
         }
       },
       "sort": {
-        "newest": "Newest",
-        "oldest": "Oldest",
-        "mostGames": "Most Games",
-        "leastGames": "Least Games",
-        "alphabetical": "Alphabetical",
-        "reverseAlphabetical": "Alphabetical Desc",
-        "popular": "Popular"
+        "newest": "Legújabb",
+        "oldest": "Legrégebbi",
+        "mostGames": "Legtöbb játék",
+        "leastGames": "Legkevesebb játék",
+        "alphabetical": "Ábécé",
+        "reverseAlphabetical": "Ábécé leírás",
+        "popular": "Népszerű"
       },
       "preview": {
-        "selectMap": "Select Map",
-        "deleteMap": "Delete Map",
-        "editMap": "Edit Map"
+        "selectMap": "Térkép kiválasztása",
+        "deleteMap": "Térkép törlése",
+        "editMap": "Térkép szerkesztése"
       }
     },
     "playTutorial": {
-      "title": "Play tutorial",
-      "message": "As a new player to Landover, you must complete one solo game against the bots before you jump into a public game. Try the tutorial!"
+      "title": "Játsszon bemutatót",
+      "message": "Új játékosként Landoverben egy szólójátékot kell teljesítened a botok ellen, mielőtt belevágnál egy nyilvános játékba. Próbáld ki a bemutatót!"
     },
-    "createGame": "Create Game"
+    "createGame": "Játék létrehozása"
   },
   "join": {
-    "title": "Join Games",
-    "gameNotAvailable": "This game is not available, try another one",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "title": "Csatlakozás játékokhoz",
+    "gameNotAvailable": "Ez a játék nem elérhető, próbálj meg egy másikat",
+    "createGame": "Játék létrehozása",
+    "joinByCode": "Csatlakozás kóddal",
     "filter": {
-      "title": "FILTER",
-      "button": "Filter",
-      "clear": "Clear",
-      "allGames": "All Games",
-      "liveGames": "Live Games",
-      "dailyGames": "Daily Games",
-      "allPoints": "All Points",
-      "xPoints": "{} points"
+      "title": "SZŰRŐ",
+      "button": "Szűrő",
+      "clear": "Törlés",
+      "allGames": "Minden játék",
+      "liveGames": "Élő játékok",
+      "dailyGames": "Napi játékok",
+      "allPoints": "Minden pont",
+      "xPoints": "{} pontok"
     }
   },
   "lobby": {
     "leave": {
-      "title": "Leave Game",
-      "message": "Are you sure you want to leave this game?",
-      "yes": "Leave"
+      "title": "Játék elhagyása",
+      "message": "Biztos, hogy el akarod hagyni ezt a játékot?",
+      "yes": "Elhagyás"
     },
     "add": {
-      "recent": "+ Recent",
-      "bot": "+ Add Bot",
-      "invite": "+ Invite"
+      "recent": "+ Legutóbbi",
+      "bot": "+ Bot hozzáadása",
+      "invite": "+ Meghívás"
     },
     "boot": {
-      "button": "Remove",
-      "title": "Are you sure you want to kick "
+      "button": "Eltávolítás",
+      "title": "Biztos vagy benne, hogy ki akarod rúgni  "
     },
     "rankedLiveLobby": {
-      "title": "LIVE RANKED GAME",
+      "title": "ÉLŐ RANGLISTÁS JÁTÉK",
       "lobbyState": {
-        "waiting": {
-          "one": "Please wait... Looking for {} more player",
-          "other": "Please wait... Looking for {} more players"
+        "waiting":{
+          "one": "Kérjük várj... Keres {} több játékost",
+          "other": "Kérjük várj... További {} játékosokat keresünk"
         },
-        "areYouReady": "Are you ready?",
-        "starting": "Game is starting",
-        "waitingForOther": "Waiting for other players..."
+        "areYouReady": "Készen állsz?",
+        "starting": "A játék kezdődik",
+        "waitingForOther": "Várjuk a többi játékost..."
       },
-      "readyButton": "Ready",
-      "opponent": "Opponent",
+      "readyButton": "Készen állunk",
+      "opponent": "Ellenfél",
       "VS": "VS",
-      "randomMap": "Random map",
+      "randomMap": "Véletlen térkép",
       "gameData": {
-        "winCondition": "Win Condition",
-        "startingResources": "Starting Resources",
-        "charity": "Charity",
-        "fairDice": "Fair Dice",
-        "turnTimer": "Turn Timer",
-        "on": "On",
-        "off": "Off"
+        "winCondition": "Győzelmi feltétel",
+        "startingResources": "Kezdő erőforrások",
+        "charity": "Jótékonyság",
+        "fairDice": "Tisztességes kocka",
+        "turnTimer": "Forduló időzítő",
+        "on": "Be",
+        "off": "Ki"
       }
     },
     "options": {
-      "on": "On",
-      "off": "Off",
-      "points": "Victory Points",
-      "time": "Turn timer",
-      "luckyRaid": "Lucky 7 Raid",
-      "culture": "Culture",
-      "barbDelay": "Barbarians Delay",
-      "fairDice": "Fair Dice",
-      "raids": "Raids"
+      "on": "Be",
+      "off": "Ki",
+      "points": "Győzelmi pontok",
+      "time": "Fordulj időzítő",
+      "luckyRaid": "Szerencsés 7 rajtaütés",
+      "culture": "Kultúra",
+      "barbDelay": "Barbárok késleltetése",
+      "fairDice": "Tisztességes kocka",
+      "raids": "Rajtaütések"
     },
     "addBot": {
-      "title": "ADD BOT",
-      "alreadyAdded": "Already Added",
-      "unlockBot": "Unlock Bot",
-      "addBot": "Add Bot"
+      "title": "BOT HOZZÁADÁSA",
+      "alreadyAdded": "Már hozzáadva",
+      "unlockBot": "Bot feloldása",
+      "addBot": "Bot hozzáadása"
     },
     "getReady": {
-      "title": "GET READY!",
-      "cancel": "Cancel",
-      "ready": "Ready"
+      "title": "KÉSZÜLJ!",
+      "cancel": "Mégse",
+      "ready": "Készen állsz"
     },
     "ranked": {
-      "title": "Joined!",
-      "message": "You joined a daily game match! You will be notified when game starts."
+      "title": "Csatlakozott!",
+      "message": "Csatlakoztál egy napi játékmeccshez! Értesítést kapsz, amikor a játék elkezdődik."
     },
     "recent": {
-      "title": "INVITE PLAYERS",
-      "notificationTurnedOf": "This player has turned off invitations from recent players. This player will be removed from your list.",
-      "noRecent": "No recent players!"
+      "title": "JÁTÉKOSOK MEGHÍVÁSA",
+      "notificationTurnedOf": "Ez a játékos kikapcsolta az újabb játékosok meghívását. Ez a játékos le lesz törölve a listádról.",
+      "noRecent": "Nincsenek friss játékosok!"
     },
     "joinPrivate": {
-      "joinAnyway": "Join anyway",
-      "cancel": "Cancel"
+      "joinAnyway": "Csatlakozz mindenképpen",
+      "cancel": "Mégse"
     },
     "gameType": {
-      "ranked": "RANKED GAME",
-      "quick": "QUICK GAME",
-      "tutorial": "TUTORIAL",
-      "daily": "DAILY GAME",
-      "solo": "SOLO GAME",
-      "live": "LIVE GAME"
+      "ranked": "RANGSOROLT JÁTÉK",
+      "quick": "GYORS JÁTÉK",
+      "tutorial": "BEMUTATÓ",
+      "daily": "NAPI JÁTÉK",
+      "solo": "SZÓLÓ JÁTÉK",
+      "live": "ÉLŐ JÁTÉK"
     },
-    "lobbyLabel": "Lobby:",
-    "code": "Code: ",
-    "join": "JOIN",
-    "waiting": "Waiting...",
-    "waitingForHost": "Waiting for host...",
-    "start": "Start",
-    "starting": "Game Starting",
-    "startingTutorial": "Starting tutorial",
-    "initTutorial": "Initializing tutorial...",
-    "creatingNewLobby": "Creating new lobby...",
-    "checkingExisting": "Checking existing games...",
-    "matchingGameFound": "Matching game found!",
-    "loadingLobby": "Loading game lobby...",
-    "loadingGame": "Loading game...",
-    "joined": "Joined!",
-    "alreadyInQueue": "You are already in the queue, you will be notified when a game starts.",
-    "lobbyFull": "Lobby full!",
-    "hostToAdd": "You must be a host to add a bot",
-    "cannotBoot": "You cannot boot this player",
-    "notFound": "Lobby not found",
-    "waitingForLot": "You are already waiting for a lot of games to start. We’ll notify you when it’s your turn to move.",
-    "kicked": "Kicked!",
-    "kickedMsg": "The host has removed you from this game. Try joining a different game.",
-    "timeOut": "Timed out",
-    "timeOutMsg": "You didn't accept the game in time.",
-    "rematchCanceled": "Rematch canceled",
-    "rematchCanceledMsg": "Someone rejected this game.",
-    "gameCanceled": "Game canceled",
-    "gameCanceledMsg": "The host has ended this game."
+    "lobbyLabel": "Váró:",
+    "code": "Kód: ",
+    "join": "CSATLAKOZÁS",
+    "waiting": "Várunk...",
+    "waitingForHost": "Várakozás a házigazdára...",
+    "start": "Elindítás",
+    "starting": "A játék indul",
+    "startingTutorial": "A bemutató elindítása",
+    "initTutorial": "IA bemutató inicializálása...",
+    "creatingNewLobby": "Új váró létrehozása...",
+    "checkingExisting": "Meglévő játékok ellenőrzése...",
+    "matchingGameFound": "Megfelelő játékot találtam!",
+    "loadingLobby": "Játék váró betöltése...",
+    "loadingGame": "Játék betöltése...",
+    "joined": "Csatlakozás!",
+    "alreadyInQueue": "Már a várólistán vagy, értesítést kapsz, ha elindul a játék.",
+    "lobbyFull": "A váró megtelt!",
+    "hostToAdd": "Házigazdának kell lenned, hogy botot adhass hozzá",
+    "cannotBoot": "Ezt a játékost nem tudod elindítani",
+    "notFound": "A váró nem található",
+    "waitingForLot": "Már rengeteg játék indulására vársz. Értesítünk, ha rád kerül a sor.",
+    "kicked": "Kirúgva!",
+    "kickedMsg": "A házigazda eltávolított téged ebből a játékból. Próbálj meg csatlakozni egy másik játékhoz.",
+    "timeOut": "Lejárt az idő",
+    "timeOutMsg": "Nem fogadtad el időben a játékot.",
+    "rematchCanceled": "A visszavágó törölve",
+    "rematchCanceledMsg": "Valaki visszautasította ezt a játékot.",
+    "gameCanceled": "Játék törölve",
+    "gameCanceledMsg": "A házigazda befejezte ezt a játékot."
   },
   "builder": {
     "create": {
-      "title": "CREATE MAP!",
-      "ok": "Ok",
-      "firstMap": "Want to create your first custom map?\nUse the map builder to design your very own world!",
-      "randomNumber": "Any tiles without a number will be randomly assigned a number each game",
-      "mysteryTiles": "A mystery tile that cannot be placed on initially and is only revealed when a player explores it",
-      "randomResources": "A randomly assigned land resource at game start"
+      "title": "KÉSZÍTSEN PÁLYÁT!",
+      "ok": "Oké",
+      "firstMap": "Szeretnéd elkészíteni az első saját térképedet?\nA térképkészítő segítségével megtervezheted a saját világodat!",
+      "randomNumber": "A szám nélküli lapok minden játékban véletlenszerűen kapnak egy számot.",
+      "mysteryTiles": "Egy titokzatos lapka, amelyet kezdetben nem lehet lerakni, és csak akkor derül ki, ha egy játékos felfedezi azt.",
+      "randomResources": "Egy véletlenszerűen hozzárendelt szárazföldi erőforrás a játék kezdetén"
     },
     "controls": {
-      "info": "Information",
-      "tiles": "Tiles",
-      "harbors": "Harbors"
+      "info": "Információk",
+      "tiles": "Lapkák",
+      "harbors": "Kikötők"
     },
     "info": {
       "name": {
-        "title": "Name",
-        "placeholder": "Enter name..."
+        "title": "Név",
+        "placeholder": "Adja meg a nevét..."
       },
       "description": {
-        "title": "Description",
-        "placeholder": "Enter description..."
+        "title": "Leírás",
+        "placeholder": "Adja meg a leírását..."
       },
-      "points": "Victory Points"
+      "points": "Győzelmi pontok"
     },
     "terrain": {
-      "nonPlacement": "Non Placement Tile",
-      "nonPlacementHint": "Select land tiles that are not allowed initial settlements."
+      "nonPlacement": "Nem elhelyezhető lapka",
+      "nonPlacementHint": "Válassza ki azokat a földlapkákat, amelyeken nem engedélyezett a kezdeti település."
     },
     "unsaved": {
-      "title": "Unsaved Changes",
-      "message": "You have unsaved changes to this map?",
-      "yes": "Exit",
-      "no": "Save & Exit"
+      "title": "Nem elmentett változások",
+      "message": "Vannak el nem mentett módosításai ezen a térképen?",
+      "yes": "Kilépés",
+      "no": "Mentés és kilépés"
     },
-    "title": "MAP BUILDER",
-    "save": "Save",
-    "openControls": "Open Controls",
-    "profanity": "Profanity detected. Try again.",
+    "title": "TÉRKÉP ÉPÍTŐ",
+    "save": "Mentés",
+    "openControls": "Vezérlők megnyitása",
+    "profanity": "Káromkodás észlelve. Próbálja újra.",
     "saved": {
-      "title": "Success!",
-      "message": "Your map has been saved!"
+      "title": "Sikeres!",
+      "message": "A térkép el lett mentve!"
     },
     "validation": {
-      "emptyName": "Please give your map a name.",
-      "invalidName": "Please enter a valid map name."
+      "emptyName": "Kérjük, adjon nevet a térképének.",
+      "invalidName": "Kérjük, adjon meg egy érvényes térképnevet."
     },
     "list": {
-      "by": "By: {}",
-      "on": "On: {}",
-      "games": "Games: {}",
+      "by": "Tőle: {}",
+      "on": "Ezen: {}",
+      "games": "Játékok: {}",
       "vp": "VP: {}",
       "deleteOfficial": {
-        "title": "Delete Action",
-        "message": "Official maps are undeletable."
+        "title": "Akció törlése",
+        "message": "A hivatalos térképek nem törölhetők."
       },
       "delete": {
-        "title": "Delete",
-        "message": "Are you sure you want to delete this map?",
-        "yes": "Delete",
-        "no": "Cancel"
+        "title": "Törlés",
+        "message": "Biztos, hogy törölni kívánja ezt a térképet?",
+        "yes": "Törlés",
+        "no": "Mégse"
       }
     }
   },
   "notifications": {
-    "title": "Don't Miss Your Turn!",
-    "enable": "Enable Notifications",
-    "enableEmail": "Enable Email Notifications",
-    "enableText": "Enable notifications and never miss your turn. We'll remind you when it's time to jump back in so you can keep the game moving!",
-    "notNow": "Don't enable for now"
+    "title": "Ne maradj le a sorodról!",
+    "enable": "Értesítések engedélyezése",
+    "enableEmail": "E-mail értesítések engedélyezése",
+    "enableText": "Engedélyezd az értesítéseket, és soha ne maradjon le a sorodról. Emlékeztetni fogunk, ha eljött az ideje, hogy újra beugorj, így tovább folytathatod a játékot!",
+    "notNow": "Ne engedélyezd egyelőre"
   },
   "unsubscribe": {
     "ask": {
-      "title": "Are you sure?",
-      "message": "Are you sure you want to unsubscribe from game updates emails?",
-      "yes": "Unsubscribe"
+      "title": "Biztos vagy benne?",
+      "message": "Biztos, hogy le akarsz iratkozni a játékfrissítésekről szóló e-mailekről?",
+      "yes": "Leiratkozás"
     },
     "unsubscribed": {
-      "title": "Unsubscribed",
-      "yes": "Home",
-      "message": "You have been successfully unsubscribed. You can turn on game updates emails again in the settings."
+      "title": "Leiratkozva",
+      "yes": "Főoldal",
+      "message": "Sikeresen leiratkoztál. A beállítások között újra bekapcsolhatod a játékfrissítésekről szóló e-maileket."
     }
   },
   "loading": {
-    "title": "PLEASE WAIT"
+    "title": "KÉRLEK VÁRJ"
   },
   "rank": {
-    "title": "YOUR\nRANK"
+    "title": "A TE\nRANGOD"
   },
   "seasons": {
     "leaderboard": {
-      "title": "SEASON LEADERBOARD",
-      "player": "Player",
-      "games": "# Games",
-      "SP": "SP (Season Points)",
-      "reward": "Reward"
+      "title": "SZEZON RANGLISTA",
+      "player": "Játékos",
+      "games": "# Játékok",
+      "SP": "SP (Szezon pontok)",
+      "reward": "Jutalom"
     },
-    "noPlayers": "No players yet",
-    "unlockAchievement": "Complete 10 games\nto unlock achievement"
+    "noPlayers": "Még nincs játékos",
+    "unlockAchievement": "Teljesíts 10 játékot\na teljesítmény feloldásához"
   }
 }
