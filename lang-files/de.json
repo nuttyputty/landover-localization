@@ -214,7 +214,7 @@
         "diplomat": "verschob einen Pfad",
         "raze": "Zerstörte {}s Stadt",
         "spy": "Stahl Entwicklungskarte von {}",
-        "hochzeit": {
+        "wedding": {
           "oneVictim": "Stahl Karten von {}",
           "moreVictims": "Stahl Karten von {} Spielern"
         },
@@ -395,7 +395,7 @@
         "title": "Konstitution",
         "description": "1 Siegespunkt. Wird sofort ausgespielt und zählt nicht zu den maximal 5 verwaltbaren Entwicklungskarten."
       },
-      "Buchdruck": {
+      "printer": {
         "title": "Printer",
         "description": "1 Siegespunkt. Wird sofort ausgespielt und zählt nicht zu den maximal 5 verwaltbaren Entwicklungskarten."
       }
@@ -413,7 +413,8 @@
         "yes": "Ja",
         "no": "Nein",
         "failed": "Fehlgeschlagen, bitte versuche es erneut"
-      }
+      },
+      "profanityDetected": "Profanity detected. Try again."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "s",
@@ -806,7 +807,6 @@
       "timeExpiredMsg": "Dir ist die Zeit ausgegangen und wurdest vom Spiel entfernt."
     }
   },
-
   "tutorial": {
     "viewProductChart": "Sehe dir die Baukosten an",
     "continue": "Tippe um fortzufahren",
@@ -942,7 +942,9 @@
       "watchAd": "Werbung ansehen",
       "noAds": "Es tut uns leid, im Moment ist keine Werbung verfügbar.",
       "restore": "Kauf wiederherstellen",
-      "noPurchase": "Kein aktives Abonnement vorhanden."
+      "noPurchase": "Kein aktives Abonnement vorhanden.",
+      "policy": "Subscription Policy",
+      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
     }
   },
   "buildingStyles": {
@@ -1137,6 +1139,11 @@
       "statusProfanity": "Status kann keine unangemessenen Wörter enthalten",
       "descriptionProfanity": "Beschreibung kann keine unangemessenen Wörter enthalten",
       "cityProfanity": "Heimatstadt kann keine unangemessenen Wörter enthalten"
+    },
+    "emailWillBeChanged": "Email will be changed after confirmation",
+    "otp": {
+      "description": "Please enter the code sent to your current email",
+      "title": "Current email verification"
     }
   },
   "auth": {
@@ -1148,7 +1155,11 @@
       "passResetMsg": "Ihr Passwort wurde erfolgreich geändert.",
       "expired": "Link ungültig oder abgelaufen, versuchen Sie erneut, die E-Mail-Adresse zu bestätigen.",
       "weakPass": "Das Passwort ist zu schwach, versuchen Sie es erneut.",
-      "expiredPassReset": "Link ungültig oder abgelaufen, versuchen Sie erneut, Ihr Passwort zurückzusetzen."
+      "expiredPassReset": "Link ungültig oder abgelaufen, versuchen Sie erneut, Ihr Passwort zurückzusetzen.",
+      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
+      "emailChangedTitle": "Email changed",
+      "recoveredEmailMsg": "Your email has been successfully recovered.",
+      "recoveredEmailTitle": "Email recovered"
     },
     "linking": {
       "title": "Kontoverknüpfung",
@@ -1419,7 +1430,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting":{
+        "waiting": {
           "one": "Please wait... Looking for {} more player",
           "other": "Please wait... Looking for {} more players"
         },

@@ -413,7 +413,8 @@
         "yes": "是",
         "no": "否",
         "failed": "出现错误，请重试"
-      }
+      },
+      "profanityDetected": "Profanity detected. Try again."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "的",
@@ -806,7 +807,6 @@
       "timeExpiredMsg": "时间已到，你已被移出游戏。"
     }
   },
-
   "tutorial": {
     "viewProductChart": "查看生产图表",
     "continue": "点击继续",
@@ -942,7 +942,9 @@
       "watchAd": "观看广告",
       "noAds": "抱歉，目前没有可供观看的广告",
       "restore": "恢复购买",
-      "noPurchase": "没有已启用的订阅"
+      "noPurchase": "没有已启用的订阅",
+      "policy": "Subscription Policy",
+      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
     }
   },
   "buildingStyles": {
@@ -1113,7 +1115,21 @@
       "2ndPlace": "第2",
       "3rdPlace": "第3",
       "totalGames": "总游戏数",
-      "asOfMay": "截至2023年5月"
+      "asOfMay": "截至2023年5月",
+      "months": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ]
     },
     "errors": {
       "updateFailed": "更新失败",
@@ -1123,6 +1139,11 @@
       "statusProfanity": "状态不可包含脏话",
       "descriptionProfanity": "描述不可包含脏话",
       "cityProfanity": "城市不可包含脏话"
+    },
+    "emailWillBeChanged": "Email will be changed after confirmation",
+    "otp": {
+      "description": "Please enter the code sent to your current email",
+      "title": "Current email verification"
     }
   },
   "auth": {
@@ -1134,7 +1155,11 @@
       "passResetMsg": "你的密码电邮地址已成功更改。",
       "expired": "链接无效或已过期，请重新验证电邮地址。",
       "weakPass": "密码太弱，请重试。",
-      "expiredPassReset": "链接无效或已过期，请重设密码。"
+      "expiredPassReset": "链接无效或已过期，请重设密码。",
+      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
+      "emailChangedTitle": "Email changed",
+      "recoveredEmailMsg": "Your email has been successfully recovered.",
+      "recoveredEmailTitle": "Email recovered"
     },
     "linking": {
       "title": "账户连接",

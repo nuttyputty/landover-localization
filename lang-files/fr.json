@@ -218,7 +218,7 @@
           "oneVictim": "A volé les cartes de {}",
           "moreVictims": "A volé des cartes aux joueurs {}"
         },
-        "anarchie": "tuiles à nombres aléatoires",
+        "anarchy": "tuiles à nombres aléatoires",
         "alchemist": "Choisir les numéros de dé",
         "traitor": "a amélioré le traqueur des barbares"
       },
@@ -328,7 +328,7 @@
         "cannotPlay": "Vous ne pouvez pas jouer cette carte parce que vous n'avez pas de ville ou que vous avez déjà une carte Grue en jeu"
       },
       "siege": {
-        "Title": "Siège",
+        "title": "Siège",
         "description": "Effectuer une attaque mais voler une ressource aléatoire à chaque joueur qui a un village ou une ville sur la tuile de l’attaque. Ne coûte pas de point militaire"
       },
       "bishop": {
@@ -370,10 +370,10 @@
         "description": "Choisissez un joueur, voyez ses cartes de dév et choisissez-en une à voler",
         "cannotPlay": "Aucun autre joueur ne possède actuellement de cartes de développement",
         "dialog": {
-          "Title": "Voler!"
+          "title": "Voler!"
         }
       },
-      "Wedding": {
+      "wedding": {
         "title": "Mariage",
         "description": "Voler deux cartes aléatoires (ressources ou marchandises) à tous les joueurs qui ont plus de points de victoire que vous",
         "cannotPlay": "Aucun joueur n'a plus de points de victoire que vous."
@@ -408,12 +408,13 @@
       "yourMsg": "vous",
       "banned": "Vous êtes interdit de chat jusqu'à f{}. Veuillez être respectueux lorsque vous chattez afin d'éviter d'être banni à l'avenir. Nous voulons que cette communauté reste amusante pour tout le monde!",
       "banConfirmation": {
-        "Title": "Bannir un joueur",
+        "title": "Bannir un joueur",
         "message": "Êtes-vous sûr de vouloir bannir ce joueur du chat? Vous ne verrez plus aucun message de sa part",
         "yes": "Oui",
         "no": "Non",
         "failed": "Quelque chose n'a pas fonctionné, veuillez réessayer"
-      }
+      },
+      "profanityDetected": "Profanity detected. Try again."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "'s",
@@ -507,7 +508,7 @@
       "canceled": {
         "title": "REVANCHE",
         "close": "Fermer",
-        "refusé": "Revanche refusé"
+        "declined": "Revanche refusé"
       },
       "ready": {
         "title": "SOYEZ PRÊTS!",
@@ -806,7 +807,6 @@
       "timeExpiredMsg": "Vous avez dépassé le temps imparti et avez été retiré du jeu."
     }
   },
-
   "tutorial": {
     "viewProductChart": "Voir le tableau des produits",
     "continue": "Tapez pour continuer",
@@ -942,7 +942,9 @@
       "watchAd": "Regarder une pub",
       "noAds": "Désolé, il n'y a pas d'annonces disponibles pour le moment.",
       "restore": "Restaurer l'achat",
-      "noPurchase": "Il n'y a pas d'abonnement actif"
+      "noPurchase": "Il n'y a pas d'abonnement actif",
+      "policy": "Subscription Policy",
+      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
     }
   },
   "buildingStyles": {
@@ -1046,13 +1048,13 @@
       "start": "Début du jeu?"
     }
   },
-  "profil": {
+  "profile": {
     "editInfo": "Editer les infos",
     "city": "ville",
     "description": "Description",
     "email": "Email",
     "name": "Nom",
-    "statut": "Status",
+    "status": "Status",
     "save": "Sauvegarder",
     "linkCopied": "Lien du profil copié dans le presse-papiers",
     "settings": {
@@ -1113,7 +1115,21 @@
       "2ndPlace": "2nd Place",
       "3rdPlace": "3rd Place",
       "totalGames": "Total des jeux",
-      "asOfMay": "à partir de mai 2023"
+      "asOfMay": "à partir de mai 2023",
+      "months": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ]
     },
     "errors": {
       "updateFailed": "Échec de la mise à jour",
@@ -1123,6 +1139,11 @@
       "statusProfanity": "Le statut ne peut pas contenir de profanations",
       "descriptionProfanity": "La description ne peut pas contenir de profanations",
       "cityProfanity": "La ville ne peut pas contenir de profanations"
+    },
+    "emailWillBeChanged": "Email will be changed after confirmation",
+    "otp": {
+      "description": "Please enter the code sent to your current email",
+      "title": "Current email verification"
     }
   },
   "auth": {
@@ -1134,7 +1155,11 @@
       "passResetMsg": "Votre mot de passe a été modifié avec succès",
       "expired": "Lien invalide ou expiré, essayez de vérifier l'email à nouveau",
       "weakPass": "Mot de passe trop faible, réessayez",
-      "expiredPassReset": "Lien invalide ou expiré, essayez de réinitialiser votre mot de passe à nouveau."
+      "expiredPassReset": "Lien invalide ou expiré, essayez de réinitialiser votre mot de passe à nouveau.",
+      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
+      "emailChangedTitle": "Email changed",
+      "recoveredEmailMsg": "Your email has been successfully recovered.",
+      "recoveredEmailTitle": "Email recovered"
     },
     "linking": {
       "title": "Lien entre les comptes",
@@ -1145,13 +1170,13 @@
     "footer": {
       "agree": "En cliquant sur le bouton d'inscription, vous acceptez les conditions d'utilisation",
       "tos": "Terms of Service",
-      "et": " et ",
-      "vie privée": "Politique de confidentialité"
+      "and": " et ",
+      "privacy": "Politique de confidentialité"
     },
     "code": {
       "msg": "Entrez le code envoyé à {}",
-      "confirmer": "Confirmer",
-      "envoyé": "Email envoyé",
+      "confirm": "Confirmer",
+      "sent": "Email envoyé",
       "sentMsg": "Un nouveau code a été envoyé à {}",
       "resend": "Code de renvoi",
       "continueWithEmail": "Vous avez un mot de passe? Continuez ici"
@@ -1291,7 +1316,7 @@
         "title": "Charité 7 Roulements",
         "tooltip": "Donner une ressource aléatoire lorsqu'un 7 est obtenu"
       },
-      "ressources": {
+      "resources": {
         "title": "Ressources de départ",
         "tooltip": "Donner à chaque utilisateur une ressource de chaque type au début d'une partie"
       },
@@ -1464,7 +1489,7 @@
     },
     "gameType": {
       "ranked": "JEU CLASSÉ",
-      "rapide": "JEU RAPIDE",
+      "quick": "JEU RAPIDE",
       "tutorial": "TUTORIEL",
       "daily": "JEU QUOTIDIEN",
       "solo": "JEU SOLO",
@@ -1473,7 +1498,7 @@
     "lobbyLabel": "Lobby :",
     "code": "Code : ",
     "join": "JOINDRE",
-    "attente": "Attente...",
+    "waiting": "Attente...",
     "waitingForHost": "En attente d'un hôte...",
     "start": "Démarrage",
     "starting": "Début du jeu",

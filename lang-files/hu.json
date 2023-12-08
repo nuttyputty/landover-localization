@@ -413,7 +413,8 @@
         "yes": "Yes",
         "no": "No",
         "failed": "Something went wrong, please try again"
-      }
+      },
+      "profanityDetected": "Profanity detected. Try again."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "'s",
@@ -806,7 +807,6 @@
       "timeExpiredMsg": "You have run out of time and been removed from the game."
     }
   },
-
   "tutorial": {
     "viewProductChart": "View Product Chart Table",
     "continue": "Tap to continue",
@@ -942,7 +942,9 @@
       "watchAd": "Watch Ad",
       "noAds": "Sorry, there's no ads available right now",
       "restore": "Restore Purchase",
-      "noPurchase": "There is no active subscription"
+      "noPurchase": "There is no active subscription",
+      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app.",
+      "policy": "Subscription Policy"
     }
   },
   "buildingStyles": {
@@ -1137,6 +1139,11 @@
       "statusProfanity": "Status cannot have profanities",
       "descriptionProfanity": "Description cannot have profanities",
       "cityProfanity": "City cannot have profanities"
+    },
+    "emailWillBeChanged": "Email will be changed after confirmation",
+    "otp": {
+      "description": "Please enter the code sent to your current email",
+      "title": "Current email verification"
     }
   },
   "auth": {
@@ -1148,7 +1155,11 @@
       "passResetMsg": "Your password email has been successfully changed.",
       "expired": "Invalid or expired link, try to verify email again.",
       "weakPass": "Password too weak, try again.",
-      "expiredPassReset": "Invalid or expired link, try to reset your password again."
+      "expiredPassReset": "Invalid or expired link, try to reset your password again.",
+      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
+      "emailChangedTitle": "Email changed",
+      "recoveredEmailMsg": "Your email has been successfully recovered.",
+      "recoveredEmailTitle": "Email recovered"
     },
     "linking": {
       "title": "Account Linking",
@@ -1419,7 +1430,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting":{
+        "waiting": {
           "one": "Please wait... Looking for {} more player",
           "other": "Please wait... Looking for {} more players"
         },

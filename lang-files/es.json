@@ -413,7 +413,8 @@
         "yes": "Sí",
         "no": "No",
         "failed": "Algo salió mal, inténtalo de nuevo"
-      }
+      },
+      "profanityDetected": "Profanity detected. Try again."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "de",
@@ -941,7 +942,9 @@
       "watchAd": "Ver anuncio",
       "noAds": "Lo sentimos, no hay anuncios disponibles en este momento",
       "restore": "Restaurar compra",
-      "noPurchase": "No hay suscripción activa"
+      "noPurchase": "No hay suscripción activa",
+      "policy": "Subscription Policy",
+      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
     }
   },
   "buildingStyles": {
@@ -1112,7 +1115,21 @@
       "2ndPlace": "2.º puesto",
       "3rdPlace": "3.º puesto",
       "totalGames": "Juegos totales",
-      "asOfMay": "a partir de mayo de 2023"
+      "asOfMay": "a partir de mayo de 2023",
+      "months": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ]
     },
     "errors": {
       "updateFailed": "Error al actualizar",
@@ -1122,6 +1139,11 @@
       "statusProfanity": "El estatus no puede tener blasfemias",
       "descriptionProfanity": "La descripción no puede tener blasfemias",
       "cityProfanity": "La ciudad no puede tener blasfemias"
+    },
+    "emailWillBeChanged": "Email will be changed after confirmation",
+    "otp": {
+      "description": "Please enter the code sent to your current email",
+      "title": "Current email verification"
     }
   },
   "auth": {
@@ -1133,7 +1155,11 @@
       "passResetMsg": "Tu correo electrónico de contraseña se ha cambiado correctamente.",
       "expired": "Enlace no válido o caducado, intenta verificar el correo electrónico nuevamente.",
       "weakPass": "Contraseña demasiado débil, inténtalo de nuevo.",
-      "expiredPassReset": "Enlace no válido o caducado, intenta restablecer tu contraseña nuevamente."
+      "expiredPassReset": "Enlace no válido o caducado, intenta restablecer tu contraseña nuevamente.",
+      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
+      "emailChangedTitle": "Email changed",
+      "recoveredEmailMsg": "Your email has been successfully recovered.",
+      "recoveredEmailTitle": "Email recovered"
     },
     "linking": {
       "title": "Vinculación de cuentas",
@@ -1404,7 +1430,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting":{
+        "waiting": {
           "one": "Please wait... Looking for {} more player",
           "other": "Please wait... Looking for {} more players"
         },
