@@ -13,9 +13,9 @@
     },
     "goGold": "加入黄金会员！ ",
     "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "users": "USERS",
-      "movesMade": "MOVES MADE"
+      "gamesInProgress": "游戏进行中",
+      "users": "用户",
+      "movesMade": "已执行的行动"
     }
   },
   "playNow": {
@@ -1117,19 +1117,19 @@
       "totalGames": "总游戏数",
       "asOfMay": "截至2023年5月",
       "months": [
-        "Jan",
-        "Feb",
-        "Mar",
-        "Apr",
-        "May",
-        "Jun",
-        "Jul",
-        "Aug",
-        "Sep",
-        "Oct",
-        "Nov",
-        "Dec"
-      ]
+      "一月",
+      "二月",
+      "三月",
+      "四月",
+      "五月",
+      "六月",
+      "七月",
+      "八月",
+      "九月",
+      "十月",
+      "十一月",
+      "十二月"
+      ],
     },
     "errors": {
       "updateFailed": "更新失败",
@@ -1140,10 +1140,10 @@
       "descriptionProfanity": "描述不可包含脏话",
       "cityProfanity": "城市不可包含脏话"
     },
-    "emailWillBeChanged": "Email will be changed after confirmation",
+    "emailWillBeChanged": "确认后将更改电邮地址",
     "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "description": "请输入发送到你当前电邮地址的代码",
+      "title": "当前电邮地址认证"
     }
   },
   "auth": {
@@ -1156,10 +1156,10 @@
       "expired": "链接无效或已过期，请重新验证电邮地址。",
       "weakPass": "密码太弱，请重试。",
       "expiredPassReset": "链接无效或已过期，请重设密码。",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedMsg": "你的电邮地址已成功更改。你需要重新登录。",
+      "emailChangedTitle": "电邮地址已更改",
+      "recoveredEmailMsg": "你的电邮地址已成功恢复。",
+      "recoveredEmailTitle": "电邮地址已恢复"
     },
     "linking": {
       "title": "账户连接",
@@ -1428,28 +1428,28 @@
       "title": "确定要踢出"
     },
     "rankedLiveLobby": {
-      "title": "LIVE RANKED GAME",
+      "title": "实时排名游戏",
       "lobbyState": {
         "waiting": {
-          "one": "Please wait... Looking for {} more player",
-          "other": "Please wait... Looking for {} more players"
+          "one": "请稍候……寻找{}名玩家",
+          "other": "请稍候……寻找{}名玩家"
         },
         "areYouReady": "Are you ready?",
         "starting": "Game is starting",
         "waitingForOther": "Waiting for other players..."
       },
-      "readyButton": "Ready",
-      "opponent": "Opponent",
+      "readyButton": "准备",
+      "opponent": "对手",
       "VS": "VS",
-      "randomMap": "Random map",
+      "randomMap": "随机地图",
       "gameData": {
-        "winCondition": "Win Condition",
-        "startingResources": "Starting Resources",
-        "charity": "Charity",
-        "fairDice": "Fair Dice",
-        "turnTimer": "Turn Timer",
-        "on": "On",
-        "off": "Off"
+        "winCondition": "胜利条件",
+        "startingResources": "初始资源",
+        "charity": "慈善",
+        "fairDice": "公平骰子",
+        "turnTimer": "回合计时器",
+        "on": "开启",
+        "off": "关闭"
       }
     },
     "options": {
