@@ -177,7 +177,7 @@
           "withResourcesAllSame": "Hai rubato {} {} da {}",
           "withResourcesDifferent": "Hai rubato 2 {} da {} e 1 $resourceName da {}"
         },
-        "commodityMonopoly": {
+      " commodityMonopoly": {
           "oneVictim": "Hai rubato merci da {}",
           "moreVictims": "Hai rubato merci da {} giocatori",
           "failed": "Hai provato a rubare merci ma non hai ottenuto nulla"
@@ -212,7 +212,7 @@
           "oneVictim": "Hai rubato carte da {}",
           "moreVictims": "Hai rubato carte da {} giocatori"
         },
-        "anarchy": "Hai randomizzato le tessere numerate",
+        "anarchy":  "Hai randomizzato le tessere numerate",
         "alchemist": "Hai scelto i numeri del dado",
         "traitor": "Hai fatto avanzare il tracker dei barbari"
       },
@@ -407,8 +407,7 @@
         "yes": "Sì",
         "no": "No",
         "failed": "Qualcosa è andato storto, riprova"
-      },
-      "profanityDetected": "Profanity detected. Try again."
+      }
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "di",
@@ -453,7 +452,7 @@
       "points": {
         "victoryPoints": "Punti Vittoria",
         "longestRoute": "Percorso più lungo",
-        "military": "Forza Militare",
+        "forzaMilitare": "Forza Militare",
         "islands": "Isole Esplorate",
         "devCards": "Carte Sviluppo",
         "merchant": "Token Mercante",
@@ -799,7 +798,7 @@
       "cannotFindGame": "Non riusciamo a trovare la partita, riprova",
       "timeExpired": "Tempo Scaduto",
       "timeExpiredMsg": "Hai esaurito il tempo e sei stato rimosso dalla partita."
-    }
+    }    
   },
   "tutorial": {
     "viewProductChart": "Visualizza il Tabella della Produzione",
@@ -936,9 +935,7 @@
       "watchAd": "Guarda la Pubblicità",
       "noAds": "Spiacenti, al momento non ci sono pubblicità disponibili",
       "restore": "Ripristina Acquisto",
-      "noPurchase": "Non è presente alcun abbonamento attivo",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app.",
-      "policy": "Subscription Policy"
+      "noPurchase": "Non è presente alcun abbonamento attivo"
     }
   },
   "buildingStyles": {
@@ -1051,6 +1048,7 @@
     "status": "Stato",
     "save": "Salva",
     "linkCopied": "Link del profilo copiato negli appunti",
+    "emailWillBeChanged": "L'email verrà cambiata dopo la conferma",
     "settings": {
       "turnEmails": "Invia Email Turno",
       "chatNotifications": "Notifiche Chat",
@@ -1125,6 +1123,10 @@
       "totalGames": "Partite Totali",
       "asOfMay": "a partire da maggio 2023"
     },
+    "otp": {
+      "title": "Verifica l'email attuale",
+      "description": "Inserisci il codice che hai ricevuto al tuo indirizzo email"
+    },
     "errors": {
       "updateFailed": "Aggiornamento fallito",
       "nameProfanity": "Il nome non può contenere parole offensive",
@@ -1133,11 +1135,6 @@
       "statusProfanity": "Lo stato non può contenere volgarità",
       "descriptionProfanity": "La descrizione non può contenere volgarità",
       "cityProfanity": "La città non può contenere volgarità"
-    },
-    "emailWillBeChanged": "Email will be changed after confirmation",
-    "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
     }
   },
   "auth": {
@@ -1150,10 +1147,10 @@
       "expired": "Link non valido o scaduto, prova a verificare di nuovo la tua email.",
       "weakPass": "Password troppo debole, riprova.",
       "expiredPassReset": "Link non valido o scaduto, prova a resettare di nuovo la tua password .",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedTitle": "Email cambiata",
+      "emailChangedMsg": "La tua email è stata cambiata con successo. Devi effettuare nuovamente l'accesso.",
+      "recoveredEmailTitle": "Email recuperata",
+      "recoveredEmailMsg": "La tua email è stata recuperata con successo."
     },
     "linking": {
       "title": "Collega Account",
@@ -1273,16 +1270,16 @@
     "casual": "Partita Normale",
     "ranked": "Partita Classificata",
     "looking": "In attesa di giocatori..."
-  },
-  "help": {
+},
+"help": {
     "title": "BENVENUTO A LANDOVER!",
     "rules": "Regole",
     "video": "Video\nTutorial",
     "tutorial": "Tutorial\ndel Gioco",
     "discord": "Discord!",
     "questions": "Domande?\n"
-  },
-  "themes": {
+},
+"themes": {
     "title": "Tema",
     "chooseTheme": "Scegli Tema",
     "chooseColor": "Scegli Colore",
@@ -1383,7 +1380,7 @@
         "deleteMap": "Elimina mappa",
         "editMap": "Modifica mappa"
       }
-    },
+    },  
     "playTutorial": {
       "title": "Gioca il tutorial",
       "message": "Come nuovo giocatore su Landover, devi completare una partita da solo contro i bot prima di entrare in una partita pubblica. Prova il tutorial!"
@@ -1424,7 +1421,7 @@
     "rankedLiveLobby": {
       "title": "PARTITA CLASSIFICATA LIVE",
       "lobbyState": {
-        "waiting": {
+        "waiting":{
           "one": "Attendere... Manca ancora {} giocatore",
           "other": "Attendere... Mancano ancora {} giocatori"
         },
@@ -1438,12 +1435,12 @@
       "randomMap": "Mappa casuale",
       "gameData": {
         "winCondition": "Condizione di Vittoria",
-        "startingResources": "Risorse Iniziali",
-        "charity": "Beneficenza",
-        "fairDice": "Dadi Imparziali",
-        "turnTimer": "Timer Turno",
-        "on": "Attivo",
-        "off": "Non attivo"
+          "startingResources": "Risorse Iniziali",
+          "charity": "Beneficenza",
+          "fairDice": "Dadi Imparziali",
+          "turnTimer": "Timer Turno",
+          "on": "Attivo",
+          "off": "Non attivo"
       }
     },
     "options": {
@@ -1618,11 +1615,5 @@
     },
     "noPlayers": "Ancora nessun giocatore",
     "unlockAchievement": "Completa 10 partite\nper sbloccare un obiettivo"
-  },
-  "watchLiveGames": {
-    "button": "WATCH\nLIVE GAMES",
-    "emptyList": "There are no active games",
-    "gameLabel": "Live",
-    "title": "Watch Live Games"
   }
 }
