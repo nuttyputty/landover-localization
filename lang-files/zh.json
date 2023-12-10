@@ -1434,9 +1434,9 @@
           "one": "请稍候……寻找{}名玩家",
           "other": "请稍候……寻找{}名玩家"
         },
-        "areYouReady": "Are you ready?",
-        "starting": "Game is starting",
-        "waitingForOther": "Waiting for other players..."
+        "areYouReady": "准备好了吗？",
+        "starting": "游戏即将开始",
+        "waitingForOther": "等待其他玩家……"
       },
       "readyButton": "准备",
       "opponent": "对手",
