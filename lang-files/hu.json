@@ -1044,6 +1044,7 @@
     "status": "Státusz",
     "save": "Mentés",
     "linkCopied": "Profil linkje a vágólapra másolva",
+    "emailWillBeChanged": "Az e-mail a megerősítés után módosul",
     "settings": {
       "turnEmails": "Forduló e-mailek küldése",
       "chatNotifications": "Csevegő értesítések",
@@ -1118,6 +1119,10 @@
       "totalGames": "Játékok összesen",
       "asOfMay": "2023 májusáig"
     },
+    "otp": {
+      "title": "Jelenlegi e-mail megerősítés",
+      "description": "Kérjük, add meg az aktuális e-mail címedre küldött kódot"
+    },
     "errors": {
       "updateFailed": "Nem sikerült frissíteni",
       "nameProfanity": "A név nem tartalmazhat káromkodást",
@@ -1137,7 +1142,11 @@
       "passResetMsg": "A jelszavad e-mailje sikeresen megváltozott.",
       "expired": "Érvénytelen vagy lejárt link, próbálja meg újra ellenőrizni az e-mailt.",
       "weakPass": "Túl gyenge jelszó, próbálja meg újra.",
-      "expiredPassReset": "Érvénytelen vagy lejárt link, próbálja újra visszaállítani jelszavát."
+      "expiredPassReset": "Érvénytelen vagy lejárt link, próbálja újra visszaállítani jelszavát.",
+      "emailChangedTitle": "Megváltozott e-mail cím",
+      "emailChangedMsg": "Az e-mail címe sikeresen megváltozott. Újra be kell jelentkeznie.",
+      "recoveredEmailTitle": "Email helyreállítva",
+      "recoveredEmailMsg": "Az e-mail címe sikeresen helyreállt."
     },
     "linking": {
       "title": "Fiókok összekapcsolása",
