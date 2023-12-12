@@ -804,7 +804,8 @@
     "errors": {
       "cannotFindGame": "Wir können das Spiel nicht finden, bitte versuche es erneut",
       "timeExpired": "Zeit abgelaufen",
-      "timeExpiredMsg": "Dir ist die Zeit ausgegangen und wurdest vom Spiel entfernt."
+      "timeExpiredMsg": "Dir ist die Zeit ausgegangen und wurdest vom Spiel entfernt.",
+      "close": "Schließen"
     }
   },
   "tutorial": {

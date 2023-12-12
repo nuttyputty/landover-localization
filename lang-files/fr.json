@@ -804,7 +804,8 @@
     "errors": {
       "cannotFindGame": "Nous ne trouvons pas le jeu, veuillez réessayer",
       "timeExpired": "Délai expiré",
-      "timeExpiredMsg": "Vous avez dépassé le temps imparti et avez été retiré du jeu."
+      "timeExpiredMsg": "Vous avez dépassé le temps imparti et avez été retiré du jeu.",
+      "close": "Fermer"
     }
   },
   "tutorial": {

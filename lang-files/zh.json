@@ -804,7 +804,8 @@
     "errors": {
       "cannotFindGame": "我们无法找到该局游戏，请重试",
       "timeExpired": "时间已到",
-      "timeExpiredMsg": "时间已到，你已被移出游戏。"
+      "timeExpiredMsg": "时间已到，你已被移出游戏。",
+      "close": "关闭"
     }
   },
   "tutorial": {

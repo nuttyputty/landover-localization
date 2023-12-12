@@ -51,7 +51,7 @@
     "title": "Watch Live Games",
     "emptyList": "There are no active games",
     "gameLabel": "Live",
-    "button": "СМОТРЕТЬ\nЖИВЫЕ ИГРЫ"
+    "button": "WATCH\nLIVE GAMES"
   },
   "errors": {
     "gameAlreadyStarted": "Игра уже началась",
@@ -804,7 +804,8 @@
     "errors": {
       "cannotFindGame": "Мы не можем найти игру, пожалуйста, попробуйте снова",
       "timeExpired": "Время Истекло",
-      "timeExpiredMsg": "Время истекло, и вы были удалены из игры."
+      "timeExpiredMsg": "Время истекло, и вы были удалены из игры.",
+      "close": "Закрыть"
     }
   },
   "tutorial": {

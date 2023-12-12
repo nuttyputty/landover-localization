@@ -804,7 +804,8 @@
     "errors": {
       "cannotFindGame": "We can't find the game, please try again",
       "timeExpired": "Time Expired",
-      "timeExpiredMsg": "You have run out of time and been removed from the game."
+      "timeExpiredMsg": "You have run out of time and been removed from the game.",
+      "close": "Close"
     }
   },
   "tutorial": {
