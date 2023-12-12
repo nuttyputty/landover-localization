@@ -177,7 +177,7 @@
           "withResourcesAllSame": "Hai rubato {} {} da {}",
           "withResourcesDifferent": "Hai rubato 2 {} da {} e 1 $resourceName da {}"
         },
-      " commodityMonopoly": {
+        "commodityMonopoly": {
           "oneVictim": "Hai rubato merci da {}",
           "moreVictims": "Hai rubato merci da {} giocatori",
           "failed": "Hai provato a rubare merci ma non hai ottenuto nulla"
@@ -212,7 +212,7 @@
           "oneVictim": "Hai rubato carte da {}",
           "moreVictims": "Hai rubato carte da {} giocatori"
         },
-        "anarchy":  "Hai randomizzato le tessere numerate",
+        "anarchy": "Hai randomizzato le tessere numerate",
         "alchemist": "Hai scelto i numeri del dado",
         "traitor": "Hai fatto avanzare il tracker dei barbari"
       },
@@ -407,7 +407,8 @@
         "yes": "Sì",
         "no": "No",
         "failed": "Qualcosa è andato storto, riprova"
-      }
+      },
+      "profanityDetected": "Profanity detected. Try again."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "di",
@@ -452,7 +453,7 @@
       "points": {
         "victoryPoints": "Punti Vittoria",
         "longestRoute": "Percorso più lungo",
-        "forzaMilitare": "Forza Militare",
+        "military": "Forza Militare",
         "islands": "Isole Esplorate",
         "devCards": "Carte Sviluppo",
         "merchant": "Token Mercante",
@@ -798,14 +799,14 @@
       "cannotFindGame": "Non riusciamo a trovare la partita, riprova",
       "timeExpired": "Tempo Scaduto",
       "timeExpiredMsg": "Hai esaurito il tempo e sei stato rimosso dalla partita."
-    }    
+    }
   },
   "tutorial": {
     "viewProductChart": "Visualizza il Tabella della Produzione",
     "continue": "Tocca per continuare",
     "learningMode": {
-      "title": "Modalità di Apprendimento",
-      "description": "L'obiettivo di Landover è ottenere Punti Vittoria costruendo insediamenti ed espandendo il tuo impero. Prova con questa partita. Il tuo obiettivo è raggiungere 15 Punti Vittoria!"
+      "title": "Welcome to Landover!",
+      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
     },
     "firstVillage": {
       "title": "Primo Villaggio",
@@ -874,7 +875,8 @@
     "end": {
       "title": "Congratulazioni",
       "description": "Hai appena raggiunto 15 Punti Vittoria e hai vinto la partita! Speriamo tu ti sia divertito. Ti consigliamo vivamente di provare una partita da solo contro un bot."
-    }
+    },
+    "coach": "Coach"
   },
   "subscription": {
     "cancel": {
@@ -935,7 +937,9 @@
       "watchAd": "Guarda la Pubblicità",
       "noAds": "Spiacenti, al momento non ci sono pubblicità disponibili",
       "restore": "Ripristina Acquisto",
-      "noPurchase": "Non è presente alcun abbonamento attivo"
+      "noPurchase": "Non è presente alcun abbonamento attivo",
+      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app.",
+      "policy": "Subscription Policy"
     }
   },
   "buildingStyles": {
@@ -1270,16 +1274,16 @@
     "casual": "Partita Normale",
     "ranked": "Partita Classificata",
     "looking": "In attesa di giocatori..."
-},
-"help": {
+  },
+  "help": {
     "title": "BENVENUTO A LANDOVER!",
     "rules": "Regole",
     "video": "Video\nTutorial",
     "tutorial": "Tutorial\ndel Gioco",
     "discord": "Discord!",
     "questions": "Domande?\n"
-},
-"themes": {
+  },
+  "themes": {
     "title": "Tema",
     "chooseTheme": "Scegli Tema",
     "chooseColor": "Scegli Colore",
@@ -1380,7 +1384,7 @@
         "deleteMap": "Elimina mappa",
         "editMap": "Modifica mappa"
       }
-    },  
+    },
     "playTutorial": {
       "title": "Gioca il tutorial",
       "message": "Come nuovo giocatore su Landover, devi completare una partita da solo contro i bot prima di entrare in una partita pubblica. Prova il tutorial!"
@@ -1421,7 +1425,7 @@
     "rankedLiveLobby": {
       "title": "PARTITA CLASSIFICATA LIVE",
       "lobbyState": {
-        "waiting":{
+        "waiting": {
           "one": "Attendere... Manca ancora {} giocatore",
           "other": "Attendere... Mancano ancora {} giocatori"
         },
@@ -1435,12 +1439,12 @@
       "randomMap": "Mappa casuale",
       "gameData": {
         "winCondition": "Condizione di Vittoria",
-          "startingResources": "Risorse Iniziali",
-          "charity": "Beneficenza",
-          "fairDice": "Dadi Imparziali",
-          "turnTimer": "Timer Turno",
-          "on": "Attivo",
-          "off": "Non attivo"
+        "startingResources": "Risorse Iniziali",
+        "charity": "Beneficenza",
+        "fairDice": "Dadi Imparziali",
+        "turnTimer": "Timer Turno",
+        "on": "Attivo",
+        "off": "Non attivo"
       }
     },
     "options": {
@@ -1615,5 +1619,29 @@
     },
     "noPlayers": "Ancora nessun giocatore",
     "unlockAchievement": "Completa 10 partite\nper sbloccare un obiettivo"
+  },
+  "watchLiveGames": {
+    "button": "WATCH\nLIVE GAMES",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "title": "Watch Live Games"
+  },
+  "showcase": {
+    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
+    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
+    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
+    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The highest the corner value, the better it is!",
+    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
+    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
+    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
+    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
+    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
+    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
+    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
+    "resources1": "These are your resource cards!",
+    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
+    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
+    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
+    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
   }
 }
