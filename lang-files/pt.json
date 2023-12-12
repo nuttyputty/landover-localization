@@ -1619,5 +1619,33 @@
     },
     "noPlayers": "Ainda não existem jogadores",
     "unlockAchievement": "Completa 10 jogos\ntpara desbloqueares a conquista"
+  },
+  "showcase": {
+    "tile1": "O tabuleiro do jogo é composto por <bold>peças</bold> hexagonais, cada uma com um <bold>recurso</bold> e um número.",
+    "tile2": "A cada turno, um jogador lança os <bold>dados</bold> e se esse número for lançado, qualquer pessoa com um acordo naquela peça irá coletar o <bold>recurso</bold> daquela peça. Os dados lançados são <bold>2 dados de 6 faces</bold>, então os melhores números são 6 e 8, depois 5 e 9.",
+    "cornerValues1": "Vê aqueles números nos <bold>cantos</bold> de cada <bold>bloco</bold>?",
+    "cornerValues2": "Eles estão lá apenas durante o posicionamento para ajudá-lo a localizar facilmente <bold>cantos de alto valor</bold>, aqueles que são adjacentes a peças boas! Quanto maior o valor do canto, melhor será!",
+    "resources1": "Estes são os seus cartões de recursos!",
+    "resources2": "Eles podem ser usados para construir diferentes estruturas, como <bold>estradas, vilas e cidades</bold>.\nSempre que você puder construir, Landover irá sugerir essas opções para você no mapa.",
+    "military1": "Este é o seu <bold>nível militar</bold>, atualmente é 0.\nVocê pode aumentar o nível do seu exército gastando <bold>1 trigo</bold> e <bold>1 ovelha</bold>.",
+    "military2": "Os militares protegem contra <bold>ataques bárbaros</bold> e podem ser usados para <bold>atacar</bold> outros jogadores.",
+    "barbarians1": "Este é o rastreador bárbaro. Cada vez que um <bold>bárbaro (crânio)</bold> é lançado nos <bold>dados</bold>, os bárbaros se aproximam um passo do ataque.",
+    "barbarians2": "Você precisará aumentar o nível de seu exército para evitar <bold>perder uma cidade</bold>.",
+    "culture1": "Esses três círculos representam seus níveis de cultura em <bold>Ciência</bold> (verde), <bold>Comércio</bold> (amarelo) e <bold>Política</bold> (azul).",
+    "culture2": "Aumentar o nível de sua cultura lhe dará <bold>cartões de desenvolvimento</bold>. Chegar ao nível 3 desbloqueia uma <bold>habilidade especial</bold>. E chegue primeiro ao nível 4 para ganhar um metro no valor de <bold>2 PVs</bold>.",
+    "playerBars1": "Estas são as barras de jogador.\nElas mostram uma visão geral das cartas e níveis de cada jogador.",
+    "playerBars2": "A linha superior da esquerda para a direita é: <bold>Número de portas</bold> (jogadores com 3 ou mais portas podem reivindicar Autoridade Portuária para <bold>2 PVs</bold>), <bold>maior comprimento de rota</bold> negrito> (jogadores com a rota mais longa ganham <bold>2 PVs</bold>) e <bold>Pontos de Vitória</bold>.",
+    "playerBars3": "A próxima linha mostra o número de <bold>cartões de recursos/commodities</bold>, o número de <bold>cartões de desenvolvimento</bold>, seguidos por seus <bold>militares</bold> e <bold>cultura</bold> níveis.\nVocê pode tocar no bloco de um jogador para ver mais informações!",
+    "victoryPoints": "O objetivo do Landover é conseguir Pontos de Vitória construindo assentamentos e expandindo seu império."
+  },
+  "buildingTypes": {
+    "military": "Militares",
+    "road": "Estrada",
+    "boat": "Ponte",
+    "either": "Qualquer",
+    "city": "Cidade",
+    "cityWall": "Parede da cidade",
+    "metro": "Metrópole",
+    "village": "Vila"
   }
 }
