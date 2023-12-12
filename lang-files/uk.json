@@ -408,7 +408,7 @@
         "no": "Ні",
         "failed": "Щось пішло не так, спробуйте ще раз"
       },
-      "profanityDetected": "Profanity detected. Try again."
+      "profanityDetected": "Виявлено ненормативну лексику. Спробуйте ще раз."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": " гравця",
@@ -939,7 +939,7 @@
       "restore": "Відновити покупку",
       "noPurchase": "Немає активної підписки",
       "policy": "Subscription Policy",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
+      "noTrial": "Пробний період відсутній. Оплата відбудеться негайно. Підписка необов'язкова. Можна скасувати в будь-який момент з програми."
     }
   },
   "buildingStyles": {
@@ -1135,10 +1135,10 @@
       "descriptionProfanity": "Опис не може містити ненормативну лексику",
       "cityProfanity": "Місто не може містити ненормативну лексику"
     },
-    "emailWillBeChanged": "Email will be changed after confirmation",
+    "emailWillBeChanged": "Email буде змінено після підтвердження",
     "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "description": "Будь ласка, введіть код, відправлений на ваш поточний email",
+      "title": "Підтвердження поточної електронної пошти"
     }
   },
   "auth": {
@@ -1151,10 +1151,10 @@
       "expired": "Недійсне або закінчився термін дії посилання, спробуйте знову підтвердити електронну адресу.",
       "weakPass": "Пароль занадто слабкий, спробуйте ще раз.",
       "expiredPassReset": "Недійсне або закінчився термін дії посилання, спробуйте знову скинути пароль.",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedMsg": "Ваш email успішно змінено. Вам потрібно знову увійти.",
+      "emailChangedTitle": "Email змінено",
+      "recoveredEmailMsg": "Ваш email успішно відновлено.",
+      "recoveredEmailTitle": "Email відновлено"
     },
     "linking": {
       "title": "Посилання облікового запису",
