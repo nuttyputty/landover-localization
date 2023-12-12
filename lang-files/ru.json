@@ -13,9 +13,9 @@
     },
     "goGold": "ВПЕРЕД, ЗОЛОТО!",
     "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "users": "USERS",
-      "movesMade": "MOVES MADE"
+      "gamesInProgress": "ИДУЩИЕ ИГРЫ",
+      "users": "ПОЛЬЗОВАТЕЛИ",
+      "movesMade": "СДЕЛАННЫЕ ХОДЫ"
     }
   },
   "playNow": {
@@ -51,7 +51,7 @@
     "title": "Watch Live Games",
     "emptyList": "There are no active games",
     "gameLabel": "Live",
-    "button": "WATCH\nLIVE GAMES"
+    "button": "СМОТРЕТЬ\nЖИВЫЕ ИГРЫ"
   },
   "errors": {
     "gameAlreadyStarted": "Игра уже началась",
@@ -414,7 +414,7 @@
         "no": "Нет",
         "failed": "Что-то пошло не так, пожалуйста, попробуйте снова"
       },
-      "profanityDetected": "Profanity detected. Try again."
+      "profanityDetected": "Обнаружена ненормативная лексика. Попробуйте еще раз."
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "с",
@@ -944,8 +944,8 @@
       "noAds": "Извините, сейчас нет доступной рекламы",
       "restore": "Восстановить Покупку",
       "noPurchase": "Нет активной подписки",
-      "policy": "Subscription Policy",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
+      "policy": "Политика подписки",
+      "noTrial": "Пробный период недоступен. Списание средств немедленно. Подписка не требуется. Можно отменить в любое время из приложения."
     }
   },
   "buildingStyles": {
@@ -1118,18 +1118,18 @@
       "totalGames": "Всего игр",
       "asOfMay": "по состоянию на май 2023",
       "months": {
-        "1": "Jan",
-        "2": "Feb",
-        "3": "Mar",
-        "4": "Apr",
-        "5": "May",
-        "6": "Jun",
-        "7": "Jul",
-        "8": "Aug",
-        "9": "Sep",
-        "10": "Oct",
-        "11": "Nov",
-        "12": "Dec"
+        "1": "Янв",
+        "2": "Фев",
+        "3": "Мар",
+        "4": "Апр",
+        "5": "Май",
+        "6": "Июн",
+        "7": "Июл",
+        "8": "Авг",
+        "9": "Сен",
+        "10": "Окт",
+        "11": "Ноя",
+        "12": "Дек"
       }
     },
     "errors": {
@@ -1141,10 +1141,10 @@
       "descriptionProfanity": "Описание не должно содержать нецензурных выражений",
       "cityProfanity": "Город не должен содержать нецензурных выражений"
     },
-    "emailWillBeChanged": "Email will be changed after confirmation",
+    "emailWillBeChanged": "Email будет изменен после подтверждения",
     "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "description": "Введите код, отправленный на ваш текущий адрес электронной почты",
+      "title": "Проверка текущего адреса электронной почты"
     }
   },
   "auth": {
@@ -1157,10 +1157,10 @@
       "expired": "Неверная или истекшая ссылка, попробуйте подтвердить электронный адрес снова.",
       "weakPass": "Пароль слишком слабый, попробуйте снова.",
       "expiredPassReset": "Неверная или истекшая ссылка, попробуйте сбросить пароль снова.",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedMsg": "Ваш адрес электронной почты успешно изменен. Вам нужно войти снова.",
+      "emailChangedTitle": "Email изменен",
+      "recoveredEmailMsg": "Ваш адрес электронной почты успешно восстановлен.",
+      "recoveredEmailTitle": "Email восстановлен"
     },
     "linking": {
       "title": "Связывание аккаунтов",
@@ -1429,28 +1429,28 @@
       "title": "Вы уверены, что хотите выгнать "
     },
     "rankedLiveLobby": {
-      "title": "LIVE RANKED GAME",
+      "title": "ЖИВАЯ РЕЙТИНГОВАЯ ИГРА",
       "lobbyState": {
         "waiting": {
-          "one": "Please wait... Looking for {} more player",
-          "other": "Please wait... Looking for {} more players"
+          "one": "Пожалуйста, подождите... Ищем еще {} игрока",
+          "other": "Пожалуйста, подождите... Ищем еще {} игроков"
         },
-        "areYouReady": "Are you ready?",
-        "starting": "Game is starting",
-        "waitingForOther": "Waiting for other players..."
+        "areYouReady": "Вы готовы?",
+        "starting": "Игра начинается",
+        "waitingForOther": "Ожидание других игроков..."
       },
-      "readyButton": "Ready",
-      "opponent": "Opponent",
+      "readyButton": "Готов",
+      "opponent": "Противник",
       "VS": "VS",
-      "randomMap": "Random map",
+      "randomMap": "Случайная карта",
       "gameData": {
-        "winCondition": "Win Condition",
-        "startingResources": "Starting Resources",
-        "charity": "Charity",
-        "fairDice": "Fair Dice",
-        "turnTimer": "Turn Timer",
-        "on": "On",
-        "off": "Off"
+        "winCondition": "Условие победы",
+        "startingResources": "Начальные ресурсы",
+        "charity": "Благотворительность",
+        "fairDice": "Честные кости",
+        "turnTimer": "Таймер хода",
+        "on": "Включено",
+        "off": "Выключено"
       }
     },
     "options": {
