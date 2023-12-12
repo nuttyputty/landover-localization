@@ -832,7 +832,7 @@
     },
     "rollTime": {
       "title": "Zeit zu würfeln",
-      "description": "'Jetzt dass du deine Start Gebäude gesetzt hast, ist es Zeit Würfel zu werfen und Ressourcen zu sammeln. Würfel weiter bis du genügend Ressourcen hast mehr zu bauen."
+      "description": "Jetzt dass du deine Start Gebäude gesetzt hast, ist es Zeit Würfel zu werfen und Ressourcen zu sammeln. Würfel weiter bis du genügend Ressourcen hast mehr zu bauen."
     },
     "moreRoads": {
       "title": "Baue mehr Straßen",
@@ -1630,7 +1630,7 @@
     "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
     "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
     "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The highest the corner value, the better it is!",
+    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
     "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
     "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
     "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
