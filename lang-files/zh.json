@@ -1643,5 +1643,15 @@
     "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
     "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
     "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+  },
+  "buildingTypes": {
+    "military": "Military",
+    "road": "Road",
+    "boat": "Bridge",
+    "either": "Either",
+    "city": "City",
+    "cityWall": "City Wall",
+    "metro": "Metro",
+    "village": "Village"
   }
 }

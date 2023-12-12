@@ -1643,5 +1643,15 @@
     "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
     "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
     "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+  },
+  "buildingTypes": {
+    "military": "Military",
+    "road": "Road",
+    "boat": "Bridge",
+    "either": "Either",
+    "city": "City",
+    "cityWall": "City Wall",
+    "metro": "Metro",
+    "village": "Village"
   }
 }
