@@ -18,6 +18,25 @@
       "movesMade": "BEWEGUNGEN GEMACHT"
     }
   },
+  "privacy": {
+    "title": "Privacy and GDPR",
+    "paragraphs": {
+      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "2": {
+        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+        "second": "), and going to your profile and edit info pages.\n"
+      },
+      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "8": {
+        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+        "second": " and we will be happy to help."
+      }
+    }
+  },
   "playNow": {
     "unlock": "Spiele mehr Gelegenheitsspiele, um Rangspiele freizuschalten!"
   },
