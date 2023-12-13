@@ -48,10 +48,10 @@
     "openEarned": "ÖFFNEN"
   },
   "watchLiveGames": {
-    "title": "Watch Live Games",
-    "emptyList": "There are no active games",
+    "title": "Live-Spiele",
+    "emptyList": "Es gibt keine aktiven Spiele",
     "gameLabel": "Live",
-    "button": "WATCH\nLIVE GAMES"
+    "button": "SEHEN\nLIVE-SPIELE"
   },
   "errors": {
     "gameAlreadyStarted": "Spiel hat bereits begonnen",
