@@ -11,11 +11,11 @@
       "comingSoon": "PROCHAINEMENT",
       "playMore": "Jouer à d'autres jeux"
     },
-    "goGold": "GO GOLD!",
+    "goGold": "ALLEZ L'OR!",
     "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "users": "USERS",
-      "movesMade": "MOVES MADE"
+      "gamesInProgress": "JEUX EN COURS",
+      "users": "UTILISATEURS",
+      "movesMade": "DÉPLACEMENTS EFFECTUÉS"
     }
   },
   "playNow": {
@@ -48,10 +48,10 @@
     "openEarned": "OUVRIR"
   },
   "watchLiveGames": {
-    "title": "Watch Live Games",
-    "emptyList": "There are no active games",
-    "gameLabel": "Live",
-    "button": "WATCH\nLIVE GAMES"
+    "title": "Regarder les matchs en direct",
+    "emptyList": "Il n'y a pas de jeux actifs",
+    "gameLabel": "En direct",
+    "button": "REGARDER\nJEUX EN DIRECT"
   },
   "errors": {
     "gameAlreadyStarted": "Partie déjà commencé",
@@ -1119,18 +1119,18 @@
       "totalGames": "Total des jeux",
       "asOfMay": "à partir de mai 2023",
       "months": {
-        "1": "Jan",
-        "2": "Feb",
-        "3": "Mar",
-        "4": "Apr",
-        "5": "May",
-        "6": "Jun",
-        "7": "Jul",
-        "8": "Aug",
-        "9": "Sep",
-        "10": "Oct",
-        "11": "Nov",
-        "12": "Dec"
+        "1": "janvier",
+        "2": "Février",
+        "3": "Mars",
+        "4": "avril",
+        "5": "Mai",
+        "6": "juin",
+        "7": "juillet",
+        "8": "août",
+        "9": "septembre",
+        "10": "octobre",
+        "11": "novembre",
+        "12": "décembre"
       }
     },
     "errors": {
@@ -1142,10 +1142,10 @@
       "descriptionProfanity": "La description ne peut pas contenir de profanations",
       "cityProfanity": "La ville ne peut pas contenir de profanations"
     },
-    "emailWillBeChanged": "Email will be changed after confirmation",
+    "emailWillBeChanged": "L'e-mail sera modifié après confirmation",
     "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "description": "Veuillez saisir le code envoyé à votre email actuel",
+      "title": "Vérification actuelle de l'e-mail"
     }
   },
   "auth": {
@@ -1158,10 +1158,10 @@
       "expired": "Lien invalide ou expiré, essayez de vérifier l'email à nouveau",
       "weakPass": "Mot de passe trop faible, réessayez",
       "expiredPassReset": "Lien invalide ou expiré, essayez de réinitialiser votre mot de passe à nouveau.",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedMsg": "Votre email a été modifié avec succès. Vous devez vous reconnecter.",
+      "emailChangedTitle": "E-mail modifié",
+      "recoveredEmailMsg": "Votre email a été récupéré avec succès.",
+      "recoveredEmailTitle": "E-mail récupéré"
     },
     "linking": {
       "title": "Lien entre les comptes",
@@ -1628,31 +1628,31 @@
     "unlockAchievement": "Terminez 10 parties\nto pour débloquer le succès"
   },
   "showcase": {
-    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The highest the corner value, the better it is!",
-    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-    "resources1": "These are your resource cards!",
-    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+    "barbarians1": "C'est le traqueur barbare. Chaque fois qu'un <bold>barbare (crâne)</bold> est lancé sur les <bold>dés</bold>, les barbares se rapprochent d'un pas de l'attaque.",
+    "barbarians2": "Vous devrez améliorer votre armée pour éviter de <bold>perdre une ville</bold>.",
+    "cornerValues1": "Vous voyez ces chiffres sur les <bold>coins</bold> de chaque <bold>tuile</bold>?",
+    "cornerValues2": "Ils sont là uniquement lors du placement pour vous aider à localiser facilement les <bold>coins de grande valeur</bold>, ceux qui sont adjacents à de bonnes tuiles! Plus la valeur du coin est élevée, mieux c'est!",
+    "culture1": "Ces 3 cercles représentent vos niveaux de culture pour les domaines <bold>Science</bold> (vert), <bold>Commerce</bold> (jaune) et <bold>Politique</bold> (bleu).",
+    "culture2": "Améliorer votre culture vous donnera des <bold>cartes de développement</bold>. Atteindre le niveau 3 débloque une <bold>capacité spéciale</bold>. Et atteignez d'abord le niveau 4 pour gagner un métro valant <bold>2 PV</bold>.",
+    "military1": "Il s'agit de votre <bold>niveau militaire</bold>, il est actuellement de 0.\nVous pouvez améliorer votre armée en dépensant <bold>1 blé</bold> et <bold>1 mouton</bold>.",
+    "military2": "L'armée se défend contre les <bold>attaques barbares</bold> et peut être utilisée pour <bold>attaquer</bold> d'autres joueurs.",
+    "playerBars1": "Ce sont les barres des joueurs.\nElles montrent un aperçu des cartes et des niveaux de chaque joueur.",
+    "playerBars2": "La rangée du haut, de gauche à droite, est: <bold>Nombre de ports</bold> (les joueurs possédant 3 ports ou plus peuvent revendiquer l'autorité portuaire pour <bold>2 PV</bold>), <bold>longueur de route la plus longue</bold>. bold> (les joueurs avec le parcours le plus long obtiennent <bold>2 PV</bold>) et des <bold>Points de victoire</bold>.",
+    "playerBars3": "La ligne suivante montre le nombre de <bold>cartes de ressources/produits</bold>, le nombre de <bold>cartes de développement</bold>, suivis de leur <bold>militaire</bold> et de leur <bold>culture</bold>. niveaux.\nVous pouvez appuyer sur une tuile de joueur pour voir plus d'informations!",
+    "resources1": "Ce sont vos cartes ressources!",
+    "resources2": "Ils peuvent être utilisés pour construire différentes structures comme des <bold>des routes, des villages et des villes</bold>.\nChaque fois que vous pourrez construire, Landover vous suggérera ces options sur la carte.",
+    "tile1": "Le plateau de jeu est composé de <bold>tuiles</bold> hexagonales, chacune avec une <bold>ressource</bold> et un numéro.",
+    "tile2": "À chaque tour, un joueur lance les <bold>dés</bold> et si ce nombre est obtenu, toute personne possédant une colonie sur cette tuile collectera la <bold>ressource</bold> de cette tuile. Les dés lancés sont <bold>2 dés à 6 faces</bold>, donc les meilleurs nombres sont 6 et 8, puis 5 et 9.",
+    "victoryPoints": "L'objectif de Landover est d'obtenir des points de victoire en construisant des colonies et en élargissant votre empire."
   },
   "buildingTypes": {
-    "military": "Military",
-    "road": "Road",
-    "boat": "Bridge",
-    "either": "Either",
-    "city": "City",
-    "cityWall": "City Wall",
-    "metro": "Metro",
+    "military": "Militaire",
+    "road": "Route",
+    "boat": "Pont",
+    "either": "Soit",
+    "city": "Ville",
+    "cityWall": "Mur de la ville",
+    "metro": "Métropole",
     "village": "Village"
   }
 }
