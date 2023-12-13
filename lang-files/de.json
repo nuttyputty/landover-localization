@@ -13,9 +13,9 @@
     },
     "goGold": "werde GOLD!",
     "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "users": "USERS",
-      "movesMade": "MOVES MADE"
+      "gamesInProgress": "LAUFENDE SPIELE",
+      "users": "BENUTZER",
+      "movesMade": "BEWEGUNGEN GEMACHT"
     }
   },
   "playNow": {
@@ -1142,10 +1142,10 @@
       "descriptionProfanity": "Beschreibung kann keine unangemessenen Wörter enthalten",
       "cityProfanity": "Heimatstadt kann keine unangemessenen Wörter enthalten"
     },
-    "emailWillBeChanged": "Email will be changed after confirmation",
+    "emailWillBeChanged": "Die E-Mail-Adresse wird nach der Bestätigung geändert",
     "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "description": "Bitte geben Sie den Code ein, der an Ihre aktuelle E-Mail-Adresse gesendet wurde",
+      "title": "Aktuelle E-Mail-Bestätigung"
     }
   },
   "auth": {
@@ -1158,10 +1158,10 @@
       "expired": "Link ungültig oder abgelaufen, versuchen Sie erneut, die E-Mail-Adresse zu bestätigen.",
       "weakPass": "Das Passwort ist zu schwach, versuchen Sie es erneut.",
       "expiredPassReset": "Link ungültig oder abgelaufen, versuchen Sie erneut, Ihr Passwort zurückzusetzen.",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedMsg": "Ihre E-Mail-Adresse wurde erfolgreich geändert. Sie müssen sich erneut anmelden.",
+      "emailChangedTitle": "E-Mail geändert",
+      "recoveredEmailMsg": "Ihre E-Mail wurde erfolgreich wiederhergestellt.",
+      "recoveredEmailTitle": "E-Mail wiederhergestellt"
     },
     "linking": {
       "title": "Kontoverknüpfung",
