@@ -500,7 +500,7 @@
       "random": "Lancement aléatoire"
     },
     "gameOver": {
-      "title": "Game Over",
+      "title": "Jeu terminé",
       "stats": "Stats",
       "home": "Accueil",
       "linkCopied": "Lien du jeu copié dans le presse-papiers",
