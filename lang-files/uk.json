@@ -1304,11 +1304,11 @@
     "questions": "Питання?\n"
   },
   "themes": {
-    "title": "Тема",
+    "title": "Тема та Колір",
     "chooseTheme": "Вибрати тему",
     "chooseColor": "Вибрати колір",
     "save": "Зберегти",
-    "goGold": "GO GOLD!",
+    "goGold": "Go Gold to Unlock",
     "selected": "ВИБРАНО"
   },
   "createGame": {

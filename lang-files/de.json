@@ -1310,11 +1310,11 @@
     "questions": "Fragen?\n"
   },
   "themes": {
-    "title": "Baustein Motiv",
+    "title": "Baustein Motiv & Farbe",
     "chooseTheme": "Motiv wählen",
     "chooseColor": "Farbe wählen",
     "save": "Abspeichern",
-    "goGold": "GO GOLD!",
+    "goGold": "Go Gold to Unlock",
     "selected": "FESTGELEGT"
   },
   "createGame": {

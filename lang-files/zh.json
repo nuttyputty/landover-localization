@@ -1310,11 +1310,11 @@
     "questions": "有问题吗？ \n"
   },
   "themes": {
-    "title": "主题",
+    "title": "主题 & Color",
     "chooseTheme": "选择主题",
     "chooseColor": "选择颜色",
     "save": "保存",
-    "goGold": "成为黄金会员！ ",
+    "goGold": "Go Gold to Unlock",
     "selected": "已选择"
   },
   "createGame": {

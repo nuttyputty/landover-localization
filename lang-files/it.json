@@ -1304,11 +1304,11 @@
     "questions": "Domande?\n"
   },
   "themes": {
-    "title": "Tema",
+    "title": "Tema e Colore",
     "chooseTheme": "Scegli Tema",
     "chooseColor": "Scegli Colore",
     "save": "Salva",
-    "goGold": "ATTIVA IL GOLD!",
+    "goGold": "Go Gold to Unlock",
     "selected": "SELEZIONATO"
   },
   "createGame": {
