@@ -853,7 +853,7 @@
     },
     "rollTime": {
       "title": "Time to Roll",
-      "description": "Now that you have placed your initial settlements, it's time to roll the dice and start collecting resources. Keep rolling until you have enough resources to build some more stuff."
+      "description": "'Now that you have placed your initial settlements, it's time to roll the dice and start collecting resources. Keep rolling until you have enough resources to build some more stuff."
     },
     "moreRoads": {
       "title": "Build more Roads",
@@ -1647,7 +1647,7 @@
     "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
     "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
     "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
+    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The highest the corner value, the better it is!",
     "resources1": "These are your resource cards!",
     "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
     "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",

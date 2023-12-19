@@ -18,6 +18,25 @@
       "movesMade": "已执行的行动"
     }
   },
+  "privacy": {
+    "title": "Privacy and GDPR",
+    "paragraphs": {
+      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "2": {
+        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+        "second": "), and going to your profile and edit info pages.\n"
+      },
+      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "8": {
+        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+        "second": " and we will be happy to help."
+      }
+    }
+  },
   "playNow": {
     "unlock": "玩更多休闲游戏以解锁排位！"
   },
@@ -804,7 +823,8 @@
     "errors": {
       "cannotFindGame": "我们无法找到该局游戏，请重试",
       "timeExpired": "时间已到",
-      "timeExpiredMsg": "时间已到，你已被移出游戏。"
+      "timeExpiredMsg": "时间已到，你已被移出游戏。",
+      "close": "关闭"
     }
   },
   "tutorial": {
@@ -1290,11 +1310,11 @@
     "questions": "有问题吗？ \n"
   },
   "themes": {
-    "title": "主题",
+    "title": "主题 & Color",
     "chooseTheme": "选择主题",
     "chooseColor": "选择颜色",
     "save": "保存",
-    "goGold": "成为黄金会员！ ",
+    "goGold": "Go Gold to Unlock",
     "selected": "已选择"
   },
   "createGame": {
@@ -1431,10 +1451,7 @@
     "rankedLiveLobby": {
       "title": "实时排名游戏",
       "lobbyState": {
-        "waiting": {
-          "one": "请稍候……寻找{}名玩家",
-          "other": "请稍候……寻找{}名玩家"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "准备好了吗？",
         "starting": "游戏即将开始",
         "waitingForOther": "等待其他玩家……"
@@ -1643,5 +1660,15 @@
     "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
     "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
     "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+  },
+  "buildingTypes": {
+    "military": "Military",
+    "road": "Road",
+    "boat": "Bridge",
+    "either": "Either",
+    "city": "City",
+    "cityWall": "City Wall",
+    "metro": "Metro",
+    "village": "Village"
   }
 }

@@ -13,9 +13,28 @@
     },
     "goGold": "¡CONVIÉRTETE EN ORO!",
     "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "users": "USERS",
-      "movesMade": "MOVES MADE"
+      "gamesInProgress": "JUEGOS EN CURSO",
+      "users": "USUARIAS",
+      "movesMade": "MOVIMIENTOS REALIZADOS"
+    }
+  },
+  "privacy": {
+    "title": "Privacy and GDPR",
+    "paragraphs": {
+      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "2": {
+        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+        "second": "), and going to your profile and edit info pages.\n"
+      },
+      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "8": {
+        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+        "second": " and we will be happy to help."
+      }
     }
   },
   "playNow": {
@@ -48,10 +67,10 @@
     "openEarned": "ABRIR"
   },
   "watchLiveGames": {
-    "title": "Watch Live Games",
-    "emptyList": "There are no active games",
-    "gameLabel": "Live",
-    "button": "WATCH\nLIVE GAMES"
+    "title": "Ver juegos en vivo",
+    "emptyList": "No hay juegos activos",
+    "gameLabel": "Vivir",
+    "button": "VER PARTIDOS EN VIVO"
   },
   "errors": {
     "gameAlreadyStarted": "El juego ya ha comenzado",
@@ -804,7 +823,8 @@
     "errors": {
       "cannotFindGame": "No podemos encontrar el juego, inténtalo de nuevo. ",
       "timeExpired": "Tiempo expirado",
-      "timeExpiredMsg": "Te has quedado sin tiempo y has sido eliminado del juego."
+      "timeExpiredMsg": "Te has quedado sin tiempo y has sido eliminado del juego.",
+      "close": "Cerrar"
     }
   },
   "tutorial": {
@@ -1118,18 +1138,18 @@
       "totalGames": "Juegos totales",
       "asOfMay": "a partir de mayo de 2023",
       "months": {
-        "1": "Jan",
-        "2": "Feb",
-        "3": "Mar",
-        "4": "Apr",
-        "5": "May",
-        "6": "Jun",
-        "7": "Jul",
-        "8": "Aug",
-        "9": "Sep",
-        "10": "Oct",
-        "11": "Nov",
-        "12": "Dec"
+        "1": "Enero",
+        "2": "febrero",
+        "3": "marzo",
+        "4": "abril",
+        "5": "mayo",
+        "6": "junio",
+        "7": "julio",
+        "8": "agosto",
+        "9": "septiembre",
+        "10": "octubre",
+        "11": "noviembre",
+        "12": "diciembre"
       }
     },
     "errors": {
@@ -1141,10 +1161,10 @@
       "descriptionProfanity": "La descripción no puede tener blasfemias",
       "cityProfanity": "La ciudad no puede tener blasfemias"
     },
-    "emailWillBeChanged": "Email will be changed after confirmation",
+    "emailWillBeChanged": "El correo electrónico se cambiará después de la confirmación.",
     "otp": {
-      "description": "Please enter the code sent to your current email",
-      "title": "Current email verification"
+      "description": "Por favor ingresa el código enviado a tu correo electrónico actual",
+      "title": "Verificación de correo electrónico actual"
     }
   },
   "auth": {
@@ -1157,10 +1177,10 @@
       "expired": "Enlace no válido o caducado, intenta verificar el correo electrónico nuevamente.",
       "weakPass": "Contraseña demasiado débil, inténtalo de nuevo.",
       "expiredPassReset": "Enlace no válido o caducado, intenta restablecer tu contraseña nuevamente.",
-      "emailChangedMsg": "Your email has been successfully changed. You need to login again.",
-      "emailChangedTitle": "Email changed",
-      "recoveredEmailMsg": "Your email has been successfully recovered.",
-      "recoveredEmailTitle": "Email recovered"
+      "emailChangedMsg": "Su correo electrónico ha sido cambiado exitosamente. Debes iniciar sesión nuevamente.",
+      "emailChangedTitle": "Correo electrónico cambiado",
+      "recoveredEmailMsg": "Su correo electrónico ha sido recuperado exitosamente.",
+      "recoveredEmailTitle": "Correo electrónico recuperado"
     },
     "linking": {
       "title": "Vinculación de cuentas",
@@ -1290,11 +1310,11 @@
     "questions": "¿Preguntas?\n"
   },
   "themes": {
-    "title": "Tema",
+    "title": "Tema y Color",
     "chooseTheme": "Elegir tema",
     "chooseColor": "Elegir color",
     "save": "Guardar",
-    "goGold": "¡CONVIÉRTETE EN ORO!",
+    "goGold": "Go Gold to Unlock",
     "selected": "SELECCIONADO"
   },
   "createGame": {
@@ -1431,10 +1451,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting": {
-          "one": "Please wait... Looking for {} more player",
-          "other": "Please wait... Looking for {} more players"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "Are you ready?",
         "starting": "Game is starting",
         "waitingForOther": "Waiting for other players..."
@@ -1627,21 +1644,31 @@
     "unlockAchievement": "Completa 10 juegos\npara desbloquear los logros"
   },
   "showcase": {
-    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
-    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-    "resources1": "These are your resource cards!",
-    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+    "barbarians1": "Este es el rastreador bárbaro. Cada vez que se lanza un <bold>bárbaro (cráneo)</bold> en los <bold>dados</bold>, los bárbaros se acercan un paso más al ataque.",
+    "barbarians2": "Necesitarás subir de nivel tu ejército para evitar <bold>perder una ciudad</bold>.",
+    "cornerValues1": "¿Ves esos números en las <bold>esquinas</bold> de cada <bold>mosaico</bold>?",
+    "cornerValues2": "Están ahí solo durante la colocación para ayudarle a localizar fácilmente las <bold>esquinas de alto valor</bold>, ¡las que están adyacentes a buenas baldosas! ¡Cuanto más alto sea el valor de la esquina, mejor será!",
+    "culture1": "Estos 3 círculos representan sus niveles culturales para <bold>Ciencia</bold> (verde), <bold>Comercio</bold> (amarillo) y <bold>Política</bold> (azul).",
+    "culture2": "Subir de nivel tu cultura te dará <bold>tarjetas de desarrollo</bold>. Llegar al nivel 3 desbloquea una <bold>habilidad especial</bold>. Y llega primero al nivel 4 para ganar un metro que vale <bold>2 PV</bold>.",
+    "military1": "Este es tu <bold>nivel militar</bold>, actualmente es 0.\nPuedes subir de nivel tu ejército gastando <bold>1 trigo</bold> y <bold>1 oveja</bold>.",
+    "military2": "El ejército defiende contra <bold>ataques bárbaros</bold> y puede usarse para <bold>atacar</bold> a otros jugadores.",
+    "playerBars1": "Estas son las barras de jugador.\nMuestran una descripción general de las cartas y niveles de cada jugador.",
+    "playerBars2": "La fila superior de izquierda a derecha es: <bold>Número de puertos</bold> (los jugadores con 3 o más puertos pueden reclamar la Autoridad Portuaria por <bold>2 VP</bold>), <bold>longitud de ruta más larga</bold> negrita> (los jugadores con la ruta más larga obtienen <bold>2 PV</bold>) y <bold>Puntos de victoria</bold>.",
+    "playerBars3": "La siguiente fila muestra el número de <bold>tarjetas de recursos/productos</bold>, el número de <bold>tarjetas de desarrollo</bold>, seguidos de su <bold>militar</bold> y su <bold>cultura</bold>. niveles.\n¡Puedes tocar el mosaico de un jugador para ver más información!",
+    "resources1": "¡Estas son tus tarjetas de recursos!",
+    "resources2": "Se pueden usar para construir diferentes estructuras como <bold>carreteras, pueblos y ciudades</bold>.\nCada vez que puedas construir, Landover te sugerirá esas opciones en el mapa.",
+    "tile1": "El tablero de juego está formado por <bold>fichas</bold> hexagonales, cada una con un <bold>recurso</bold> y un número.",
+    "tile2": "Cada turno, un jugador tira el <bold>dado</bold> y, si se lanza ese número, cualquiera que tenga un asentamiento en esa ficha recogerá el <bold>recurso</bold> de esa ficha. Los dados lanzados son <bold>2 dados de 6 caras</bold>, por lo que los mejores números son el 6 y el 8, luego el 5 y el 9.",
+    "victoryPoints": "El objetivo de Landover es conseguir puntos de victoria construyendo asentamientos y expandiendo tu imperio."
+  },
+  "buildingTypes": {
+    "military": "Militar",
+    "road": "Camino",
+    "boat": "Puente",
+    "either": "Cualquiera",
+    "city": "Ciudad",
+    "cityWall": "Muralla",
+    "metro": "Metrópoli",
+    "village": "Aldea"
   }
 }

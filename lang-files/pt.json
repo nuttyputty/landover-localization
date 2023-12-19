@@ -1,0 +1,1667 @@
+{
+  "home": {
+    "takeTurn": "USAR TURNO",
+    "playNow": "JOGAR AGORA",
+    "createGame": "Criar Jogo",
+    "joinGame": "Entrar no Jogo",
+    "myGames": "Os Meus Jogos",
+    "startPlaying": "Começar a Jogar Agora!",
+    "ranked": {
+      "title": "Ranked",
+      "comingSoon": "BREVEMENTE",
+      "playMore": "Jogar mais jogos"
+    },
+    "goGold": "USA O GOLD!",
+    "globalStats": {
+      "gamesInProgress": "JOGOS EM PROGRESSO",
+      "users": "UTILIZADORES",
+      "movesMade": "MOVIMENTOS FEITOS"
+    }
+  },
+  "privacy": {
+    "title": "Privacy and GDPR",
+    "paragraphs": {
+      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "2": {
+        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+        "second": "), and going to your profile and edit info pages.\n"
+      },
+      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "8": {
+        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+        "second": " and we will be happy to help."
+      }
+    }
+  },
+  "playNow": {
+    "unlock": "Joga mais jogos casuais para desbloqueares o Ranked!"
+  },
+  "update": {
+    "title": "Atualização disponível!",
+    "web": {
+      "label": "Clica abaixo para limpares o cache do browser web e instala a atualização mais recente",
+      "button": "Limpar cache"
+    },
+    "mobile": {
+      "label": "Clica abaixo para fazeres o download da atualização mais recente.",
+      "button": "Atualizar"
+    },
+    "androidSuffix": "\nSe a atualização não aparecer limpa o cache da Play Store"
+  },
+  "noConnection": {
+    "title": "Erro de conexão",
+    "message": "Não é possível conectar ao servidor.\nVerifica a sua ligação à internet e tenta novamente",
+    "action": "Tentar novamente"
+  },
+  "avatar": {
+    "save": "Guardar Alterações",
+    "uploadPhoto": "Carregar Foto"
+  },
+  "achievements": {
+    "title": "CONQUISTAS",
+    "earned": "Conquista Ganha: {}",
+    "openEarned": "ABRIR"
+  },
+  "errors": {
+    "gameAlreadyStarted": "O jogo já começou",
+    "gameDoesNotExist": "O teu jogo já não existe.",
+    "generic": "Algo correu mal. Tenta novamente.",
+    "genericBig": "Algo correu mal, um relatório foi enviado para a nossa equipa.",
+    "uhOh": "Oh não",
+    "error": "Erro",
+    "tryAgain": "Tentar novamente",
+    "home": "Início",
+    "login": {
+      "google": {
+        "failed": "Não foi possível entrar com a tua conta da google. Tenta novamente",
+        "popupBlocked": "Tens um pop up blocker ou um ad blocker. Ativa os popups e tenta novamente.",
+        "popupClosed": "Não terminaste o Início de Sessão com a Google. Tenta novamente.",
+        "cookiesDisabled": "Ativa os cookies e ativa os popups para continuar."
+      },
+      "email": {
+        "wrongPassword": "Esta palavra-passe não está correta. Tenta novamente.",
+        "alreadyExists": "Este email já existe como login da Google ou Apple.",
+        "notExist": "Não conseguimos encontrar uma conta associada a esse endereço de email. Tenta novamente.",
+        "wrongCode": "O código está errado",
+        "failedToLink": "Erro ao associar as credenciais, tenta novamente",
+        "badFormat": "Formato de email inválido.",
+        "notAssociated": "Não foi encontrado nenhum utilizador com esse endereço de email.",
+        "generatingVerifyLinkFailed": "Erro ao gerar o link de email"
+      },
+      "facebook": {
+        "failed": "Desativa para entrares com a tua conta de facebook. Tenta novamente"
+      },
+      "generic": "{} Tenta novamente"
+    }
+  },
+  "game": {
+    "logs": {
+      "tooltip": "Registo live",
+      "noLogs": "Sem Registos",
+      "military": {
+        "upgraded": "atualizado",
+        "military": "militar"
+      },
+      "tokens": {
+        "islandExploredSuffix": "exploraste uma nova ilha. Ganhaste 1 VP!",
+        "longestTrailSuffix": "conseguiste a estrada mais longa ({}). Ganhaste 2 VP!",
+        "portAuthoritySuffix": "tens Autoridade de Porto. Ganhaste 2 VP!"
+      },
+      "started": {
+        "prefix": "Novo",
+        "suffix": "o jogo do jogador começou em"
+      },
+      "raid": {
+        "raided": "invadido",
+        "freeRaided": "invasão grátis"
+      },
+      "trade": {
+        "traded": "negociado",
+        "for": "por"
+      },
+      "catapult": {
+        "catapult": "catapulta",
+        "removed": "gastaste um militar para remover",
+        "allRemoved": "Todas as Catapultas foram removidas do tabuleiro."
+      },
+      "devCards": {
+        "drawn": "tiraste uma carta de desenvolvimento"
+      },
+      "resources": {
+        "received": "Recebido",
+        "discarded": "descartado",
+        "earned": "conquistado",
+        "aqueductSuffix": "do aqueduto"
+      },
+      "charity": {
+        "charity": "Caridade!",
+        "earnedPrefix": "Todos menos",
+        "earnedSuffix": "conquistado",
+        "everyoneEarned": "Todos conquistaram"
+      },
+      "barbarian": {
+        "attack": "Ataque de bárbaros",
+        "failed": "Os jogadores não conseguiram defender",
+        "lostCity": "perdeste uma cidade.",
+        "defended": "defendida com sucesso",
+        "earnedVP": "VP conquistado com os militares mais elevados",
+        "earnedCardSuffix": "recompensado com uma carta de desenvolvimento."
+      },
+      "culture": {
+        "upgradedPrefix": "atualizado",
+        "upgradedSuffix": "cultura"
+      },
+      "bonusTime": "recebeu {} bónus para girar o temporizador",
+      "gameOver": "Fim do Jogo",
+      "you": "Tu",
+      "your": "Teu",
+      "were": "foram",
+      "was": "foi",
+      "turn": "Transformar",
+      "rolled": "rolados",
+      "built": "construíte uma",
+      "stole": {
+        "one": "Roubaste do jogador {}",
+        "many": "Roubaste de {} jogadores",
+        "other": "Roubaste de {} jogadores",
+        "failed": "Não conseguiste roubar os recursos."
+      }
+    },
+    "devCards": {
+      "title": "jogaste {} carta.",
+      "newDevCard": "Nova carta dev: {}",
+      "subtitle": {
+        "masterMerchant": {
+          "oneCard": "Tiraste uma carta de {}",
+          "twoCards": "Tiraste duas cartas de {}"
+        },
+        "merchant": {
+          "withVP": "em {}, ganhaste 1 VP.",
+          "withoutVP": "em {}."
+        },
+        "merchantFleet": {
+          "oneResource": "Podes agora negociar {} 2:1 neste turno",
+          "allResources": "Agora podes negociar {} 2:1"
+        },
+        "commercialHarbor": "Negociaste 1 recurso por 1 mercadoria",
+        "resourceMonopoly": {
+          "oneWithoutResources": "Roubaste recursos de {}",
+          "moreWithoutResources": "Roubaste recursos de {} jogadores",
+          "failed": "Tentaste roubar alguns recursos mas não conseguiste nada",
+          "failedWithResource": "Tentaste roubar {} mas não conseguiste nada",
+          "withResourcesAllSame": "Roubaste {} {} de {}",
+          "withResourcesDifferent": "Roubaste 2 {} de {} e 1 $resourceName de {}"
+        },
+        "commodityMonopoly": {
+          "oneVictim": "Roubaste mercadorias de {}",
+          "moreVictims": "Roubaste mercadorias de {} jogadores",
+          "failed": "Tentaste roubar algumas mercadorias mas não conseguiste nada"
+        },
+        "expedition": "Converteste ladrilho por ouro",
+        "famine": "{} descartaste cartas aleatórias",
+        "plenty": {
+          "withoutResources": "Recebeste 2 recursos",
+          "withResources": "Recebeste 2 recursoss: {}"
+        },
+        "excavation": "Recebeste duas argilas para cada edifício num ladrilho de argila",
+        "forestry": "Recebeste duas madeiras para cada edifício num ladrilho de madeira",
+        "irrigation": "Recebeste dois trigos para cada edifício num ladrilho de trigo",
+        "mining": "Recebeste dois minérios para cada edifício num ladrilho de minério",
+        "borderCollie": "Recebeste duas ovelhas para cada edifício num ladrilho de ovelha",
+        "inventor": "Trocaste dois números de ladrilhos",
+        "medicine": "Construíste uma cidade por 2 minérios e 1 trigo",
+        "roadBuilding": "Construíste duas estradas/pontes",
+        "military": "Militares atualizados",
+        "crane": "Custo de atualização de cultura reduzido",
+        "siege": {
+          "oneVictim": "Roubaste recursos de {}",
+          "moreVictims": "Roubaste recursos de {} jogadores"
+        },
+        "bishop": "Catapulta removida",
+        "deserter": "Roubaste militares de {}",
+        "vandal": "Destruíste a ponte/estrada de {}",
+        "diplomat": "Moveste-te uma trilha",
+        "raze": "Destruíste a cidade de {}",
+        "spy": "Roubaste carta dev de {}",
+        "wedding": {
+          "oneVictim": "Roubaste cartas de {}",
+          "moreVictims": "Roubaste cartas de {} jogadores"
+        },
+        "anarchy": "Números de ladrilhos aleatórios",
+        "alchemist": "Escolheste números do lançamento de dados",
+        "traitor": "Avançaste o batedor dos bárbaros"
+      },
+      "masterMerchant": {
+        "title": "Mercador Mestre",
+        "description": "Escolhe qualquer jogador com mais pontos de vitória, vê a sua mão e escolhe dois recursos ou cartas de mercadorias.",
+        "cannotPlay": "Não existem jogadores que tenham mais pontos de vitória do que tu",
+        "dialog": {
+          "title": "Rouba!"
+        }
+      },
+      "merchant": {
+        "title": "Mercador",
+        "description": "Move o token do mercador para o teu assentamento ou cidade. O jogador que tem o mercador pode trocar o recurso 2:1 com o banco. Vale 1 VP.",
+        "dialog": {
+          "title": "Colocar Mercador",
+          "message": "Tens a certeza de que queres colocar o mercador aqui?",
+          "yes": "Sim!",
+          "no": "Cancelar"
+        }
+      },
+      "merchantFleet": {
+        "title": "Frota do Mercador",
+        "description": "Escolhe um recurso ou mercadoria à tua escolha para trocares com o banco a uma taxa de 2:1 apenas nesta rodada."
+      },
+      "commercialHarbor": {
+        "title": "Porto Comercial",
+        "description": "Troca 1 recurso por 1 mercadoria."
+      },
+      "resourceMonopoly": {
+        "title": "Monopólio de Recursos",
+        "description": "Escolhe um recurso. Cada jogador tem de te dar (até) dois desses recursos se tiverem."
+      },
+      "commodityMonopoly": {
+        "title": "Monopólio de Mercadorias",
+        "description": "Escolhe uma mercadoria. Cada jogador deve oferecer-te uma dessa mercadoria se tiverem."
+      },
+      "expedition": {
+        "title": "Expedição",
+        "description": "Escolhe um ladrilho no tabuleiro e converte-o num ladrilho de recurso de ouro.",
+        "dialog": {
+          "title": "Tens a certeza",
+          "message": "Queres transformar este ladrilho em ouro?",
+          "no": "Não",
+          "yes": "Sim"
+        }
+      },
+      "famine": {
+        "title": "Fome",
+        "description": "Todos os jogadores com mais VPs do que tu descartam 2 recursos aleatórios.",
+        "cannotPlay": "Não há jogadores com mais pontos de vitória do que tu."
+      },
+      "plenty": {
+        "title": "Abundância",
+        "description": "Recebe dois recursos à tua escolha."
+      },
+      "excavation": {
+        "title": "Escavação",
+        "description": "Recebe 2 argilas por assentamento em cada ladrilho de argila"
+      },
+      "forestry": {
+        "title": "Silvicultura",
+        "description": "Recebe 2 madeiras por assentamento em cada ladrilho de madeira"
+      },
+      "irrigation": {
+        "title": "Irrigação",
+        "description": "Recebe 2 trigos por assentamento em cada ladrilho de trigo"
+      },
+      "mining": {
+        "title": "Mineração",
+        "description": "Recebe 2 minérios por assentamento em cada ladrilho de minério"
+      },
+      "borderCollie": {
+        "title": "Border Collie",
+        "description": "Recebe 2 ovelhas por cada assentamento em cada ladrilho de ovelha"
+      },
+      "inventor": {
+        "title": "Inventor",
+        "description": "Troca dois números de ladrilhos no tabuleiro. Os números que podes trocar são: 3, 4, 5, 9, 10 e 11.",
+        "tileSelected": "Trocar estes dois ladrilhos?",
+        "dialog": {
+          "title": "Trocar Ladrilhos",
+          "message": "Queres trocar os valores destes dois ladrilhos?",
+          "yes": "Sim",
+          "no": "Cancelar"
+        }
+      },
+      "medicine": {
+        "title": "Medicina",
+        "description": "Constrói uma cidade por 2 minérios e 1 trigo.",
+        "cannotAfford": "Precisas de ter pelo menos dois minérios e um trigo para usar esta carta",
+        "cannotPlace": "Não há nenhum sítio no tabuleiro onde colocar a cidade",
+        "upgradeTitle": "Constrói {} com {}"
+      },
+      "roadBuilding": {
+        "title": "Construção de Estradas",
+        "description": "Coloca duas estradas ou duas pontes, ou uma de cada, sem te custar nada."
+      },
+      "military": {
+        "title": "Militares",
+        "description": "Melhora o teu poder militar um nível.",
+        "cannotPlay": "Já tens o poder militar máximo."
+      },
+      "crane": {
+        "title": "Grua",
+        "description": "Depois de jogares esta carta, a tua próxima melhoria de cultura nesta rodada custa menos uma mercadoria",
+        "cannotPlay": "Não podes jogar esta carta porque não tens cidades ou já tens uma Carta de Grua em jogo."
+      },
+      "siege": {
+        "title": "Cerco",
+        "description": "Lança uma invação mas rouba um recurso aleatório por cada jogador que tem uma ladeia ou cidade no ladrilho invadido. Não custa um ponto militar"
+      },
+      "bishop": {
+        "title": "Bispo",
+        "description": "Remove uma catapulta do tabuleiro.",
+        "cannotPlay": "Não existem catapultas no tabuleiro para removeres."
+      },
+      "deserter": {
+        "title": "Desertor",
+        "description": "Rouba um nível de poder militar de um jogador à tua escolha.",
+        "cannotPlayMaxedPower": "Os teus militares alcançaram o seu poder máximo de 3. Melhora a tua política para o nível 3 para aumentares o teu máximo.",
+        "cannotPlayBarracks": "Já tens o poder militar no máximo.",
+        "cannotPlayEmpty": "Ninguém tem nenhum poder militar; não há nada para roubar"
+      },
+      "vandal": {
+        "title": "Vândalo",
+        "description": "Remove a estrada ou ponte de outro jogador à tua escolha."
+      },
+      "diplomat": {
+        "title": "Diplomata",
+        "description": "Move uma das tuas estradas ou pontes para uma nova localização.",
+        "cannotPlay": "Não tens trilhos para mover."
+      },
+      "raze": {
+        "title": "Demolir",
+        "description": "Perde 1 poder militar e destrói uma cidade sem muralhas com mais VPs do que tu. Tens de ter o poder militar superior ou igual a 1 para jogares esta carta.",
+        "cannotPlayNoPlayers": "Não há jogadores com mais pontos de vitória do que tu",
+        "cannotPlayNoBuildings": "Não existem edifícios para destruir",
+        "cannotPlayNoMilitary": "Tens de ter pelo menos um poder militar para usares esta carta",
+        "dialog": {
+          "title": "Tens a certeza?",
+          "message": "Queres destruir esta cidade?",
+          "yes": "Sim!",
+          "no": "Não"
+        }
+      },
+      "spy": {
+        "title": "Espião",
+        "description": "Escolhe um jogador, vê as cartas dev dele escolhe uma para roubar.",
+        "cannotPlay": "Nenhum outro jogador tem cartas de desenvolvimento atualmente.",
+        "dialog": {
+          "title": "Roubar!"
+        }
+      },
+      "wedding": {
+        "title": "Casamento",
+        "description": "Rouba duas cartas aleatórias (recursos ou mercadorias) de cada jogador que tem mais pontos de vitória do que tu.",
+        "cannotPlay": "Não existem jogadores com mais pontos de vitória do que tu."
+      },
+      "anarchy": {
+        "title": "Anarquia",
+        "description": "Torna aleatórios todos os números de ladrilhos no tabuleiro até sair um 7."
+      },
+      "alchemist": {
+        "title": "Alquimista",
+        "description": "Sempre que tiveres esta carta, tens a opção de escolher os números exatos em ambos os dados de 6 lados ou fazeres uma jogada aleatória normal.",
+        "cannotPlay": "Esta carta de desenvolvimento só pode ser jogada no início do turno."
+      },
+      "traitor": {
+        "title": "Traidor",
+        "description": "Avança o bárbaro 2 lugares. Vai parar mesmo antes de um ataque."
+      },
+      "constitution": {
+        "title": "Constituição",
+        "description": "1 Ponto de Vitória. Jogado imediatamente e não conta para o teu máximo de 5 cartas dev."
+      },
+      "printer": {
+        "title": "Prensador",
+        "description": "1 Ponto de Vitória. Jogada imediatamente e não conta para o teu máximo de 5 cartas dev."
+      }
+    },
+    "chat": {
+      "loadingError": "Algo correu mal, tenta novamente",
+      "noMessages": "Ainda não tens mensagens",
+      "emptyMsg": "A tua mensagem está vazia. Introduz texto.",
+      "addMsgHint": "Adicionar mensagem",
+      "yourMsg": "tu",
+      "banned": "Estás restrito do chat até f{}. Tem respeito quando estiveres a conversar e evita seres banido no futuro. Queremos que esta comunidade seja divertida para todos!",
+      "profanityDetected": "Palavrão detetado. Tenta novamente.",
+      "banConfirmation": {
+        "title": "Banir Jogador",
+        "message": "Tens a certeza de que queres banir este jogador do chat? Não vais ver nenhuma mensagem sua",
+        "yes": "Sim",
+        "no": "No",
+        "failed": "Algo correu mal, tenta novamente"
+      }
+    },
+    "playerTurnOverlay": {
+      "playerNameSuffix": "'s",
+      "playerTurn": "turno"
+    },
+    "buildDialog": {
+      "title": "CONSTRUIR",
+      "trade": "Trocar",
+      "cannotAfford": "Não tens dinheiro para isto!",
+      "structureRequires": "{} requer:",
+      "cannotBuild": "Não é possível construir {}",
+      "cannotBuildReason": "Não tens sítio onde o colocar."
+    },
+    "trailTypeDialog": {
+      "title": "ESCOLHE UM",
+      "subtitle": "O que gostarias de construir?",
+      "cannotAfford": "Não tens dinheiro para isto!",
+      "trailsRequires": "{} requer:"
+    },
+    "devCardsDialog": {
+      "title": "CARTAS DEV",
+      "defaultButton": "Jogar Carta",
+      "noCards": "Sem Cartas de Desenvolvimento",
+      "cannotPlay": "Não Podes Jogar a Carta {}"
+    },
+    "playerModalDialog": {
+      "military": "Militar",
+      "militaryUpgrade": "Melhorar",
+      "militaryRequires": "Melhorar os teus militares requer",
+      "militaryCannotAfford": "Não tens dinheiro para isto!",
+      "raid": "Invadir",
+      "culture": "Cultura",
+      "cultureUpgrade": "Melhorar",
+      "devCards": "Cartas Dev",
+      "devCardsPlay": "Jogar",
+      "build": "Construir",
+      "trade": "Trocar",
+      "raidError": {
+        "title": "Não é possível invadir",
+        "message": "Não podes invadir neste momentow"
+      },
+      "points": {
+        "victoryPoints": "Pontos de Vitória",
+        "longestRoute": "A Rota Mais Longa",
+        "military": "Militares",
+        "islands": "Ilhas Exploradas",
+        "devCards": "Cartas Dev",
+        "merchant": "Tokens do Mercador",
+        "ports": "Autoridade de Porto"
+      }
+    },
+    "safeRollDialog": {
+      "title": "LANÇAMENTO SEGURO?",
+      "message": "Corres o risco de descartar metade da tua mão!",
+      "riskyRoll": "Lançamento Arriscado",
+      "safeRoll": "Lançamento Seguro"
+    },
+    "safeTokens": {
+      "title": "COMPRAR TOKENS SEGUROS"
+    },
+    "rollType": {
+      "description": "Lança os dados ou usa a tua carta de Alquimista para escolheres os teus números",
+      "alchemist": "Usar Alquimista",
+      "random": "Lançamento Aleatório"
+    },
+    "gameOver": {
+      "title": "Fim do Jogo",
+      "stats": "Estatísticas",
+      "home": "Início",
+      "linkCopied": "Link do jogo copiado para a área de transferência",
+      "goGold": "USA O GOLD!",
+      "rematch": "Novo Jogo",
+      "favoriteMap": "Pôr mapa nos favoridos",
+      "unfavoriteMap": "Tirar mapa dos favoritos",
+      "won": "{} \nwon!",
+      "upgradeToSee": "Atualiza para veres \n mais 12 estatísticas!"
+    },
+    "players": {
+      "resourceCards": "Cartas de Recurso",
+      "devCards": "Cartas de Desenvolvimento",
+      "military": "Pontos Militares",
+      "scienceLevel": "Nível de Ciência",
+      "commerceLevel": "Nível de Comércio",
+      "politicsLevel": "Nível de Política",
+      "merchant": "Token de Mercador",
+      "portPoints": "Pontos do Porto",
+      "longestRoad": "A Estrada Mais Longa",
+      "victoryPoints": "Pontos de Vitória"
+    },
+    "rematch": {
+      "canceled": {
+        "title": "NOVO JOGO",
+        "close": "Perto",
+        "declined": "Novo Jogo rejeitado"
+      },
+      "ready": {
+        "title": "PREPARA-TE!",
+        "cancel": "CANCELAR"
+      },
+      "request": {
+        "title": "Novo Jogo Solicitada",
+        "yes": "Sim",
+        "no": "Não"
+      },
+      "reject": {
+        "title": "Rejeitar Novo Jogo?",
+        "message": "Tens a certeza de que queres rejeitar este jogo?",
+        "yes": "Rejeitar"
+      }
+    },
+    "replay": {
+      "turnNumber": "Turno {} de {}",
+      "replayLast": "Jogar último novamente",
+      "turn": {
+        "one": "turno",
+        "many": "turnos",
+        "other": "turnos"
+      },
+      "purchase": {
+        "title": "REPETIÇÕES",
+        "description": "As repetições permitem-te ver o que aconteceu desde o teu último turno... ou revê todo o jogo todo quando acabar! Queres desbloquear repetições completas?",
+        "no": "Não obrigado",
+        "yes": "Usa o Gold"
+      }
+    },
+    "swipeableDevCardDialog": {
+      "close": "Fechar",
+      "play": "Jogar Carta",
+      "cannotPlay": "Não podes jogar {}",
+      "wrongTurn": "Não é o teu turno"
+    },
+    "actions": {
+      "raid": {
+        "tileSelected": "Invadir este ladrilho?",
+        "removeCatapult": "Remover esta catapulta?"
+      },
+      "metro": {
+        "placeIt": "Metro! Seleciona qualquer uma das tuas cidades para colocá-lo."
+      },
+      "chooseTile": {
+        "bishop": "Escolhe a catapulta para remover",
+        "expedition": "Escolhe o ladrilho para converter para ouro",
+        "inventor": "Escolhe dois ladrilhos para trocar números",
+        "merchant": "Coloca o teu token do mercador",
+        "siege": "Escolhe o ladrilho para cercar",
+        "raid": "Escolhe o ladrilho para invadir"
+      },
+      "chooseRoads": {
+        "placeRoad": "Coloca a estrada ou ponte",
+        "place2Roads": "Coloca 2 estradas ou pontes",
+        "selectRoad": "Seleciona uma estrada ou ponte",
+        "selectEnemyRoad": "Seleciona uma estrada inimiga ou ponte",
+        "confirm": "Build {}?"
+      },
+      "chooseCorner": {
+        "selectEnemyCity": "Seleciona uma cidade inimiga",
+        "placeVillage": "Coloca a tua aldeia",
+        "placeCity": "Coloca a tua cidade",
+        "confirmVillage": "Construir uma aldeia?",
+        "confirmCity": "Construir uma cidade?",
+        "confirmCityWall": "Construir uma muralha?",
+        "confirmMetro": "Construir um metro?"
+      },
+      "roll": "Lançar os Dados"
+    },
+    "menu": {
+      "gameActions": "AÇÕES DO JOGO",
+      "info": "INFO",
+      "turnReplay": "Repleys de Jogadas",
+      "rollFirst": "Lança os dados primeiro.",
+      "surrender": "Render",
+      "surrenderDialog": {
+        "title": "Render",
+        "message": "Tens a certeza de que te queres render?\nNão existe penalidade por admitir derrota.",
+        "yes": "Render",
+        "no": "Cancelar"
+      },
+      "share": "Partilhar",
+      "reportBug": {
+        "title": "Reportar um Bug",
+        "thanks": "Obrigado!",
+        "message": "Obrigado por partilhares o teu feedback connosco!"
+      },
+      "settings": "Definições",
+      "prodChart": "Gráfico de Produção",
+      "devCards": "Cardas Dev",
+      "rules": "Regras",
+      "cancel": "Cancelar"
+    },
+    "settings": {
+      "title": "DEFINIÇÕES",
+      "sound": "Som",
+      "music": "Música",
+      "mapHints": "Dicas no Mapa",
+      "chatNotifications": "Notificações do chat",
+      "turnNotifications": "Notificações dos Turnos",
+      "autoJump": "Passagem automática para o próximo jogo",
+      "showReplays": "Mostrar Repetições",
+      "autoRoll": "Dados com Lançamento Automático"
+    },
+    "playerControls": {
+      "military": "Militares",
+      "science": "Ciência",
+      "commerce": "Comércio",
+      "politics": "Política"
+    },
+    "pickPlayer": {
+      "title": "SELECIONAR JOGADOR",
+      "noPlayers": "Não há jogadores para de quem roubar.\nTodos os jogadores têm zero recursos.",
+      "button": "Selecionar"
+    },
+    "barbarianDialogs": {
+      "basic": "Bárbaros",
+      "barbarianLead": "Liderança dos Bárbaros",
+      "playerLead": "Liderança do Jogador",
+      "defense": "Defesa total",
+      "barbarianStrength": "Força dos Bárbaros",
+      "attackPossibleIn": "Ataque possível em {} Turnos",
+      "leaderboard": "Tabela de liderança",
+      "defeat": {
+        "title": "Derrota",
+        "playersAffected": "{} jogadores",
+        "leastMilitary": "Menos Militar",
+        "lostCity": {
+          "one": "Perdeste uma cidade",
+          "many": "Cada um perdeu uma cidade",
+          "other": "Cada um perdeu uma cidade"
+        }
+      },
+      "upgradeMilitary": "Melhorar Militares",
+      "result": "ATAQUE DOS BÁRBAROS",
+      "won": {
+        "title": "Defendeu",
+        "playersAffected": "{} jogadores",
+        "mostMilitary": "Mais Militar",
+        "prize": {
+          "one": "+1 VP",
+          "many": "+1 Carta Dev cada",
+          "other": "+1 Carta Dev cada"
+        }
+      },
+      "dataNotAvailable": "Dados não disponíveis"
+    },
+    "stats": {
+      "victoryPoints": "Pontos de Vitória",
+      "villages": "Aldeias",
+      "cities": "Cidades",
+      "roadsBridges": "Estradas/Pontes",
+      "military": "Militares",
+      "metros": "Metros",
+      "self7Rolls": "7 Auto-lançamentos",
+      "discards": "Discartes",
+      "devCards": "Cartas Dev",
+      "raids": "Invasões",
+      "raided": "Invadido",
+      "trades": "Trocas",
+      "wheat": "Trigo",
+      "ore": "Minério",
+      "brick": "Tijolo",
+      "wood": "Madeira",
+      "sheep": "Ovelha",
+      "paper": "Papel",
+      "cloth": "Teceda",
+      "coin": "Moeda"
+    },
+    "metroEarned": {
+      "title": "Metro!",
+      "msg": "Parabéns, ganhaste um metro. Toca em qualquer cidade para o colocar.",
+      "ok": "Ok!"
+    },
+    "merchant": {
+      "title": "Token do Mercador",
+      "msg": "O jogador que controla o token do mercador pode trocar este recurso 2:1."
+    },
+    "harbor": {
+      "title": "Porto",
+      "tradeAmount2": "2 {} recursos",
+      "tradeAmount3": "3 recursos de um só tipo",
+      "description": "Trocar $tradeAmount por 1\n outro recurso ou mercadoria."
+    },
+    "bottomBar": {
+      "confirmAction": "Sim",
+      "cancelAction": "Não"
+    },
+    "culture": {
+      "title": "CULTURA",
+      "upgrade": "Atualizar"
+    },
+    "cultureUpgrade": {
+      "close": "Fechar",
+      "achieved": "CONQUISTADO!",
+      "upgrade": "Melhorar {}",
+      "cannotUpgrade": "Não é possível melhorar",
+      "noCity": "Tens de ter uma cidade aberta sem metropolis para melhorar a tua cultura para nível 4 ou 5."
+    },
+    "devCardsInfo": {
+      "title": "CARTAS DEV"
+    },
+    "diceRolls": {
+      "title": "LANÇAMENTOS DE DADOS",
+      "history": "Histórico de Lançamentos:"
+    },
+    "devDiscard": {
+      "title": "Discartar",
+      "description": "Só podes ter {} cartas. Escolhe {} abaixo para descartar.",
+      "cardsDiscarded": {
+        "one": "uma carta",
+        "many": "{} cartas",
+        "other": "{} cartas"
+      }
+    },
+    "feedback": {
+      "title": "Feedback",
+      "send": "Enviar",
+      "label": "Descoberta de bug ou ideia brilhante?",
+      "placeholder": "Adoraríamos saber o que os nossos utilizadores acham!",
+      "emptyError": "Introduz feedback"
+    },
+    "freeRaid": {
+      "title": "Invasão Grátis",
+      "description": "Último lugar com 7 lançamentos dá-te uma invasão gratuita. Coloca a tua catapulta para roubares um recurso de um oponente.",
+      "button": "Invadir"
+    },
+    "military": {
+      "title": "MILITAR",
+      "maxPart1": "Max militares: ",
+      "maxPart2": "3 (Quartéis aumentam para 6)",
+      "raid": "Invasão",
+      "raidUnable": "Não é possível invadir",
+      "cannotRaid": "Não consegues invadir",
+      "raid-1": "Invasão   -1",
+      "militaryPower": "O Teu Poder Militar",
+      "vs": "vs",
+      "barbarianStrength": "Força dos Bárbaros",
+      "totalDefense": "Defesa Total",
+      "upgrade": {
+        "title": "Atualizar",
+        "cannotAfford": "Não consegues pagar!",
+        "upgradeRequires": "Melhorar os teus militares requer",
+        "maxPower": "Poder Militar Máximo",
+        "maxPowerDesc": "Os teus militares alcançaram o seu poder máximo de 3. Atualiza a tua política para nível 3 para aumentares o teu máximo.",
+        "maxPowerBarracks": "Poder Militar Máximo",
+        "maxPowerBarracksDesc": "Os teus militares chegaram ao seu poder máximo de 6. Lança invasões para usares os teus militares."
+      }
+    },
+    "newIsland": {
+      "title": "ILHA EXPLORADA!",
+      "description": "Exploraste uma nova ilha!",
+      "prize": "+1 Ponto de Vitória",
+      "button": "OK"
+    },
+    "prodChart": {
+      "title": "GRÁFICO DE PRODUÇÕES",
+      "village": "Aldeia",
+      "city": "Cidade"
+    },
+    "selectCard": {
+      "button": "Confirmar",
+      "choose": "Escolhe {}"
+    },
+    "trade": {
+      "title": "TROCAR",
+      "give": "DAR",
+      "receive": "RECEBER",
+      "resourcesLabel": "Os teus recursos:",
+      "emptyTrade": "Nada para trocar"
+    },
+    "tradeToBuild": {
+      "title": "TROCA PARA CONSTRUIR",
+      "build": "Construir {}",
+      "missing": "Em falta",
+      "resourcesLabel": "Os teus recursos",
+      "and": "e"
+    },
+    "endTurn": {
+      "nextGame": "Próximo jogo",
+      "wait": "Esperar",
+      "end": "Terminar",
+      "turn": "Turno",
+      "endTurn": "Terminar Turnon",
+      "nothingToDo": "Parece que não falta fazer mais nada.",
+      "endTurnConfirm": "Terminar Turno?",
+      "canUpgrade": "Tens a certeza de que queres terminar o turno? Podes atualizar a tua cultura sem uma troca!",
+      "lotOfResources": "Tens a certeza de que queres terminar o turno? Tens muitos recursos por gastar.",
+      "cancel": "Cancelar"
+    },
+    "errors": {
+      "cannotFindGame": "Não conseguimos encontrar o jogo, tenta novamente",
+      "timeExpired": "O Tempo Acabou",
+      "timeExpiredMsg": "Ficaste sem tempo e foste removido do jogo."
+    }
+  },
+
+  "tutorial": {
+    "viewProductChart": "Ver Tabela do Gráfico de Produções",
+    "continue": "Toca para continuar",
+    "learningMode": {
+      "title": "Modo de Aprendizagem",
+      "description": "O objetivo do Landover é conseguir Pontos de Vitória construindo assentamentos e expandindo o seu império. Vamos experimentar neste jogo. O teu objetivo é alcançar 15 Pontos de Vitória!'"
+    },
+    "firstVillage": {
+      "title": "Primeira Aldeia",
+      "description": "Coloca a tua vila num canto de alto valor abaixo. Estão indicadas a vermelho. Tenta conseguir uma que tenha 3 tipos diferentes de recursos. É sempre bom começar com trigo, argila, madeira ou ovelha."
+    },
+    "firstRoad": {
+      "title": "Primeira Estrada",
+      "description": "Agora coloca uma estrada da tua aldeia em direção a outro canto de mercadoria."
+    },
+    "firstCity": {
+      "title": "Primeira Cidade",
+      "description": "Coloca a tua cidade noutro canto de alto valor abaixo. Quaisquer que sejam os recursos que não conseguiste com a tua aldeia, tenta obtê-los com a tua cidade. Lembra-te de que cidades e vilas devem estar sempre separadas por pelo menos um canto vazio."
+    },
+    "secondRoad": {
+      "title": "Segunda Estrada",
+      "description": "E coloca novamente uma estrada da tua cidade em direção a outro canto de mercadoria."
+    },
+    "rollTime": {
+      "title": "Hora de Lançar",
+      "description": "'Agora que fizeste os teus assentamentos iniciais, é hora de lançar os dados e começares recolher recursos. Continua a lançar até teres recursos suficientes para construires mais coisas."
+    },
+    "moreRoads": {
+      "title": "Constrói mais Estradas",
+      "description": "Parece que tens recursos suficientes para construir mais estradas. Vai em frente e constrói mais estradas longe dos teus assentamentos."
+    },
+    "anotherVillage": {
+      "title": "Constrói outra Aldeia",
+      "description": "'Agora tens recursos suficientes para construir uma vila e há uma vaga aberta à tua espera. Vai em frente e constrói outra vila para expandires o teu império e recolhe mais recursos a cada turno."
+    },
+    "productionChart": {
+      "title": "Gráfico de Produção",
+      "description": "Abaixo está o número de recursos que as aldeias e cidades produzem: "
+    },
+    "trading": {
+      "title": "Troca",
+      "description": "O banco Landover permite que troques qualquer recurso ou mercadoria 3 por 1. Parece que podes transformar a tua aldeia numa cidade, mas isso requer uma troca. Vai em frente e tenta construir uma cidade e verás a Caixa Troca para Construir. Se quiseres negociações mais económicas, tenta construir uma aldeia num porto que te dê uma habilidade de 2 por 1."
+    },
+    "culture": {
+      "title": "Cultura",
+      "description": "Agora que tens uma mercadoria, vai em frente e abre o modal cultural e faz uma atualização. Atualizar a cultura dá-te o potencial de ganhar valiosas cartas de desenvolvimento, desbloquear novas habilidades ou, eventualmente, ganhar metros que valem VPs adicionais."
+    },
+    "cities": {
+      "title": "Cidades",
+      "description": "Vai em frente e escolhe uma vila que gostarias de transformar em cidade. Custa 3 minérios e 2 trigos, mas vais duplicar a produção da tua aldeia!"
+    },
+    "military": {
+      "title": "Militares",
+      "description": "Agora que a tua economia está a avançar, está na hora de construires algumas forças armadas para evitares ataques dos bárbaros. Precisas de um poder militar para cada cidade quando os bárbaros atacam para evitar a perda de uma cidade. O batedor bárbaro está no canto superior direito e mostra quantas jogadas há até eles atacarem. Vai em frente…"
+    },
+    "barbarians": {
+      "title": "Bárbaros",
+      "description": "Os bárbaros estão a caminho. O escudo no canto superior direito mostra se estás seguro ou não. Se estiver vermelho, precisas de mais militares. Se estiver verde, estás seguro. Cada vez que eles atacarem, perderás 1 poder militar, então certifica-te que adicionas mais militares ao longo do tempo.."
+    },
+    "metros": {
+      "title": "Metros",
+      "description": "Certifica-te de que continuas a atualizar a tua cultura com as tuas cartas de mercadorias. Ao atingires o nível 4, receberás um metro no valor de +2VP. Metros são imunes a ataques de bárbaros e não podem ser arrasados por outros jogadores."
+    },
+    "spendResources": {
+      "title": "Gasta os Teus Recursos",
+      "description": "Atualmente corres o risco de descartar metade das tuas cartas se te calhar um 7! Certifica-te de que gastas os teus recursos ou constróis muralhas da cidade para aumentar o tamanho da tua mão. As muralhas da cidade custam 2 argilas e podem ser construídas em qualquer cidade. "
+    },
+    "goodLuck": {
+      "title": "Boa Sorte!",
+      "description": "Parece qu estás no caminho certo para 15 VPs. Continua a expandir, construindo aldeias, atualizando cidades, nivelando as tuas forças armadas e construindo metros. Se tiveres dúvidas, junta-te a nós no discord. Experimenta alguns jogos contra os bots e, quando estiveres pronto, desafia os teus amigos!"
+    },
+    "end": {
+      "title": "Parabéns",
+      "description": "Acabaste de atingir 15 PVs e ganhaste o jogo! Esperamos que te tenhas divertido ao longo do caminho. É altamente recomendável que experimentes um jogo solo contra um bot."
+    }
+  },
+  "subscription": {
+    "cancel": {
+      "title": "Cancelar Subscrição",
+      "message": "Lamentamos saber que não estás satisfeito com a tua subscrição. Podes reservar um momento para deixar algum feedback para nós nos nosso canal Discord primeiro? Estamos sempre a tentar melhorar o app!",
+      "feedbackButton": "Deixa um Feedback",
+      "cancelButton": "Cancelar Subscrição"
+    }
+  },
+  "discord": {
+    "title": "JUNTA-TE À COMUNIDADE!",
+    "msg1": "Uau, estás a criar ritmo!",
+    "msg2": "Queres conhecer outros jogadores de Landover, encontrar jogos, conhecer novos recursos e conversar diretamente com a nossa equipa de desenvolvimento?",
+    "button": "Junta-te ao Discord"
+  },
+  "itp": {
+    "titleLetsPlay": "VAMOS JOGAR",
+    "titleSuccess": "ÓTIMO!",
+    "message": "Parece que precisas de jogos. Temos jogadores a postos e à espera!",
+    "messageSuccess": {
+      "one": "Agora estás em {} jogo!",
+      "many": "Agora estás em {} jogos!",
+      "other": "Agora estás em {} jogos!"
+    },
+    "myGames": "Ir aos Meus Jogos",
+    "startGames": {
+      "one": "Começar {} Jogo",
+      "many": "Começar {} Jogos",
+      "other": "Começar {} Jogos"
+    },
+    "footerMessage": "Sem pressão! Avisamos-te quando for a tua vez de te moveres.",
+     "error": "Não foi possível entrares nos jogos selecionados"
+  },
+  "ongoingGame": {
+    "inLobby": {
+      "title": "LOBBY DE JOGOS LIVE",
+      "leaveBtn": "Sair",
+      "rejoinBtn": "Voltar a entrar",
+      "bottomMsg1": "Estás num lobby de jogos live atualmente!",
+      "bottomMsg2": "Sai ou volta a entrar no lobby de jogos para que estejas pronto para ir assim que o jogo começar."
+    },
+    "inGame": {
+      "title": "JOGO LIVE",
+      "leaveBtn": "Render",
+      "rejoinBtn": "Voltar a entrar",
+      "bottomMsg1": "De momento estás num jogo live!",
+      "bottomMsg2": "Rende-te ou volta a entrar neste jogo para que outros\njogadores não fiquem à tua espera."
+    },
+    "gameNotExist": "O teu jogo já não existe.",
+    "somethingWentWrong": "Algo correu mal. Tenta novamente ou começa um jogo novo."
+  },
+  "upgradeDialog": {
+    "title": "MELHORA PARA GOLD",
+    "error": "Erro de compra",
+    "footer": {
+      "comingSoon": "Brevemente...",
+      "createAccount": "Criar uma Conta",
+      "watchAd": "Ver Anúncio",
+      "noAds": "Lamentamos, não há anúncios disponíveis neste momento",
+      "restore": "Restaurar Compra",
+      "noPurchase": "Não há uma subscrição ativa",
+      "policy": "Política de Assinatura",
+      "noTrial": "Não existe teste disponível. Cobrado imediatamente. Não é necessário subscrição. Podes cancelar em qualquer momento na app."
+    }
+  },
+  "buildingStyles": {
+    "default": "padrão",
+    "alien": "alien",
+    "modern": "moderno",
+    "fantasy": "fantasia",
+    "toys": "brinquedos"
+  },
+  "culture": {
+    "science": {
+      "abilityName": "Aqueduto",
+      "abilityDescription": "Se um jogador não receber\nenhum recurso para uma determinada jogada,\n receberá um recurso\naleatório.",
+      "abilityAnnouncement": "Se não obtiveres nenhum recurso numa jogada, agora vais receber um recurso aleatório."
+    },
+    "commerce": {
+      "abilityName": "Banco",
+      "abilityDescription": "Permite que os jogadores troquem\nmercadorias 2:1 com o\nbanco para qualquer recurso ou\nmercadoria.",
+      "abilityAnnouncement": "Agora podes trocar mercadorias 2:1 com o banco."
+    },
+    "politics": {
+      "abilityName": "Quartéis",
+      "abilityDescription": "O poder militar pode ser\naumentado acima do nível 3. O poder militar pode ser\naumentado acima do nível 3.",
+      "abilityAnnouncement": "O teu poder militar máximo foi aumentado de 3 a 6."
+    }
+  },
+  "gameStartTypes": {
+    "ranked": "Turn",
+    "quick": "Rápido",
+    "custom": "Personalizado",
+    "welcome": "Bem-vindo"
+  },
+  "gameType": {
+    "custom": "Live",
+    "daily": "Diário",
+    "tutorial": "Tutorial",
+    "solo": "Individual",
+    "private": "Privado"
+  },
+  "premium": {
+    "premiumBots": "Joga com 14 Bots cada um com pontos fortes únicos",
+    "premiumStyles": "Obtém acesso a 4 temas alternativos e cores preferidas",
+    "premiumPlayersNumber": "Cria jogos épicos com 8 jogadores com amigos",
+    "premiumGameOptions": "Cria jogos personalizados para ti",
+    "premiumStats": "Analiza os resultados do jogo para melhorares",
+    "premiumAvatars": "Usa uma imagem que queres como avatar no jogo",
+    "premiumMaps": "Cria mapas novos e empolgantes",
+    "premiumNoAds": "Sem Anúncios. Apoia diretamente os desenvolvedores!",
+    "title": "Membro de Gold",
+    "lastPayment": "Último Pagamento",
+    "nextPayment": "Próximo Pagamento",
+    "cancelled": "Cancelado\nTermina em:",
+    "cancel": "Cancelar",
+    "canceledTitle": "Subscrição",
+    "canceledMessage": "Subscrição cancelada com sucesso",
+    "success": {
+      "title": "Sucesso!",
+      "home": "Início",
+      "message": "Agora és um utilizador gold",
+      "safeRollMsg": "Tokens de Lançamento Seguro comprados com sucesso."
+    },
+    "canceled": {
+      "title": "Cancelado",
+      "home": "Início",
+      "message": "Algo correu mal durante o checkout"
+    }
+  },
+  "ranks": {
+    "promoted": {
+      "title": "PROMOVIDO!",
+      "message": "Parabéns! \nA tua jogada incrível concedeu-te uma subida de nível na classificação!"
+    },
+    "demoted": {
+      "title": "DESPROMOVIDO!",
+      "message": "Oh não! Desceste na classificação.\nTalvez esteja na hora de tentares uma nova estratégia ou rezares para os deuses dos dados?"
+    },
+    "viewRanks": "Ver Classificações",
+    "title": "CLASSIFICAÇÕES",
+    "rules": "Como funcionam as classificações"
+  },
+  "dailyGames": {
+    "noGames": "Não há jogos em progresso",
+    "startGame": "Iniciar um Jogoe",
+    "createGame": "Criar Jogo",
+    "joinByCode": "Entrar com Código",
+    "turnCount": {
+      "many": "turnos",
+      "single": "turno"
+    },
+    "gameType": {
+      "ranked": "Ranked",
+      "casual": "Casual"
+    },
+    "title": "Os Meus Jogos",
+    "game": {
+      "waiting": "À espera...",
+      "rematchRequest": "Pedido de Novo Jogo",
+      "gameOver": "Fim do Jogo",
+      "play": "Jogar",
+      "invite": "Convidar jogadores",
+      "start": "Começar Jogo?"
+    }
+  },
+  "profile": {
+    "editInfo": "Editar informações",
+    "city": "Cidade",
+    "description": "Descrição",
+    "email": "Email",
+    "name": "Nome",
+    "status": "Estado",
+    "save": "Guardar",
+    "linkCopied": "Link do perfil copiado para a área de transferência",
+    "emailWillBeChanged": "O email será alterado depois da confirmação",
+    "settings": {
+      "turnEmails": "Enviar Emails de Turno",
+      "chatNotifications": "Notificações de Chat",
+      "recentInvites": "Permite Convites Recentes",
+      "autoJump": "Passagem Automática para o Próximo Jogo Diário",
+      "mapHints": "Dicas no Mapa",
+      "showReplays": "Mostrar Repetições",
+      "acceptNewGames": "Aceitação Automática de Novos Jogos",
+      "autoRoll": "Lançamento Automático dos Dados no Início do Turno"
+    },
+    "account": {
+      "signUp": "Regista-te",
+      "saveAccount": "GUARDAR CONTA",
+      "emailSentTitle": "Email enviado",
+      "emailSentMsg": "Consulta a tua caixa de entrada e confirma o teu endereço de email. Depois podes usar esta conta."
+    },
+    "history": {
+      "title": "Histórico",
+      "filter": "Filtrar",
+      "empty": "Nãi Há Correspondência no Histórico"
+    },
+    "mapStats": {
+      "title": "Estatísticas de Mapa",
+      "filter": "Filtro",
+      "empty": "Sem Estatísticas"
+    },
+    "rank": "Classificação",
+    "season": {
+      "progress": "Progresso Sazonal"
+    },
+    "delete": {
+      "title": "Eliminar Conta",
+      "dialog": {
+        "title": "Tens a certeza?",
+        "message": "Lamentamos que vás embora! Tens a certeza de que queres eliminar a tua conta? Todas as tuas estatísticas e jogos serão removidos permanentemente.\nTens de confirmar a tua conta para a eliminares.",
+        "no": "Não",
+        "yes": "Sim"
+      },
+      "enterPassword": "Introduz uma palavra-passe",
+      "enterPasswordInstruction": "Introduz uma palavra-passe para a tua conta abaixo"
+    },
+    "stats": {
+      "filter": {
+        "title": "FILTRAR",
+        "clear": "Limpar",
+        "filter": "Filtrar"
+      },
+      "totalGames": "Total de Jogos - ",
+      "unlockAll": "Usa Gold para Desbloquear Todas as Estatísticas"
+    },
+    "info": {
+      "hometown": "Terra natal: ",
+      "editInfo": "Editar informações",
+      "joinedOn": "Entraste em {}",
+      "months": {
+        "1": "Jan",
+        "2": "Fev",
+        "3": "Mar",
+        "4": "Abr",
+        "5": "Mai",
+        "6": "Jun",
+        "7": "Jul",
+        "8": "Ago",
+        "9": "Set",
+        "10": "Out",
+        "11": "Nov",
+        "12": "Dez"
+      },
+      "1stPlace": "1º Lugar",
+      "2ndPlace": "2º Lugar",
+      "3rdPlace": "3º Lugar",
+      "totalGames": "Total de Jogos",
+      "asOfMay": "desde maio de 2023"
+    },
+    "otp": {
+      "title": "Verificação de email atual",
+      "description": "Introduz o código enviado para o teu email atual"
+    },
+    "errors": {
+      "updateFailed": "Erro ao atualizar",
+      "nameProfanity": "O nome não pode ter palavrões",
+      "nameTaken": "O nome já está a ser usado",
+      "nameEmpty": "O nome não pode estar vazio",
+      "statusProfanity": "O estado não pode ter palavrões",
+      "descriptionProfanity": "A descrição não pode ter palavrões",
+      "cityProfanity": "A cidade não pode ter palavrões"
+    }
+  },
+  "auth": {
+    "fb": {
+      "newPassword": "Nova palavra-passe",
+      "newPasswordHint": "Introduz a tua nova palavra-passe",
+      "verifiedTitle": "Verificado",
+      "verifiedMsg": "O teu email foi verificado com sucesso.",
+      "passResetMsg": "O email e a tua palavra-passe foram alterados com sucesso.",
+      "expired": "Link inválido ou expirado, experimenta consultar o email novamente.",
+      "weakPass": "A palavra-passe é demasiado fraca, tenta novamente.",
+      "expiredPassReset": "Link inválido ou expirado, tenta redefinir a tua palavra-passe novamente.",
+      "emailChangedTitle": "Email alterado",
+      "emailChangedMsg": "O teu email foi alterado com sucesso. Precisas de vomtara iniciar a sessão.",
+      "recoveredEmailTitle": "Email recuperado",
+      "recoveredEmailMsg": "O teu email foi recuperado com sucesso."
+    },
+    "linking": {
+      "title": "Associação da Conta",
+      "message": "Iniciar a sessão com $newProvider vai substituir os teus logins já existentes. Queres continuar?",
+      "no": "Não",
+      "yes": "Sim"
+    },
+    "footer": {
+      "agree": "Ao clicares no botão de registo, concordas com os\n",
+      "tos": "Termos de Serviço",
+      "and": " e ",
+      "privacy": "Política de Privacidade"
+    },
+    "code": {
+      "msg": "Introduz o código enviado para {}",
+      "confirm": "Confirmar",
+      "sent": "Email enviado",
+      "sentMsg": "Um novo código foi enviado para {}",
+      "resend": "Reenviar Código",
+      "continueWithEmail": "Tens uma palavra-passe? Continua aqui"
+    },
+    "email": {
+      "label": "Introduz o teu email para te registares ou iniciares a sessão na Landover",
+      "button": "Confirmar"
+    },
+    "signUp": {
+      "nickname": {
+        "label": "Alcunha",
+        "placeholder": "Introduz A Alcunha...",
+        "empty": "Introduz uma alcunha",
+        "short": "Introduz uma alcunha de pelo menos 3 caracteres",
+        "profanity": "Palavrão detetado. Tenta novamente."
+      },
+      "password": {
+        "label": "Confirmar Palavra-passe",
+        "placeholder": "Confirmar Palavra-passe...",
+        "empty": "Introduz uma palavra-passe",
+        "mismatch": "As palavras-passe não coincidem"
+      }
+    },
+    "verify": {
+      "email": "Verifica o teu email",
+      "message": "Um email de verificação foi enviado para ti! Consulta a tua caixa de entrada para verificares a conta antes de iniciares a sessão",
+      "resend": "Reenviar"
+    },
+    "login": "Iniciar a Sessão",
+    "useFB": "Continuar com Facebook",
+    "useGoogle": "Continuar com Google",
+    "useEmail": "Continuar com Email",
+    "useApple": "Continuar com Apple",
+    "or": "OR",
+    "passRequired": "É preciso a tua palavra-passe",
+    "enterPassword": "Introduz a tua palavra-passe por {}"
+  },
+  "alerts": {
+    "ok": "OK",
+    "cancel": "Cancelar"
+  },
+  "forms": {
+    "submit": "Submit",
+    "nicknameEmpty": "Introduz uma alcunha",
+    "nicknameShort": "Introduz uma alcunha com pelo menos 3 caracteres",
+    "email": "Email",
+    "emailEmpty": "Introduz um email",
+    "emailPlaceholder": "Introduzir Email...",
+    "emailInvalid": "Introduz um endereço de email válido",
+    "password": "Palavra-passe",
+    "passwordPlaceholder": "Introduz a Palavra-passe...",
+    "passwordEmpty": "Introduz uma palavra-passe",
+    "forgotPassword": "Esqueceste-te da Palavra-passe?",
+    "resetPasswordTitle": "Reenviar a Palavra-passe",
+    "resetPasswordEmail": "Introduz o teu email",
+    "resetPasswordEmailSent": "Email enviado",
+    "resetPasswordEmailSentMsg": "Consulta a tua caixa de entrada"
+  },
+  "codeJoin": {
+    "join": "Entrar"
+  },
+  "history": {
+    "title": "HISTÓRICO",
+    "notAvailable": "Os resultados do jogo antigo não estão disponíveis.",
+    "turns": "{} Turnos",
+    "players": "{} jogadores",
+    "noHistory": "Não há Histórico de Jogos"
+  },
+  "settings": {
+    "title": "DEFINIÇÕES",
+    "editInfo": "Editar informações",
+    "stats": "Estatísticas",
+    "themes": "Temas e Cores",
+    "history": "Histórico",
+    "logout": {
+      "title": "Terminar a Sessão",
+      "guest": {
+        "title": "Aviso!",
+        "message": "Estás prestes a sair da tua conta de convidado. Todos os dados serão perdidos e todos os teus jogos serão perdidos. Para evitares isto, primeiro autentica a tua conta com outro login. Queres continuar?",
+        "delete": "Eliminar a Conta",
+        "cancel": "Cancelar"
+      }
+    },
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  },
+  "invite": {
+    "play": "Jogar",
+    "cancel": "Cancelar",
+    "inviteFrom": "Convite de {}!"
+  },
+  "matchmaking": {
+    "play": "Jogar",
+    "game": "Jogo",
+    "rankHigherThan": "superior a {}%\nde jogadores",
+    "viewRanks": "Ver Classificações",
+    "3daysMove": "3 dias para mover",
+    "90sMove": "90s  para mover",
+    "playNow": "JOGAR AGORA",
+    "casual": "Jogada Casual",
+    "ranked": "Jogada Classificada",
+    "looking": "À procura de jogadores..."
+  },
+  "help": {
+    "title": "BEM-VINDO À LANDOVER!",
+    "rules": "Regras",
+    "video": "Tutoriais de\nVídeo",
+    "tutorial": "Tutorial de\nJogo",
+    "discord": "Discord!",
+    "questions": "Perguntas?\n"
+  },
+  "themes": {
+    "title": "Tema & Cor",
+    "chooseTheme": "Escolher Tema",
+    "chooseColor": "Escolher Cor",
+    "save": "Guardar",
+    "goGold": "Go Gold to Unlock",
+    "selected": "SELECIONADO"
+  },
+  "createGame": {
+    "options": {
+      "title": "OPÇÕES",
+      "on": "Ligado",
+      "off": "Desligado",
+      "time": "Tempo por Turno",
+      "points": "Pontos de Vitória",
+      "barbDelay": "Atraso dos Bárbaros",
+      "barbDelayTooltip": "Número de jogadas de bárbaros antes que os bárbaros comecem a avançar em direção a um ataque.",
+      "name": "Nome do Jogo (opcional)",
+      "namePlaceholder": "Introduzir nome",
+      "public": "Jogo Público",
+      "mapHints": {
+        "title": "Dicas no Mapa",
+        "tooltip": "Ativa indicadores de dicas no mapa quando constróis estruturas."
+      },
+      "charity": {
+        "title": "Caridade Calhou 7",
+        "tooltip": "Oferece um recurso aleatório quando calha um 7"
+      },
+      "resources": {
+        "title": "A Começar Recursos",
+        "tooltip": "Oferece a cada utilizador um recurso de cada tipo quando o jogo começar"
+      },
+      "raids": {
+        "title": "Invasões",
+        "tooltip": "Ativa/Desativa gastar um militar para invadires o teu oponente."
+      },
+      "fairDice": {
+        "title": "Dados Justos",
+        "tooltip": "Substitui aleatório verdadeiro por uma \ndistribuição homogénea dos lançamentos dos dados."
+      },
+      "culture": {
+        "title": "Cultura",
+        "tooltip": "Ativa atualizações da Ciência, Política e Comércio\npara que possas colecionar cartas dev\ne ganhar metros."
+      },
+      "luckyRaid": {
+        "title": "Invasão do 7 da Sorte",
+        "tooltip": "O jogador que está em último lugar a que lhe calha 7\né recompensado com uma invasão gratuita."
+      }
+    },
+    "map": {
+      "title": "SELECIONAR MAPA",
+      "maps": "MAPAS",
+      "favorites": "Favoritos",
+      "lastPlayed": "Último Jogado",
+      "moreSlots": "Subscreve para mais espaços",
+      "giant": "Gigante",
+      "normal": "Normal",
+      "mapType": "Escolhe o tipo do mapa",
+      "mapTypeMsg": "Escolhe o tipo do mapa que queres criar.",
+      "createMap": "Criar Novo Mapa",
+      "register": "Regista-te",
+      "createAccount": "Criar Conta",
+      "createAccountMsg": "Tens de registar uma conta para criar mapas.",
+      "search": "Pesquisar mapas",
+      "mapName": "Nome",
+      "gamesPlayed": "Nº de jogos",
+      "createdOn": "Criado em",
+      "noUserMaps": "Não criaste nenhum mapa",
+      "noMaps": "Não foram encontrados mapas",
+      "noRecentGames": "Não tens jogos recentes",
+      "noFavorites": "Não tens mapas favoritos",
+      "tabs": {
+        "standard": "PADRÃO",
+        "myMaps": "OS MEUS MAPAS",
+        "favorites": "FAVORITOS",
+        "all": "ALL"
+      },
+      "adminControls": {
+        "confirmDialog": {
+          "yes": "Sim",
+          "no": "Não",
+          "confirm": "Confirmar",
+          "duplicate": "Tens a certeza de que queres duplicar este mapa?",
+          "makeOfficial": "Tens a certeza de que queres tornar este mapa oficial?",
+          "deleteFromOfficial": "Tens a certeza de que queres eliminar este mapa dos mapas oficiais?"
+        }
+      },
+      "sort": {
+        "newest": "O mais recente",
+        "oldest": "O mais antigo",
+        "mostGames": "Mais Jogos",
+        "leastGames": "Menos Jogos",
+        "alphabetical": "Alfabético",
+        "reverseAlphabetical": "Alfabética Desc",
+        "popular": "Popular"
+      },
+      "preview": {
+        "selectMap": "Seleionar Mapa",
+        "deleteMap": "Eliminar Mapa",
+        "editMap": "Editar Mapa"
+      }
+    },
+    "playTutorial": {
+      "title": "Jogar tutorial",
+      "message": "Enquanto novo jogador em Landover, deves completar uma partida a solo contra os bots antes de entrares numa partida pública. Experimenta o tutorial!"
+    },
+    "createGame": "Criar Jogo"
+  },
+  "join": {
+    "title": "Entrar em Jogos",
+    "gameNotAvailable": "Este jogo não está disponível, experimenta um",
+    "createGame": "Cruar Jogo",
+    "joinByCode": "Entrar com Código",
+    "filter": {
+      "title": "FILTRAR",
+      "button": "Filtrar",
+      "clear": "Limpar",
+      "allGames": "Todos os Jogos",
+      "liveGames": "Jogos Live",
+      "dailyGames": "Jogos Diários",
+      "allPoints": "Todos os Pontos",
+      "xPoints": "{} pontos"
+    }
+  },
+  "lobby": {
+    "leave": {
+      "title": "Sair do Jogo",
+      "message": "Tens a certeza de que queres sair deste jogo?",
+      "yes": "Sair"
+    },
+    "add": {
+      "recent": "+ Recentes",
+      "bot": "+ Adicionar Bot",
+      "invite": "+ Convite"
+    },
+    "boot": {
+      "button": "Remover",
+      "title": "Tens a certeza de que queres expulsar"
+    },
+    "rankedLiveLobby": {
+      "title": "JOGO CLASSIFICADO LIVE",
+      "lobbyState": {
+        "waiting": "Wait... Estimated Time: ",
+        "areYouReady": "Estás pronto?",
+        "starting": "O jogo vai começar",
+        "waitingForOther": "À espera de outros jogadores..."
+      },
+      "readyButton": "Pronto",
+      "opponent": "Oponente",
+      "VS": "VS",
+      "randomMap": "Mapa aleatório",
+      "gameData": {
+        "winCondition": "Condição de Vitória",
+        "startingResources": "Recursos de Início",
+        "charity": "Caridade",
+        "fairDice": "Dados Justos",
+        "turnTimer": "Temporizador de Turnos",
+        "on": "Ligado",
+        "off": "Desligado"
+      }
+    },
+    "options": {
+      "on": "Ligado",
+      "off": "Desligado",
+      "points": "Pontos de Vitória",
+      "time": "Temporizador de Turnos",
+      "luckyRaid": "Invasão do 7 da Sorte",
+      "culture": "Cultura",
+      "barbDelay": "Atraso dos Bárbaros",
+      "fairDice": "Dados Justos",
+      "raids": "Invasões"
+    },
+    "addBot": {
+      "title": "ADICIONAR BOT",
+      "alreadyAdded": "Já Foi Adicionado",
+      "unlockBot": "Desbloquear Bot",
+      "addBot": "Adicionar Bot"
+    },
+    "getReady": {
+      "title": "PREPARA-TE!",
+      "cancel": "Cancelar",
+      "ready": "Pronto"
+    },
+    "ranked": {
+      "title": "Entraste!",
+      "message": "Entraste numa partida diária! Serás notificado quando o jogo começar."
+    },
+    "recent": {
+      "title": "INVITE PLAYERS",
+      "notificationTurnedOf": "Este jogador desativou convites de jogadores novos. Este jogador será removido da tua lista.",
+      "noRecent": "Sem jogadores novos!"
+    },
+    "joinPrivate": {
+      "joinAnyway": "Entrar na mesama",
+      "cancel": "Cancelar"
+    },
+    "gameType": {
+      "ranked": "JOGO CLASSIFICADO",
+      "quick": "JOGO RÁPIDO",
+      "tutorial": "TUTORIAL",
+      "daily": "JOGO DIÁRIO",
+      "solo": "JOGO INDIVIDUAL",
+      "live": "JOGO LIVE"
+    },
+    "lobbyLabel": "Lobby:",
+    "code": "Código: ",
+    "join": "ENTRAR",
+    "waiting": "À espera...",
+    "waitingForHost": "À espera do anfitrião...",
+    "start": "Começar",
+    "starting": "O Jogo está Começar",
+    "startingTutorial": "A começar o tutorial",
+    "initTutorial": "A iniciar o tutorial...",
+    "creatingNewLobby": "A criar um novo lobby...",
+    "checkingExisting": "A conferir jogos existentes...",
+    "matchingGameFound": "Jogo encontrado!",
+    "loadingLobby": "Lobby com jogo a carregar...",
+    "loadingGame": "A carregar jogo...",
+    "joined": "Entraste!",
+    "alreadyInQueue": "Já estás na fila, serás notificado quando um jogo começar.",
+    "lobbyFull": "Lobby cheio!",
+    "hostToAdd": "Tens de ser um anfitrião para adicionares um bot",
+    "cannotBoot": "Não podes reiniciar este jogador",
+    "notFound": "Lobby não encontrado",
+    "waitingForLot": "Já está às espera de muitos jogos começarem. Vamis notificar-te quando for a tua vez de te moveres.",
+    "kicked": "Expluso!",
+    "kickedMsg": "O anfitrião removeu-te deste jogo. Tenta entrar num jogo diferente.",
+    "timeOut": "Acabou o tempo",
+    "timeOutMsg": "Não aceitaste o jogo a tempo.",
+    "rematchCanceled": "Novo jogo cancelado",
+    "rematchCanceledMsg": "Alguém rejeitou este jogo.",
+    "gameCanceled": "Jogo cancelado",
+    "gameCanceledMsg": "O anfitrião terminou este jogo."
+  },
+  "builder": {
+    "create": {
+      "title": "CRIAR MAPA!",
+      "ok": "Ok",
+      "firstMap": "Queres criar o teu primeiro mapa personalizado?\nUsa o construtor de mapas para criares o teu próprio mundo!",
+      "randomNumber": "Quaisquer ladrilhos sem um número serão atribuídos aleatoriamente a um número a cada jogo",
+      "mysteryTiles": "Um ladrilho misterioso que não pode ser colocado inicialmente e só é revelado quando um jogador o explora",
+      "randomResources": "Um recurso de terra atribuído aleatoriamente no início do jogo"
+    },
+    "controls": {
+      "info": "Informações",
+      "tiles": "Ladrilhos",
+      "harbors": "Portos"
+    },
+    "info": {
+      "name": {
+        "title": "Nome",
+        "placeholder": "Introduzir o nome..."
+      },
+      "description": {
+        "title": "Descrição",
+        "placeholder": "Introduzir a descrição..."
+      },
+      "points": "Pontos de Vitória"
+    },
+    "terrain": {
+      "nonPlacement": "Ladrilho Sem Colocação",
+      "nonPlacementHint": "Seleciona ladrilhos de terra que não são permitidos em assentamentos iniciais."
+    },
+    "unsaved": {
+      "title": "Alterações não guardadas",
+      "message": "Tens alterações não guardadas a este mapa?",
+      "yes": "Sair",
+      "no": "Guardar e Sair"
+    },
+    "title": "CRIADOR DE MAPAS",
+    "save": "Guardar",
+    "openControls": "Abrir Controlos",
+    "profanity": "Palavrão detetado. Tenta novamente.",
+    "saved": {
+      "title": "Sucesso!",
+      "message": "O teu mapa foi guardado!"
+    },
+    "validation": {
+      "emptyName": "Dá um nome ao teu mapa.",
+      "invalidName": "Introduz um nome de mapa válido."
+    },
+    "list": {
+      "by": "Por: {}",
+      "on": "Em: {}",
+      "games": "Jogos: {}",
+      "vp": "VP: {}",
+      "deleteOfficial": {
+        "title": "Eliminar Ação",
+        "message": "Não é possível eliminar mapas oficiais."
+      },
+      "delete": {
+        "title": "Eliminar",
+        "message": "Tens a certeza de que queres eliminar este mapa?",
+        "yes": "Eliminar",
+        "no": "Cancelar"
+      }
+    }
+  },
+  "notifications": {
+    "title": "Não Percas a Tua Vez!",
+    "enable": "Ativar Notificações",
+    "enableEmail": "Ativar Notificações por Email",
+    "enableText": "Ativa as notificações e nunca percas a tua vez. Vamos relembrar-te quando for a hora de voltares para que possas manter o jogo em movimento!",
+    "notNow": "Não ativar por agora"
+  },
+  "unsubscribe": {
+    "ask": {
+      "title": "Tens a certeza?",
+      "message": "Tens a certeza de que queres anular a subscrição de emails de atualizações do jogo?",
+      "yes": "Anular Subscrição"
+    },
+    "unsubscribed": {
+      "title": "Subscrição anulada",
+      "yes": "Início",
+      "message": "A tua subscrição foi cancelada com sucesso. Podes ativar os emails de atualizações do jogo novamente nas configurações."
+    }
+  },
+  "loading": {
+    "title": "POR FAVOR AGUARDA"
+  },
+  "rank": {
+    "title": "A TUA\nCLASSIFICAÇÃO"
+  },
+  "seasons": {
+    "leaderboard": {
+      "title": "TABELA DE LÍDERES DA TEMPORADA",
+      "player": "Jogadorr",
+      "games": "Nº de Jogos",
+      "SP": "SP (Pontos da Temporada)",
+      "reward": "Recompensa"
+    },
+    "noPlayers": "Ainda não existem jogadores",
+    "unlockAchievement": "Completa 10 jogos\ntpara desbloqueares a conquista"
+  },
+  "showcase": {
+    "tile1": "O tabuleiro do jogo é composto por <bold>peças</bold> hexagonais, cada uma com um <bold>recurso</bold> e um número.",
+    "tile2": "A cada turno, um jogador lança os <bold>dados</bold> e se esse número for lançado, qualquer pessoa com um acordo naquela peça irá coletar o <bold>recurso</bold> daquela peça. Os dados lançados são <bold>2 dados de 6 faces</bold>, então os melhores números são 6 e 8, depois 5 e 9.",
+    "cornerValues1": "Vê aqueles números nos <bold>cantos</bold> de cada <bold>bloco</bold>?",
+    "cornerValues2": "Eles estão lá apenas durante o posicionamento para ajudá-lo a localizar facilmente <bold>cantos de alto valor</bold>, aqueles que são adjacentes a peças boas! Quanto maior o valor do canto, melhor será!",
+    "resources1": "Estes são os seus cartões de recursos!",
+    "resources2": "Eles podem ser usados para construir diferentes estruturas, como <bold>estradas, vilas e cidades</bold>.\nSempre que você puder construir, Landover irá sugerir essas opções para você no mapa.",
+    "military1": "Este é o seu <bold>nível militar</bold>, atualmente é 0.\nVocê pode aumentar o nível do seu exército gastando <bold>1 trigo</bold> e <bold>1 ovelha</bold>.",
+    "military2": "Os militares protegem contra <bold>ataques bárbaros</bold> e podem ser usados para <bold>atacar</bold> outros jogadores.",
+    "barbarians1": "Este é o rastreador bárbaro. Cada vez que um <bold>bárbaro (crânio)</bold> é lançado nos <bold>dados</bold>, os bárbaros se aproximam um passo do ataque.",
+    "barbarians2": "Você precisará aumentar o nível de seu exército para evitar <bold>perder uma cidade</bold>.",
+    "culture1": "Esses três círculos representam seus níveis de cultura em <bold>Ciência</bold> (verde), <bold>Comércio</bold> (amarelo) e <bold>Política</bold> (azul).",
+    "culture2": "Aumentar o nível de sua cultura lhe dará <bold>cartões de desenvolvimento</bold>. Chegar ao nível 3 desbloqueia uma <bold>habilidade especial</bold>. E chegue primeiro ao nível 4 para ganhar um metro no valor de <bold>2 PVs</bold>.",
+    "playerBars1": "Estas são as barras de jogador.\nElas mostram uma visão geral das cartas e níveis de cada jogador.",
+    "playerBars2": "A linha superior da esquerda para a direita é: <bold>Número de portas</bold> (jogadores com 3 ou mais portas podem reivindicar Autoridade Portuária para <bold>2 PVs</bold>), <bold>maior comprimento de rota</bold> negrito> (jogadores com a rota mais longa ganham <bold>2 PVs</bold>) e <bold>Pontos de Vitória</bold>.",
+    "playerBars3": "A próxima linha mostra o número de <bold>cartões de recursos/commodities</bold>, o número de <bold>cartões de desenvolvimento</bold>, seguidos por seus <bold>militares</bold> e <bold>cultura</bold> níveis.\nVocê pode tocar no bloco de um jogador para ver mais informações!",
+    "victoryPoints": "O objetivo do Landover é conseguir Pontos de Vitória construindo assentamentos e expandindo seu império."
+  },
+  "buildingTypes": {
+    "military": "Militares",
+    "road": "Estrada",
+    "boat": "Ponte",
+    "either": "Qualquer",
+    "city": "Cidade",
+    "cityWall": "Parede da cidade",
+    "metro": "Metrópole",
+    "village": "Vila"
+  }
+}

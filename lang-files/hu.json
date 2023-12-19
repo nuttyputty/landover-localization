@@ -18,6 +18,25 @@
       "users": "USERS"
     }
   },
+  "privacy": {
+    "title": "Privacy and GDPR",
+    "paragraphs": {
+      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "2": {
+        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+        "second": "), and going to your profile and edit info pages.\n"
+      },
+      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "8": {
+        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+        "second": " and we will be happy to help."
+      }
+    }
+  },
   "playNow": {
     "unlock": "Játssz több alkalmi játékot, hogy feloldd a rangsorolást!"
   },
@@ -798,7 +817,8 @@
     "errors": {
       "cannotFindGame": "Nem találjuk a játékot, kérjük, próbáld újra!",
       "timeExpired": "Lejárt az idő",
-      "timeExpiredMsg": "Lejárt az időd, és kikerültél a játékból."
+      "timeExpiredMsg": "Lejárt az időd, és kikerültél a játékból.",
+      "close": "Bezárás"
     }
   },
   "tutorial": {
@@ -1284,11 +1304,11 @@
     "questions": "Kérdések?\n"
   },
   "themes": {
-    "title": "Téma",
+    "title": "Téma és Szín",
     "chooseTheme": "Téma kiválasztása",
     "chooseColor": "Szín kiválasztása",
     "save": "Mentés",
-    "goGold": "LÉGY ARANY!",
+    "goGold": "Go Gold to Unlock",
     "selected": "VÁLASZTOTT"
   },
   "createGame": {
@@ -1425,10 +1445,7 @@
     "rankedLiveLobby": {
       "title": "ÉLŐ RANGLISTÁS JÁTÉK",
       "lobbyState": {
-        "waiting": {
-          "one": "Kérjük várj... Keres {} több játékost",
-          "other": "Kérjük várj... További {} játékosokat keresünk"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "Készen állsz?",
         "starting": "A játék kezdődik",
         "waitingForOther": "Várjuk a többi játékost..."
@@ -1643,5 +1660,15 @@
     "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
     "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
     "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+  },
+  "buildingTypes": {
+    "military": "Military",
+    "road": "Road",
+    "boat": "Bridge",
+    "either": "Either",
+    "city": "City",
+    "cityWall": "City Wall",
+    "metro": "Metro",
+    "village": "Village"
   }
 }
