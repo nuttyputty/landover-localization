@@ -1444,10 +1444,7 @@
     "rankedLiveLobby": {
       "title": "JOGO CLASSIFICADO LIVE",
       "lobbyState": {
-        "waiting":{
-          "one": "Aguarda... Estamos à procura de mais {} jogadores",
-          "other": "Aguarda... Estamos à procura de mais {} jogadores"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "Estás pronto?",
         "starting": "O jogo vai começar",
         "waitingForOther": "À espera de outros jogadores..."

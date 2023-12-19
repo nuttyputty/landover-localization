@@ -1433,10 +1433,7 @@
 "rankedLiveLobby": {
 "title": "RANGIRANA LIVE IGRA",
 "lobbyState": {
-"waiting": {
-"one": "Molimo sačekajte... Traženje još {} igrača",
-"other": "Molimo sačekajte... Traženje još {} igrača"
-},
+"waiting": "Wait... Estimated Time: ",
 "areYouReady": "Spremni ste?",
 "starting": "Igra počinje",
 "waitingForOther": "Čekanje drugih igrača..."

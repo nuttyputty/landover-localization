@@ -1445,10 +1445,7 @@
     "rankedLiveLobby": {
       "title": "PARTITA CLASSIFICATA LIVE",
       "lobbyState": {
-        "waiting": {
-          "one": "Attendere... Manca ancora {} giocatore",
-          "other": "Attendere... Mancano ancora {} giocatori"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "Sei pronto?",
         "starting": "La partita sta per iniziare",
         "waitingForOther": "In attesa degli altri giocatori..."

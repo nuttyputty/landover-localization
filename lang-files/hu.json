@@ -1445,10 +1445,7 @@
     "rankedLiveLobby": {
       "title": "ÉLŐ RANGLISTÁS JÁTÉK",
       "lobbyState": {
-        "waiting": {
-          "one": "Kérjük várj... Keres {} több játékost",
-          "other": "Kérjük várj... További {} játékosokat keresünk"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "Készen állsz?",
         "starting": "A játék kezdődik",
         "waitingForOther": "Várjuk a többi játékost..."

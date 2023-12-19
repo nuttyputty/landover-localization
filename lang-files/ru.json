@@ -1451,10 +1451,7 @@
     "rankedLiveLobby": {
       "title": "ЖИВАЯ РЕЙТИНГОВАЯ ИГРА",
       "lobbyState": {
-        "waiting": {
-          "one": "Пожалуйста, подождите... Ищем еще {} игрока",
-          "other": "Пожалуйста, подождите... Ищем еще {} игроков"
-        },
+        "waiting": "Wait... Estimated Time: ",
         "areYouReady": "Вы готовы?",
         "starting": "Игра начинается",
         "waitingForOther": "Ожидание других игроков..."
