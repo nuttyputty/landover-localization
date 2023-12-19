@@ -1310,11 +1310,11 @@
     "questions": "Questions?\n"
   },
   "themes": {
-    "title": "Theme",
+    "title": "Theme & Color",
     "chooseTheme": "Choose Theme",
     "chooseColor": "Choose Color",
     "save": "Save",
-    "goGold": "GO GOLD!",
+    "goGold": "Go Gold to Unlock",
     "selected": "SELECTED"
   },
   "createGame": {

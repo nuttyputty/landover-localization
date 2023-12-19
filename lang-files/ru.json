@@ -1310,11 +1310,11 @@
     "questions": "Вопросы?\n"
   },
   "themes": {
-    "title": "Тема",
+    "title": "Тема и Цвет",
     "chooseTheme": "Выбрать Тему",
     "chooseColor": "Выбрать Цвет",
     "save": "Сохранить",
-    "goGold": "СТАТЬ ЗОЛОТЫМ!",
+    "goGold": "Go Gold to Unlock",
     "selected": "ВЫБРАНО"
   },
   "createGame": {

@@ -1303,11 +1303,11 @@
     "questions": "Perguntas?\n"
   },
   "themes": {
-    "title": "Tema",
+    "title": "Tema & Cor",
     "chooseTheme": "Escolher Tema",
     "chooseColor": "Escolher Cor",
     "save": "Guardar",
-    "goGold": "USA GOLD!",
+    "goGold": "Go Gold to Unlock",
     "selected": "SELECIONADO"
   },
   "createGame": {

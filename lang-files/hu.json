@@ -1304,11 +1304,11 @@
     "questions": "Kérdések?\n"
   },
   "themes": {
-    "title": "Téma",
+    "title": "Téma és Szín",
     "chooseTheme": "Téma kiválasztása",
     "chooseColor": "Szín kiválasztása",
     "save": "Mentés",
-    "goGold": "LÉGY ARANY!",
+    "goGold": "Go Gold to Unlock",
     "selected": "VÁLASZTOTT"
   },
   "createGame": {
