@@ -615,7 +615,7 @@
       "reportBug": {
         "title": "Spielfehler melden",
         "thanks": "Danke!",
-        "message": "Danke, dass du deine Rückmeldung mit uns teilst!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Einstellungen",
       "prodChart": "Baukosten",

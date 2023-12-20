@@ -615,7 +615,7 @@
       "reportBug": {
         "title": "Informar error",
         "thanks": "¡Gracias!",
-        "message": "¡Gracias por compartir tus comentarios con nosotros!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Ajustes",
       "prodChart": "Gráfico Prod",

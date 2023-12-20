@@ -609,7 +609,7 @@
       "reportBug": {
         "title": "Повідомити про помилку",
         "thanks": "Дякуємо!",
-        "message": "Дякуємо за надання зворотного зв'язку!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Налаштування",
       "prodChart": "Діаграма виробництва",

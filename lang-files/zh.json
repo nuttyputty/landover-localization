@@ -615,7 +615,7 @@
       "reportBug": {
         "title": "举报错误",
         "thanks": "谢谢",
-        "message": "感谢你与我们分享反馈！ "
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "设置",
       "prodChart": "生产图表",

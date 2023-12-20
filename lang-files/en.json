@@ -615,7 +615,7 @@
       "reportBug": {
         "title": "Report Bug",
         "thanks": "Thanks!",
-        "message": "Thank you for sharing your feedback with us!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Settings",
       "prodChart": "Prod Chart",

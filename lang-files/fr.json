@@ -615,7 +615,7 @@
       "reportBug": {
         "title": "Signaler un bug",
         "thanks": "Merci!",
-        "message": "Merci de nous avoir fait part de vos commentaires!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Paramètres",
       "prodChart": "TABLEAU DE PRODUCTION",

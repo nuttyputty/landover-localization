@@ -609,7 +609,7 @@
       "reportBug": {
         "title": "Hiba jelentése",
         "thanks": "Köszönöm!",
-        "message": "Köszönjük, hogy megosztottad velünk a visszajelzésedet!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Beállítások",
       "prodChart": "Termelés diagram",

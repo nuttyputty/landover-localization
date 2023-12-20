@@ -608,7 +608,7 @@
     "reportBug": {
         "title": "Prijavi Bag",
         "thanks": "Hvala!",
-        "message": "Hvala vam što delite svoje povratne informacije s nama!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
     },
     "settings": "Podešavanja",
     "prodChart": "Grafikon Proizvodnje",

@@ -615,7 +615,7 @@
       "reportBug": {
         "title": "Сообщить о Проблеме",
         "thanks": "Спасибо!",
-        "message": "Спасибо за ваш отзыв!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Настройки",
       "prodChart": "Таблица Производства",

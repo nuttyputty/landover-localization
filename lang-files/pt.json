@@ -609,7 +609,7 @@
       "reportBug": {
         "title": "Reportar um Bug",
         "thanks": "Obrigado!",
-        "message": "Obrigado por partilhares o teu feedback connosco!"
+        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
       },
       "settings": "Definições",
       "prodChart": "Gráfico de Produção",
