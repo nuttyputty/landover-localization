@@ -1294,7 +1294,7 @@
     "game": "Игра",
     "rankHigherThan": "выше, чем у {}%\nигроков",
     "viewRanks": "Посмотреть рейтинги",
-    "3daysMove": "3 дня на ход",
+    "daysToMove": "1 day to move",
     "90sMove": "90 секунд на ход",
     "playNow": "ИГРАТЬ СЕЙЧАС",
     "casual": "Обычная игра",

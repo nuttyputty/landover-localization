@@ -1274,7 +1274,7 @@
 "game": "Igra",
 "rankHigherThan": "iznad {}%\nigrača",
 "viewRanks": "Pogledaj rangove",
-"3daysMove": "3 dana za potez",
+"daysToMove": "1 day to move",
 "90sMove": "90 sekundi za potez",
 "playNow": "IGRAJ SADA",
 "casual": "Opšta igra",

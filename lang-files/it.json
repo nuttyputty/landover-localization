@@ -1288,7 +1288,7 @@
     "game": "Partita",
     "rankHigherThan": "superiore del {}%\ndei giocatori",
     "viewRanks": "Visualizza Classifiche",
-    "3daysMove": "3 giorni per muoversi",
+    "daysToMove": "1 day to move",
     "90sMove": "90s per muoversi",
     "playNow": "GIOCA ORA",
     "casual": "Partita Normale",

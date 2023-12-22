@@ -1294,7 +1294,7 @@
     "game": "Game",
     "rankHigherThan": "higher than {}%\nof players",
     "viewRanks": "View Ranks",
-    "3daysMove": "3 days to move",
+    "daysToMove": "1 day to move",
     "90sMove": "90s to move",
     "playNow": "PLAY NOW",
     "casual": "Casual Play",

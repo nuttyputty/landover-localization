@@ -1294,7 +1294,7 @@
     "game": "Spiel",
     "rankHigherThan": "höher als {}%\nvon Spielern",
     "viewRanks": "Rangliste ansehen",
-    "3daysMove": "3 Tage Spielzugzeit",
+    "daysToMove": "1 day to move",
     "90sMove": "90s Spielzugzeit",
     "playNow": "JETZT SPIELEN",
     "casual": "Gelegenheitspiel",
