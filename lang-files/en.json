@@ -12,7 +12,8 @@
       "playMore": "Play more games"
     },
     "liveChat": {
-      "title": "LIVE CHAT"
+      "title": "LIVE CHAT",
+      "onlinePlayers": "{} online players"
     },
     "goGold": "GOLD",
     "buttons": {

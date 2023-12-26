@@ -18,7 +18,8 @@
       "movesMade": "MOVES MADE"
     },
     "liveChat": {
-      "title": "LIVE CHAT"
+      "title": "LIVE CHAT",
+      "onlinePlayers": "{} online players"
     },
     "buttons": {
       "awards": "AWARDS",
