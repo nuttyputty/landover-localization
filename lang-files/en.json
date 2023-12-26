@@ -11,7 +11,17 @@
       "comingSoon": "COMING SOON",
       "playMore": "Play more games"
     },
-    "goGold": "GO GOLD!",
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "goGold": "GOLD",
+    "buttons": {
+      "help": "HELP",
+      "settings": "SETTINGS",
+      "style": "STYLE",
+      "maps": "MAPS",
+      "awards": "AWARDS"
+    },
     "globalStats": {
       "gamesInProgress": "GAMES IN PROGRESS",
       "users": "USERS",
@@ -1080,6 +1090,10 @@
     "linkCopied": "Profile link copied to clipboard",
     "emailWillBeChanged": "Email will be changed after confirmation",
     "settings": {
+      "effects": "Effects",
+      "music": "Music",
+      "on": "ON",
+      "off": "OFF",
       "turnEmails": "Send Turn Emails",
       "chatNotifications": "Chat Notifications",
       "recentInvites": "Allow Recent Invites",
@@ -1096,6 +1110,8 @@
       "emailSentMsg": "Please check your mailbox and confirm your email address. Then you can use this account."
     },
     "history": {
+      "recentGames": "Recent Games",
+      "viewAll": "View All",
       "title": "History",
       "filter": "Filter",
       "empty": "No Match History"
@@ -1307,7 +1323,8 @@
     "video": "Video\nTutorials",
     "tutorial": "Play\nTutorial",
     "discord": "Discord!",
-    "questions": "Questions?\n"
+    "questions": "Questions?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Theme & Color",

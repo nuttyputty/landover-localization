@@ -16,6 +16,16 @@
       "gamesInProgress": "ІГРИ В ПРОГРЕСІ",
       "users": "КОРИСТУВАЧІ",
       "movesMade": "ЗРОБЛЕНІ ХОДИ"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1080,7 +1090,11 @@
       "mapHints": "Підказки до карти",
       "showReplays": "Показувати повтори",
       "acceptNewGames": "Автоматично приймати нові гри",
-      "autoRoll": "Автоматично кидати кості на початку ходу"
+      "autoRoll": "Автоматично кидати кості на початку ходу",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Зареєструватися",
@@ -1091,7 +1105,9 @@
     "history": {
       "title": "Історія",
       "filter": "Фільтр",
-      "empty": "Немає історії матчів"
+      "empty": "Немає історії матчів",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Статистика карти",
@@ -1301,7 +1317,8 @@
     "video": "Відео\nПосібники",
     "tutorial": "Грати\nНавчання",
     "discord": "Discord!",
-    "questions": "Питання?\n"
+    "questions": "Питання?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Тема та Колір",

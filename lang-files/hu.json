@@ -16,6 +16,16 @@
       "gamesInProgress": "GAMES IN PROGRESS",
       "movesMade": "MOVES MADE",
       "users": "USERS"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1081,7 +1091,11 @@
       "mapHints": "Térkép-súgók",
       "showReplays": "Visszajátszások megjelenítése",
       "acceptNewGames": "Új játékok automatikus elfogadása",
-      "autoRoll": "Automatikus kockadobás forduló indításakor"
+      "autoRoll": "Automatikus kockadobás forduló indításakor",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Regisztráció",
@@ -1092,7 +1106,9 @@
     "history": {
       "title": "Előzmények",
       "filter": "Szűrő",
-      "empty": "Nincs találati előzmény"
+      "empty": "Nincs találati előzmény",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Térkép statisztikák",
@@ -1301,7 +1317,8 @@
     "video": "Videó\nBemutatók",
     "tutorial": "Játék\nBemutatók",
     "discord": "Discord!",
-    "questions": "Kérdések?\n"
+    "questions": "Kérdések?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Téma és Szín",

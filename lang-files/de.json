@@ -16,6 +16,16 @@
       "gamesInProgress": "LAUFENDE SPIELE",
       "users": "BENUTZER",
       "movesMade": "BEWEGUNGEN GEMACHT"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1086,7 +1096,11 @@
       "mapHints": "Karten Hinweise",
       "showReplays": "Wiederholung anzeigen",
       "acceptNewGames": "Neue Spiele automatisch akzeptieren.",
-      "autoRoll": "Würfel automatisch würfeln."
+      "autoRoll": "Würfel automatisch würfeln.",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Anmelden",
@@ -1097,7 +1111,9 @@
     "history": {
       "title": "Spielverlauf",
       "filter": "Filter",
-      "empty": "Kein Spielverlauf vorhanden"
+      "empty": "Kein Spielverlauf vorhanden",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Karten Statistik",
@@ -1307,7 +1323,8 @@
     "video": "Video\nAnleitung",
     "tutorial": "Spiel\nAnleitung",
     "discord": "Discord!",
-    "questions": "Fragen?\n"
+    "questions": "Fragen?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Baustein Motiv & Farbe",

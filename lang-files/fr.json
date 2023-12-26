@@ -16,6 +16,16 @@
       "gamesInProgress": "JEUX EN COURS",
       "users": "UTILISATEURS",
       "movesMade": "DÉPLACEMENTS EFFECTUÉS"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1086,7 +1096,11 @@
       "mapHints": "Indices de carte",
       "showReplays": "Afficher les rediffusions",
       "acceptNewGames": "Acceptation automatique des nouveaux jeux",
-      "autoRoll": "Lancer automatique des dés au début du tour"
+      "autoRoll": "Lancer automatique des dés au début du tour",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "S'inscrire",
@@ -1097,7 +1111,9 @@
     "history": {
       "title": "Histoire",
       "filter": "Filtre",
-      "empty": "Pas d'historique des correspondances"
+      "empty": "Pas d'historique des correspondances",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Statistiques de la carte",
@@ -1307,7 +1323,8 @@
     "video": "Video\nTutoriels",
     "tutorial": "Play\nTutoriel",
     "discord": "Discord!",
-    "questions": "Questions?"
+    "questions": "Questions?",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Thème et Couleur",

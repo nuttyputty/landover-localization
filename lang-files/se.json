@@ -16,6 +16,16 @@
       "gamesInProgress": "GAMES IN PROGRESS",
       "users": "USERS",
       "movesMade": "MOVES MADE"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1087,7 +1097,11 @@
       "mapHints": "Map Hints",
       "showReplays": "Show Replays",
       "acceptNewGames": "Auto-Accept New Games",
-      "autoRoll": "Auto-Roll Dice on Turn Start"
+      "autoRoll": "Auto-Roll Dice on Turn Start",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Sign Up",
@@ -1098,7 +1112,9 @@
     "history": {
       "title": "History",
       "filter": "Filter",
-      "empty": "No Match History"
+      "empty": "No Match History",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Map Stats",
@@ -1307,7 +1323,8 @@
     "video": "Video\nTutorials",
     "tutorial": "Play\nTutorial",
     "discord": "Discord!",
-    "questions": "Questions?\n"
+    "questions": "Questions?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Theme & Color",

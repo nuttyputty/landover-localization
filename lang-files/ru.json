@@ -16,6 +16,16 @@
       "gamesInProgress": "ИДУЩИЕ ИГРЫ",
       "users": "ПОЛЬЗОВАТЕЛИ",
       "movesMade": "СДЕЛАННЫЕ ХОДЫ"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1086,7 +1096,11 @@
       "mapHints": "Подсказки карты",
       "showReplays": "Показывать повторы",
       "acceptNewGames": "Авто-принятие новых игр",
-      "autoRoll": "Авто-бросок кубиков в начале хода"
+      "autoRoll": "Авто-бросок кубиков в начале хода",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Зарегистрироваться",
@@ -1097,7 +1111,9 @@
     "history": {
       "title": "История",
       "filter": "Фильтр",
-      "empty": "Нет истории матчей"
+      "empty": "Нет истории матчей",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Статистика карты",
@@ -1307,7 +1323,8 @@
     "video": "Видео\nУроки",
     "tutorial": "Играть\nУчебник",
     "discord": "Discord!",
-    "questions": "Вопросы?\n"
+    "questions": "Вопросы?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Тема и Цвет",

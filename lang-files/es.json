@@ -16,6 +16,16 @@
       "gamesInProgress": "JUEGOS EN CURSO",
       "users": "USUARIAS",
       "movesMade": "MOVIMIENTOS REALIZADOS"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1086,7 +1096,11 @@
       "mapHints": "Sugerencias de mapas",
       "showReplays": "Mostrar repeticiones",
       "acceptNewGames": "Aceptar automáticamente nuevos juegos",
-      "autoRoll": "Lanzamiento automático de dados al iniciar el turno"
+      "autoRoll": "Lanzamiento automático de dados al iniciar el turno",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Registrarse",
@@ -1097,7 +1111,9 @@
     "history": {
       "title": "Historial",
       "filter": "Filtro",
-      "empty": "Sin historial de juegos"
+      "empty": "Sin historial de juegos",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Estadísticas del mapa",
@@ -1307,7 +1323,8 @@
     "video": "Vídeo\nTutoriales",
     "tutorial": "Jugar\nTutorial",
     "discord": "Discord!",
-    "questions": "¿Preguntas?\n"
+    "questions": "¿Preguntas?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Tema y Color",

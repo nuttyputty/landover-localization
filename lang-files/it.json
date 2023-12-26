@@ -16,6 +16,16 @@
       "gamesInProgress": "PARTITE IN CORSO",
       "users": "UTENTI",
       "movesMade": "MOSSE EFFETTUATE"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1081,7 +1091,11 @@
       "mapHints": "Suggerimenti Mappa",
       "showReplays": "Mostra Replay",
       "acceptNewGames": "Accetta Automaticamente Nuove Partite",
-      "autoRoll": "Lancio Automatico dei Dadi all'Inizio del Turno"
+      "autoRoll": "Lancio Automatico dei Dadi all'Inizio del Turno",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Registrati",
@@ -1092,7 +1106,9 @@
     "history": {
       "title": "Cronologia",
       "filter": "Filtro",
-      "empty": "Nessuna Cronologia Partite"
+      "empty": "Nessuna Cronologia Partite",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Statistiche Mappe",
@@ -1301,7 +1317,8 @@
     "video": "Video\nTutorial",
     "tutorial": "Tutorial\ndel Gioco",
     "discord": "Discord!",
-    "questions": "Domande?\n"
+    "questions": "Domande?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Tema e Colore",

@@ -16,6 +16,16 @@
       "gamesInProgress": "JOGOS EM PROGRESSO",
       "users": "UTILIZADORES",
       "movesMade": "MOVIMENTOS FEITOS"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -817,10 +827,10 @@
     "errors": {
       "cannotFindGame": "Não conseguimos encontrar o jogo, tenta novamente",
       "timeExpired": "O Tempo Acabou",
-      "timeExpiredMsg": "Ficaste sem tempo e foste removido do jogo."
+      "timeExpiredMsg": "Ficaste sem tempo e foste removido do jogo.",
+      "close": "Close"
     }
   },
-
   "tutorial": {
     "viewProductChart": "Ver Tabela do Gráfico de Produções",
     "continue": "Toca para continuar",
@@ -895,7 +905,8 @@
     "end": {
       "title": "Parabéns",
       "description": "Acabaste de atingir 15 PVs e ganhaste o jogo! Esperamos que te tenhas divertido ao longo do caminho. É altamente recomendável que experimentes um jogo solo contra um bot."
-    }
+    },
+    "coach": "Coach"
   },
   "subscription": {
     "cancel": {
@@ -927,7 +938,7 @@
       "other": "Começar {} Jogos"
     },
     "footerMessage": "Sem pressão! Avisamos-te quando for a tua vez de te moveres.",
-     "error": "Não foi possível entrares nos jogos selecionados"
+    "error": "Não foi possível entrares nos jogos selecionados"
   },
   "ongoingGame": {
     "inLobby": {
@@ -1080,7 +1091,11 @@
       "mapHints": "Dicas no Mapa",
       "showReplays": "Mostrar Repetições",
       "acceptNewGames": "Aceitação Automática de Novos Jogos",
-      "autoRoll": "Lançamento Automático dos Dados no Início do Turno"
+      "autoRoll": "Lançamento Automático dos Dados no Início do Turno",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "Regista-te",
@@ -1091,7 +1106,9 @@
     "history": {
       "title": "Histórico",
       "filter": "Filtrar",
-      "empty": "Nãi Há Correspondência no Histórico"
+      "empty": "Nãi Há Correspondência no Histórico",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "Estatísticas de Mapa",
@@ -1300,7 +1317,8 @@
     "video": "Tutoriais de\nVídeo",
     "tutorial": "Tutorial de\nJogo",
     "discord": "Discord!",
-    "questions": "Perguntas?\n"
+    "questions": "Perguntas?\n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "Tema & Cor",
@@ -1663,5 +1681,11 @@
     "cityWall": "Parede da cidade",
     "metro": "Metrópole",
     "village": "Vila"
+  },
+  "watchLiveGames": {
+    "button": "WATCH\nLIVE GAMES",
+    "emptyList": "There are no active games",
+    "gameLabel": "Live",
+    "title": "Watch Live Games"
   }
 }

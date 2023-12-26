@@ -16,6 +16,16 @@
       "gamesInProgress": "游戏进行中",
       "users": "用户",
       "movesMade": "已执行的行动"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT"
+    },
+    "buttons": {
+      "awards": "AWARDS",
+      "help": "HELP",
+      "maps": "MAPS",
+      "settings": "SETTINGS",
+      "style": "STYLE"
     }
   },
   "privacy": {
@@ -1086,7 +1096,11 @@
       "mapHints": "地图提示",
       "showReplays": "显示回放",
       "acceptNewGames": "自动接受新游戏",
-      "autoRoll": "回合开始时自动掷骰"
+      "autoRoll": "回合开始时自动掷骰",
+      "effects": "Effects",
+      "music": "Music",
+      "off": "OFF",
+      "on": "ON"
     },
     "account": {
       "signUp": "注册",
@@ -1097,7 +1111,9 @@
     "history": {
       "title": "历史记录",
       "filter": "筛选",
-      "empty": "没有匹配的历史记录"
+      "empty": "没有匹配的历史记录",
+      "recentGames": "Recent Games",
+      "viewAll": "View All"
     },
     "mapStats": {
       "title": "地图数据统计",
@@ -1307,7 +1323,8 @@
     "video": "视频\n教程",
     "tutorial": "进行\n教程",
     "discord": "Discord！",
-    "questions": "有问题吗？ \n"
+    "questions": "有问题吗？ \n",
+    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
   },
   "themes": {
     "title": "主题 & Color",
