@@ -18,8 +18,9 @@
       "movesMade": "ЗРОБЛЕНІ ХОДИ"
     },
     "liveChat": {
-      "title": "Онлай чаи",
-      "onlinePlayers": "{} гравців онлайн"
+      "title": "Онлай чат",
+      "onlinePlayers": "{} гравців онлайн",
+      "online": "В мережі"
     },
     "buttons": {
       "awards": "AWARDS",

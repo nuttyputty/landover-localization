@@ -13,7 +13,8 @@
     },
     "liveChat": {
       "title": "LIVE CHAT",
-      "onlinePlayers": "{} online players"
+      "onlinePlayers": "{} online players",
+      "online": "Online"
     },
     "goGold": "GOLD",
     "buttons": {
