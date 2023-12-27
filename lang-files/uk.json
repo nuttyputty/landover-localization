@@ -22,6 +22,19 @@
       "onlinePlayers": "{} гравців онлайн",
       "online": "В мережі"
     },
+    "notifications": {
+      "title": "Сповіщення",
+      "noNotifications": "Поки немає сповіщень",
+      "clearAll": "Очистити",
+      "gameFinished": "Гру завершено",
+      "positions": {
+        "first": "Й",
+        "second": "Й",
+        "third": "Й",
+        "other": "Й"
+      },
+      "invited": "запросив вас"
+    },
     "buttons": {
       "awards": "AWARDS",
       "help": "HELP",

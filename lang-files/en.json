@@ -16,6 +16,19 @@
       "onlinePlayers": "{} online players",
       "online": "Online"
     },
+    "notifications": {
+      "title": "Notifications",
+      "noNotifications": "No notifications yet",
+      "clearAll": "Clear All",
+      "gameFinished": "Game Finished",
+      "positions": {
+        "first": "ST",
+        "second": "ND",
+        "third": "RD",
+        "other": "TH"
+      },
+      "invited": "invited you"
+    },
     "goGold": "GOLD",
     "buttons": {
       "help": "HELP",
