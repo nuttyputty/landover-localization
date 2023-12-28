@@ -1181,7 +1181,11 @@
         "10": "octubre",
         "11": "noviembre",
         "12": "diciembre"
-      }
+      },
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "errors": {
       "updateFailed": "Error al actualizar",

@@ -1176,7 +1176,11 @@
       "2ndPlace": "2. helyezés",
       "3rdPlace": "3. helyezés",
       "totalGames": "Játékok összesen",
-      "asOfMay": "2023 májusáig"
+      "asOfMay": "2023 májusáig",
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "otp": {
       "title": "Jelenlegi e-mail megerősítés",

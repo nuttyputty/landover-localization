@@ -1181,7 +1181,11 @@
         "10": "Окт",
         "11": "Ноя",
         "12": "Дек"
-      }
+      },
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "errors": {
       "updateFailed": "Не удалось обновить",

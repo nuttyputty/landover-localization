@@ -1176,7 +1176,11 @@
       "2ndPlace": "2º Posto",
       "3rdPlace": "3º Posto",
       "totalGames": "Partite Totali",
-      "asOfMay": "a partire da maggio 2023"
+      "asOfMay": "a partire da maggio 2023",
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "otp": {
       "title": "Verifica l'email attuale",

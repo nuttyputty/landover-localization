@@ -1176,7 +1176,11 @@
       "2ndPlace": "2º Lugar",
       "3rdPlace": "3º Lugar",
       "totalGames": "Total de Jogos",
-      "asOfMay": "desde maio de 2023"
+      "asOfMay": "desde maio de 2023",
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "otp": {
       "title": "Verificação de email atual",

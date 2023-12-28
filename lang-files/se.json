@@ -1182,7 +1182,11 @@
       "2ndPlace": "2nd Place",
       "3rdPlace": "3rd Place",
       "totalGames": "Total Games",
-      "asOfMay": "as of May 2023"
+      "asOfMay": "as of May 2023",
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "otp": {
       "title": "Current email verification",

@@ -1181,7 +1181,11 @@
       "2ndPlace": "2er Platz",
       "3rdPlace": "3er Platz",
       "totalGames": "Spiele insgesamt",
-      "asOfMay": "Ab Mai 2023 erfasst"
+      "asOfMay": "Ab Mai 2023 erfasst",
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "errors": {
       "updateFailed": "aktualisieren fehlgeschlagen",

@@ -1181,7 +1181,11 @@
         "10": "十月",
         "11": "十一月",
         "12": "十二月"
-      }
+      },
+      "style": "Style",
+      "achievements": "Achievements",
+      "color": "Color",
+      "details": "Details"
     },
     "errors": {
       "updateFailed": "更新失败",

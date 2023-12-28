@@ -1137,9 +1137,13 @@
 },
 "1stPlace": "1. mesto",
 "2ndPlace": "2. mesto",
-"3rdPlace": "3. mesto",
+"3rdPlace": "3. mesto",,
 "totalGames": "Ukupno igara",
-"asOfMay": "kako u maju 2023."
+"asOfMay": "kako u maju 2023.",
+"style": "Style",
+"achievements": "Achievements",
+"color": "Color",
+"details": "Details"
 },
 "errors": {
 "updateFailed": "Ažuriranje nije uspelo",

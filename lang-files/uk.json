@@ -1175,7 +1175,11 @@
       "2ndPlace": "2-ге місце",
       "3rdPlace": "3-тє місце",
       "totalGames": "Загальні ігри",
-      "asOfMay": "з травня 2023 р."
+      "asOfMay": "з травня 2023 р.",
+      "style": "Стиль",
+      "achievements": "Винагороди",
+      "color": "Колір",
+      "details": "Детальніше"
     },
     "errors": {
       "updateFailed": "Не вдалося оновити",
