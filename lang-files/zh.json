@@ -622,7 +622,10 @@
         "confirmCityWall": "建造1堵城墙？",
         "confirmMetro": "建造1个首都？ "
       },
-      "roll": "掷骰 "
+      "roll": "掷骰 ",
+      "build": "Build",
+      "remove": "Remove",
+      "move": "Move"
     },
     "menu": {
       "gameActions": "游戏操作",

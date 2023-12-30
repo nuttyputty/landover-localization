@@ -616,7 +616,10 @@
         "confirmCityWall": "Costruire una muraglia per la città?",
         "confirmMetro": "Costruire una metropolitana?"
       },
-      "roll": "Lancia i Dadi"
+      "roll": "Lancia i Dadi",
+      "build": "Build",
+      "remove": "Remove",
+      "move": "Move"
     },
     "menu": {
       "gameActions": "AZIONI DI GIOCO",

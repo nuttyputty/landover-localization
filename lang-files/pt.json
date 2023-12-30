@@ -616,7 +616,10 @@
         "confirmCityWall": "Construir uma muralha?",
         "confirmMetro": "Construir um metro?"
       },
-      "roll": "Lançar os Dados"
+      "roll": "Lançar os Dados",
+      "build": "Build",
+      "remove": "Remove",
+      "move": "Move"
     },
     "menu": {
       "gameActions": "AÇÕES DO JOGO",
