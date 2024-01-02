@@ -2,7 +2,7 @@
   "home": {
     "takeTurn": "FELVÁLTVA",
     "playNow": "JÁTSSZ MOST",
-    "createGame": "Játék létrehozása",
+    "createGame": "Custom Game",
     "joinGame": "Csatlakozz egy játékhoz",
     "myGames": "Játékaim",
     "startPlaying": "Kezdj el játszani most!",
@@ -1319,16 +1319,12 @@
     "inviteFrom": "Meghívó tőle {}!"
   },
   "matchmaking": {
-    "play": "Játssz",
-    "game": "Játék",
-    "rankHigherThan": "magasabb mint {}%\njátékosnak",
-    "viewRanks": "Rangok megtekintése",
-    "daysToMove": "1 day to move",
-    "90sMove": "90mp a mozgásig",
-    "playNow": "JÁTSSZON MOST",
-    "casual": "Alkalmi játék",
-    "ranked": "Rangsorolt játék",
-    "looking": "Játékosokat keresünk..."
+    "title": "NEW RANKED GAME",
+    "daily": "Start Daily Game",
+    "live": "Start Live Game",
+    "customGame": "Want to choose your map and settings? Create a custom game.",
+    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
+    "liveDescription": "90s to make your move.\n1 game at a time!"
   },
   "help": {
     "title": "ÜDVÖZLÜNK LANDOVER-BEN!",

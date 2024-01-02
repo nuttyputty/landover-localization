@@ -2,7 +2,7 @@
   "home": {
     "takeTurn": "ODIGRAJ POTEZ",
     "playNow": "IGRAJ SADA",
-    "createGame": "Napravi igru",
+    "createGame": "Custom Game",
     "joinGame": "Pridruži se igri",
     "myGames": "Moje igre",
     "startPlaying": "Počni igrati odmah!",
@@ -1274,16 +1274,12 @@
 "inviteFrom": "Poziv od {}!"
 },
 "matchmaking": {
-"play": "Igraj",
-"game": "Igra",
-"rankHigherThan": "iznad {}%\nigrača",
-"viewRanks": "Pogledaj rangove",
-"daysToMove": "1 day to move",
-"90sMove": "90 sekundi za potez",
-"playNow": "IGRAJ SADA",
-"casual": "Opšta igra",
-"ranked": "Rangirana igra",
-"looking": "Traženje igrača..."
+"title": "NEW RANKED GAME",
+"daily": "Start Daily Game",
+"live": "Start Live Game",
+"customGame": "Want to choose your map and settings? Create a custom game.",
+"dailyDescription":"24 hours to make your move.\n Unlimited games!",
+"liveDescription": "90s to make your move.\n1 game at a time!"
 },
 "help": {
 "title": "DOBRODOŠLI U LANDOVER!",

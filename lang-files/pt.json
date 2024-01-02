@@ -2,7 +2,7 @@
   "home": {
     "takeTurn": "USAR TURNO",
     "playNow": "JOGAR AGORA",
-    "createGame": "Criar Jogo",
+    "createGame": "Custom Game",
     "joinGame": "Entrar no Jogo",
     "myGames": "Os Meus Jogos",
     "startPlaying": "Começar a Jogar Agora!",
@@ -1319,16 +1319,12 @@
     "inviteFrom": "Convite de {}!"
   },
   "matchmaking": {
-    "play": "Jogar",
-    "game": "Jogo",
-    "rankHigherThan": "superior a {}%\nde jogadores",
-    "viewRanks": "Ver Classificações",
-    "daysToMove": "1 day to move",
-    "90sMove": "90s  para mover",
-    "playNow": "JOGAR AGORA",
-    "casual": "Jogada Casual",
-    "ranked": "Jogada Classificada",
-    "looking": "À procura de jogadores..."
+    "title": "NEW RANKED GAME",
+    "daily": "Start Daily Game",
+    "live": "Start Live Game",
+    "customGame": "Want to choose your map and settings? Create a custom game.",
+    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
+    "liveDescription": "90s to make your move.\n1 game at a time!"
   },
   "help": {
     "title": "BEM-VINDO À LANDOVER!",

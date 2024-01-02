@@ -2,7 +2,7 @@
   "home": {
     "takeTurn": "轮到你的回合",
     "playNow": "立即游玩",
-    "createGame": "创建游戏",
+    "createGame": "Custom Game",
     "joinGame": "加入游戏",
     "myGames": "我的游戏",
     "startPlaying": "立即开始游戏！",
@@ -1325,16 +1325,12 @@
     "inviteFrom": "来自{}的邀请！"
   },
   "matchmaking": {
-    "play": "游玩",
-    "game": "游戏",
-    "rankHigherThan": "比{}%的玩家\n还要高",
-    "viewRanks": "查看排位",
-    "daysToMove": "1 day to move",
-    "90sMove": "90秒内移动",
-    "playNow": "马上游玩",
-    "casual": "休闲游玩",
-    "ranked": "排位游玩",
-    "looking": "正在寻找玩家……"
+    "title": "NEW RANKED GAME",
+    "daily": "Start Daily Game",
+    "live": "Start Live Game",
+    "customGame": "Want to choose your map and settings? Create a custom game.",
+    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
+    "liveDescription": "90s to make your move.\n1 game at a time!"
   },
   "help": {
     "title": "欢迎来到LANDOVER！",
