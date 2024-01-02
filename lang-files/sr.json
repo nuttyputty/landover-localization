@@ -1,88 +1,88 @@
 {
-  "home": {
-    "takeTurn": "ODIGRAJ POTEZ",
-    "playNow": "IGRAJ SADA",
-    "createGame": "Custom Game",
-    "joinGame": "Pridruži se igri",
-    "myGames": "Moje igre",
-    "startPlaying": "Počni igrati odmah!",
-    "ranked": {
-      "title": "Rangirano",
-      "comingSoon": "USKORO DOLAZI",
-      "playMore": "Igraj još igara"
-    },
-    "goGold": "POSTANI ZLATNI ČLAN!",
-    "globalStats": {
-      "gamesInProgress": "IGRE U TOKU",
-      "users": "KORISNICI",
-      "movesMade": "ODIGRANI POTEZI"
-    }
-  },
-  "privacy": {
-    "title": "Privacy and GDPR",
-    "paragraphs": {
-      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
-      "2": {
-        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-        "second": "), and going to your profile and edit info pages.\n"
+   "home": {
+      "takeTurn": "ODIGRAJ POTEZ",
+      "playNow": "IGRAJ SADA",
+      "createGame": "Custom Game",
+      "joinGame": "Pridruži se igri",
+      "myGames": "Moje igre",
+      "startPlaying": "Počni igrati odmah!",
+      "ranked": {
+         "title": "Rangirano",
+         "comingSoon": "USKORO DOLAZI",
+         "playMore": "Igraj još igara"
       },
-      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
-      "8": {
-        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-        "second": " and we will be happy to help."
+      "goGold": "POSTANI ZLATNI ČLAN!",
+      "globalStats": {
+         "gamesInProgress": "IGRE U TOKU",
+         "users": "KORISNICI",
+         "movesMade": "ODIGRANI POTEZI"
       }
-    }
-  },
-"playNow": {
-    "unlock": "Igrajte više opuštenih igara kako biste otključali Rangirano!"
-},
-"update": {
-    "title": "Dostupno ažuriranje!",
-    "web": {
-        "label": "Molimo vas da kliknete ispod kako biste očistili keš veb pregledača i dobili najnovije ažuriranje",
-        "button": "Očisti keš"
-    },
-    "mobile": {
-        "label": "Molimo vas da kliknete ispod kako biste preuzeli najnovije ažuriranje.",
-        "button": "Ažuriraj"
-    },
-    "androidSuffix": "\nAko ažuriranje ne apare, molimo vas da očistite keš prodavnice Play."
-},
-"noConnection": {
-    "title": "Greška u vezi",
-    "message": "Nemoguće je povezati se sa serverom.\nProverite svoju internet vezu i pokušajte ponovo",
-    "action": "Pokušajte ponovo"
-},
-"avatar": {
-    "save": "Sačuvajte promene",
-    "uploadPhoto": "Postavite fotografiju"
-},
-"achievements": {
-    "title": "DOSTIGNUĆA",
-    "earned": "Osvojeno dostignuće: {}",
-    "openEarned": "OTVORI"
-},
-"errors": {
-    "gameAlreadyStarted": "Igra već počela",
-    "gameDoesNotExist": "Vaša igra više ne postoji.",
-    "generic": "Nešto nije u redu. Pokušajte ponovo.",
-    "genericBig": "Došlo je do problema, izveštaj je poslat našem timu.",
-    "uhOh": "Uh Oh",
-    "error": "Greška",
-    "tryAgain": "Pokušajte ponovo",
-    "home": "Početna",
-    "login": {
-        "google": {
+   },
+   "privacy": {
+      "title": "Privacy and GDPR",
+      "paragraphs": {
+         "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+         "2": {
+            "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+            "second": "), and going to your profile and edit info pages.\n"
+         },
+         "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+         "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+         "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+         "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+         "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+         "8": {
+            "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+            "second": " and we will be happy to help."
+         }
+      }
+   },
+   "playNow": {
+      "unlock": "Igrajte više opuštenih igara kako biste otključali Rangirano!"
+   },
+   "update": {
+      "title": "Dostupno ažuriranje!",
+      "web": {
+         "label": "Molimo vas da kliknete ispod kako biste očistili keš veb pregledača i dobili najnovije ažuriranje",
+         "button": "Očisti keš"
+      },
+      "mobile": {
+         "label": "Molimo vas da kliknete ispod kako biste preuzeli najnovije ažuriranje.",
+         "button": "Ažuriraj"
+      },
+      "androidSuffix": "\nAko ažuriranje ne apare, molimo vas da očistite keš prodavnice Play."
+   },
+   "noConnection": {
+      "title": "Greška u vezi",
+      "message": "Nemoguće je povezati se sa serverom.\nProverite svoju internet vezu i pokušajte ponovo",
+      "action": "Pokušajte ponovo"
+   },
+   "avatar": {
+      "save": "Sačuvajte promene",
+      "uploadPhoto": "Postavite fotografiju"
+   },
+   "achievements": {
+      "title": "DOSTIGNUĆA",
+      "earned": "Osvojeno dostignuće: {}",
+      "openEarned": "OTVORI"
+   },
+   "errors": {
+      "gameAlreadyStarted": "Igra već počela",
+      "gameDoesNotExist": "Vaša igra više ne postoji.",
+      "generic": "Nešto nije u redu. Pokušajte ponovo.",
+      "genericBig": "Došlo je do problema, izveštaj je poslat našem timu.",
+      "uhOh": "Uh Oh",
+      "error": "Greška",
+      "tryAgain": "Pokušajte ponovo",
+      "home": "Početna",
+      "login": {
+         "google": {
             "failed": "Nemoguće je prijaviti se na vaš Google nalog. Molimo vas pokušajte ponovo",
             "popupBlocked": "Imate blokator skočnih prozora ili blokator reklama. Molimo vas omogućite skočne prozore i pokušajte ponovo.",
             "popupClosed": "Niste završili prijavljivanje putem Google naloga. Pokušajte ponovo.",
             "cookiesDisabled": "Molimo vas omogućite kolačiće i dozvolite skočne prozore da biste nastavili."
-        },
-        "email": {
+         },
+         "email": {
             "wrongPassword": "Ta lozinka nije ispravna. Pokušajte ponovo.",
             "alreadyExists": "Ova e-pošta već postoji kao Google ili Apple prijava. Prijavite se putem Google ili Apple naloga.",
             "notExist": "Ne možemo pronaći nalog povezan s tom e-poštom. Pokušajte ponovo.",
@@ -91,1558 +91,1557 @@
             "badFormat": "Nevažeći format e-pošte.",
             "notAssociated": "Nije pronađen korisnik s tom adresom e-pošte.",
             "generatingVerifyLinkFailed": "Greška prilikom generisanja veze za proveru"
-        },
-        "facebook": {
+         },
+         "facebook": {
             "failed": "Nemoguće je prijaviti se na vaš Facebook nalog. Molimo vas pokušajte ponovo"
-        },
-        "generic": "{} Pokušajte ponovo"
-    }
-},
-"game": {
-    "logs": {
-        "tooltip": "Živi zapisnik",
-        "noLogs": "Nema zapisa",
-        "military": {
+         },
+         "generic": "{} Pokušajte ponovo"
+      }
+   },
+   "game": {
+      "logs": {
+         "tooltip": "Živi zapisnik",
+         "noLogs": "Nema zapisa",
+         "military": {
             "upgraded": "unapređeno",
             "military": "vojno"
-        },
-        "tokens": {
+         },
+         "tokens": {
             "islandExploredSuffix": "istražio novi otok. Osvojeno 1 VP!",
             "longestTrailSuffix": "dobio najduži put ({}). Osvojeno 2 VP!",
             "portAuthoritySuffix": "dobio vlast nad lukom. Osvojeno 2 VP!"
-        },
-        "started": {
+         },
+         "started": {
             "prefix": "Nova",
             "suffix": "igra počela na"
-        },
-        "raid": {
+         },
+         "raid": {
             "raided": "pljačkao",
             "freeRaided": "besplatno pljačkao"
-        },
-        "trade": {
+         },
+         "trade": {
             "traded": "trgovao",
             "for": "za"
-        },
-        "catapult": {
+         },
+         "catapult": {
             "catapult": "katapult",
             "removed": "potrošio jedno vojno da ukloni",
             "allRemoved": "Svi katapulti su uklonjeni s table."
-        },
-        "devCards": {
+         },
+         "devCards": {
             "drawn": "nacrtao je kartu razvoja"
-        },
-        "resources": {
+         },
+         "resources": {
             "received": "Primljeno",
             "discarded": "odbaceno",
             "earned": "osvojeno",
             "aqueductSuffix": "iz akvadukta"
-        },
-        "charity": {
+         },
+         "charity": {
             "charity": "Milostinja!",
             "earnedPrefix": "Svi osim",
             "earnedSuffix": "zaradili",
             "everyoneEarned": "Svi su zaradili"
-        },
-        "barbarian": {
+         },
+         "barbarian": {
             "attack": "Napad varvara",
             "failed": "Igrači nisu uspeli da se brane od",
             "lostCity": "izgubio je grad.",
             "defended": "uspešno se branio od",
             "earnedVP": "osvojio VP sa najvišim vojnim",
             "earnedCardSuffix": "nagrađen kartom razvoja."
-    },
-   "culture": {
-    "upgradedPrefix": "unapređena",
-    "upgradedSuffix": "kultura"
-},
-"bonusTime": "primio je {} bonus za tajmer poteza",
-"gameOver": "Kraj igre",
-"you": "Vi",
-"your": "Vaš",
-"were": "bili ste",
-"was": "bio je",
-"turn": "Potez",
-"rolled": "bacio je",
-"built": "izgradio je",
-"stole": {
-    "one": "Uzeo je od {} igrača",
-    "many": "Uzeo je od {} igrača",
-    "other": "Uzeo je od {} igrača",
-    "failed": "Nije mogao ukrasti resurse."
+         },
+         "culture": {
+            "upgradedPrefix": "unapređena",
+            "upgradedSuffix": "kultura"
+         },
+         "bonusTime": "primio je {} bonus za tajmer poteza",
+         "gameOver": "Kraj igre",
+         "you": "Vi",
+         "your": "Vaš",
+         "were": "bili ste",
+         "was": "bio je",
+         "turn": "Potez",
+         "rolled": "bacio je",
+         "built": "izgradio je",
+         "stole": {
+            "one": "Uzeo je od {} igrača",
+            "many": "Uzeo je od {} igrača",
+            "other": "Uzeo je od {} igrača",
+            "failed": "Nije mogao ukrasti resurse."
+         }
+      },
+      "devCards": {
+         "title": "odigrao {} kartu.",
+         "newDevCard": "Nova karta razvoja: {}",
+         "subtitle": {
+            "masterMerchant": {
+               "oneCard": "Uzeo je jednu kartu od {}",
+               "twoCards": "Uzeo je dve karte od {}"
+            },
+            "merchant": {
+               "withVP": "na {}, osvojio 1 VP.",
+               "withoutVP": "na {}."
+            },
+            "merchantFleet": {
+               "oneResource": "Sada može trgovati {} 2:1 ovog poteza",
+               "allResources": "Sada može trgovati {} 2:1"
+            },
+            "commercialHarbor": "Zamijenio je 1 resurs za 1 robu",
+            "resourceMonopoly": {
+               "oneWithoutResources": "Uzeo je resurse od {}",
+               "moreWithoutResources": "Uzeo je resurse od {} igrača",
+               "failed": "Pokušao je ukrasti neke resurse, ali ništa nije dobio",
+               "failedWithResource": "Pokušao je ukrasti {} ali ništa nije dobio",
+               "withResourcesAllSame": "Uzeo je {} {} od {}",
+               "withResourcesDifferent": "Uzeo je 2 {} od {}, i 1 $resourceName od {}"
+            },
+            "commodityMonopoly": {
+               "oneVictim": "Uzeo je dobra od {}",
+               "moreVictims": "Uzeo je dobra od {} igrača",
+               "failed": "Pokušao je ukrasti neka dobra, ali ništa nije dobio"
+            },
+            "expedition": "Pretvorio je pločicu u zlato",
+            "famine": "{} odbacio nasumične karte",
+            "plenty": {
+               "withoutResources": "Dobio je 2 resursa",
+               "withResources": "Dobio je 2 resursa: {}"
+            },
+            "excavation": "Dobio je dva gline za svaku zgradu na pločici gline",
+            "forestry": "Dobio je dva drva za svaku zgradu na pločici drveta",
+            "irrigation": "Dobio je dva pšenice za svaku zgradu na pločici pšenice",
+            "mining": "Dobio je dva rude za svaku zgradu na pločici rude",
+            "borderCollie": "Dobio je dva ovna za svaku zgradu na pločici ovna",
+            "inventor": "Zamijenio je dva broja pločica",
+            "medicine": "Izgradio je grad za 2 rude i 1 pšenicu",
+            "roadBuilding": "Izgradio je dva puta/mosta",
+            "military": "Unapređena vojna moć",
+            "crane": "Smanjena je cena unapređenja kulture",
+            "siege": {
+               "oneVictim": "Uzeo je resurse od {}",
+               "moreVictims": "Uzeo je resurse od {} igrača"
+            },
+            "bishop": "Uklonio je katapult",
+            "deserter": "Uzeo je vojničke snage od {}",
+            "vandal": "Uništio je most/put od {}",
+            "diplomat": "Pomakao je jedan trag",
+            "raze": "Uništio je grad od {}",
+            "spy": "Uzeo je kartu razvoja od {}",
+            "wedding": {
+               "oneVictim": "Uzeo je karte od {}",
+               "moreVictims": "Uzeo je karte od {} igrača"
+            },
+            "anarchy": "Nasumično postavio brojeve na pločicama",
+            "alchemist": "Odabrao je brojeve bacanja kockica",
+            "traitor": "Pomakao je praćenje varvara"
+         },
+         "masterMerchant": {
+            "title": "Master Merchant",
+            "description": "Izaberite bilo kog igrača sa više bodova, pogledajte njegovu ruku i izaberite dve resursne ili dobra karte.",
+            "cannotPlay": "Nema igrača koji imaju više bodova od vas",
+            "dialog": {
+               "title": "Ukradi!"
+            }
+         },
+         "merchant": {
+            "title": "Trgovac",
+            "description": "Pomaknite token trgovca do vašeg naselja ili grada. Igrač koji poseduje trgovca može trgovati tim resursom 2:1 sa bankom. Vredi 1 VP.",
+            "dialog": {
+               "title": "Postavi trgovca",
+               "message": "Jeste li sigurni da želite postaviti trgovca ovde?",
+               "yes": "Da!",
+               "no": "Otkaži"
+            }
+         },
+         "merchantFleet": {
+            "title": "Trgovačka flota",
+            "description": "Izaberite jedan resurs ili dobro po vašem izboru da trgujete sa bankom po stopi od 2:1 samo ovog poteza."
+         },
+         "commercialHarbor": {
+            "title": "Trgovačka luka",
+            "description": "Zamijenite 1 resurs za 1 dobro."
+         },
+         "resourceMonopoly": {
+            "title": "Monopol resursa",
+            "description": "Izaberite resurs. Svaki igrač mora vam dati (do) dva od tih resursa ako ih ima."
+         },
+         "commodityMonopoly": {
+            "title": "Monopol dobara",
+            "description": "Izaberite dobro. Svaki igrač vam mora dati jedno od toga dobra ako ga ima."
+         },
+         "expedition": {
+            "title": "Ekspedicija",
+            "description": "Izaberite bilo koju pločicu na tabli i pretvorite je u zlatnu pločicu resursa.",
+            "dialog": {
+               "title": "Jeste li sigurni",
+               "message": "Želite li pretvoriti ovu pločicu u zlato?",
+               "no": "Ne",
+               "yes": "Da"
+            }
+         },
+         "famine": {
+            "title": "Glad",
+            "description": "Svi igrači sa više bodova od vas odbacuju 2 nasumična resursa.",
+            "cannotPlay": "Nema igrača sa više bodova od vas."
+         },
+         "plenty": {
+            "title": "Obilje",
+            "description": "Dobijte dva resursa po vašem izboru."
+         },
+         "excavation": {
+            "title": "Iskopavanje",
+            "description": "Primanje 2 gline po naselju na svakoj glinenoj pločici"
+         },
+         "forestry": {
+            "title": "Šumarstvo",
+            "description": "Primanje 2 drveta po naselju na svakoj drvenoj pločici"
+         },
+         "irrigation": {
+            "title": "Irigacija",
+            "description": "Primanje 2 pšenice po naselju na svakoj pšeničnoj pločici"
+         },
+         "mining": {
+            "title": "Rudarenje",
+            "description": "Primanje 2 rude po naselju na svakoj rudnoj pločici"
+         },
+         "borderCollie": {
+            "title": "Građevinski kolie",
+            "description": "Primanje 2 ovna po naselju na svakoj ovčijoj pločici"
+         },
+         "inventor": {
+            "title": "Izumitelj",
+            "description": "Zamijenite dva broja pločica na tabli. Brojevi koje možete zamijeniti su: 3, 4, 5, 9, 10 i 11.",
+            "tileSelected": "Zamijeniti ove pločice?",
+            "dialog": {
+               "title": "Zamijeni pločice",
+               "message": "Želite li zamijeniti vrednosti ovih dviju pločica?",
+               "yes": "Da",
+               "no": "Otkaži"
+            }
+         },
+         "medicine": {
+            "title": "Medicina",
+            "description": "Izgradite grad za 2 rude i 1 pšenicu.",
+            "cannotAfford": "Morate imati barem dve rude i jednu pšenicu da biste koristili ovu kartu",
+            "cannotPlace": "Nema mesta na tabli gde možete postaviti grad",
+            "upgradeTitle": "Izgradite {} sa {}"
+         },
+         "roadBuilding": {
+            "title": "Izgradnja puta",
+            "description": "Postavite dva puta ili dva mosta, ili jedan od svakog, bez troškova za vas."
+         },
+         "military": {
+            "title": "Vojna moć",
+            "description": "Unapredite svoju vojnu moć za jedan nivo.",
+            "cannotPlay": "Već imate maksimalnu vojnu moć."
+         },
+         "crane": {
+            "title": "Dizalica",
+            "description": "Nakon što odigrate ovu kartu, sledeće unapređenje kulture ovog poteza košta jedno dobro manje",
+            "cannotPlay": "Ne možete odigrati ovu kartu jer nemate gradove ili već imate kartu Dizalice već u igri."
+         },
+         "siege": {
+            "title": "Opsada",
+            "description": "Izvedite napad, ali ukradite jedan nasumični resurs od svakog igrača koji ima selo ili grad na napadnutoj pločici. Ne košta vojni bod."
+         },
+         "bishop": {
+            "title": "Biskup",
+            "description": "Uklonite katapult sa table.",
+            "cannotPlay": "Nema katapulta na tabli koje možete ukloniti."
+         },
+         "deserter": {
+            "title": "Dezerter",
+            "description": "Uzmite jedan nivo vojne moći od igrača po vašem izboru.",
+            "cannotPlayMaxedPower": "Vaša vojna moć je dostigla maksimalni nivo od 3. Unapredite svoju politiku na nivo 3 da biste povećali svoj maksimum.",
+            "cannotPlayBarracks": "Već imate maksimalnu vojnu moć.",
+            "cannotPlayEmpty": "Niko nema vojnu moć; nema ništa za ukrasti"
+         },
+         "vandal": {
+            "title": "Vandal",
+            "description": "Uklonite put ili most drugog igrača po vašem izboru."
+         },
+         "diplomat": {
+            "title": "Diplomata",
+            "description": "Pomerite jedan od svojih puteva ili mostova na novo mesto.",
+            "cannotPlay": "Nemate staze koje možete pomeriti."
+         },
+         "raze": {
+            "title": "Razaranje",
+            "description": "Izgubite 1 vojnu moć i uništite neozidan grad bilo kog igrača sa više bodova od vas. Morate imati vojnu moć veću od ili jednaku 1 da biste odigrali ovu kartu.",
+            "cannotPlayNoPlayers": "Nema igrača sa više bodova od vas",
+            "cannotPlayNoBuildings": "Nema zgrada koje možete uništiti",
+            "cannotPlayNoMilitary": "Morate imati barem jednu vojnu moć da biste koristili ovu kartu",
+            "dialog": {
+               "title": "Jeste li sigurni?",
+               "message": "Želite li uništiti ovaj grad?",
+               "yes": "Da!",
+               "no": "Ne"
+            }
+         },
+         "spy": {
+            "title": "Špijun",
+            "description": "Izaberite igrača, pogledajte njegove razvojne karte i izaberite jednu da ukradete.",
+            "cannotPlay": "Nijedan drugi igrač trenutno nema razvojne karte.",
+            "dialog": {
+               "title": "Ukradi!"
+            }
+         },
+         "wedding": {
+            "title": "Venčanje",
+            "description": "Ukradite dve nasumične karte (resursi ili dobra) od svakog igrača koji ima više bodova od vas.",
+            "cannotPlay": "Nema igrača sa više bodova od vas."
+         },
+         "anarchy": {
+            "title": "Anarhija",
+            "description": "Izjednačite sve brojne pločice na tabli dok se ne dobije 7."
+         },
+         "alchemist": {
+            "title": "Alhemičar",
+            "description": "Svaki put kad posedujete ovu kartu, imate opciju da izaberete tačne brojeve na obe 6-strane kockice ili da uradite normalno nasumično bacanje.",
+            "cannotPlay": "Ova razvojna karta može se igrati samo na početku poteza."
+         },
+         "traitor": {
+            "title": "Izdajnik",
+            "description": "Pomaknite barbarina za 2 mesta. Zaustaviće se neposredno pre napada."
+         },
+         "constitution": {
+            "title": "Ustav",
+            "description": "1 bod. Igra se odmah i ne računa se prema vaših maksimalnih 5 razvojnih karata."
+         },
+         "printer": {
+            "title": "Štampač",
+            "description": "1 bod. Igra se odmah i ne računa se prema vaših maksimalnih 5 razvojnih karata."
+         }
+      },
+      "chat": {
+         "loadingError": "Došlo je do greške, pokušajte ponovo.",
+         "noMessages": "Nema poruka još uvek",
+         "emptyMsg": "Vaša poruka je prazna. Unesite neki tekst, molim vas.",
+         "addMsgHint": "Dodajte poruku",
+         "yourMsg": "vi",
+         "banned": "Ograničeni ste u četu do {}. Molimo vas da budete poštovani u razgovoru kako biste izbegli buduće zabrane. Želimo da ova zajednica bude zabavna za sve!",
+         "banConfirmation": {
+            "title": "Banuj igrača",
+            "message": "Da li ste sigurni da želite da zabranite ovog igrača u četu? Nećete videti nijednu poruku od njih",
+            "yes": "Da",
+            "no": "Ne",
+            "failed": "Došlo je do greške, pokušajte ponovo"
+         }
+      },
+      "playerTurnOverlay": {
+         "playerNameSuffix": "ov potez",
+         "playerTurn": "potez"
+      },
+      "buildDialog": {
+         "title": "IZGRADI",
+         "trade": "Trgovina",
+         "cannotAfford": "Nemate dovoljno resursa!",
+         "structureRequires": "{} zahteva:",
+         "cannotBuild": "Ne može se izgraditi {}",
+         "cannotBuildReason": "Nemate gde da ga postavite."
+      },
+      "trailTypeDialog": {
+         "title": "ODABERITE JEDNU",
+         "subtitle": "Šta želite da izgradite?",
+         "cannotAfford": "Nemate dovoljno resursa!",
+         "trailsRequires": "{} zahteva:"
+      },
+      "devCardsDialog": {
+         "title": "RAZVOJNE KARTE",
+         "defaultButton": "Igraj kartu",
+         "noCards": "Nema razvojnih karata",
+         "cannotPlay": "Ne možete igrati {} kartu"
+      },
+      "playerModalDialog": {
+         "military": "Vojska",
+         "militaryUpgrade": "Unapredi",
+         "militaryRequires": "Unapređivanje vaše vojske zahteva",
+         "militaryCannotAfford": "Nemate dovoljno resursa!",
+         "raid": "Napad",
+         "culture": "Kultura",
+         "cultureUpgrade": "Unapredi",
+         "devCards": "Razvojne Karte",
+         "devCardsPlay": "Igraj",
+         "build": "Izgradi",
+         "trade": "Trgovina",
+         "raidError": {
+            "title": "Nemoguće napasti",
+            "message": "Ne možete napasti u ovom trenutku"
+         },
+         "points": {
+            "victoryPoints": "Bodovi za pobedu",
+            "longestRoute": "Najduži put",
+            "military": "Vojska",
+            "islands": "Istražene Ostrva",
+            "devCards": "Razvojne Karte",
+            "merchant": "Trgovinski Žetoni",
+            "ports": "Lučke Vlasti"
+         }
+      },
+      "safeRollDialog": {
+         "title": "BEZBEDNO BACANJE?",
+         "message": "Postoji rizik da ćete odbaciti polovinu svoje ruke!",
+         "riskyRoll": "Rizično bacanje",
+         "safeRoll": "Bezbedno bacanje"
+      },
+      "safeTokens": {
+         "title": "KUPI BEZBEDNOSNE ŽETONE"
+      },
+      "rollType": {
+         "description": "Baci kockice ili koristi svoju Alhemičarsku kartu da biraš brojeve",
+         "alchemist": "Koristi Alhemičara",
+         "random": "Nasumično bacanje"
+      },
+      "gameOver": {
+         "title": "Kraj igre",
+         "stats": "Statistike",
+         "home": "Početna",
+         "linkCopied": "Link igre kopiran u međuspremnik",
+         "goGold": "POSTANI GOLD ČLAN!",
+         "rematch": "Revanš",
+         "favoriteMap": "Omiljena mapa",
+         "unfavoriteMap": "Ukloni iz omiljenih mapa",
+         "won": "{} \nje pobedio!",
+         "upgradeToSee": "Ažurirajte na Gold članstvo kako biste videli \n još 12 statistika!"
+      },
+      "players": {
+         "resourceCards": "Resursne Karte",
+         "devCards": "Razvojne Karte",
+         "military": "Vojni Bodovi",
+         "scienceLevel": "Nivo Nauke",
+         "commerceLevel": "Nivo Trgovine",
+         "politicsLevel": "Nivo Politike",
+         "merchant": "Trgovinski Žeton",
+         "portPoints": "Bodovi za Lučku Vlast",
+         "longestRoad": "Najduži Put",
+         "victoryPoints": "Bodovi za Pobedu"
+      },
+      "rematch": {
+         "canceled": {
+            "title": "REVANŠ",
+            "close": "Zatvori",
+            "declined": "Revanš odbijen"
+         },
+         "ready": {
+            "title": "SPREMITE SE!",
+            "cancel": "OTKAŽI"
+         },
+         "request": {
+            "title": "Zahtev za Revanš",
+            "yes": "Da",
+            "no": "Ne"
+         },
+         "reject": {
+            "title": "Odbijanje Revanša?",
+            "message": "Da li ste sigurni da želite da odbijete ovu igru?",
+            "yes": "Odbij"
+         }
+      },
+      "replay": {
+         "turnNumber": "Potez {} od {}",
+         "replayLast": "Ponovi poslednji",
+         "turn": {
+            "one": "potez",
+            "many": "poteza",
+            "other": "poteza"
+         },
+         "purchase": {
+            "title": "PONOVI",
+            "description": "Ponovi omogućava da ponovo gledate sve poteze i vidite šta se desilo od vašeg poslednjeg poteza...ili ponovo odigrate celu igru kada se završi! Želite li otključati pune ponovne preglede?",
+            "no": "Ne, hvala",
+            "yes": "Postani Gold"
+         }
+      },
+      "swipeableDevCardDialog": {
+         "close": "Zatvori",
+         "play": "Igraj Kartu",
+         "cannotPlay": "Ne može se igrati {}",
+         "wrongTurn": "Nije tvoj red"
+      },
+      "actions": {
+         "raid": {
+            "tileSelected": "Napadni ovu ploču?",
+            "removeCatapult": "Ukloni ovu katapultu?"
+         },
+         "metro": {
+            "placeIt": "Metro! Izaberi bilo koju od tvojih gradova da je postaviš."
+         },
+         "chooseTile": {
+            "bishop": "Odaberi katapultu koju ćeš ukloniti",
+            "expedition": "Odaberi ploču koju ćeš pretvoriti u zlatnu",
+            "inventor": "Odaberi dve ploče da razmeniš brojeve",
+            "merchant": "Postavi svoj trgovinski žeton",
+            "siege": "Odaberi ploču za opsadu",
+            "raid": "Odaberi ploču za napad"
+         },
+         "chooseRoads": {
+            "placeRoad": "Postavi put ili most",
+            "place2Roads": "Postavi 2 puta ili mosta",
+            "selectRoad": "Odaberi put ili most",
+            "selectEnemyRoad": "Odaberi neprijateljski put ili most",
+            "confirm": "Izgradi {}?"
+         },
+         "chooseCorner": {
+            "selectEnemyCity": "Odaberi neprijateljski grad",
+            "placeVillage": "Postavi svoje selo",
+            "placeCity": "Postavi svoj grad",
+            "confirmVillage": "Izgradi selo?",
+            "confirmCity": "Izgradi grad?",
+            "confirmCityWall": "Izgradi zid za grad?",
+            "confirmMetro": "Izgradi metro?"
+         },
+         "roll": "Baci kocke",
+         "build": "Build",
+         "remove": "Remove",
+         "move": "Move"
+      },
+      "menu": {
+         "gameActions": "AKCIJE U IGRICI",
+         "info": "INFO",
+         "turnReplay": "Ponovni prikaz poteza",
+         "rollFirst": "Prvo baci kockice, molim te.",
+         "surrender": "Predaj se",
+         "surrenderDialog": {
+            "title": "Predaj se",
+            "message": "Da li ste sigurni da želite da se predate?\nNema kazne za priznavanje poraza.",
+            "yes": "Predaj se",
+            "no": "Otkaži"
+         },
+         "share": "Podeli",
+         "reportBug": {
+            "title": "Prijavi Bag",
+            "thanks": "Hvala!",
+            "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+         },
+         "settings": "Podešavanja",
+         "prodChart": "Grafikon Proizvodnje",
+         "devCards": "Razvojne Karte",
+         "rules": "Pravila",
+         "cancel": "Otkaži"
+      },
+      "settings": {
+         "title": "PODEŠAVANJA",
+         "sound": "Zvuk",
+         "music": "Muzika",
+         "mapHints": "Podsetnici na mapi",
+         "chatNotifications": "Obaveštenja o četu",
+         "turnNotifications": "Obaveštenja o potezima",
+         "autoJump": "Automatski prelazak na sledeću igru",
+         "showReplays": "Prikaži ponovne preglede",
+         "autoRoll": "Automatsko bacanje kockica"
+      },
+      "playerControls": {
+         "military": "Vojni",
+         "science": "Nauka",
+         "commerce": "Trgovina",
+         "politics": "Politika"
+      },
+      "pickPlayer": {
+         "title": "IZABERI IGRAČA",
+         "noPlayers": "Nema igrača za krađu.\nSvi igrači imaju nula resursa.",
+         "button": "Izaberi"
+      },
+      "barbarianDialogs": {
+         "basic": "Varvari",
+         "barbarianLead": "Vođa varvara",
+         "playerLead": "Vođa igrača",
+         "defense": "Ukupna odbrana",
+         "barbarianStrength": "Snaga varvara",
+         "attackPossibleIn": "Napad moguć za {} poteza",
+         "leaderboard": "Tabela",
+         "defeat": {
+            "title": "Poraz",
+            "playersAffected": "{} igrači",
+            "leastMilitary": "Najmanje vojne snage",
+            "lostCity": {
+               "one": "Izgubljen grad",
+               "many": "Svaki izgubljeni grad",
+               "other": "Svaki izgubljeni grad"
+            }
+         },
+         "upgradeMilitary": "Unapredi vojnu silu",
+         "result": "VARVARI NAPADAJU",
+         "won": {
+            "title": "Odbijeno",
+            "playersAffected": "{} igrači",
+            "mostMilitary": "Najviše vojne snage",
+            "prize": {
+               "one": "+1 VP",
+               "many": "+1 Razvojna karta svaki",
+               "other": "+1 Razvojna karta svaki"
+            }
+         },
+         "dataNotAvailable": "Podaci nisu dostupni"
+      },
+      "stats": {
+         "victoryPoints": "Bodovi za Pobedu",
+         "villages": "Sela",
+         "cities": "Gradovi",
+         "roadsBridges": "Putevi/Mostovi",
+         "military": "Vojni",
+         "metros": "Metroi",
+         "self7Rolls": "Sopstveni 7 bacanja",
+         "discards": "Odbacivanja",
+         "devCards": "Razvojne karte",
+         "raids": "Napadi",
+         "raided": "Pljačkano",
+         "trades": "Trgovine",
+         "wheat": "Pšenica",
+         "ore": "Ruda",
+         "brick": "Cigla",
+         "wood": "Drvo",
+         "sheep": "Ovca",
+         "paper": "Papir",
+         "cloth": "Tkanina",
+         "coin": "Novčić"
+      },
+      "metroEarned": {
+         "title": "Metro!",
+         "msg": "Čestitamo, zaradili ste metro. Dodirnite bilo koji grad da ga postavite.",
+         "ok": "U redu!"
+      },
+      "merchant": {
+         "title": "Trgovinski žeton",
+         "msg": "Igrač koji kontroliše trgovinski žeton može trgovati ovim resursom 2:1."
+      },
+      "harbor": {
+         "title": "Luka",
+         "tradeAmount2": "2 {} resursa",
+         "tradeAmount3": "3 resursa iste vrste",
+         "description": "Trgovanje $tradeAmount za 1\n drugi resurs ili komoditet."
+      },
+      "bottomBar": {
+         "confirmAction": "Da",
+         "cancelAction": "Ne"
+      },
+      "culture": {
+         "title": "KULTURA",
+         "upgrade": "Unapredi"
+      },
+      "cultureUpgrade": {
+         "close": "Zatvori",
+         "achieved": "POSTIGNUTO!",
+         "upgrade": "Unapredi {}",
+         "cannotUpgrade": "Nemoguće je unaprediti",
+         "noCity": "Morate imati otvoren grad bez metropolisa kako biste unapredili svoju kulturu na nivo 4 ili 5."
+      },
+      "devCardsInfo": {
+         "title": "RAZVOJNE KARTE"
+      },
+      "diceRolls": {
+         "title": "BACANJE KOCKICA",
+         "history": "Istorija bacanja:"
+      },
+      "devDiscard": {
+         "title": "Odbaci",
+         "description": "Možete zadržati samo {} karte. Izaberite {} ispod da ih odbacite.",
+         "cardsDiscarded": {
+            "one": "karta",
+            "many": "{} karte",
+            "other": "{} karte"
+         }
+      },
+      "feedback": {
+         "title": "Povratne informacije",
+         "send": "Pošalji",
+         "label": "Da li ste pronašli bag ili imate sjajnu ideju?",
+         "placeholder": "Voleli bismo čuti od naših korisnika!",
+         "emptyError": "Unesite neke povratne informacije"
+      },
+      "freeRaid": {
+         "title": "Besplatni napad",
+         "description": "Zadnje mesto na 7 bacanja nagrađuje vas besplatnim napadom. Postavite svoj katapult da ukradete resurs od protivnika.",
+         "button": "Napad"
+      },
+      "military": {
+         "title": "VOJNI",
+         "maxPart1": "Maksimalna vojna snaga: ",
+         "maxPart2": "3 (Barake povećavaju na 6)",
+         "raid": "Napad",
+         "raidUnable": "Nemoguće je napasti",
+         "cannotRaid": "Nemate dovoljno resursa za napad",
+         "raid-1": "Napad   -1",
+         "militaryPower": "Vaša vojna snaga",
+         "vs": "protiv",
+         "barbarianStrength": "Snaga varvara",
+         "totalDefense": "Ukupna odbrana",
+         "upgrade": {
+            "title": "Unapredi",
+            "cannotAfford": "Ne možete to priuštiti!",
+            "upgradeRequires": "Unapređivanje vaše vojne snage zahteva",
+            "maxPower": "Maksimalna vojna snaga",
+            "maxPowerDesc": "Vaša vojna snaga dostigla je maksimalnu snagu od 3. Unapredite svoju politiku na nivo 3 kako biste povećali maksimum.",
+            "maxPowerBarracks": "Maksimalna vojna snaga",
+            "maxPowerBarracksDesc": "Vaša vojna snaga dostigla je maksimalnu snagu od 6. Pokrenite napade da biste koristili svoju vojnu snagu."
+         },
+         "newIsland": {
+            "title": "ISTRAŽENA OSTRVA!",
+            "description": "Istražili ste novo ostrvo!",
+            "prize": "+1 bod za pobedu",
+            "button": "U redu"
+         },
+         "prodChart": {
+            "title": "GRAFIKON PROIZVODNJE",
+            "village": "Selo",
+            "city": "Grad"
+         },
+         "selectCard": {
+            "button": "Potvrdi",
+            "choose": "Izaberite {}"
+         },
+         "trade": {
+            "title": "TRGOVINA",
+            "give": "DAJ",
+            "receive": "PRIMI",
+            "resourcesLabel": "Vaši resursi:",
+            "emptyTrade": "Nema ničega za trgovinu"
+         },
+         "tradeToBuild": {
+            "title": "TRGOVINA ZA IZGRADNJU",
+            "build": "Izgradi {}",
+            "missing": "Nedostaje",
+            "resourcesLabel": "Vaši resursi",
+            "and": "i"
+         },
+         "endTurn": {
+            "nextGame": "Sledeća igra",
+            "wait": "Sačekaj",
+            "end": "Kraj",
+            "turn": "Potez",
+            "endTurn": "Završi potez",
+            "nothingToDo": "Izgleda da nema više toga za raditi.",
+            "endTurnConfirm": "Završi potez?",
+            "canUpgrade": "Da li ste sigurni da želite završiti potez? Možete unaprediti svoju kulturu bez trgovine!",
+            "lotOfResources": "Da li ste sigurni da želite završiti potez? Imate puno neiskorišćenih resursa.",
+            "cancel": "Otkaži"
+         },
+         "errors": {
+            "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
+            "timeExpired": "Vreme isteklo",
+            "timeExpiredMsg": "Isteklo vam je vreme i uklonjeni ste iz igre."
+         }
+      },
+      "tutorial": {
+         "viewProductChart": "Prikaži tabelu grafa proizvodnje",
+         "continue": "Dodirnite da biste nastavili",
+         "learningMode": {
+            "title": "Režim učenja",
+            "description": "Cilj Landover-a je postizanje bodova za pobedu izgradnjom naselja i proširivanjem svog carstva. Hajde da to isprobamo u ovoj igri. Vaš cilj je postizanje 15 bodova za pobedu!'"
+         },
+         "firstVillage": {
+            "title": "Prvo selo",
+            "description": "Postavite svoje selo na ugao visoke vrednosti ispod. Označeni su crvenom bojom. Pokušajte dobiti ono koje ima 3 različite vrste resursa. Uvek je dobro početi sa žitom, glinom, drvetom ili ovcama."
+         },
+         "firstRoad": {
+            "title": "Prva cesta",
+            "description": "Sada postavite put od svog sela prema još jednom dobrom uglu."
+         },
+         "firstCity": {
+            "title": "Prvi grad",
+            "description": "Postavite svoj grad na još jedan ugao visoke vrednosti ispod. Šta god da niste dobili svojim selom, pokušajte dobiti gradom. Zapamtite da se gradovi i sela moraju uvek razdvajati barem jednim praznim uglom."
+         },
+         "secondRoad": {
+            "title": "Druga cesta",
+            "description": "I ponovo postavite put od svog grada prema još jednom dobrom uglu."
+         },
+         "rollTime": {
+            "title": "Vreme za bacanje",
+            "description": "Sada kada ste postavili svoja početna naselja, vreme je da bacite kocke i počnete prikupljati resurse. Nastavite bacati dok ne prikupite dovoljno resursa da biste izgradili još nešto."
+         },
+         "moreRoads": {
+            "title": "Izgradite još puteva",
+            "description": "Izgleda da imate dovoljno resursa da izgradite još puteva. Slobodno izgradite još puteva dalje od svojih naselja."
+         },
+         "anotherVillage": {
+            "title": "Izgradite još jedno selo",
+            "description": "'Sada imate dovoljno resursa da izgradite selo i čeka vas slobodno mesto. Slobodno izgradite još jedno selo da proširite svoje carstvo i prikupite više resursa svaki potez."
+         },
+         "productionChart": {
+            "title": "Grafikon proizvodnje",
+            "description": "Ispod je prikazano koliko resursa sela i gradovi proizvode: "
+         },
+         "trading": {
+            "title": "Trgovina",
+            "description": "Banke Landover-a omogućavaju vam trgovinu bilo kojim resursom ili komoditetom 3 za 1. Izgleda da možete unaprediti svoje selo u grad, ali to zahteva trgovinu. Slobodno pokušajte izgraditi grad i trebali biste videti poruku 'Trgovina za izgradnju'. Ako želite ekonomičnije trgovine, pokušajte izgraditi selo na luci koja vam omogućava mogućnost 2 za 1."
+         },
+         "culture": {
+            "title": "Kultura",
+            "description": "Sada kada imate komoditet, slobodno otvorite prozor sa kulturom i unapredite se. Unapređivanje kulture pružiće vam mogućnost sticanja vrednih razvojnih karata, otključavanje novih sposobnosti ili"
+         },
+         "cities": {
+            "title": "Gradovi",
+            "description": "Izaberite selo koje želite unaprediti u grad. Košta 3 rude i 2 pšenice, ali će udvostručiti proizvodnju vašeg sela!"
+         },
+         "military": {
+            "title": "Vojni",
+            "description": "Sada kada se vaša ekonomija kreće, vreme je da izgradite malo vojske kako biste odbili napade varvara. Potrebna vam je jedna vojna snaga za svaki grad kada varvari napadnu kako biste izbegli gubitak grada. Tragač za varvarima je gore desno i pokazuje koliko bacanja imate do napada. Hajde..."
+         },
+         "barbarians": {
+            "title": "Varvari",
+            "description": "Varvari su na putu. Štit gore desno pokazuje da li ste sigurni ili ne. Ako je crveno, potrebna vam je više vojske. Ako je zeleno, onda ste sigurni. Svaki put kad napadnu, izgubićete 1 vojnu snagu, pa se pobrinite da stalno dodajete više vojske."
+         },
+         "metros": {
+            "title": "Metroi",
+            "description": "Budite sigurni da stalno unapređujete svoju kulturu sa kartama komoditeta. Kada dostignete nivo 4, dobićete metro vredan +2VP. Metroi su imuni na napade varvara i ne mogu ih srušiti drugi igrači."
+         },
+         "spendResources": {
+            "title": "Potrošite svoje resurse",
+            "description": "Trenutno ste u opasnosti da odbacite polovinu svojih karata ako se baci 7! Pobrinite se da potrošite svoje resurse ili izgradite zidove grada kako biste povećali veličinu svoje ruke. Gradski zidovi koštaju 2 gline i mogu se izgraditi na bilo kojem gradu."
+         },
+         "goodLuck": {
+            "title": "Srećno!",
+            "description": "Izgleda da ste dobro na putu do 15 VP. Nastavite sa širenjem, izgradnjom sela, unapređivanjem u gradove, podizanjem vojske i izgradnjom metroa. Ako imate pitanja, pridružite nam se na Discordu. Isprobajte neke igre protiv botova i kad budete spremni, izazovite svoje prijatelje!"
+         },
+         "end": {
+            "title": "Čestitamo",
+            "description": "Upravo ste dostigli 15 VP i pobedili ste u igri! Nadamo se da ste se zabavljali. Toplo preporučujemo da probate solo igru protiv jednog bota."
+         }
+      },
+      "subscription": {
+         "cancel": {
+            "title": "Otkaži pretplatu",
+            "message": "Žao nam je što niste zadovoljni svojom pretplatom. Možete li nam molim vas ostaviti povratne informacije u našem Discord kanalu prvo? Uvek se trudimo poboljšati aplikaciju!",
+            "feedbackButton": "Ostavi povratne informacije",
+            "cancelButton": "Otkaži pretplatu"
+         }
+      },
+      "discord": {
+         "title": "PRIKLJUČI SE ZAJEDNICI!",
+         "msg1": "Vau, stvarate momenat!",
+         "msg2": "Želite li upoznati druge igrače Landover-a, pronaći igre, saznati o novim funkcijama i direktno razgovarati sa našim timom programera?",
+         "button": "Pridruži se Discordu"
+      },
+      "itp": {
+         "titleLetsPlay": "ZAIGRAJMO",
+         "titleSuccess": "ODLIČNO!",
+         "message": "Izgleda da vam trebaju neke igre. Imamo igrače spremne i čekamo!",
+         "messageSuccess": {
+            "one": "Sada ste u {} igri!",
+            "many": "Sada ste u {} igrama!",
+            "other": "Sada ste u {} igrama!"
+         },
+         "myGames": "Idi na Moje igre",
+         "startGames": {
+            "one": "Započnite {} igru",
+            "many": "Započnite {} igre",
+            "other": "Započnite {} igre"
+         },
+         "footerMessage": "Nema pritiska! Samo ćemo vas obavestiti kada je vaš red za potez.",
+         "error": "Nismo mogli da vas pridružimo izabranoj igri"
+      },
+      "ongoingGame": {
+         "inLobby": {
+            "title": "LIVE GAME LOBBY",
+            "leaveBtn": "Napusti",
+            "rejoinBtn": "Ponovo pridruži",
+            "bottomMsg1": "Trenutno ste u lobiju za live igru!",
+            "bottomMsg2": "Molimo vas da napustite ili ponovo pridružite lobiju za igru kako biste bili spremni čim igra počne."
+         },
+         "inGame": {
+            "title": "LIVE GAME",
+            "leaveBtn": "Predaj se",
+            "rejoinBtn": "Ponovo pridruži",
+            "bottomMsg1": "Trenutno ste u live igri!",
+            "bottomMsg2": "Molimo vas da se predajete ili ponovo pridružite ovoj igri kako drugi\nigrači ne bi čekali na vas."
+         },
+         "gameNotExist": "Vaša igra više ne postoji.",
+         "somethingWentWrong": "Nešto nije u redu. Pokušajte ponovo ili započnite novu igru."
+      },
+      "upgradeDialog": {
+         "title": "UNAPREDI NA GOLD",
+         "error": "Greška pri kupovini",
+         "footer": {
+            "comingSoon": "Uskoro...",
+            "createAccount": "Napravi nalog",
+            "watchAd": "Pogledaj oglas",
+            "noAds": "Nažalost, trenutno nema dostupnih oglasa",
+            "restore": "Obnovi kupovinu",
+            "noPurchase": "Nema aktivne pretplate"
+         }
+      },
+      "buildingStyles": {
+         "default": "podrazumevano",
+         "alien": "vanzemaljski",
+         "modern": "moderni",
+         "fantasy": "fantazijski",
+         "toys": "igračke"
+      },
+      "culture": {
+         "science": {
+            "abilityName": "Vodovod",
+            "abilityDescription": "Ako igrač ne dobije nijedan resurs za određeno bacanje, dobija jedan slučajan resurs.",
+            "abilityAnnouncement": "Ako ne dobijete nijedan resurs tokom bacanja, sada ćete dobiti jedan slučajan resurs."
+         },
+         "commerce": {
+            "abilityName": "Banka",
+            "abilityDescription": "Omogućava igračima trgovinu komoditetima 2:1 sa bankom za bilo koji resurs ili komoditet.",
+            "abilityAnnouncement": "Sada možete trgovati komoditetima 2:1 sa bankom."
+         },
+         "politics": {
+            "abilityName": "Barake",
+            "abilityDescription": "Vojna snaga može se povećati iznad nivoa 3. Vojna snaga može se povećati iznad nivoa 3.",
+            "abilityAnnouncement": "Vaša maksimalna vojna snaga povećana je sa 3 na 6."
+         }
+      },
+      "gameStartTypes": {
+         "ranked": "Rangirano",
+         "quick": "Brza",
+         "custom": "Prilagođeno",
+         "welcome": "Dobrodošli"
+      },
+      "gameType": {
+         "custom": "Uživo",
+         "daily": "Dnevna",
+         "tutorial": "Vodič",
+         "solo": "Solo",
+         "private": "Privatno"
+      },
+      "premium": {
+         "premiumBots": "Igrajte sa 14 botova, svaki sa jedinstvenim sposobnostima",
+         "premiumStyles": "Pristupite 4 alternativna tematska stila i omiljenim bojama",
+         "premiumPlayersNumber": "Kreirajte epske igre sa 8 igrača sa prijateljima",
+         "premiumGameOptions": "Kreirajte prilagođene igre prilagođene vama",
+         "premiumStats": "Analizirajte rezultate igre kako biste postali bolji",
+         "premiumAvatars": "Koristite bilo koju sliku kao avatar u igri",
+         "premiumMaps": "Dizajnirajte nove i uzbudljive mape",
+         "premiumNoAds": "Bez oglasa. Direktno podržite programere!",
+         "title": "Zlatni član",
+         "lastPayment": "Poslednje plaćanje",
+         "nextPayment": "Sledeće plaćanje",
+         "cancelled": "Otkazano\nZavršava se:",
+         "cancel": "Otkaži",
+         "canceledTitle": "Pretplata",
+         "canceledMessage": "Pretplata uspešno otkazana",
+         "success": {
+            "title": "Uspeh!",
+            "home": "Početna",
+            "message": "Sada ste korisnik zlatnog paketa",
+            "safeRollMsg": "Tokeni za siguran bacanj uspešno kupljeni."
+         },
+         "canceled": {
+            "title": "Otkazano",
+            "home": "Početna",
+            "message": "Nešto je pošlo po zlu prilikom kupovine"
+         }
+      },
+      "ranks": {
+         "promoted": {
+            "title": "PROMOVISANI!",
+            "message": "Čestitamo! \nVaša sjajna igra zaradila vam je promociju u rangu!"
+         },
+         "demoted": {
+            "title": "DEMOTE!",
+            "message": "O ne! Spustili ste se u rangu.\nMožda je vreme za probu nove strategije ili molitvu božanstvu kocke?"
+         },
+         "viewRanks": "Pogledaj rangove",
+         "title": "Rangovi",
+         "rules": "Kako rangiranje funkcioniše"
+      },
+      "dailyGames": {
+         "noGames": "Nema igara u toku",
+         "startGame": "Započni igru",
+         "createGame": "Kreiraj igru",
+         "joinByCode": "Pridruži se preko koda",
+         "turnCount": {
+            "many": "poteza",
+            "single": "potez"
+         },
+         "gameType": {
+            "ranked": "Rangirano",
+            "casual": "Opšte"
+         },
+         "title": "Moje igre",
+         "game": {
+            "waiting": "Čekanje...",
+            "rematchRequest": "Zahtev za revanš",
+            "gameOver": "Kraj igre",
+            "play": "Igraj",
+            "invite": "Pozovi igrače",
+            "start": "Započni igru?"
+         }
+      },
+      "profile": {
+         "editInfo": "Uredi informacije",
+         "city": "Grad",
+         "description": "Opis",
+         "email": "Email",
+         "name": "Ime",
+         "status": "Status",
+         "save": "Sačuvaj",
+         "linkCopied": "Link profila kopiran u međuspremnik",
+         "settings": {
+            "turnEmails": "Šalji emailove o potezima",
+            "chatNotifications": "Obaveštenja u chatu",
+            "recentInvites": "Dozvoli nedavne pozive",
+            "autoJump": "Auto-skok na sledeću dnevnu igru",
+            "mapHints": "Podsetnici na mapi",
+            "showReplays": "Prikazuj reprize",
+            "acceptNewGames": "Auto-prihvatanje novih igara",
+            "autoRoll": "Auto-bacanje kockica na početku poteza"
+         },
+         "account": {
+            "signUp": "Registracija",
+            "saveAccount": "SAČUVAJ NALOG",
+            "emailSentTitle": "Email poslat",
+            "emailSentMsg": "Molimo vas da proverite svoj sanduče i potvrdite svoju email adresu. Zatim možete koristiti ovaj nalog."
+         },
+         "history": {
+            "title": "Istorija",
+            "filter": "Filter",
+            "empty": "Nema podataka o istoriji"
+         },
+         "mapStats": {
+            "title": "Statistika mape",
+            "filter": "Filter",
+            "empty": "Nema statistike"
+         },
+         "rank": "Rang",
+         "season": {
+            "progress": "Tok sezone"
+         },
+         "delete": {
+            "title": "Obriši nalog",
+            "dialog": {
+               "title": "Da li ste sigurni?",
+               "message": "Žao nam je što vas vidimo kako odlazite! Da li ste sigurni da želite da obrišete svoj nalog? Svi vaši podaci i igre će biti trajno uklonjeni.\nMorate potvrditi svoj nalog kako biste ga obrisali.",
+               "no": "Ne",
+               "yes": "Da"
+            },
+            "enterPassword": "Unesite šifru",
+            "enterPasswordInstruction": "Unesite šifru za svoj nalog ispod"
+         },
+         "stats": {
+            "filter": {
+               "title": "FILTER",
+               "clear": "Očisti",
+               "filter": "Filter"
+            },
+            "totalGames": "Ukupno igara - ",
+            "unlockAll": "Postanite Gold korisnik da otključate sve statistike"
+         },
+         "info": {
+            "hometown": "Rodni grad: ",
+            "editInfo": "Uredi informacije",
+            "joinedOn": "Pridružen/a {}",
+            "months": {
+               "1": "Jan",
+               "2": "Feb",
+               "3": "Mar",
+               "4": "Apr",
+               "5": "Maj",
+               "6": "Jun",
+               "7": "Jul",
+               "8": "Avg",
+               "9": "Sep",
+               "10": "Okt",
+               "11": "Nov",
+               "12": "Dec"
+            },
+            "1stPlace": "1. mesto",
+            "2ndPlace": "2. mesto",
+            "3rdPlace": "3. mesto",
+            "totalGames": "Ukupno igara",
+            "asOfMay": "kako u maju 2023.",
+            "style": "Style",
+            "achievements": "Achievements",
+            "color": "Color",
+            "details": "Details"
+         },
+         "errors": {
+            "updateFailed": "Ažuriranje nije uspelo",
+            "nameProfanity": "Ime ne sme sadržavati uvrede",
+            "nameTaken": "Ime je već zauzeto",
+            "nameEmpty": "Ime ne može biti prazno",
+            "statusProfanity": "Status ne sme sadržavati uvrede",
+            "descriptionProfanity": "Opis ne sme sadržavati uvrede",
+            "cityProfanity": "Grad ne sme sadržavati uvrede"
+         }
+      },
+      "auth": {
+         "fb": {
+            "newPassword": "Nova šifra",
+            "newPasswordHint": "Unesite novu šifru",
+            "verifiedTitle": "Verifikovano",
+            "verifiedMsg": "Vaša email adresa je uspešno verifikovana.",
+            "passResetMsg": "Vaša šifra za email je uspešno promenjena.",
+            "expired": "Neispravan ili istekao link, pokušajte ponovo da verifikujete email.",
+            "weakPass": "Šifra je previše slaba, pokušajte ponovo.",
+            "expiredPassReset": "Neispravan ili istekao link, pokušajte ponovo da resetujete šifru."
+         },
+         "linking": {
+            "title": "Povezivanje naloga",
+            "message": "Prijavljivanje sa $newProvider će zameniti vaše postojeće prijave. Nastaviti?",
+            "no": "Ne",
+            "yes": "Da"
+         },
+         "footer": {
+            "agree": "Dodirivanjem dugmeta za prijavljivanje, saglasni ste sa\n",
+            "tos": "Uslovima korišćenja",
+            "and": " i ",
+            "privacy": "Politikom privatnosti"
+         },
+         "code": {
+            "msg": "Unesite kod poslat na {}",
+            "confirm": "Potvrdi",
+            "sent": "Email poslat",
+            "sentMsg": "Novi kod je poslat na {}",
+            "resend": "Ponovo pošalji kod",
+            "continueWithEmail": "Imate šifru? Nastavite ovde"
+         },
+         "email": {
+            "label": "Unesite svoj email kako biste se registrovali ili prijavili na Landover",
+            "button": "Potvrdi"
+         },
+         "signUp": {
+            "nickname": {
+               "label": "Nadimak",
+               "placeholder": "Unesite nadimak...",
+               "empty": "Molimo vas da unesete nadimak",
+               "short": "Molimo vas da unesete nadimak sa najmanje 3 karaktera",
+               "profanity": "U nadimku je otkrivena uvreda. Pokušajte ponovo."
+            },
+            "password": {
+               "label": "Potvrdite šifru",
+               "placeholder": "Potvrdite šifru...",
+               "empty": "Molimo vas da unesete šifru",
+               "mismatch": "Šifre se ne podudaraju"
+            }
+         },
+         "verify": {
+            "email": "Potvrdite svoj email",
+            "message": "Email za verifikaciju vam je poslat! Molimo vas da proverite svoje sanduče i verifikujete nalog pre nego što se prijavite",
+            "resend": "Pošalji ponovo"
+         },
+         "login": "Prijavite se",
+         "useFB": "Nastavite sa Facebook-om",
+         "useGoogle": "Nastavite sa Google-om",
+         "useEmail": "Nastavite sa Email-om",
+         "useApple": "Nastavite sa Apple-om",
+         "or": "ILI",
+         "passRequired": "Potrebna vam je vaša šifra",
+         "enterPassword": "Molimo vas da unesete vašu šifru za {}"
+      },
+      "alerts": {
+         "ok": "OK",
+         "cancel": "Otkaži"
+      },
+      "forms": {
+         "submit": "Potvrdi",
+         "nicknameEmpty": "Molimo vas da unesete nadimak",
+         "nicknameShort": "Molimo vas da unesete nadimak sa najmanje 3 karaktera",
+         "email": "Email",
+         "emailEmpty": "Molimo vas da unesete email",
+         "emailPlaceholder": "Unesite Email...",
+         "emailInvalid": "Molimo vas da unesete validnu email adresu",
+         "password": "Šifra",
+         "passwordPlaceholder": "Unesite Šifru...",
+         "passwordEmpty": "Molimo vas da unesete šifru",
+         "forgotPassword": "Zaboravljena šifra?",
+         "resetPasswordTitle": "Resetuj šifru",
+         "resetPasswordEmail": "Unesite vaš email",
+         "resetPasswordEmailSent": "Email poslat",
+         "resetPasswordEmailSentMsg": "Molimo vas da proverite svoje sanduče"
+      },
+      "codeJoin": {
+         "join": "Pridruži se"
+      },
+      "history": {
+         "title": "ISTORIJA",
+         "notAvailable": "Podaci o starim rezultatima igara nisu dostupni.",
+         "turns": "{} Poteza",
+         "players": "{} igrača",
+         "noHistory": "Nema podataka o istoriji"
+      },
+      "settings": {
+         "title": "PODEŠAVANJA",
+         "editInfo": "Uredi informacije",
+         "stats": "Statistike",
+         "themes": "Teme i Boje",
+         "history": "Istorija",
+         "logout": {
+            "title": "Odjavi se",
+            "guest": {
+               "title": "Upozorenje!",
+               "message": "Uskoro ćete se odjaviti sa svog gostujućeg naloga. Svi podaci će biti izgubljeni i sve vaše igre će biti poništene. Kako biste to izbegli, prvo se autentičujte sa nekim drugim prijavljivanjem. Nastaviti?",
+               "delete": "Obriši nalog",
+               "cancel": "Otkaži"
+            }
+         },
+         "privacy": "Politika privatnosti",
+         "terms": "Uslovi korišćenja"
+      },
+      "invite": {
+         "play": "Igraj",
+         "cancel": "Otkaži",
+         "inviteFrom": "Poziv od {}!"
+      },
+      "matchmaking": {
+         "title": "NEW RANKED GAME",
+         "daily": "Start Daily Game",
+         "live": "Start Live Game",
+         "customGame": "Want to choose your map and settings? Create a custom game.",
+         "dailyDescription": "24 hours to make your move.\n Unlimited games!",
+         "liveDescription": "90s to make your move.\n1 game at a time!"
+      },
+      "help": {
+         "title": "DOBRODOŠLI U LANDOVER!",
+         "rules": "Pravila",
+         "video": "Video\nTutorijali",
+         "tutorial": "Igraj\nTutorial",
+         "discord": "Discord!",
+         "questions": "Pitanja?\n"
+      },
+      "themes": {
+         "title": "Tema",
+         "chooseTheme": "Izaberite Temu",
+         "chooseColor": "Izaberite Boju",
+         "save": "Sačuvaj",
+         "goGold": "POSTANI GOLD!",
+         "selected": "IZABRANO"
+      },
+      "createGame": {
+         "options": {
+            "title": "OPCIJE",
+            "on": "Uključeno",
+            "off": "Isključeno",
+            "time": "Vreme po potezu",
+            "points": "Bodovi za pobedu",
+            "barbDelay": "Odgoda barbara",
+            "barbDelayTooltip": "Broj bacanja kocke pre nego što barbari počnu da napreduju\nprema napadu.",
+            "name": "Ime igre (opciono)",
+            "namePlaceholder": "Unesite ime",
+            "public": "Javna igra",
+            "mapHints": {
+               "title": "Nagoveštaji mape",
+               "tooltip": "Omogućava indikatore nagoveštaja mape prilikom\nizgradnje struktura."
+            },
+            "charity": {
+               "title": "Dobrotvorne sedmice",
+               "tooltip": "Dajte jedan nasumični resurs kada se baci 7"
+            },
+            "resources": {
+               "title": "Početni resursi",
+               "tooltip": "Dajte svakom korisniku po jedan resurs svake vrste kada igra počne"
+            },
+            "raids": {
+               "title": "Napadi",
+               "tooltip": "Omogućava/Onemogućava trošenje jednog vojnog resursa za napad na protivnika."
+            },
+            "fairDice": {
+               "title": "Pravedne kocke",
+               "tooltip": "Zamenjuje pravi slučaj sa ravnomernom raspodelom bacanja kocke."
+            },
+            "culture": {
+               "title": "Kultura",
+               "tooltip": "Omogućava nadogradnje nauke, politike i trgovine,\n tako da možete prikupljati kartice razvoja\ni zarađivati ​​metro stanice."
+            },
+            "luckyRaid": {
+               "title": "Srećni 7 napad",
+               "tooltip": "Igraču koji je poslednji na tabeli a baci 7,\nse nagrađuje besplatan napad."
+            }
+         },
+         "map": {
+            "title": "IZABERI MAPU",
+            "maps": "MAPE",
+            "favorites": "Omiljene",
+            "lastPlayed": "Poslednje odigrano",
+            "moreSlots": "Pretplati se za više slotova",
+            "giant": "Gigantska",
+            "normal": "Normalna",
+            "mapType": "Izaberi tip mape",
+            "mapTypeMsg": "Izaberi tip mape koju želiš kreirati.",
+            "createMap": "Kreiraj Novu Mapu",
+            "register": "Registruj se",
+            "createAccount": "Kreiraj Nalog",
+            "createAccountMsg": "Morate se registrovati kako biste kreirali mape.",
+            "search": "Pretraži mape",
+            "mapName": "Ime",
+            "gamesPlayed": "Broj igara",
+            "createdOn": "Kreirano",
+            "noUserMaps": "Nisi kreirao/la nijednu mapu",
+            "noMaps": "Nema pronađenih mapa",
+            "noRecentGames": "Nemaš skoro odigranih igara",
+            "noFavorites": "Nemaš omiljenih mapa",
+            "tabs": {
+               "standard": "STANDARDNE",
+               "myMaps": "MOJE MAPE",
+               "favorites": "OMILJENE",
+               "all": "SVE"
+            },
+            "adminControls": {
+               "confirmDialog": {
+                  "yes": "Da",
+                  "no": "Ne",
+                  "confirm": "Potvrdi",
+                  "duplicate": "Da li ste sigurni da želite duplicirati ovu mapu?",
+                  "makeOfficial": "Da li ste sigurni da želite ozvaničiti ovu mapu?",
+                  "deleteFromOfficial": "Da li ste sigurni da želite izbrisati ovu mapu iz zvaničnih mapa?"
+               }
+            }
+         },
+         "sort": {
+            "newest": "Najnovije",
+            "oldest": "Najstarije",
+            "mostGames": "Najviše Igranih",
+            "leastGames": "Najmanje Igranih",
+            "alphabetical": "Abecedno",
+            "reverseAlphabetical": "Abecedno Obrnuto",
+            "popular": "Popularno"
+         },
+         "preview": {
+            "selectMap": "Izaberi Mapu",
+            "deleteMap": "Obriši Mapu",
+            "editMap": "Uredi Mapu"
+         }
+      },
+      "playTutorial": {
+         "title": "Igraj tutorijal",
+         "message": "Kao novi igrač u Landover-u, morate završiti jednu solo igru protiv botova pre nego što se pridružite javnoj igri. Isprobajte tutorijal!"
+      },
+      "createGame": "Kreiraj Igru"
+   },
+   "join": {
+      "title": "Pridruži se igrama",
+      "gameNotAvailable": "Ova igra nije dostupna, pokušajte s drugom",
+      "createGame": "Kreiraj Igru",
+      "joinByCode": "Pridruži se preko Koda",
+      "filter": {
+         "title": "FILTER",
+         "button": "Filter",
+         "clear": "Očisti",
+         "allGames": "Sve Igre",
+         "liveGames": "Live Igre",
+         "dailyGames": "Dnevne Igre",
+         "allPoints": "Svi Poeni",
+         "xPoints": "{} poena"
+      }
+   },
+   "lobby": {
+      "leave": {
+         "title": "Napusti Igru",
+         "message": "Da li ste sigurni da želite napustiti ovu igru?",
+         "yes": "Napusti"
+      },
+      "add": {
+         "recent": "+ Skorašnje",
+         "bot": "+ Dodaj Bota",
+         "invite": "+ Pozovi"
+      },
+      "boot": {
+         "button": "Izbaci",
+         "title": "Da li ste sigurni da želite izbaciti "
+      },
+      "rankedLiveLobby": {
+         "title": "RANGIRANA LIVE IGRA",
+         "lobbyState": {
+            "waiting": "Wait... Estimated Time: ",
+            "areYouReady": "Spremni ste?",
+            "starting": "Igra počinje",
+            "waitingForOther": "Čekanje drugih igrača..."
+         },
+         "readyButton": "Spreman",
+         "opponent": "Protivnik",
+         "VS": "VS",
+         "randomMap": "Nasumična mapa",
+         "gameData": {
+            "winCondition": "Uslov za Pobedu",
+            "startingResources": "Početni Resursi",
+            "charity": "Dobročinstvo",
+            "fairDice": "Pravični Kocka",
+            "turnTimer": "Vreme po Potezu",
+            "on": "Uključeno",
+            "off": "Isključeno"
+         }
+      },
+      "options": {
+         "on": "Uključeno",
+         "off": "Isključeno",
+         "points": "Poeni za Pobedu",
+         "time": "Merač poteza",
+         "luckyRaid": "Srećni 7 Napad",
+         "culture": "Kultura",
+         "barbDelay": "Odlaganje Barbari",
+         "fairDice": "Pravične Kocke",
+         "raids": "Napadi"
+      },
+      "addBot": {
+         "title": "DODAJ BOTA",
+         "alreadyAdded": "Već dodato",
+         "unlockBot": "Otključaj Bota",
+         "addBot": "Dodaj Bota"
+      },
+      "getReady": {
+         "title": "SPREMI SE!",
+         "cancel": "Otkaži",
+         "ready": "Spreman"
+      },
+      "ranked": {
+         "title": "Pridružen!",
+         "message": "Pridružili ste se dnevnoj igri! Bićete obavešteni kada igra počne."
+      },
+      "recent": {
+         "title": "POZIVANJE IGRAČA",
+         "notificationTurnedOf": "Ovaj igrač je isključio pozive od skorašnjih igrača. Ovaj igrač će biti uklonjen sa vaše liste.",
+         "noRecent": "Nema skorašnjih igrača!"
+      },
+      "joinPrivate": {
+         "joinAnyway": "Pridruži se svakako",
+         "cancel": "Otkaži"
+      },
+      "gameType": {
+         "ranked": "RANGIRANA IGRA",
+         "quick": "BRZA IGRA",
+         "tutorial": "TUTORIJAL",
+         "daily": "DNEVNA IGRA",
+         "solo": "SOLO IGRA",
+         "live": "LIVE IGRA"
+      },
+      "lobbyLabel": "Lobi:",
+      "code": "Kod: ",
+      "join": "PRIDRUŽI SE",
+      "waiting": "Čekanje...",
+      "waitingForHost": "Čekanje domaćina...",
+      "start": "Početak",
+      "starting": "Igra počinje",
+      "startingTutorial": "Počinje tutorijal",
+      "initTutorial": "Inicijalizacija tutorijala...",
+      "creatingNewLobby": "Kreiranje novog lobija...",
+      "checkingExisting": "Provera postojećih igara...",
+      "matchingGameFound": "Pronađena je odgovarajuća igra!",
+      "loadingLobby": "Učitavanje lobija...",
+      "loadingGame": "Učitavanje igre...",
+      "joined": "Pridružen!",
+      "alreadyInQueue": "Već ste u redu, bićete obavešteni kada igra počne.",
+      "lobbyFull": "Lobi je pun!",
+      "hostToAdd": "Morate biti domaćin da biste dodali bota",
+      "cannotBoot": "Ne možete izbaciti ovog igrača",
+      "notFound": "Lobi nije pronađen",
+      "waitingForLot": "Već čekate da puno igara počne. Obavestićemo vas kada dođe vaš red za potez.",
+      "kicked": "Izbačen/a!",
+      "kickedMsg": "Domaćin vas je izbacio iz ove igre. Pokušajte se pridružiti drugoj igri.",
+      "timeOut": "Isteklo vreme",
+      "timeOutMsg": "Niste prihvatili igru na vreme.",
+      "rematchCanceled": "Ponovni meč otkazan",
+      "rematchCanceledMsg": "Neko je odbio ovu igru.",
+      "gameCanceled": "Igra otkazana",
+      "gameCanceledMsg": "Domaćin je završio ovu igru."
+   },
+   "builder": {
+      "create": {
+         "title": "KREIRAJ MAPU!",
+         "ok": "Ok",
+         "firstMap": "Želiš li kreirati svoju prvu prilagođenu mapu?\nKoristi map builder da dizajniraš svoj sopstveni svet!",
+         "randomNumber": "Sve pločice bez brojeva biće nasumično dodeljene brojeve svake igre",
+         "mysteryTiles": "Mistična pločica koja se ne može postaviti inicijalno i otkriva se tek kada je igrač istraži",
+         "randomResources": "Nasumično dodeljeni resursi na početku igre"
+      },
+      "controls": {
+         "info": "Informacije",
+         "tiles": "Pločice",
+         "harbors": "Luke"
+      },
+      "info": {
+         "name": {
+            "title": "Ime",
+            "placeholder": "Unesite ime..."
+         },
+         "description": {
+            "title": "Opis",
+            "placeholder": "Unesite opis..."
+         },
+         "points": "Poeni za Pobedu"
+      },
+      "terrain": {
+         "nonPlacement": "Pločica za koju nije dozvoljeno postavljanje",
+         "nonPlacementHint": "Izaberite zemljišne pločice na kojima nije dozvoljeno postavljanje naselja."
+      },
+      "unsaved": {
+         "title": "Nespašene promene",
+         "message": "Imate nespašene promene na ovoj mapi?",
+         "yes": "Izađi",
+         "no": "Sačuvaj i izađi"
+      },
+      "title": "KREATOR MAPE",
+      "save": "Sačuvaj",
+      "openControls": "Otvori Kontrole",
+      "profanity": "Detektovane prostote. Pokušajte ponovo.",
+      "saved": {
+         "title": "Uspeh!",
+         "message": "Vaša mapa je sačuvana!"
+      },
+      "validation": {
+         "emptyName": "Molimo dajte ime svojoj mapi.",
+         "invalidName": "Molimo unesite validno ime mape."
+      },
+      "list": {
+         "by": "Od: {}",
+         "on": "Na: {}",
+         "games": "Igre: {}",
+         "vp": "VP: {}",
+         "deleteOfficial": {
+            "title": "Izbriši Akciju",
+            "message": "Zvanične mape se ne mogu izbrisati."
+         },
+         "delete": {
+            "title": "Izbriši",
+            "message": "Da li ste sigurni da želite izbrisati ovu mapu?",
+            "yes": "Izbriši",
+            "no": "Otkaži"
+         }
+      }
+   },
+   "notifications": {
+      "title": "Ne propustite svoj potez!",
+      "enable": "Omogući Obaveštenja",
+      "enableEmail": "Omogući Obaveštenja putem E-pošte",
+      "enableText": "Omogućite obaveštenja i nikada ne propustite svoj potez. Podsetićemo vas kada je vreme da se vratite kako biste nastavili igru!",
+      "notNow": "Sada ne omogućavaj"
+   },
+   "unsubscribe": {
+      "ask": {
+         "title": "Da li ste sigurni?",
+         "message": "Da li ste sigurni da želite odjaviti od e-pošte sa ažuriranjima igre?",
+         "yes": "Odjavi se"
+      },
+      "unsubscribed": {
+         "title": "Odjavljeni ste",
+         "yes": "Početna",
+         "message": "Uspešno ste se odjavili. Možete ponovo uključiti e-poštanska obaveštenja o ažuriranjima igre u postavkama."
+      }
+   },
+   "loading": {
+      "title": "MOLIMO SAČEKAJTE"
+   },
+   "rank": {
+      "title": "VAŠ\nRANG"
+   },
+   "seasons": {
+      "leaderboard": {
+         "title": "TABELA SEZONE",
+         "player": "Igrač",
+         "games": "# Igre",
+         "SP": "SP (Sezonski Poeni)",
+         "reward": "Nagrada"
+      },
+      "noPlayers": "Još uvek nema igrača",
+      "unlockAchievement": "Završite 10 igara\nda otključate dostignuće"
+   },
+   "showcase": {
+      "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
+      "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
+      "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
+      "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
+      "resources1": "These are your resource cards!",
+      "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
+      "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
+      "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
+      "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
+      "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
+      "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
+      "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
+      "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
+      "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
+      "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
+      "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+   }
 }
-},
-"devCards": {
-"title": "odigrao {} kartu.",
-"newDevCard": "Nova karta razvoja: {}",
-"subtitle": {
-    "masterMerchant": {
-        "oneCard": "Uzeo je jednu kartu od {}",
-        "twoCards": "Uzeo je dve karte od {}"
-    },
-    "merchant": {
-        "withVP": "na {}, osvojio 1 VP.",
-        "withoutVP": "na {}."
-    },
-    "merchantFleet": {
-        "oneResource": "Sada može trgovati {} 2:1 ovog poteza",
-        "allResources": "Sada može trgovati {} 2:1"
-    },
-    "commercialHarbor": "Zamijenio je 1 resurs za 1 robu",
-    "resourceMonopoly": {
-        "oneWithoutResources": "Uzeo je resurse od {}",
-        "moreWithoutResources": "Uzeo je resurse od {} igrača",
-        "failed": "Pokušao je ukrasti neke resurse, ali ništa nije dobio",
-        "failedWithResource": "Pokušao je ukrasti {} ali ništa nije dobio",
-        "withResourcesAllSame": "Uzeo je {} {} od {}",
-        "withResourcesDifferent": "Uzeo je 2 {} od {}, i 1 $resourceName od {}"
-    },
-    "commodityMonopoly": {
-        "oneVictim": "Uzeo je dobra od {}",
-        "moreVictims": "Uzeo je dobra od {} igrača",
-        "failed": "Pokušao je ukrasti neka dobra, ali ništa nije dobio"
-    },
-    "expedition": "Pretvorio je pločicu u zlato",
-    "famine": "{} odbacio nasumične karte",
-    "plenty": {
-        "withoutResources": "Dobio je 2 resursa",
-        "withResources": "Dobio je 2 resursa: {}"
-    },
-    "excavation": "Dobio je dva gline za svaku zgradu na pločici gline",
-    "forestry": "Dobio je dva drva za svaku zgradu na pločici drveta",
-    "irrigation": "Dobio je dva pšenice za svaku zgradu na pločici pšenice",
-    "mining": "Dobio je dva rude za svaku zgradu na pločici rude",
-    "borderCollie": "Dobio je dva ovna za svaku zgradu na pločici ovna",
-    "inventor": "Zamijenio je dva broja pločica",
-    "medicine": "Izgradio je grad za 2 rude i 1 pšenicu",
-    "roadBuilding": "Izgradio je dva puta/mosta",
-    "military": "Unapređena vojna moć",
-    "crane": "Smanjena je cena unapređenja kulture",
-    "siege": {
-        "oneVictim": "Uzeo je resurse od {}",
-        "moreVictims": "Uzeo je resurse od {} igrača"
-    },
-    "bishop": "Uklonio je katapult",
-    "deserter": "Uzeo je vojničke snage od {}",
-    "vandal": "Uništio je most/put od {}",
-    "diplomat": "Pomakao je jedan trag",
-    "raze": "Uništio je grad od {}",
-    "spy": "Uzeo je kartu razvoja od {}",
-    "wedding": {
-        "oneVictim": "Uzeo je karte od {}",
-        "moreVictims": "Uzeo je karte od {} igrača"
-    },
-    "anarchy": "Nasumično postavio brojeve na pločicama",
-    "alchemist": "Odabrao je brojeve bacanja kockica",
-    "traitor": "Pomakao je praćenje varvara"
-},
-"masterMerchant": {
-    "title": "Master Merchant",
-    "description": "Izaberite bilo kog igrača sa više bodova, pogledajte njegovu ruku i izaberite dve resursne ili dobra karte.",
-    "cannotPlay": "Nema igrača koji imaju više bodova od vas",
-    "dialog": {
-        "title": "Ukradi!"
-    }
-},
-"merchant": {
-    "title": "Trgovac",
-    "description": "Pomaknite token trgovca do vašeg naselja ili grada. Igrač koji poseduje trgovca može trgovati tim resursom 2:1 sa bankom. Vredi 1 VP.",
-    "dialog": {
-        "title": "Postavi trgovca",
-        "message": "Jeste li sigurni da želite postaviti trgovca ovde?",
-        "yes": "Da!",
-        "no": "Otkaži"
-    }
-},
-"merchantFleet": {
-    "title": "Trgovačka flota",
-    "description": "Izaberite jedan resurs ili dobro po vašem izboru da trgujete sa bankom po stopi od 2:1 samo ovog poteza."
-},
-"commercialHarbor": {
-    "title": "Trgovačka luka",
-    "description": "Zamijenite 1 resurs za 1 dobro."
-},
-"resourceMonopoly": {
-    "title": "Monopol resursa",
-    "description": "Izaberite resurs. Svaki igrač mora vam dati (do) dva od tih resursa ako ih ima."
-},
-"commodityMonopoly": {
-    "title": "Monopol dobara",
-    "description": "Izaberite dobro. Svaki igrač vam mora dati jedno od toga dobra ako ga ima."
-},
-"expedition": {
-    "title": "Ekspedicija",
-    "description": "Izaberite bilo koju pločicu na tabli i pretvorite je u zlatnu pločicu resursa.",
-    "dialog": {
-        "title": "Jeste li sigurni",
-        "message": "Želite li pretvoriti ovu pločicu u zlato?",
-        "no": "Ne",
-        "yes": "Da"
-    }
-},
-"famine": {
-    "title": "Glad",
-    "description": "Svi igrači sa više bodova od vas odbacuju 2 nasumična resursa.",
-    "cannotPlay": "Nema igrača sa više bodova od vas."
-},
-"plenty": {
-    "title": "Obilje",
-    "description": "Dobijte dva resursa po vašem izboru."
-},
-"excavation": {
-    "title": "Iskopavanje",
-    "description": "Primanje 2 gline po naselju na svakoj glinenoj pločici"
-},
-"forestry": {
-    "title": "Šumarstvo",
-    "description": "Primanje 2 drveta po naselju na svakoj drvenoj pločici"
-},
-"irrigation": {
-    "title": "Irigacija",
-    "description": "Primanje 2 pšenice po naselju na svakoj pšeničnoj pločici"
-},
-"mining": {
-    "title": "Rudarenje",
-    "description": "Primanje 2 rude po naselju na svakoj rudnoj pločici"
-},
-"borderCollie": {
-    "title": "Građevinski kolie",
-    "description": "Primanje 2 ovna po naselju na svakoj ovčijoj pločici"
-},
-"inventor": {
-    "title": "Izumitelj",
-    "description": "Zamijenite dva broja pločica na tabli. Brojevi koje možete zamijeniti su: 3, 4, 5, 9, 10 i 11.",
-    "tileSelected": "Zamijeniti ove pločice?",
-    "dialog": {
-        "title": "Zamijeni pločice",
-        "message": "Želite li zamijeniti vrednosti ovih dviju pločica?",
-        "yes": "Da",
-        "no": "Otkaži"
-    }
-},
-"medicine": {
-    "title": "Medicina",
-    "description": "Izgradite grad za 2 rude i 1 pšenicu.",
-    "cannotAfford": "Morate imati barem dve rude i jednu pšenicu da biste koristili ovu kartu",
-    "cannotPlace": "Nema mesta na tabli gde možete postaviti grad",
-    "upgradeTitle": "Izgradite {} sa {}"
-},
-"roadBuilding": {
-    "title": "Izgradnja puta",
-    "description": "Postavite dva puta ili dva mosta, ili jedan od svakog, bez troškova za vas."
-},
-"military": {
-    "title": "Vojna moć",
-    "description": "Unapredite svoju vojnu moć za jedan nivo.",
-    "cannotPlay": "Već imate maksimalnu vojnu moć."
-},
-"crane": {
-    "title": "Dizalica",
-    "description": "Nakon što odigrate ovu kartu, sledeće unapređenje kulture ovog poteza košta jedno dobro manje",
-    "cannotPlay": "Ne možete odigrati ovu kartu jer nemate gradove ili već imate kartu Dizalice već u igri."
-},
-"siege": {
-    "title": "Opsada",
-    "description": "Izvedite napad, ali ukradite jedan nasumični resurs od svakog igrača koji ima selo ili grad na napadnutoj pločici. Ne košta vojni bod."
-},
-"bishop": {
-    "title": "Biskup",
-    "description": "Uklonite katapult sa table.",
-    "cannotPlay": "Nema katapulta na tabli koje možete ukloniti."
-},
-"deserter": {
-    "title": "Dezerter",
-    "description": "Uzmite jedan nivo vojne moći od igrača po vašem izboru.",
-    "cannotPlayMaxedPower": "Vaša vojna moć je dostigla maksimalni nivo od 3. Unapredite svoju politiku na nivo 3 da biste povećali svoj maksimum.",
-    "cannotPlayBarracks": "Već imate maksimalnu vojnu moć.",
-    "cannotPlayEmpty": "Niko nema vojnu moć; nema ništa za ukrasti"
-},
-"vandal": {
-    "title": "Vandal",
-    "description": "Uklonite put ili most drugog igrača po vašem izboru."
-},
-"diplomat": {
-    "title": "Diplomata",
-    "description": "Pomerite jedan od svojih puteva ili mostova na novo mesto.",
-    "cannotPlay": "Nemate staze koje možete pomeriti."
-},
-"raze": {
-    "title": "Razaranje",
-    "description": "Izgubite 1 vojnu moć i uništite neozidan grad bilo kog igrača sa više bodova od vas. Morate imati vojnu moć veću od ili jednaku 1 da biste odigrali ovu kartu.",
-    "cannotPlayNoPlayers": "Nema igrača sa više bodova od vas",
-    "cannotPlayNoBuildings": "Nema zgrada koje možete uništiti",
-    "cannotPlayNoMilitary": "Morate imati barem jednu vojnu moć da biste koristili ovu kartu",
-    "dialog": {
-        "title": "Jeste li sigurni?",
-        "message": "Želite li uništiti ovaj grad?",
-        "yes": "Da!",
-        "no": "Ne"
-    }
-},
-"spy": {
-    "title": "Špijun",
-    "description": "Izaberite igrača, pogledajte njegove razvojne karte i izaberite jednu da ukradete.",
-    "cannotPlay": "Nijedan drugi igrač trenutno nema razvojne karte.",
-    "dialog": {
-        "title": "Ukradi!"
-    }
-},
-"wedding": {
-    "title": "Venčanje",
-    "description": "Ukradite dve nasumične karte (resursi ili dobra) od svakog igrača koji ima više bodova od vas.",
-    "cannotPlay": "Nema igrača sa više bodova od vas."
-},
-"anarchy": {
-    "title": "Anarhija",
-    "description": "Izjednačite sve brojne pločice na tabli dok se ne dobije 7."
-},
-"alchemist": {
-    "title": "Alhemičar",
-    "description": "Svaki put kad posedujete ovu kartu, imate opciju da izaberete tačne brojeve na obe 6-strane kockice ili da uradite normalno nasumično bacanje.",
-    "cannotPlay": "Ova razvojna karta može se igrati samo na početku poteza."
-},
-"traitor": {
-    "title": "Izdajnik",
-    "description": "Pomaknite barbarina za 2 mesta. Zaustaviće se neposredno pre napada."
-},
-"constitution": {
-    "title": "Ustav",
-    "description": "1 bod. Igra se odmah i ne računa se prema vaših maksimalnih 5 razvojnih karata."
-},
-"printer": {
-    "title": "Štampač",
-    "description": "1 bod. Igra se odmah i ne računa se prema vaših maksimalnih 5 razvojnih karata."
-}
-},
-"chat": {
-    "loadingError": "Došlo je do greške, pokušajte ponovo.",
-    "noMessages": "Nema poruka još uvek",
-    "emptyMsg": "Vaša poruka je prazna. Unesite neki tekst, molim vas.",
-    "addMsgHint": "Dodajte poruku",
-    "yourMsg": "vi",
-    "banned": "Ograničeni ste u četu do {}. Molimo vas da budete poštovani u razgovoru kako biste izbegli buduće zabrane. Želimo da ova zajednica bude zabavna za sve!",
-    "banConfirmation": {
-        "title": "Banuj igrača",
-        "message": "Da li ste sigurni da želite da zabranite ovog igrača u četu? Nećete videti nijednu poruku od njih",
-        "yes": "Da",
-        "no": "Ne",
-        "failed": "Došlo je do greške, pokušajte ponovo"
-    }
-},
-"playerTurnOverlay": {
-    "playerNameSuffix": "ov potez",
-    "playerTurn": "potez"
-},
-"buildDialog": {
-    "title": "IZGRADI",
-    "trade": "Trgovina",
-    "cannotAfford": "Nemate dovoljno resursa!",
-    "structureRequires": "{} zahteva:",
-    "cannotBuild": "Ne može se izgraditi {}",
-    "cannotBuildReason": "Nemate gde da ga postavite."
-},
-"trailTypeDialog": {
-    "title": "ODABERITE JEDNU",
-    "subtitle": "Šta želite da izgradite?",
-    "cannotAfford": "Nemate dovoljno resursa!",
-    "trailsRequires": "{} zahteva:"
-},
-"devCardsDialog": {
-    "title": "RAZVOJNE KARTE",
-    "defaultButton": "Igraj kartu",
-    "noCards": "Nema razvojnih karata",
-    "cannotPlay": "Ne možete igrati {} kartu"
-},
-"playerModalDialog": {
-    "military": "Vojska",
-    "militaryUpgrade": "Unapredi",
-    "militaryRequires": "Unapređivanje vaše vojske zahteva",
-    "militaryCannotAfford": "Nemate dovoljno resursa!",
-    "raid": "Napad",
-    "culture": "Kultura",
-    "cultureUpgrade": "Unapredi",
-    "devCards": "Razvojne Karte",
-    "devCardsPlay": "Igraj",
-    "build": "Izgradi",
-    "trade": "Trgovina",
-    "raidError": {
-        "title": "Nemoguće napasti",
-        "message": "Ne možete napasti u ovom trenutku"
-    },
-    "points": {
-        "victoryPoints": "Bodovi za pobedu",
-        "longestRoute": "Najduži put",
-        "military": "Vojska",
-        "islands": "Istražene Ostrva",
-        "devCards": "Razvojne Karte",
-        "merchant": "Trgovinski Žetoni",
-        "ports": "Lučke Vlasti"
-    }
-},
-"safeRollDialog": {
-    "title": "BEZBEDNO BACANJE?",
-    "message": "Postoji rizik da ćete odbaciti polovinu svoje ruke!",
-    "riskyRoll": "Rizično bacanje",
-    "safeRoll": "Bezbedno bacanje"
-},
-"safeTokens": {
-    "title": "KUPI BEZBEDNOSNE ŽETONE"
-},
-"rollType": {
-    "description": "Baci kockice ili koristi svoju Alhemičarsku kartu da biraš brojeve",
-    "alchemist": "Koristi Alhemičara",
-    "random": "Nasumično bacanje"
-},
-"gameOver": {
-    "title": "Kraj igre",
-    "stats": "Statistike",
-    "home": "Početna",
-    "linkCopied": "Link igre kopiran u međuspremnik",
-    "goGold": "POSTANI GOLD ČLAN!",
-    "rematch": "Revanš",
-    "favoriteMap": "Omiljena mapa",
-    "unfavoriteMap": "Ukloni iz omiljenih mapa",
-    "won": "{} \nje pobedio!",
-    "upgradeToSee": "Ažurirajte na Gold članstvo kako biste videli \n još 12 statistika!"
-},
-"players": {
-    "resourceCards": "Resursne Karte",
-    "devCards": "Razvojne Karte",
-    "military": "Vojni Bodovi",
-    "scienceLevel": "Nivo Nauke",
-    "commerceLevel": "Nivo Trgovine",
-    "politicsLevel": "Nivo Politike",
-    "merchant": "Trgovinski Žeton",
-    "portPoints": "Bodovi za Lučku Vlast",
-    "longestRoad": "Najduži Put",
-    "victoryPoints": "Bodovi za Pobedu"
-},
-"rematch": {
-    "canceled": {
-        "title": "REVANŠ",
-        "close": "Zatvori",
-        "declined": "Revanš odbijen"
-    },
-    "ready": {
-        "title": "SPREMITE SE!",
-        "cancel": "OTKAŽI"
-    },
-    "request": {
-        "title": "Zahtev za Revanš",
-        "yes": "Da",
-        "no": "Ne"
-    },
-    "reject": {
-        "title": "Odbijanje Revanša?",
-        "message": "Da li ste sigurni da želite da odbijete ovu igru?",
-        "yes": "Odbij"
-    }
-},
-"replay": {
-    "turnNumber": "Potez {} od {}",
-    "replayLast": "Ponovi poslednji",
-    "turn": {
-        "one": "potez",
-        "many": "poteza",
-        "other": "poteza"
-    },
-    "purchase": {
-        "title": "PONOVI",
-        "description": "Ponovi omogućava da ponovo gledate sve poteze i vidite šta se desilo od vašeg poslednjeg poteza...ili ponovo odigrate celu igru kada se završi! Želite li otključati pune ponovne preglede?",
-        "no": "Ne, hvala",
-        "yes": "Postani Gold"
-    }
-},
-"swipeableDevCardDialog": {
-    "close": "Zatvori",
-    "play": "Igraj Kartu",
-    "cannotPlay": "Ne može se igrati {}",
-    "wrongTurn": "Nije tvoj red"
-},
-"actions": {
-    "raid": {
-        "tileSelected": "Napadni ovu ploču?",
-        "removeCatapult": "Ukloni ovu katapultu?"
-    },
-    "metro": {
-        "placeIt": "Metro! Izaberi bilo koju od tvojih gradova da je postaviš."
-    },
-    "chooseTile": {
-        "bishop": "Odaberi katapultu koju ćeš ukloniti",
-        "expedition": "Odaberi ploču koju ćeš pretvoriti u zlatnu",
-        "inventor": "Odaberi dve ploče da razmeniš brojeve",
-        "merchant": "Postavi svoj trgovinski žeton",
-        "siege": "Odaberi ploču za opsadu",
-        "raid": "Odaberi ploču za napad"
-    },
-    "chooseRoads": {
-        "placeRoad": "Postavi put ili most",
-        "place2Roads": "Postavi 2 puta ili mosta",
-        "selectRoad": "Odaberi put ili most",
-        "selectEnemyRoad": "Odaberi neprijateljski put ili most",
-        "confirm": "Izgradi {}?"
-    },
-    "chooseCorner": {
-        "selectEnemyCity": "Odaberi neprijateljski grad",
-        "placeVillage": "Postavi svoje selo",
-        "placeCity": "Postavi svoj grad",
-        "confirmVillage": "Izgradi selo?",
-        "confirmCity": "Izgradi grad?",
-        "confirmCityWall": "Izgradi zid za grad?",
-        "confirmMetro": "Izgradi metro?"
-    },
-    "roll": "Baci kocke"
-},
-"menu": {
-    "gameActions": "AKCIJE U IGRICI",
-    "info": "INFO",
-    "turnReplay": "Ponovni prikaz poteza",
-    "rollFirst": "Prvo baci kockice, molim te.",
-    "surrender": "Predaj se",
-    "surrenderDialog": {
-        "title": "Predaj se",
-        "message": "Da li ste sigurni da želite da se predate?\nNema kazne za priznavanje poraza.",
-        "yes": "Predaj se",
-        "no": "Otkaži"
-    },
-    "share": "Podeli",
-    "reportBug": {
-        "title": "Prijavi Bag",
-        "thanks": "Hvala!",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
-    },
-    "settings": "Podešavanja",
-    "prodChart": "Grafikon Proizvodnje",
-    "devCards": "Razvojne Karte",
-    "rules": "Pravila",
-    "cancel": "Otkaži"
-},
-"settings": {
-    "title": "PODEŠAVANJA",
-    "sound": "Zvuk",
-    "music": "Muzika",
-    "mapHints": "Podsetnici na mapi",
-    "chatNotifications": "Obaveštenja o četu",
-    "turnNotifications": "Obaveštenja o potezima",
-    "autoJump": "Automatski prelazak na sledeću igru",
-    "showReplays": "Prikaži ponovne preglede",
-    "autoRoll": "Automatsko bacanje kockica"
-},
-"playerControls": {
-    "military": "Vojni",
-    "science": "Nauka",
-    "commerce": "Trgovina",
-    "politics": "Politika"
-},
-"pickPlayer": {
-    "title": "IZABERI IGRAČA",
-    "noPlayers": "Nema igrača za krađu.\nSvi igrači imaju nula resursa.",
-    "button": "Izaberi"
-},
-"barbarianDialogs": {
-    "basic": "Varvari",
-    "barbarianLead": "Vođa varvara",
-    "playerLead": "Vođa igrača",
-    "defense": "Ukupna odbrana",
-    "barbarianStrength": "Snaga varvara",
-    "attackPossibleIn": "Napad moguć za {} poteza",
-    "leaderboard": "Tabela",
-    "defeat": {
-        "title": "Poraz",
-        "playersAffected": "{} igrači",
-        "leastMilitary": "Najmanje vojne snage",
-        "lostCity": {
-            "one": "Izgubljen grad",
-            "many": "Svaki izgubljeni grad",
-            "other": "Svaki izgubljeni grad"
-        }
-    },
-    "upgradeMilitary": "Unapredi vojnu silu",
-    "result": "VARVARI NAPADAJU",
-    "won": {
-        "title": "Odbijeno",
-        "playersAffected": "{} igrači",
-        "mostMilitary": "Najviše vojne snage",
-        "prize": {
-            "one": "+1 VP",
-            "many": "+1 Razvojna karta svaki",
-            "other": "+1 Razvojna karta svaki"
-        }
-    },
-    "dataNotAvailable": "Podaci nisu dostupni"
-},
-"stats": {
-    "victoryPoints": "Bodovi za Pobedu",
-    "villages": "Sela",
-    "cities": "Gradovi",
-    "roadsBridges": "Putevi/Mostovi",
-    "military": "Vojni",
-    "metros": "Metroi",
-    "self7Rolls": "Sopstveni 7 bacanja",
-    "discards": "Odbacivanja",
-    "devCards": "Razvojne karte",
-    "raids": "Napadi",
-    "raided": "Pljačkano",
-    "trades": "Trgovine",
-    "wheat": "Pšenica",
-    "ore": "Ruda",
-    "brick": "Cigla",
-    "wood": "Drvo",
-    "sheep": "Ovca",
-    "paper": "Papir",
-    "cloth": "Tkanina",
-    "coin": "Novčić"
-},
-"metroEarned": {
-    "title": "Metro!",
-    "msg": "Čestitamo, zaradili ste metro. Dodirnite bilo koji grad da ga postavite.",
-    "ok": "U redu!"
-},
-"merchant": {
-    "title": "Trgovinski žeton",
-    "msg": "Igrač koji kontroliše trgovinski žeton može trgovati ovim resursom 2:1."
-},
-"harbor": {
-    "title": "Luka",
-    "tradeAmount2": "2 {} resursa",
-    "tradeAmount3": "3 resursa iste vrste",
-    "description": "Trgovanje $tradeAmount za 1\n drugi resurs ili komoditet."
-},
-"bottomBar": {
-    "confirmAction": "Da",
-    "cancelAction": "Ne"
-},
-"culture": {
-    "title": "KULTURA",
-    "upgrade": "Unapredi"
-},
-"cultureUpgrade": {
-    "close": "Zatvori",
-    "achieved": "POSTIGNUTO!",
-    "upgrade": "Unapredi {}",
-    "cannotUpgrade": "Nemoguće je unaprediti",
-    "noCity": "Morate imati otvoren grad bez metropolisa kako biste unapredili svoju kulturu na nivo 4 ili 5."
-},
-"devCardsInfo": {
-    "title": "RAZVOJNE KARTE"
-},
-"diceRolls": {
-    "title": "BACANJE KOCKICA",
-    "history": "Istorija bacanja:"
-},
-"devDiscard": {
-    "title": "Odbaci",
-    "description": "Možete zadržati samo {} karte. Izaberite {} ispod da ih odbacite.",
-    "cardsDiscarded": {
-        "one": "karta",
-        "many": "{} karte",
-        "other": "{} karte"
-    }
-},
-"feedback": {
-    "title": "Povratne informacije",
-    "send": "Pošalji",
-    "label": "Da li ste pronašli bag ili imate sjajnu ideju?",
-    "placeholder": "Voleli bismo čuti od naših korisnika!",
-    "emptyError": "Unesite neke povratne informacije"
-},
-"freeRaid": {
-    "title": "Besplatni napad",
-    "description": "Zadnje mesto na 7 bacanja nagrađuje vas besplatnim napadom. Postavite svoj katapult da ukradete resurs od protivnika.",
-    "button": "Napad"
-},
-"military": {
-    "title": "VOJNI",
-    "maxPart1": "Maksimalna vojna snaga: ",
-    "maxPart2": "3 (Barake povećavaju na 6)",
-    "raid": "Napad",
-    "raidUnable": "Nemoguće je napasti",
-    "cannotRaid": "Nemate dovoljno resursa za napad",
-    "raid-1": "Napad   -1",
-    "militaryPower": "Vaša vojna snaga",
-    "vs": "protiv",
-    "barbarianStrength": "Snaga varvara",
-    "totalDefense": "Ukupna odbrana",
-    "upgrade": {
-        "title": "Unapredi",
-        "cannotAfford": "Ne možete to priuštiti!",
-        "upgradeRequires": "Unapređivanje vaše vojne snage zahteva",
-    "maxPower": "Maksimalna vojna snaga",
-    "maxPowerDesc": "Vaša vojna snaga dostigla je maksimalnu snagu od 3. Unapredite svoju politiku na nivo 3 kako biste povećali maksimum.",
-    "maxPowerBarracks": "Maksimalna vojna snaga",
-    "maxPowerBarracksDesc": "Vaša vojna snaga dostigla je maksimalnu snagu od 6. Pokrenite napade da biste koristili svoju vojnu snagu."
-},
-"newIsland": {
-    "title": "ISTRAŽENA OSTRVA!",
-    "description": "Istražili ste novo ostrvo!",
-    "prize": "+1 bod za pobedu",
-    "button": "U redu"
-},
-"prodChart": {
-    "title": "GRAFIKON PROIZVODNJE",
-    "village": "Selo",
-    "city": "Grad"
-},
-"selectCard": {
-    "button": "Potvrdi",
-    "choose": "Izaberite {}"
-},
-"trade": {
-    "title": "TRGOVINA",
-    "give": "DAJ",
-    "receive": "PRIMI",
-    "resourcesLabel": "Vaši resursi:",
-    "emptyTrade": "Nema ničega za trgovinu"
-},
-"tradeToBuild": {
-    "title": "TRGOVINA ZA IZGRADNJU",
-    "build": "Izgradi {}",
-    "missing": "Nedostaje",
-    "resourcesLabel": "Vaši resursi",
-    "and": "i"
-},
-"endTurn": {
-    "nextGame": "Sledeća igra",
-    "wait": "Sačekaj",
-    "end": "Kraj",
-    "turn": "Potez",
-    "endTurn": "Završi potez",
-    "nothingToDo": "Izgleda da nema više toga za raditi.",
-    "endTurnConfirm": "Završi potez?",
-    "canUpgrade": "Da li ste sigurni da želite završiti potez? Možete unaprediti svoju kulturu bez trgovine!",
-    "lotOfResources": "Da li ste sigurni da želite završiti potez? Imate puno neiskorišćenih resursa.",
-    "cancel": "Otkaži"
-},
-"errors": {
-    "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
-    "timeExpired": "Vreme isteklo",
-    "timeExpiredMsg": "Isteklo vam je vreme i uklonjeni ste iz igre."
-}
-},
-
-"tutorial": {
-"viewProductChart": "Prikaži tabelu grafa proizvodnje",
-"continue": "Dodirnite da biste nastavili",
-"learningMode": {
-"title": "Režim učenja",
-"description": "Cilj Landover-a je postizanje bodova za pobedu izgradnjom naselja i proširivanjem svog carstva. Hajde da to isprobamo u ovoj igri. Vaš cilj je postizanje 15 bodova za pobedu!'"
-},
-"firstVillage": {
-"title": "Prvo selo",
-"description": "Postavite svoje selo na ugao visoke vrednosti ispod. Označeni su crvenom bojom. Pokušajte dobiti ono koje ima 3 različite vrste resursa. Uvek je dobro početi sa žitom, glinom, drvetom ili ovcama."
-},
-"firstRoad": {
-"title": "Prva cesta",
-"description": "Sada postavite put od svog sela prema još jednom dobrom uglu."
-},
-"firstCity": {
-"title": "Prvi grad",
-"description": "Postavite svoj grad na još jedan ugao visoke vrednosti ispod. Šta god da niste dobili svojim selom, pokušajte dobiti gradom. Zapamtite da se gradovi i sela moraju uvek razdvajati barem jednim praznim uglom."
-},
-"secondRoad": {
-"title": "Druga cesta",
-"description": "I ponovo postavite put od svog grada prema još jednom dobrom uglu."
-},
-"rollTime": {
-"title": "Vreme za bacanje",
-"description": "Sada kada ste postavili svoja početna naselja, vreme je da bacite kocke i počnete prikupljati resurse. Nastavite bacati dok ne prikupite dovoljno resursa da biste izgradili još nešto."
-},
-"moreRoads": {
-"title": "Izgradite još puteva",
-"description": "Izgleda da imate dovoljno resursa da izgradite još puteva. Slobodno izgradite još puteva dalje od svojih naselja."
-},
-"anotherVillage": {
-"title": "Izgradite još jedno selo",
-"description": "'Sada imate dovoljno resursa da izgradite selo i čeka vas slobodno mesto. Slobodno izgradite još jedno selo da proširite svoje carstvo i prikupite više resursa svaki potez."
-},
-"productionChart": {
-"title": "Grafikon proizvodnje",
-"description": "Ispod je prikazano koliko resursa sela i gradovi proizvode: "
-},
-"trading": {
-"title": "Trgovina",
-"description": "Banke Landover-a omogućavaju vam trgovinu bilo kojim resursom ili komoditetom 3 za 1. Izgleda da možete unaprediti svoje selo u grad, ali to zahteva trgovinu. Slobodno pokušajte izgraditi grad i trebali biste videti poruku "Trgovina za izgradnju". Ako želite ekonomičnije trgovine, pokušajte izgraditi selo na luci koja vam omogućava mogućnost 2 za 1."
-},
-"culture": {
-"title": "Kultura",
-"description": "Sada kada imate komoditet, slobodno otvorite prozor sa kulturom i unapredite se. Unapređivanje kulture pružiće vam mogućnost sticanja vrednih razvojnih karata, otključavanje novih sposobnosti ili
-},
-"cities": {
-"title": "Gradovi",
-"description": "Izaberite selo koje želite unaprediti u grad. Košta 3 rude i 2 pšenice, ali će udvostručiti proizvodnju vašeg sela!"
-},
-"military": {
-"title": "Vojni",
-"description": "Sada kada se vaša ekonomija kreće, vreme je da izgradite malo vojske kako biste odbili napade varvara. Potrebna vam je jedna vojna snaga za svaki grad kada varvari napadnu kako biste izbegli gubitak grada. Tragač za varvarima je gore desno i pokazuje koliko bacanja imate do napada. Hajde..."
-},
-"barbarians": {
-"title": "Varvari",
-"description": "Varvari su na putu. Štit gore desno pokazuje da li ste sigurni ili ne. Ako je crveno, potrebna vam je više vojske. Ako je zeleno, onda ste sigurni. Svaki put kad napadnu, izgubićete 1 vojnu snagu, pa se pobrinite da stalno dodajete više vojske."
-},
-"metros": {
-"title": "Metroi",
-"description": "Budite sigurni da stalno unapređujete svoju kulturu sa kartama komoditeta. Kada dostignete nivo 4, dobićete metro vredan +2VP. Metroi su imuni na napade varvara i ne mogu ih srušiti drugi igrači."
-},
-"spendResources": {
-"title": "Potrošite svoje resurse",
-"description": "Trenutno ste u opasnosti da odbacite polovinu svojih karata ako se baci 7! Pobrinite se da potrošite svoje resurse ili izgradite zidove grada kako biste povećali veličinu svoje ruke. Gradski zidovi koštaju 2 gline i mogu se izgraditi na bilo kojem gradu."
-},
-"goodLuck": {
-"title": "Srećno!",
-"description": "Izgleda da ste dobro na putu do 15 VP. Nastavite sa širenjem, izgradnjom sela, unapređivanjem u gradove, podizanjem vojske i izgradnjom metroa. Ako imate pitanja, pridružite nam se na Discordu. Isprobajte neke igre protiv botova i kad budete spremni, izazovite svoje prijatelje!"
-},
-"end": {
-"title": "Čestitamo",
-"description": "Upravo ste dostigli 15 VP i pobedili ste u igri! Nadamo se da ste se zabavljali. Toplo preporučujemo da probate solo igru protiv jednog bota."
-}
-},
-"subscription": {
-"cancel": {
-"title": "Otkaži pretplatu",
-"message": "Žao nam je što niste zadovoljni svojom pretplatom. Možete li nam molim vas ostaviti povratne informacije u našem Discord kanalu prvo? Uvek se trudimo poboljšati aplikaciju!",
-"feedbackButton": "Ostavi povratne informacije",
-"cancelButton": "Otkaži pretplatu"
-}
-},
-"discord": {
-"title": "PRIKLJUČI SE ZAJEDNICI!",
-"msg1": "Vau, stvarate momenat!",
-"msg2": "Želite li upoznati druge igrače Landover-a, pronaći igre, saznati o novim funkcijama i direktno razgovarati sa našim timom programera?",
-"button": "Pridruži se Discordu"
-},
-"itp": {
-"titleLetsPlay": "ZAIGRAJMO",
-"titleSuccess": "ODLIČNO!",
-"message": "Izgleda da vam trebaju neke igre. Imamo igrače spremne i čekamo!",
-"messageSuccess": {
-"one": "Sada ste u {} igri!",
-"many": "Sada ste u {} igrama!",
-"other": "Sada ste u {} igrama!"
-},
-"myGames": "Idi na Moje igre",
-"startGames": {
-"one": "Započnite {} igru",
-"many": "Započnite {} igre",
-"other": "Započnite {} igre"
-},
-"footerMessage": "Nema pritiska! Samo ćemo vas obavestiti kada je vaš red za potez.",
-"error": "Nismo mogli da vas pridružimo izabranoj igri"
-},
-"ongoingGame": {
-"inLobby": {
-"title": "LIVE GAME LOBBY",
-"leaveBtn": "Napusti",
-"rejoinBtn": "Ponovo pridruži",
-"bottomMsg1": "Trenutno ste u lobiju za live igru!",
-"bottomMsg2": "Molimo vas da napustite ili ponovo pridružite lobiju za igru kako biste bili spremni čim igra počne."
-},
-"inGame": {
-"title": "LIVE GAME",
-"leaveBtn": "Predaj se",
-"rejoinBtn": "Ponovo pridruži",
-"bottomMsg1": "Trenutno ste u live igri!",
-"bottomMsg2": "Molimo vas da se predajete ili ponovo pridružite ovoj igri kako drugi\nigrači ne bi čekali na vas."
-},
-"gameNotExist": "Vaša igra više ne postoji.",
-"somethingWentWrong": "Nešto nije u redu. Pokušajte ponovo ili započnite novu igru."
-},
-"upgradeDialog": {
-"title": "UNAPREDI NA GOLD",
-"error": "Greška pri kupovini",
-"footer": {
-"comingSoon": "Uskoro...",
-"createAccount": "Napravi nalog",
-"watchAd": "Pogledaj oglas",
-"noAds": "Nažalost, trenutno nema dostupnih oglasa",
-"restore": "Obnovi kupovinu",
-"noPurchase": "Nema aktivne pretplate"
-}
-},
-"buildingStyles": {
-"default": "podrazumevano",
-"alien": "vanzemaljski",
-"modern": "moderni",
-"fantasy": "fantazijski",
-"toys": "igračke"
-},
-"culture": {
-"science": {
-"abilityName": "Vodovod",
-"abilityDescription": "Ako igrač ne dobije nijedan resurs za određeno bacanje, dobija jedan slučajan resurs.",
-"abilityAnnouncement": "Ako ne dobijete nijedan resurs tokom bacanja, sada ćete dobiti jedan slučajan resurs."
-},
-"commerce": {
-"abilityName": "Banka",
-"abilityDescription": "Omogućava igračima trgovinu komoditetima 2:1 sa bankom za bilo koji resurs ili komoditet.",
-"abilityAnnouncement": "Sada možete trgovati komoditetima 2:1 sa bankom."
-},
-"politics": {
-"abilityName": "Barake",
-"abilityDescription": "Vojna snaga može se povećati iznad nivoa 3. Vojna snaga može se povećati iznad nivoa 3.",
-"abilityAnnouncement": "Vaša maksimalna vojna snaga povećana je sa 3 na 6."
-}
-},
-"gameStartTypes": {
-"ranked": "Rangirano",
-"quick": "Brza",
-"custom": "Prilagođeno",
-"welcome": "Dobrodošli"
-},
-"gameType": {
-"custom": "Uživo",
-"daily": "Dnevna",
-"tutorial": "Vodič",
-"solo": "Solo",
-"private": "Privatno"
-},
-"premium": {
-"premiumBots": "Igrajte sa 14 botova, svaki sa jedinstvenim sposobnostima",
-"premiumStyles": "Pristupite 4 alternativna tematska stila i omiljenim bojama",
-"premiumPlayersNumber": "Kreirajte epske igre sa 8 igrača sa prijateljima",
-"premiumGameOptions": "Kreirajte prilagođene igre prilagođene vama",
-"premiumStats": "Analizirajte rezultate igre kako biste postali bolji",
-"premiumAvatars": "Koristite bilo koju sliku kao avatar u igri",
-"premiumMaps": "Dizajnirajte nove i uzbudljive mape",
-"premiumNoAds": "Bez oglasa. Direktno podržite programere!",
-"title": "Zlatni član",
-"lastPayment": "Poslednje plaćanje",
-"nextPayment": "Sledeće plaćanje",
-"cancelled": "Otkazano\nZavršava se:",
-"cancel": "Otkaži",
-"canceledTitle": "Pretplata",
-"canceledMessage": "Pretplata uspešno otkazana",
-"success": {
-"title": "Uspeh!",
-"home": "Početna",
-"message": "Sada ste korisnik zlatnog paketa",
-"safeRollMsg": "Tokeni za siguran bacanj uspešno kupljeni."
-},
-"canceled": {
-"title": "Otkazano",
-"home": "Početna",
-"message": "Nešto je pošlo po zlu prilikom kupovine"
-}
-},
-"ranks": {
-"promoted": {
-"title": "PROMOVISANI!",
-"message": "Čestitamo! \nVaša sjajna igra zaradila vam je promociju u rangu!"
-},
-"demoted": {
-"title": "DEMOTE!",
-"message": "O ne! Spustili ste se u rangu.\nMožda je vreme za probu nove strategije ili molitvu božanstvu kocke?"
-},
-"viewRanks": "Pogledaj rangove",
-"title": "Rangovi",
-"rules": "Kako rangiranje funkcioniše"
-},
-"dailyGames": {
-"noGames": "Nema igara u toku",
-"startGame": "Započni igru",
-"createGame": "Kreiraj igru",
-"joinByCode": "Pridruži se preko koda",
-"turnCount": {
-"many": "poteza",
-"single": "potez"
-},
-"gameType": {
-"ranked": "Rangirano",
-"casual": "Opšte"
-},
-"title": "Moje igre",
-"game": {
-"waiting": "Čekanje...",
-"rematchRequest": "Zahtev za revanš",
-"gameOver": "Kraj igre",
-"play": "Igraj",
-"invite": "Pozovi igrače",
-"start": "Započni igru?"
-}
-},
-"profile": {
-"editInfo": "Uredi informacije",
-"city": "Grad",
-"description": "Opis",
-"email": "Email",
-"name": "Ime",
-"status": "Status",
-"save": "Sačuvaj",
-"linkCopied": "Link profila kopiran u međuspremnik",
-"settings": {
-"turnEmails": "Šalji emailove o potezima",
-"chatNotifications": "Obaveštenja u chatu",
-"recentInvites": "Dozvoli nedavne pozive",
-"autoJump": "Auto-skok na sledeću dnevnu igru",
-"mapHints": "Podsetnici na mapi",
-"showReplays": "Prikazuj reprize",
-"acceptNewGames": "Auto-prihvatanje novih igara",
-"autoRoll": "Auto-bacanje kockica na početku poteza"
-},
-"account": {
-"signUp": "Registracija",
-"saveAccount": "SAČUVAJ NALOG",
-"emailSentTitle": "Email poslat",
-"emailSentMsg": "Molimo vas da proverite svoj sanduče i potvrdite svoju email adresu. Zatim možete koristiti ovaj nalog."
-},
-"history": {
-"title": "Istorija",
-"filter": "Filter",
-"empty": "Nema podataka o istoriji"
-},
-"mapStats": {
-"title": "Statistika mape",
-"filter": "Filter",
-"empty": "Nema statistike"
-},
-"rank": "Rang",
-"season": {
-"progress": "Tok sezone"
-},
-"delete": {
-"title": "Obriši nalog",
-"dialog": {
-"title": "Da li ste sigurni?",
-"message": "Žao nam je što vas vidimo kako odlazite! Da li ste sigurni da želite da obrišete svoj nalog? Svi vaši podaci i igre će biti trajno uklonjeni.\nMorate potvrditi svoj nalog kako biste ga obrisali.",
-"no": "Ne",
-"yes": "Da"
-},
-"enterPassword": "Unesite šifru",
-"enterPasswordInstruction": "Unesite šifru za svoj nalog ispod"
-},
-"stats": {
-"filter": {
-"title": "FILTER",
-"clear": "Očisti",
-"filter": "Filter"
-},
-"totalGames": "Ukupno igara - ",
-"unlockAll": "Postanite Gold korisnik da otključate sve statistike"
-},
-"info": {
-"hometown": "Rodni grad: ",
-"editInfo": "Uredi informacije",
-"joinedOn": "Pridružen/a {}",
-"months": {
-"1": "Jan",
-"2": "Feb",
-"3": "Mar",
-"4": "Apr",
-"5": "Maj",
-"6": "Jun",
-"7": "Jul",
-"8": "Avg",
-"9": "Sep",
-"10": "Okt",
-"11": "Nov",
-"12": "Dec"
-},
-"1stPlace": "1. mesto",
-"2ndPlace": "2. mesto",
-"3rdPlace": "3. mesto",,
-"totalGames": "Ukupno igara",
-"asOfMay": "kako u maju 2023.",
-"style": "Style",
-"achievements": "Achievements",
-"color": "Color",
-"details": "Details"
-},
-"errors": {
-"updateFailed": "Ažuriranje nije uspelo",
-"nameProfanity": "Ime ne sme sadržavati uvrede",
-"nameTaken": "Ime je već zauzeto",
-"nameEmpty": "Ime ne može biti prazno",
-"statusProfanity": "Status ne sme sadržavati uvrede",
-"descriptionProfanity": "Opis ne sme sadržavati uvrede",
-"cityProfanity": "Grad ne sme sadržavati uvrede"
-}
-},
-"auth": {
-"fb": {
-"newPassword": "Nova šifra",
-"newPasswordHint": "Unesite novu šifru",
-"verifiedTitle": "Verifikovano",
-"verifiedMsg": "Vaša email adresa je uspešno verifikovana.",
-"passResetMsg": "Vaša šifra za email je uspešno promenjena.",
-"expired": "Neispravan ili istekao link, pokušajte ponovo da verifikujete email.",
-"weakPass": "Šifra je previše slaba, pokušajte ponovo.",
-"expiredPassReset": "Neispravan ili istekao link, pokušajte ponovo da resetujete šifru."
-},
-"linking": {
-"title": "Povezivanje naloga",
-"message": "Prijavljivanje sa $newProvider će zameniti vaše postojeće prijave. Nastaviti?",
-"no": "Ne",
-"yes": "Da"
-},
-"footer": {
-"agree": "Dodirivanjem dugmeta za prijavljivanje, saglasni ste sa\n",
-"tos": "Uslovima korišćenja",
-"and": " i ",
-"privacy": "Politikom privatnosti"
-},
-"code": {
-"msg": "Unesite kod poslat na {}",
-"confirm": "Potvrdi",
-"sent": "Email poslat",
-"sentMsg": "Novi kod je poslat na {}",
-"resend": "Ponovo pošalji kod",
-"continueWithEmail": "Imate šifru? Nastavite ovde"
-},
-"email": {
-"label": "Unesite svoj email kako biste se registrovali ili prijavili na Landover",
-"button": "Potvrdi"
-},
-"signUp": {
-"nickname": {
-"label": "Nadimak",
-"placeholder": "Unesite nadimak...",
-"empty": "Molimo vas da unesete nadimak",
-"short": "Molimo vas da unesete nadimak sa najmanje 3 karaktera",
-"profanity": "U nadimku je otkrivena uvreda. Pokušajte ponovo."
-},
-"password": {
-"label": "Potvrdite šifru",
-"placeholder": "Potvrdite šifru...",
-"empty": "Molimo vas da unesete šifru",
-"mismatch": "Šifre se ne podudaraju"
-}
-},
-"verify": {
-"email": "Potvrdite svoj email",
-"message": "Email za verifikaciju vam je poslat! Molimo vas da proverite svoje sanduče i verifikujete nalog pre nego što se prijavite",
-"resend": "Pošalji ponovo"
-},
-"login": "Prijavite se",
-"useFB": "Nastavite sa Facebook-om",
-"useGoogle": "Nastavite sa Google-om",
-"useEmail": "Nastavite sa Email-om",
-"useApple": "Nastavite sa Apple-om",
-"or": "ILI",
-"passRequired": "Potrebna vam je vaša šifra",
-"enterPassword": "Molimo vas da unesete vašu šifru za {}"
-},
-"alerts": {
-"ok": "OK",
-"cancel": "Otkaži"
-},
-"forms": {
-"submit": "Potvrdi",
-"nicknameEmpty": "Molimo vas da unesete nadimak",
-"nicknameShort": "Molimo vas da unesete nadimak sa najmanje 3 karaktera",
-"email": "Email",
-"emailEmpty": "Molimo vas da unesete email",
-"emailPlaceholder": "Unesite Email...",
-"emailInvalid": "Molimo vas da unesete validnu email adresu",
-"password": "Šifra",
-"passwordPlaceholder": "Unesite Šifru...",
-"passwordEmpty": "Molimo vas da unesete šifru",
-"forgotPassword": "Zaboravljena šifra?",
-"resetPasswordTitle": "Resetuj šifru",
-"resetPasswordEmail": "Unesite vaš email",
-"resetPasswordEmailSent": "Email poslat",
-"resetPasswordEmailSentMsg": "Molimo vas da proverite svoje sanduče"
-},
-"codeJoin": {
-"join": "Pridruži se"
-},
-"history": {
-"title": "ISTORIJA",
-"notAvailable": "Podaci o starim rezultatima igara nisu dostupni.",
-"turns": "{} Poteza",
-"players": "{} igrača",
-"noHistory": "Nema podataka o istoriji"
-},
-"settings": {
-"title": "PODEŠAVANJA",
-"editInfo": "Uredi informacije",
-"stats": "Statistike",
-"themes": "Teme i Boje",
-"history": "Istorija",
-"logout": {
-"title": "Odjavi se",
-"guest": {
-"title": "Upozorenje!",
-"message": "Uskoro ćete se odjaviti sa svog gostujućeg naloga. Svi podaci će biti izgubljeni i sve vaše igre će biti poništene. Kako biste to izbegli, prvo se autentičujte sa nekim drugim prijavljivanjem. Nastaviti?",
-"delete": "Obriši nalog",
-"cancel": "Otkaži"
-}
-},
-"privacy": "Politika privatnosti",
-"terms": "Uslovi korišćenja"
-},
-"invite": {
-"play": "Igraj",
-"cancel": "Otkaži",
-"inviteFrom": "Poziv od {}!"
-},
-"matchmaking": {
-"title": "NEW RANKED GAME",
-"daily": "Start Daily Game",
-"live": "Start Live Game",
-"customGame": "Want to choose your map and settings? Create a custom game.",
-"dailyDescription":"24 hours to make your move.\n Unlimited games!",
-"liveDescription": "90s to make your move.\n1 game at a time!"
-},
-"help": {
-"title": "DOBRODOŠLI U LANDOVER!",
-"rules": "Pravila",
-"video": "Video\nTutorijali",
-"tutorial": "Igraj\nTutorial",
-"discord": "Discord!",
-"questions": "Pitanja?\n"
-},
-"themes": {
-"title": "Tema",
-"chooseTheme": "Izaberite Temu",
-"chooseColor": "Izaberite Boju",
-"save": "Sačuvaj",
-"goGold": "POSTANI GOLD!",
-"selected": "IZABRANO"
-},
-"createGame": {
-"options": {
-"title": "OPCIJE",
-"on": "Uključeno",
-"off": "Isključeno",
-"time": "Vreme po potezu",
-"points": "Bodovi za pobedu",
-"barbDelay": "Odgoda barbara",
-"barbDelayTooltip": "Broj bacanja kocke pre nego što barbari počnu da napreduju\nprema napadu.",
-"name": "Ime igre (opciono)",
-"namePlaceholder": "Unesite ime",
-"public": "Javna igra",
-"mapHints": {
-"title": "Nagoveštaji mape",
-"tooltip": "Omogućava indikatore nagoveštaja mape prilikom\nizgradnje struktura."
-},
-"charity": {
-"title": "Dobrotvorne sedmice",
-"tooltip": "Dajte jedan nasumični resurs kada se baci 7"
-},
-"resources": {
-"title": "Početni resursi",
-"tooltip": "Dajte svakom korisniku po jedan resurs svake vrste kada igra počne"
-},
-"raids": {
-"title": "Napadi",
-"tooltip": "Omogućava/Onemogućava trošenje jednog vojnog resursa za napad na protivnika."
-},
-"fairDice": {
-"title": "Pravedne kocke",
-"tooltip": "Zamenjuje pravi slučaj sa ravnomernom raspodelom bacanja kocke."
-},
-"culture": {
-"title": "Kultura",
-"tooltip": "Omogućava nadogradnje nauke, politike i trgovine,\n tako da možete prikupljati kartice razvoja\ni zarađivati ​​metro stanice."
-},
-"luckyRaid": {
-"title": "Srećni 7 napad",
-"tooltip": "Igraču koji je poslednji na tabeli a baci 7,\nse nagrađuje besplatan napad."
-}
-},
-"map": {
-"title": "IZABERI MAPU",
-"maps": "MAPE",
-"favorites": "Omiljene",
-"lastPlayed": "Poslednje odigrano",
-"moreSlots": "Pretplati se za više slotova",
-"giant": "Gigantska",
-"normal": "Normalna",
-"mapType": "Izaberi tip mape",
-"mapTypeMsg": "Izaberi tip mape koju želiš kreirati.",
-"createMap": "Kreiraj Novu Mapu",
-"register": "Registruj se",
-"createAccount": "Kreiraj Nalog",
-"createAccountMsg": "Morate se registrovati kako biste kreirali mape.",
-"search": "Pretraži mape",
-"mapName": "Ime",
-"gamesPlayed": "Broj igara",
-"createdOn": "Kreirano",
-"noUserMaps": "Nisi kreirao/la nijednu mapu",
-"noMaps": "Nema pronađenih mapa",
-"noRecentGames": "Nemaš skoro odigranih igara",
-"noFavorites": "Nemaš omiljenih mapa",
-"tabs": {
-"standard": "STANDARDNE",
-"myMaps": "MOJE MAPE",
-"favorites": "OMILJENE",
-"all": "SVE"
-},
-"adminControls": {
-"confirmDialog": {
-"yes": "Da",
-"no": "Ne",
-"confirm": "Potvrdi",
-"duplicate": "Da li ste sigurni da želite duplicirati ovu mapu?",
-"makeOfficial": "Da li ste sigurni da želite ozvaničiti ovu mapu?",
-"deleteFromOfficial": "Da li ste sigurni da želite izbrisati ovu mapu iz zvaničnih mapa?"
-}
-}
-},
-"sort": {
-"newest": "Najnovije",
-"oldest": "Najstarije",
-"mostGames": "Najviše Igranih",
-"leastGames": "Najmanje Igranih",
-"alphabetical": "Abecedno",
-"reverseAlphabetical": "Abecedno Obrnuto",
-"popular": "Popularno"
-},
-"preview": {
-"selectMap": "Izaberi Mapu",
-"deleteMap": "Obriši Mapu",
-"editMap": "Uredi Mapu"
-}
-},
-"playTutorial": {
-"title": "Igraj tutorijal",
-"message": "Kao novi igrač u Landover-u, morate završiti jednu solo igru protiv botova pre nego što se pridružite javnoj igri. Isprobajte tutorijal!"
-},
-"createGame": "Kreiraj Igru"
-},
-"join": {
-"title": "Pridruži se igrama",
-"gameNotAvailable": "Ova igra nije dostupna, pokušajte s drugom",
-"createGame": "Kreiraj Igru",
-"joinByCode": "Pridruži se preko Koda",
-"filter": {
-"title": "FILTER",
-"button": "Filter",
-"clear": "Očisti",
-"allGames": "Sve Igre",
-"liveGames": "Live Igre",
-"dailyGames": "Dnevne Igre",
-"allPoints": "Svi Poeni",
-"xPoints": "{} poena"
-}
-}
-},
-"lobby": {
-"leave": {
-"title": "Napusti Igru",
-"message": "Da li ste sigurni da želite napustiti ovu igru?",
-"yes": "Napusti"
-},
-"add": {
-"recent": "+ Skorašnje",
-"bot": "+ Dodaj Bota",
-"invite": "+ Pozovi"
-},
-"boot": {
-"button": "Izbaci",
-"title": "Da li ste sigurni da želite izbaciti "
-},
-"rankedLiveLobby": {
-"title": "RANGIRANA LIVE IGRA",
-"lobbyState": {
-"waiting": "Wait... Estimated Time: ",
-"areYouReady": "Spremni ste?",
-"starting": "Igra počinje",
-"waitingForOther": "Čekanje drugih igrača..."
-},
-"readyButton": "Spreman",
-"opponent": "Protivnik",
-"VS": "VS",
-"randomMap": "Nasumična mapa",
-"gameData": {
-"winCondition": "Uslov za Pobedu",
-"startingResources": "Početni Resursi",
-"charity": "Dobročinstvo",
-"fairDice": "Pravični Kocka",
-"turnTimer": "Vreme po Potezu",
-"on": "Uključeno",
-"off": "Isključeno"
-}
-},
-"options": {
-"on": "Uključeno",
-"off": "Isključeno",
-"points": "Poeni za Pobedu",
-"time": "Merač poteza",
-"luckyRaid": "Srećni 7 Napad",
-"culture": "Kultura",
-"barbDelay": "Odlaganje Barbari",
-"fairDice": "Pravične Kocke",
-"raids": "Napadi"
-},
-"addBot": {
-"title": "DODAJ BOTA",
-"alreadyAdded": "Već dodato",
-"unlockBot": "Otključaj Bota",
-"addBot": "Dodaj Bota"
-},
-"getReady": {
-"title": "SPREMI SE!",
-"cancel": "Otkaži",
-"ready": "Spreman"
-},
-"ranked": {
-"title": "Pridružen!",
-"message": "Pridružili ste se dnevnoj igri! Bićete obavešteni kada igra počne."
-},
-"recent": {
-"title": "POZIVANJE IGRAČA",
-"notificationTurnedOf": "Ovaj igrač je isključio pozive od skorašnjih igrača. Ovaj igrač će biti uklonjen sa vaše liste.",
-"noRecent": "Nema skorašnjih igrača!"
-},
-"joinPrivate": {
-"joinAnyway": "Pridruži se svakako",
-"cancel": "Otkaži"
-},
-"gameType": {
-"ranked": "RANGIRANA IGRA",
-"quick": "BRZA IGRA",
-"tutorial": "TUTORIJAL",
-"daily": "DNEVNA IGRA",
-"solo": "SOLO IGRA",
-"live": "LIVE IGRA"
-},
-"lobbyLabel": "Lobi:",
-"code": "Kod: ",
-"join": "PRIDRUŽI SE",
-"waiting": "Čekanje...",
-"waitingForHost": "Čekanje domaćina...",
-"start": "Početak",
-"starting": "Igra počinje",
-"startingTutorial": "Počinje tutorijal",
-"initTutorial": "Inicijalizacija tutorijala...",
-"creatingNewLobby": "Kreiranje novog lobija...",
-"checkingExisting": "Provera postojećih igara...",
-"matchingGameFound": "Pronađena je odgovarajuća igra!",
-"loadingLobby": "Učitavanje lobija...",
-"loadingGame": "Učitavanje igre...",
-"joined": "Pridružen!",
-"alreadyInQueue": "Već ste u redu, bićete obavešteni kada igra počne.",
-"lobbyFull": "Lobi je pun!",
-"hostToAdd": "Morate biti domaćin da biste dodali bota",
-"cannotBoot": "Ne možete izbaciti ovog igrača",
-"notFound": "Lobi nije pronađen",
-"waitingForLot": "Već čekate da puno igara počne. Obavestićemo vas kada dođe vaš red za potez.",
-"kicked": "Izbačen/a!",
-"kickedMsg": "Domaćin vas je izbacio iz ove igre. Pokušajte se pridružiti drugoj igri.",
-"timeOut": "Isteklo vreme",
-"timeOutMsg": "Niste prihvatili igru na vreme.",
-"rematchCanceled": "Ponovni meč otkazan",
-"rematchCanceledMsg": "Neko je odbio ovu igru.",
-"gameCanceled": "Igra otkazana",
-"gameCanceledMsg": "Domaćin je završio ovu igru."
-}
-},
-"builder": {
-"create": {
-"title": "KREIRAJ MAPU!",
-"ok": "Ok",
-"firstMap": "Želiš li kreirati svoju prvu prilagođenu mapu?\nKoristi map builder da dizajniraš svoj sopstveni svet!",
-"randomNumber": "Sve pločice bez brojeva biće nasumično dodeljene brojeve svake igre",
-"mysteryTiles": "Mistična pločica koja se ne može postaviti inicijalno i otkriva se tek kada je igrač istraži",
-"randomResources": "Nasumično dodeljeni resursi na početku igre"
-},
-"controls": {
-"info": "Informacije",
-"tiles": "Pločice",
-"harbors": "Luke"
-},
-"info": {
-"name": {
-"title": "Ime",
-"placeholder": "Unesite ime..."
-},
-"description": {
-"title": "Opis",
-"placeholder": "Unesite opis..."
-},
-"points": "Poeni za Pobedu"
-},
-"terrain": {
-"nonPlacement": "Pločica za koju nije dozvoljeno postavljanje",
-"nonPlacementHint": "Izaberite zemljišne pločice na kojima nije dozvoljeno postavljanje naselja."
-},
-"unsaved": {
-"title": "Nespašene promene",
-"message": "Imate nespašene promene na ovoj mapi?",
-"yes": "Izađi",
-"no": "Sačuvaj i izađi"
-},
-"title": "KREATOR MAPE",
-"save": "Sačuvaj",
-"openControls": "Otvori Kontrole",
-"profanity": "Detektovane prostote. Pokušajte ponovo.",
-"saved": {
-"title": "Uspeh!",
-"message": "Vaša mapa je sačuvana!"
-},
-"validation": {
-"emptyName": "Molimo dajte ime svojoj mapi.",
-"invalidName": "Molimo unesite validno ime mape."
-},
-"list": {
-"by": "Od: {}",
-"on": "Na: {}",
-"games": "Igre: {}",
-"vp": "VP: {}",
-"deleteOfficial": {
-"title": "Izbriši Akciju",
-"message": "Zvanične mape se ne mogu izbrisati."
-},
-"delete": {
-"title": "Izbriši",
-"message": "Da li ste sigurni da želite izbrisati ovu mapu?",
-"yes": "Izbriši",
-"no": "Otkaži"
-}
-}
-},
-"notifications": {
-"title": "Ne propustite svoj potez!",
-"enable": "Omogući Obaveštenja",
-"enableEmail": "Omogući Obaveštenja putem E-pošte",
-"enableText": "Omogućite obaveštenja i nikada ne propustite svoj potez. Podsetićemo vas kada je vreme da se vratite kako biste nastavili igru!",
-"notNow": "Sada ne omogućavaj"
-},
-"unsubscribe": {
-"ask": {
-"title": "Da li ste sigurni?",
-"message": "Da li ste sigurni da želite odjaviti od e-pošte sa ažuriranjima igre?",
-"yes": "Odjavi se"
-},
-"unsubscribed": {
-"title": "Odjavljeni ste",
-"yes": "Početna",
-"message": "Uspešno ste se odjavili. Možete ponovo uključiti e-poštanska obaveštenja o ažuriranjima igre u postavkama."
-}
-},
-"loading": {
-"title": "MOLIMO SAČEKAJTE"
-},
-"rank": {
-"title": "VAŠ\nRANG"
-},
-"seasons": {
-"leaderboard": {
-"title": "TABELA SEZONE",
-"player": "Igrač",
-"games": "# Igre",
-"SP": "SP (Sezonski Poeni)",
-"reward": "Nagrada"
-},
-"noPlayers": "Još uvek nema igrača",
-"unlockAchievement": "Završite 10 igara\nda otključate dostignuće"
-},
-"showcase": {
-  "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-  "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-  "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-  "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
-  "resources1": "These are your resource cards!",
-  "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-  "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-  "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-  "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-  "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-  "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-  "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-  "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-  "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-  "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-  "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
-}
-}
-

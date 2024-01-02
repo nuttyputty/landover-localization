@@ -622,7 +622,10 @@
         "confirmCityWall": "Построить стену города?",
         "confirmMetro": "Построить метро?"
       },
-      "roll": "Бросить Кубики"
+      "roll": "Бросить Кубики",
+      "build": "Build",
+      "remove": "Remove",
+      "move": "Move"
     },
     "menu": {
       "gameActions": "ИГРОВЫЕ ДЕЙСТВИЯ",
