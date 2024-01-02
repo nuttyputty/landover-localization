@@ -1072,7 +1072,20 @@
     },
     "viewRanks": "Посмотреть Рейтинги",
     "title": "РЕЙТИНГИ",
-    "rules": "Как работают рейтинги"
+    "rules": "Как работают рейтинги",
+    "globalStats": "Global Stats",
+    "yourRankWrap": "YOUR\nRANK",
+    "leaderboard": {
+      "title": "RANKING LEADERBOARD",
+      "shortTitle":"Leaderboard",
+      "player": "Player",
+      "games":"# Games",
+      "rank": "Rank",
+      "MMR": "MMR",
+      "yourRank": "YOUR RANK",
+      "noPlayers": "No players yet",
+      "seeFull": "See Full"
+    }
   },
   "dailyGames": {
     "noGames": "Нет игр в процессе",
@@ -1663,9 +1676,6 @@
   },
   "loading": {
     "title": "ПОДОЖДИТЕ ПОЖАЛУЙСТА"
-  },
-  "rank": {
-    "title": "ВАШ\nРЕЙТИНГ"
   },
   "seasons": {
     "leaderboard": {

@@ -1072,7 +1072,20 @@
     },
     "viewRanks": "查看排位",
     "title": "排位",
-    "rules": "排位的规则"
+    "rules": "排位的规则",
+    "globalStats": "Global Stats",
+    "yourRankWrap": "YOUR\nRANK",
+    "leaderboard": {
+      "title": "RANKING LEADERBOARD",
+      "shortTitle":"Leaderboard",
+      "player": "Player",
+      "games":"# Games",
+      "rank": "Rank",
+      "MMR": "MMR",
+      "yourRank": "YOUR RANK",
+      "noPlayers": "No players yet",
+      "seeFull": "See Full"
+    }
   },
   "dailyGames": {
     "noGames": "没有进行中的游戏",
@@ -1663,9 +1676,6 @@
   },
   "loading": {
     "title": "请稍等"
-  },
-  "rank": {
-    "title": "你的\n排位"
   },
   "seasons": {
     "leaderboard": {

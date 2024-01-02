@@ -1066,7 +1066,20 @@
     },
     "viewRanks": "Ver Classificações",
     "title": "CLASSIFICAÇÕES",
-    "rules": "Como funcionam as classificações"
+    "rules": "Como funcionam as classificações",
+    "globalStats": "Global Stats",
+    "yourRankWrap": "YOUR\nRANK",
+    "leaderboard": {
+      "title": "RANKING LEADERBOARD",
+      "shortTitle":"Leaderboard",
+      "player": "Player",
+      "games":"# Games",
+      "rank": "Rank",
+      "MMR": "MMR",
+      "yourRank": "YOUR RANK",
+      "noPlayers": "No players yet",
+      "seeFull": "See Full"
+    }
   },
   "dailyGames": {
     "noGames": "Não há jogos em progresso",
@@ -1657,9 +1670,6 @@
   },
   "loading": {
     "title": "POR FAVOR AGUARDA"
-  },
-  "rank": {
-    "title": "A TUA\nCLASSIFICAÇÃO"
   },
   "seasons": {
     "leaderboard": {

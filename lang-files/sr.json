@@ -1035,7 +1035,20 @@
          },
          "viewRanks": "Pogledaj rangove",
          "title": "Rangovi",
-         "rules": "Kako rangiranje funkcioniše"
+         "rules": "Kako rangiranje funkcioniše",
+         "globalStats": "Global Stats",
+         "yourRankWrap": "YOUR\nRANK",
+         "leaderboard": {
+            "title": "RANKING LEADERBOARD",
+            "shortTitle": "Leaderboard",
+            "player": "Player",
+            "games": "# Games",
+            "rank": "Rank",
+            "MMR": "MMR",
+            "yourRank": "YOUR RANK",
+            "noPlayers": "No players yet",
+            "seeFull": "See Full"
+         }
       },
       "dailyGames": {
          "noGames": "Nema igara u toku",
@@ -1611,9 +1624,6 @@
    },
    "loading": {
       "title": "MOLIMO SAČEKAJTE"
-   },
-   "rank": {
-      "title": "VAŠ\nRANG"
    },
    "seasons": {
       "leaderboard": {

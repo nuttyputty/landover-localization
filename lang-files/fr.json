@@ -1072,7 +1072,20 @@
     },
     "viewRanks": "Voir les rangs",
     "title": "RANGS",
-    "rules": "Comment fonctionnent les classements"
+    "rules": "Comment fonctionnent les classements",
+    "globalStats": "Global Stats",
+    "yourRankWrap": "YOUR\nRANK",
+    "leaderboard": {
+      "title": "RANKING LEADERBOARD",
+      "shortTitle":"Leaderboard",
+      "player": "Player",
+      "games":"# Games",
+      "rank": "Rank",
+      "MMR": "MMR",
+      "yourRank": "YOUR RANK",
+      "noPlayers": "No players yet",
+      "seeFull": "See Full"
+    }
   },
   "dailyGames": {
     "noGames": "Aucune partie n'est en cours",
@@ -1663,9 +1676,6 @@
   },
   "loading": {
     "title": "VEUILLEZ PATIENTER"
-  },
-  "rank": {
-    "title": "VOTRE\nCLASSEMENT"
   },
   "seasons": {
     "leaderboard": {
