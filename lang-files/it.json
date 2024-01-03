@@ -854,6 +854,17 @@
       "timeExpired": "Tempo Scaduto",
       "timeExpiredMsg": "Hai esaurito il tempo e sei stato rimosso dalla partita.",
       "close": "Chiudi"
+    },
+    "currencies": {
+      "clay": "Clay",
+      "wood": "Wood",
+      "wheat": "Wheat",
+      "wool": "Whool",
+      "ore": "Ore",
+      "paper": "Paper",
+      "cloth": "Cloth",
+      "coin": "Coin",
+      "random": "Random"
     }
   },
   "tutorial": {

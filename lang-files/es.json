@@ -860,6 +860,17 @@
       "timeExpired": "Tiempo expirado",
       "timeExpiredMsg": "Te has quedado sin tiempo y has sido eliminado del juego.",
       "close": "Cerrar"
+    },
+    "currencies": {
+      "clay": "Clay",
+      "wood": "Wood",
+      "wheat": "Wheat",
+      "wool": "Whool",
+      "ore": "Ore",
+      "paper": "Paper",
+      "cloth": "Cloth",
+      "coin": "Coin",
+      "random": "Random"
     }
   },
   "tutorial": {

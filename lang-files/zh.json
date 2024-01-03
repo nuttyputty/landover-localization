@@ -860,6 +860,17 @@
       "timeExpired": "时间已到",
       "timeExpiredMsg": "时间已到，你已被移出游戏。",
       "close": "关闭"
+    },
+    "currencies": {
+      "clay": "Clay",
+      "wood": "Wood",
+      "wheat": "Wheat",
+      "wool": "Whool",
+      "ore": "Ore",
+      "paper": "Paper",
+      "cloth": "Cloth",
+      "coin": "Coin",
+      "random": "Random"
     }
   },
   "tutorial": {

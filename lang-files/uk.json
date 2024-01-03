@@ -854,6 +854,17 @@
       "timeExpired": "Час вичерпано",
       "timeExpiredMsg": "Ви вичерпали час і були вилучені з гри.",
       "close": "Закрити"
+    },
+    "currencies": {
+      "clay": "Clay",
+      "wood": "Wood",
+      "wheat": "Wheat",
+      "wool": "Whool",
+      "ore": "Ore",
+      "paper": "Paper",
+      "cloth": "Cloth",
+      "coin": "Coin",
+      "random": "Random"
     }
   },
   "tutorial": {
