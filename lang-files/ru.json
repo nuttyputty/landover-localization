@@ -458,7 +458,14 @@
         "no": "Нет",
         "failed": "Что-то пошло не так, пожалуйста, попробуйте снова"
       },
-      "profanityDetected": "Обнаружена ненормативная лексика. Попробуйте еще раз."
+      "profanityDetected": "Обнаружена ненормативная лексика. Попробуйте еще раз.",
+      "chatActionType": {
+        "joinGame": "{} has join the game",
+        "leftGame": "{} has left the game",
+        "invitePlayer": "{} invited {} to the game",
+        "botAdded": "{} added a bot",
+        "botRemoved": "{} removed a bot"
+      }
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "с",

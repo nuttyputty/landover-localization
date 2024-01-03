@@ -458,7 +458,14 @@
         "no": "否",
         "failed": "出现错误，请重试"
       },
-      "profanityDetected": "Profanity detected. Try again."
+      "profanityDetected": "Profanity detected. Try again.",
+      "chatActionType": {
+        "joinGame": "{} has join the game",
+        "leftGame": "{} has left the game",
+        "invitePlayer": "{} invited {} to the game",
+        "botAdded": "{} added a bot",
+        "botRemoved": "{} removed a bot"
+      }
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "的",

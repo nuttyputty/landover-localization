@@ -452,7 +452,14 @@
         "no": "Nem",
         "failed": "Valami rosszul sült el, kérlek próbáld meg újra"
       },
-      "profanityDetected": "Profanity detected. Try again."
+      "profanityDetected": "Profanity detected. Try again.",
+      "chatActionType": {
+        "joinGame": "{} has join the game",
+        "leftGame": "{} has left the game",
+        "invitePlayer": "{} invited {} to the game",
+        "botAdded": "{} added a bot",
+        "botRemoved": "{} removed a bot"
+      }
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "játékosé",

@@ -458,7 +458,14 @@
         "no": "No",
         "failed": "Algo salió mal, inténtalo de nuevo"
       },
-      "profanityDetected": "Profanity detected. Try again."
+      "profanityDetected": "Profanity detected. Try again.",
+      "chatActionType": {
+        "joinGame": "{} has join the game",
+        "leftGame": "{} has left the game",
+        "invitePlayer": "{} invited {} to the game",
+        "botAdded": "{} added a bot",
+        "botRemoved": "{} removed a bot"
+      }
     },
     "playerTurnOverlay": {
       "playerNameSuffix": "de",

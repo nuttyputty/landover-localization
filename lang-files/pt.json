@@ -452,6 +452,13 @@
         "yes": "Sim",
         "no": "No",
         "failed": "Algo correu mal, tenta novamente"
+      },
+      "chatActionType": {
+        "joinGame": "{} has join the game",
+        "leftGame": "{} has left the game",
+        "invitePlayer": "{} invited {} to the game",
+        "botAdded": "{} added a bot",
+        "botRemoved": "{} removed a bot"
       }
     },
     "playerTurnOverlay": {

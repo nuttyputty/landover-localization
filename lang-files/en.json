@@ -458,6 +458,13 @@
         "yes": "Yes",
         "no": "No",
         "failed": "Something went wrong, please try again"
+      },
+      "chatActionType": {
+        "joinGame": "{} has join the game",
+        "leftGame": "{} has left the game",
+        "invitePlayer": "{} invited {} to the game",
+        "botAdded": "{} added a bot",
+        "botRemoved": "{} removed a bot"
       }
     },
     "playerTurnOverlay": {
