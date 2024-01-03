@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "ЗРОБИТИ ХІД",
-    "playNow": "ГРАТИ ЗАРАЗ",
+    "playNow": "NEW GAME",
     "createGame": "Кастомізована гра",
-    "joinGame": "Приєднатися до гри",
+    "joinGame": "Lobbies",
     "myGames": "Мої гри",
     "startPlaying": "Почніть грати зараз!",
     "ranked": {
@@ -1345,9 +1345,17 @@
     "title": "НОВА РАНГОВА ГРА",
     "daily": "ПОЧАТИ ДЕННУ ГРУ",
     "live": "ПОЧАТИ ЖИВУ ГРУ",
-    "customGame": "Хочеш вибрати власну карту та налаштування? Створи кастомізовану гру.",
-    "dailyDescription":"24 години щоб зробити хід.\nБезліч ігор!",
-    "liveDescription": "90с щоб зробити хід.\n1 гра одночасно!"
+    "customGame": {
+      "question": "Want to choose your map and settings? ",
+      "link": "Create a custom game."
+    },
+    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
+    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
+    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "gamesPending": {
+      "one": "game pending",
+      "other": "games pending"
+    }
   },
   "help": {
     "title": "ЛАСКАВО ПРОСИМО ДО LANDOVER!",
