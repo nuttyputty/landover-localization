@@ -827,7 +827,18 @@
             "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
             "timeExpired": "Vreme isteklo",
             "timeExpiredMsg": "Isteklo vam je vreme i uklonjeni ste iz igre."
-         }
+         },
+         "currencies": {
+            "clay": "Clay",
+            "wood": "Wood",
+            "wheat": "Wheat",
+            "wool": "Whool",
+            "ore": "Ore",
+            "paper": "Paper",
+            "cloth": "Cloth",
+            "coin": "Coin",
+            "random": "Random"
+          }
       },
       "tutorial": {
          "viewProductChart": "Prikaži tabelu grafa proizvodnje",
