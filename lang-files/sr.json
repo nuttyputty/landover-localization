@@ -1,9 +1,9 @@
 {
    "home": {
       "takeTurn": "ODIGRAJ POTEZ",
-      "playNow": "NEW GAME",
-      "createGame": "Custom Game",
-      "joinGame": "Lobbies",
+      "playNow": "НОВА ИГРА",
+      "createGame": "Цустом Гаме",
+      "joinGame": "лобији",
       "myGames": "Moje igre",
       "startPlaying": "Počni igrati odmah!",
       "ranked": {
@@ -19,22 +19,22 @@
       }
    },
    "privacy": {
-      "title": "Privacy and GDPR",
+      "title": "Приватност и ГДПР",
       "paragraphs": {
-         "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
-         "2": {
-            "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-            "second": "), and going to your profile and edit info pages.\n"
-         },
-         "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-         "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-         "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-         "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-         "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
-         "8": {
-            "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-            "second": " and we will be happy to help."
-         }
+          "1": "ГДПР и право на заборав. Како могу да погледам или избришем податке свог налога?\n",
+          "2": {
+             "first": "Можете да видите све податке о налогу које Ландовер чува тако што ћете се пријавити на апликацију или веб локацију (",
+             "second": "), и одлазак на ваш профил и уређивање страница са информацијама.\n"
+          },
+          "3": "Ови подаци се састоје од личних података које сте унели на страници са подешавањима, на пример, ваших корисничких ИД-ова, корисничког имена и е-поште, као и информација о мобилном уређају (чуване да бисмо могли да шаљемо обавештења на ваш уређај), о информације, земља локације и родни град које сте добровољно дали.\n",
+          "4": "Ако желите да у потпуности избришете свој налог и све податке, можете изабрати да избришете свој налог на страници за уређивање информација / подешавања.\n",
+          "5": "Имајте на уму да ће брисање вашег налога на овај начин трајно уклонити ваше податке, осим података које морамо да чувамо да бисмо остварили наша законска права или да бисмо се придржавали законске обавезе. На пример, ако сте били којима је забрањен приступ Ландоверу, чувамо минимум неопходних информација како бисмо били сигурни да спроводимо наше смернице и спречимо будућа кршења.\n",
+          "6": "Имајте на уму да ово неће избрисати ваше записе игре, коментаре или друге јавне објаве.\n",
+          "7": "Ово не може да се поништи, чак ни особље, па вас молимо да добро размислите пре него што избришете свој налог на овај начин.\n",
+          "8": {
+             "first": "***Ако сте изгубили приступ свом налогу или имате било каква питања о овом процесу, пишите на ",
+             "second": "и радо ћемо помоћи."
+          }
       }
    },
    "playNow": {
@@ -1055,17 +1055,17 @@
          "viewRanks": "Pogledaj rangove",
          "title": "Rangovi",
          "rules": "Kako rangiranje funkcioniše",
-         "globalStats": "Global Stats",
-         "yourRankWrap": "YOUR\nRANK",
+         "globalStats": "Глобал Статс",
+         "yourRankWrap": "ВАШ\nРАНГ",
          "leaderboard": {
-            "title": "RANKING LEADERBOARD",
-            "shortTitle": "Leaderboard",
+            "title": "РАНГИНГ ЛЕАДЕРБОАРД",
+            "shortTitle": "Леадербоард",
             "player": "Player",
-            "games": "# Games",
-            "rank": "Rank",
+            "games": "# Игре",
+            "rank": "Ранг",
             "MMR": "MMR",
-            "yourRank": "YOUR RANK",
-            "noPlayers": "No players yet",
+            "yourRank": "ВАШ РАНК",
+            "noPlayers": "Још нема играча",
             "viewAll": "View All"
          }
       },
@@ -1174,10 +1174,10 @@
             "3rdPlace": "3. mesto",
             "totalGames": "Ukupno igara",
             "asOfMay": "kako u maju 2023.",
-            "style": "Style",
-            "achievements": "Achievements",
-            "color": "Color",
-            "details": "Details"
+            "style": "Стиле",
+            "achievements": "Достигнућа",
+            "color": "Боја",
+            "details": "Детаљи"
          },
          "errors": {
             "updateFailed": "Ažuriranje nije uspelo",
@@ -1308,19 +1308,19 @@
          "inviteFrom": "Poziv od {}!"
       },
       "matchmaking": {
-         "title": "NEW RANKED GAME",
-         "daily": "Start Daily Game",
-         "live": "Start Live Game",
+         "title": "НОВА РАНГОВАНА ИГРА",
+         "daily": "Даили Гаме",
+         "live": "Игра уживо",
          "customGame": {
-            "question": "Want to choose your map and settings? ",
-            "link": "Create a custom game."
+            "question": "Желите да изаберете своју мапу и подешавања?",
+            "link": "Направите прилагођену игру."
           },
-          "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-          "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-          "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+          "dailyDescription":"24 сата да направите свој потез.\nНеограничене игре!",
+          "liveDescription": "90 секунди да направите свој потез.\n1 игра одједном!",
+          "gameCreated": "Креирајте нову рангирану дневну игру.\nаша игра ће ускоро почети.",
           "gamesPending": {
-            "one": "game pending",
-            "other": "games pending"
+            "one": "игра на чекању",
+            "other": "игре на чекању"
           }
       },
       "help": {
