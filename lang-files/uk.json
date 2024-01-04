@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "ЗРОБИТИ ХІД",
-    "playNow": "NEW GAME",
+    "playNow": "НОВА ГРА",
     "createGame": "Кастомізована гра",
-    "joinGame": "Lobbies",
+    "joinGame": "Вестибюлі",
     "myGames": "Мої гри",
     "startPlaying": "Почніть грати зараз!",
     "ranked": {
@@ -454,11 +454,11 @@
       },
       "profanityDetected": "Виявлено ненормативну лексику. Спробуйте ще раз.",
       "chatActionType": {
-        "joinGame": "{} has join the game",
-        "leftGame": "{} has left the game",
-        "invitePlayer": "{} invited {} to the game",
-        "botAdded": "{} added a bot",
-        "botRemoved": "{} removed a bot"
+        "joinGame": "{} приєднався до гри",
+        "leftGame": "{} залишив гру",
+        "invitePlayer": "{} запросив {} до гри",
+        "botAdded": "{} додав бота",
+        "botRemoved": "{} видалив бота"
       }
     },
     "playerTurnOverlay": {
@@ -1085,18 +1085,18 @@
     "viewRanks": "Переглянути рейтинги",
     "title": "Рейтинги",
     "rules": "Як працюють рейтинги",
-    "globalStats": "Global Stats",
-    "yourRankWrap": "YOUR\nRANK",
+    "globalStats": "Глобальна статистика",
+    "yourRankWrap": "ВАШ\nЗВАННЯ",
     "leaderboard": {
-      "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
-      "player": "Player",
-      "games":"# Games",
-      "rank": "Rank",
+      "title": "ТАБЛИЦЯ РЕЙТИНГУ",
+      "shortTitle":"Таблиця лідерів",
+      "player": "гравець",
+      "games":"# Ігри",
+      "rank": "ранг",
       "MMR": "MMR",
-      "yourRank": "YOUR RANK",
-      "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "yourRank": "ВАШ ЗВАННЯ",
+      "noPlayers": "Ще немає гравців",
+      "viewAll": "Подивитись все"
     }
   },
   "dailyGames": {
@@ -1155,8 +1155,8 @@
       "title": "Історія",
       "filter": "Фільтр",
       "empty": "Немає історії матчів",
-      "recentGames": "Recent Games",
-      "viewAll": "View All"
+      "recentGames": "Останні ігри",
+      "viewAll": "Подивитись все"
     },
     "mapStats": {
       "title": "Статистика карти",
@@ -1357,15 +1357,15 @@
     "daily": "ПОЧАТИ ДЕННУ ГРУ",
     "live": "ПОЧАТИ ЖИВУ ГРУ",
     "customGame": {
-      "question": "Want to choose your map and settings? ",
-      "link": "Create a custom game."
+      "question": "Бажаєте вибрати свою карту та налаштування? ",
+      "link": "Створіть власну гру."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "dailyDescription":"24 години, щоб зробити свій крок.\n Необмежена кількість ігор!",
+    "liveDescription": "90 секунд, щоб зробити свій хід.\n1 гра за раз!",
+    "gameCreated": "Створюйте нову рейтингову щоденну гру.\nаша гра незабаром розпочнеться.",
     "gamesPending": {
-      "one": "game pending",
-      "other": "games pending"
+      "one": "гра очікується",
+      "other": "ігор в очікуванні"
     }
   },
   "help": {
@@ -1375,14 +1375,14 @@
     "tutorial": "Грати\nНавчання",
     "discord": "Discord!",
     "questions": "Питання?\n",
-    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
+    "onboardingText": "Щоб отримати допомогу, ви завжди можете перейти сюди, щоб повторити підручник, прочитати правила та переглянути відео."
   },
   "themes": {
     "title": "Тема та Колір",
     "chooseTheme": "Вибрати тему",
     "chooseColor": "Вибрати колір",
     "save": "Зберегти",
-    "goGold": "Go Gold to Unlock",
+    "goGold": "Go Gold, щоб розблокувати",
     "selected": "ВИБРАНО"
   },
   "createGame": {
@@ -1709,37 +1709,37 @@
     "unlockAchievement": "Зіграйте 10 ігор,\nщоб розблокувати досягнення"
   },
   "watchLiveGames": {
-    "button": "WATCH\nLIVE GAMES",
-    "emptyList": "There are no active games",
-    "gameLabel": "Live",
-    "title": "Watch Live Games"
+    "button": "ДИВІТЬСЯ\nПРЯМІ ІГРИ",
+    "emptyList": "Активних ігор немає",
+    "gameLabel": "Жити",
+    "title": "Дивитися ігри"
   },
   "showcase": {
-    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
-    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-    "resources1": "These are your resource cards!",
-    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+    "barbarians1": "Це варварський трекер. Кожного разу, коли <bold>варвар (череп)</bold> кидається на <bold>кубі</bold>, варвари на крок наближаються до нападу.",
+    "barbarians2": "Щоб не <bold>втратити місто</bold>, вам потрібно підвищити рівень своєї армії.",
+    "cornerValues1": "Бачите ці цифри в <bold>кутах</bold> кожної <bold>плитки</bold>?",
+    "cornerValues2": "Вони присутні лише під час розміщення, щоб допомогти вам легко знайти <bold>важливі кути</bold>, ті, які прилягають до хороших плиток! Чим вище кутове значення, тим краще!",
+    "culture1": "Ці 3 кола представляють рівень вашої культури для <bold>науки</bold> (зелений), <bold>комерції</bold> (жовтий) і <bold>політики</bold> (синій).",
+    "culture2": "Підвищуючи культурний рівень, ви отримаєте <bold>картки розвитку</bold>. Перехід до рівня 3 відкриває <bold>особливу здатність</bold>. І спочатку досягніть рівня 4, щоб заробити метро вартістю <bold>2 VP</bold>.",
+    "military1": "Це ваш <bold>військовий рівень</bold>, зараз він дорівнює 0.\nВи можете підвищити свій військовий рівень, витративши <bold>1 пшеницю</bold> та <bold>1 вівцю</bold>.",
+    "military2": "Військові захищають від <bold>атак варварів</bold> і можуть використовуватися для <bold>набігів</bold> на інших гравців.",
+    "playerBars1": "Це панелі гравців.\nВони показують огляд карт і рівнів кожного гравця.",
+    "playerBars2": "Верхній рядок зліва направо: <bold>Кількість портів</bold> (гравці, які мають 3 або більше портів, можуть отримати повноваження порту для <bold>2 VP</bold>), <bold>найдовша довжина маршруту</bold> жирним> (гравці з найдовшим маршрутом отримують <bold>2 VP</bold>) і <bold>бали перемоги</bold>.",
+    "playerBars3": "Наступний рядок показує кількість <bold>карток ресурсів/товарів</bold>, кількість <bold>карток розробників</bold>, а потім їхні <bold>військові</bold> та <bold>культуру</bold> рівнів.\nВи можете торкнутися плитки гравця, щоб побачити більше інформації!",
+    "resources1": "Це ваші картки ресурсів!",
+    "resources2": "Їх можна використовувати для будівництва різних споруд, як-от <bold>дорог, сіл і міст</bold>.\nЩоразу, коли ви зможете будувати, Landover пропонуватиме вам ці варіанти на карті.",
+    "tile1": "Ігрова дошка складається з шестикутних <bold>плиток</bold>, кожна з яких має <bold>ресурс</bold> і число.",
+    "tile2": "Кожного ходу гравець кидає <bold>кубік</bold>, і якщо це число випадає, кожен, хто має поселення на цій плитці, отримає <bold>ресурс</bold> цієї плитки. Кидають <bold>2 6-гранні кубики</bold>, тому найкращі числа 6 і 8, потім 5 і 9.",
+    "victoryPoints": "Мета Landover — здобути очки перемоги, будуючи поселення та розширюючи свою імперію."
   },
   "buildingTypes": {
-    "military": "Military",
-    "road": "Road",
-    "boat": "Bridge",
-    "either": "Either",
-    "city": "City",
-    "cityWall": "City Wall",
-    "metro": "Metro",
-    "village": "Village"
+    "military": "військовий",
+    "road": "Дорога",
+    "boat": "Міст",
+    "either": "Або",
+    "city": "Місто",
+    "cityWall": "Міська стіна",
+    "metro": "Мегаполіс",
+    "village": "Село"
   }
 }
