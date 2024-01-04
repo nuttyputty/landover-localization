@@ -46,19 +46,19 @@
   "privacy": {
     "title": "Datenschutz und DSGVO",
     "paragraphs": {
-      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "1": "DSGVO und das Recht auf Vergessenwerden. Wie kann ich meine Kontodaten einsehen oder löschen?\n",
       "2": {
-        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-        "second": "), and going to your profile and edit info pages.\n"
+        "first": "Sie können alle von Landover gespeicherten Kontodaten einsehen, indem Sie sich in der App oder auf der Website anmelden(",
+        "second": "), und gehen Sie zu Ihrem Profil und bearbeiten Sie die Infoseiten.\n"
       },
-      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "3": "Bei diesen Daten handelt es sich um persönliche Informationen, die Sie auf Ihrer Einstellungsseite eingegeben haben, zum Beispiel Ihre Benutzer-IDs, Ihren Benutzernamen und Ihre E-Mail-Adresse, sowie Informationen zu Mobilgeräten (die gespeichert werden, damit wir Benachrichtigungen an Ihr Gerät senden können), Informationen zu Standort, Land usw Heimatort, den Sie freiwillig angegeben haben.\n",
+      "4": "Wenn Sie Ihr Konto und alle Daten vollständig löschen möchten, können Sie Ihr Konto auf der Seite „Informationen/Einstellungen bearbeiten“ löschen.\n",
+      "5": "Bitte beachten Sie, dass durch das Löschen Ihres Kontos auf diese Weise Ihre Daten dauerhaft gelöscht werden, mit Ausnahme der Daten, die wir zur Ausübung unserer gesetzlichen Rechte oder zur Erfüllung einer gesetzlichen Verpflichtung aufbewahren müssen. Wenn Sie beispielsweise von Landover ausgeschlossen wurden, bewahren wir die erforderlichen Mindestinformationen auf, um sicherzustellen, dass wir unsere Richtlinien durchsetzen und zukünftige Verstöße verhindern.\n",
+      "6": "Bitte beachten Sie auch, dass dadurch Ihre Spielaufzeichnungen, Ihre Kommentare oder andere öffentliche Beiträge nicht gelöscht werden.\n",
+      "7": "Dies kann nicht rückgängig gemacht werden, auch nicht durch Mitarbeiter. Denken Sie daher bitte sorgfältig darüber nach, bevor Sie Ihr Konto auf diese Weise löschen.\n",
       "8": {
-        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-        "second": " and we will be happy to help."
+        "first": "***Wenn Sie den Zugriff auf Ihr Konto verloren haben oder Fragen zu diesem Vorgang haben, schreiben Sie bitte an ",
+        "second": " und wir helfen Ihnen gerne weiter."
       }
     }
   },
@@ -1091,18 +1091,18 @@
     "viewRanks": "RÄNGE ANZEIGEN",
     "title": "RANGLISTE",
     "rules": "Wie funktionieren Rangspiele",
-    "globalStats": "Global Stats",
-    "yourRankWrap": "YOUR\nRANK",
+    "globalStats": "Globale Statistiken",
+    "yourRankWrap": "DEIN\nRANG",
     "leaderboard": {
-      "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
-      "player": "Player",
-      "games":"# Games",
-      "rank": "Rank",
+      "title": "Rangliste",
+      "shortTitle":"Bestenliste",
+      "player": "Spieler",
+      "games":"# Spiele",
+      "rank": "Rang",
       "MMR": "MMR",
-      "yourRank": "YOUR RANK",
-      "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "yourRank": "DEIN RANG",
+      "noPlayers": "Noch keine Spieler",
+      "viewAll": "Alle ansehen"
     }  
   },
   "dailyGames": {
@@ -1146,10 +1146,10 @@
       "showReplays": "Wiederholung anzeigen",
       "acceptNewGames": "Neue Spiele automatisch akzeptieren.",
       "autoRoll": "Würfel automatisch würfeln.",
-      "effects": "Effects",
-      "music": "Music",
-      "off": "OFF",
-      "on": "ON"
+      "effects": "Auswirkungen",
+      "music": "Musik",
+      "off": "AUS",
+      "on": "AN"
     },
     "account": {
       "signUp": "Anmelden",
@@ -1161,8 +1161,8 @@
       "title": "Spielverlauf",
       "filter": "Filter",
       "empty": "Kein Spielverlauf vorhanden",
-      "recentGames": "Recent Games",
-      "viewAll": "View All"
+      "recentGames": "Aktuelle Spiele",
+      "viewAll": "Alle ansehen"
     },
     "mapStats": {
       "title": "Karten Statistik",
