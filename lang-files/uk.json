@@ -856,23 +856,23 @@
       "close": "Закрити"
     },
     "currencies": {
-      "clay": "Clay",
-      "wood": "Wood",
-      "wheat": "Wheat",
-      "wool": "Whool",
-      "ore": "Ore",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin",
-      "random": "Random"
+      "clay": "глина",
+      "wood": "Деревина",
+      "wheat": "пшениця",
+      "wool": "шерсть",
+      "ore": "Руда",
+      "paper": "Папір",
+      "cloth": "Тканина",
+      "coin": "Монета",
+      "random": "Випадковий"
     }
   },
   "tutorial": {
     "viewProductChart": "Переглянути Таблицю Виробництва",
     "continue": "Торкніться, щоб продовжити",
     "learningMode": {
-      "title": "Welcome to Landover!",
-      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
+      "title": "Ласкаво просимо до Landover!",
+      "description": "У цьому посібнику ми збираємося познайомити вас з <bold>інтерфейсом</bold> і <bold>потоком гри</bold>. Однак чим більше ігор ви граєте, тим краще почнете розуміти стратегії."
     },
     "firstVillage": {
       "title": "Перше Селище",
