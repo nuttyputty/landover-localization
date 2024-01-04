@@ -1,46 +1,71 @@
 {
-   "home": {
-      "takeTurn": "ODIGRAJ POTEZ",
-      "playNow": "НОВА ИГРА",
-      "createGame": "Цустом Гаме",
-      "joinGame": "лобији",
-      "myGames": "Moje igre",
-      "startPlaying": "Počni igrati odmah!",
-      "ranked": {
-         "title": "Rangirano",
-         "comingSoon": "USKORO DOLAZI",
-         "playMore": "Igraj još igara"
+"home": {
+    "takeTurn": "TAKE TURN",
+    "playNow": "NEW GAME",
+    "createGame": "Custom Game",
+    "joinGame": "Lobbies",
+    "myGames": "My Games",
+    "startPlaying": "Start Playing Now!",
+    "ranked": {
+      "title": "Ranked",
+      "comingSoon": "COMING SOON",
+      "playMore": "Play more games"
+    },
+    "liveChat": {
+      "title": "LIVE CHAT",
+      "onlinePlayers": "{} online players",
+      "online": "Online"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "noNotifications": "No notifications yet",
+      "clearAll": "Clear All",
+      "gameFinished": "Game Finished",
+      "positions": {
+        "first": "ST",
+        "second": "ND",
+        "third": "RD",
+        "other": "TH"
       },
-      "goGold": "POSTANI ZLATNI ČLAN!",
-      "globalStats": {
-         "gamesInProgress": "IGRE U TOKU",
-         "users": "KORISNICI",
-         "movesMade": "ODIGRANI POTEZI"
+      "invited": "invited you"
+    },
+    "goGold": "GOLD",
+    "buttons": {
+      "help": "HELP",
+      "settings": "SETTINGS",
+      "style": "STYLE",
+      "maps": "MAPS",
+      "awards": "AWARDS"
+    },
+    "globalStats": {
+      "gamesInProgress": "GAMES IN PROGRESS",
+      "users": "USERS",
+      "movesMade": "MOVES MADE"
+    }
+  },
+  "privacy": {
+    "title": "Privacy and GDPR",
+    "paragraphs": {
+      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "2": {
+        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
+        "second": "), and going to your profile and edit info pages.\n"
+      },
+      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
+      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
+      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
+      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
+      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "8": {
+        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
+        "second": " and we will be happy to help."
       }
-   },
-   "privacy": {
-      "title": "Приватност и ГДПР",
-      "paragraphs": {
-          "1": "ГДПР и право на заборав. Како могу да погледам или избришем податке свог налога?\n",
-          "2": {
-             "first": "Можете да видите све податке о налогу које Ландовер чува тако што ћете се пријавити на апликацију или веб локацију (",
-             "second": "), и одлазак на ваш профил и уређивање страница са информацијама.\n"
-          },
-          "3": "Ови подаци се састоје од личних података које сте унели на страници са подешавањима, на пример, ваших корисничких ИД-ова, корисничког имена и е-поште, као и информација о мобилном уређају (чуване да бисмо могли да шаљемо обавештења на ваш уређај), о информације, земља локације и родни град које сте добровољно дали.\n",
-          "4": "Ако желите да у потпуности избришете свој налог и све податке, можете изабрати да избришете свој налог на страници за уређивање информација / подешавања.\n",
-          "5": "Имајте на уму да ће брисање вашег налога на овај начин трајно уклонити ваше податке, осим података које морамо да чувамо да бисмо остварили наша законска права или да бисмо се придржавали законске обавезе. На пример, ако сте били којима је забрањен приступ Ландоверу, чувамо минимум неопходних информација како бисмо били сигурни да спроводимо наше смернице и спречимо будућа кршења.\n",
-          "6": "Имајте на уму да ово неће избрисати ваше записе игре, коментаре или друге јавне објаве.\n",
-          "7": "Ово не може да се поништи, чак ни особље, па вас молимо да добро размислите пре него што избришете свој налог на овај начин.\n",
-          "8": {
-             "first": "***Ако сте изгубили приступ свом налогу или имате било каква питања о овом процесу, пишите на ",
-             "second": "и радо ћемо помоћи."
-          }
-      }
-   },
-   "playNow": {
+    }
+  },
+    "playNow": {
       "unlock": "Igrajte više opuštenih igara kako biste otključali Rangirano!"
-   },
-   "update": {
+    },
+    "update": {
       "title": "Dostupno ažuriranje!",
       "web": {
          "label": "Molimo vas da kliknete ispod kako biste očistili keš veb pregledača i dobili najnovije ažuriranje",
@@ -51,21 +76,27 @@
          "button": "Ažuriraj"
       },
       "androidSuffix": "\nAko ažuriranje ne apare, molimo vas da očistite keš prodavnice Play."
-   },
-   "noConnection": {
+    },
+    "noConnection": {
       "title": "Greška u vezi",
       "message": "Nemoguće je povezati se sa serverom.\nProverite svoju internet vezu i pokušajte ponovo",
       "action": "Pokušajte ponovo"
-   },
-   "avatar": {
+    },
+    "avatar": {
       "save": "Sačuvajte promene",
       "uploadPhoto": "Postavite fotografiju"
-   },
-   "achievements": {
+    },
+    "achievements": {
       "title": "DOSTIGNUĆA",
       "earned": "Osvojeno dostignuće: {}",
       "openEarned": "OTVORI"
-   },
+    },
+    "watchLiveGames": {
+        "title": "Watch Live Games",
+        "emptyList": "There are no active games",
+        "gameLabel": "Live",
+        "button": "WATCH\nLIVE GAMES"
+    },
    "errors": {
       "gameAlreadyStarted": "Igra već počela",
       "gameDoesNotExist": "Vaša igra više ne postoji.",
@@ -781,68 +812,71 @@
             "maxPowerDesc": "Vaša vojna snaga dostigla je maksimalnu snagu od 3. Unapredite svoju politiku na nivo 3 kako biste povećali maksimum.",
             "maxPowerBarracks": "Maksimalna vojna snaga",
             "maxPowerBarracksDesc": "Vaša vojna snaga dostigla je maksimalnu snagu od 6. Pokrenite napade da biste koristili svoju vojnu snagu."
-         },
-         "newIsland": {
-            "title": "ISTRAŽENA OSTRVA!",
-            "description": "Istražili ste novo ostrvo!",
-            "prize": "+1 bod za pobedu",
-            "button": "U redu"
-         },
-         "prodChart": {
-            "title": "GRAFIKON PROIZVODNJE",
-            "village": "Selo",
-            "city": "Grad"
-         },
-         "selectCard": {
-            "button": "Potvrdi",
-            "choose": "Izaberite {}"
-         },
-         "trade": {
-            "title": "TRGOVINA",
-            "give": "DAJ",
-            "receive": "PRIMI",
-            "resourcesLabel": "Vaši resursi:",
-            "emptyTrade": "Nema ničega za trgovinu"
-         },
-         "tradeToBuild": {
-            "title": "TRGOVINA ZA IZGRADNJU",
-            "build": "Izgradi {}",
-            "missing": "Nedostaje",
-            "resourcesLabel": "Vaši resursi",
-            "and": "i"
-         },
-         "endTurn": {
-            "nextGame": "Sledeća igra",
-            "wait": "Sačekaj",
-            "end": "Kraj",
-            "turn": "Potez",
-            "endTurn": "Završi potez",
-            "nothingToDo": "Izgleda da nema više toga za raditi.",
-            "endTurnConfirm": "Završi potez?",
-            "canUpgrade": "Da li ste sigurni da želite završiti potez? Možete unaprediti svoju kulturu bez trgovine!",
-            "lotOfResources": "Da li ste sigurni da želite završiti potez? Imate puno neiskorišćenih resursa.",
-            "cancel": "Otkaži"
-         },
-         "errors": {
-            "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
-            "timeExpired": "Vreme isteklo",
-            "timeExpiredMsg": "Isteklo vam je vreme i uklonjeni ste iz igre."
-         },
-         "currencies": {
-            "clay": "Clay",
-            "wood": "Wood",
-            "wheat": "Wheat",
-            "wool": "Whool",
-            "ore": "Ore",
-            "paper": "Paper",
-            "cloth": "Cloth",
-            "coin": "Coin",
-            "random": "Random"
-          }
-      },
+      }
+    },
+    "newIsland": {
+        "title": "ISTRAŽENA OSTRVA!",
+        "description": "Istražili ste novo ostrvo!",
+        "prize": "+1 bod za pobedu",
+        "button": "U redu"
+    },
+    "prodChart": {
+        "title": "GRAFIKON PROIZVODNJE",
+        "village": "Selo",
+        "city": "Grad"
+    },
+    "selectCard": {
+        "button": "Potvrdi",
+        "choose": "Izaberite {}"
+    },
+    "trade": {
+        "title": "TRGOVINA",
+        "give": "DAJ",
+        "receive": "PRIMI",
+        "resourcesLabel": "Vaši resursi:",
+        "emptyTrade": "Nema ničega za trgovinu"
+    },
+    "tradeToBuild": {
+        "title": "TRGOVINA ZA IZGRADNJU",
+        "build": "Izgradi {}",
+        "missing": "Nedostaje",
+        "resourcesLabel": "Vaši resursi",
+        "and": "i"
+    },
+    "endTurn": {
+        "nextGame": "Sledeća igra",
+        "wait": "Sačekaj",
+        "end": "Kraj",
+        "turn": "Potez",
+        "endTurn": "Završi potez",
+        "nothingToDo": "Izgleda da nema više toga za raditi.",
+        "endTurnConfirm": "Završi potez?",
+        "canUpgrade": "Da li ste sigurni da želite završiti potez? Možete unaprediti svoju kulturu bez trgovine!",
+        "lotOfResources": "Da li ste sigurni da želite završiti potez? Imate puno neiskorišćenih resursa.",
+        "cancel": "Otkaži"
+    },
+    "errors": {
+        "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
+        "timeExpired": "Vreme isteklo",
+        "timeExpiredMsg": "Isteklo vam je vreme i uklonjeni ste iz igre.",
+        "close": "Близу"
+    },
+    "currencies": {
+        "clay": "Глина",
+        "wood": "Дрво",
+        "wheat": "Пшеница",
+        "wool": "Вуна",
+        "ore": "Оре",
+        "paper": "Папир",
+        "cloth": "Цлотх",
+        "coin": "Новчић",
+        "random": "Random"
+    }
+    },
       "tutorial": {
          "viewProductChart": "Prikaži tabelu grafa proizvodnje",
          "continue": "Dodirnite da biste nastavili",
+         "coach": "Тренер",
          "learningMode": {
             "title": "Režim učenja",
             "description": "Cilj Landover-a je postizanje bodova za pobedu izgradnjom naselja i proširivanjem svog carstva. Hajde da to isprobamo u ovoj igri. Vaš cilj je postizanje 15 bodova za pobedu!'"
@@ -975,7 +1009,9 @@
             "watchAd": "Pogledaj oglas",
             "noAds": "Nažalost, trenutno nema dostupnih oglasa",
             "restore": "Obnovi kupovinu",
-            "noPurchase": "Nema aktivne pretplate"
+            "noPurchase": "Nema aktivne pretplate",
+              "policy": "Политика претплате",
+              "noTrial": "Нема доступног пробног периода. Наплаћено одмах. Претплата није потребна. Можете отказати у било ком тренутку из апликације."
          }
       },
       "buildingStyles": {
@@ -1101,7 +1137,12 @@
          "status": "Status",
          "save": "Sačuvaj",
          "linkCopied": "Link profila kopiran u međuspremnik",
+        "emailWillBeChanged": "Емаил ће бити промењен након потврде",
          "settings": {
+          "effects": "Ефекти",
+          "music": "Музика",
+          "on": "НА",
+          "off": "ВАН",
             "turnEmails": "Šalji emailove o potezima",
             "chatNotifications": "Obaveštenja u chatu",
             "recentInvites": "Dozvoli nedavne pozive",
@@ -1118,6 +1159,8 @@
             "emailSentMsg": "Molimo vas da proverite svoj sanduče i potvrdite svoju email adresu. Zatim možete koristiti ovaj nalog."
          },
          "history": {
+            "recentGames": "Недавне игре",
+            "viewAll": "Погледати све",
             "title": "Istorija",
             "filter": "Filter",
             "empty": "Nema podataka o istoriji"
@@ -1179,6 +1222,10 @@
             "color": "Боја",
             "details": "Детаљи"
          },
+        "otp": {
+          "title": "Тренутна верификација е-поште",
+          "description": "Унесите код послат на вашу тренутну е-пошту"
+        },
          "errors": {
             "updateFailed": "Ažuriranje nije uspelo",
             "nameProfanity": "Ime ne sme sadržavati uvrede",
@@ -1198,7 +1245,11 @@
             "passResetMsg": "Vaša šifra za email je uspešno promenjena.",
             "expired": "Neispravan ili istekao link, pokušajte ponovo da verifikujete email.",
             "weakPass": "Šifra je previše slaba, pokušajte ponovo.",
-            "expiredPassReset": "Neispravan ili istekao link, pokušajte ponovo da resetujete šifru."
+            "expiredPassReset": "Neispravan ili istekao link, pokušajte ponovo da resetujete šifru.",
+              "emailChangedTitle": "Имејл је промењен",
+              "emailChangedMsg": "Ваша е-пошта је успешно промењена. Морате се поново пријавити.",
+              "recoveredEmailTitle": "Имејл је враћен",
+              "recoveredEmailMsg": "Ваша е-пошта је успешно враћена."
          },
          "linking": {
             "title": "Povezivanje naloga",
@@ -1680,5 +1731,15 @@
       "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
       "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
       "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
-   }
+   },
+  "buildingTypes": {
+    "military": "Војска",
+    "road": "Пут",
+    "boat": "Мост",
+    "either": "Или",
+    "city": "Цити",
+    "cityWall": "Градски зид",
+    "metro": "Метрополис",
+    "village": "Село"
+  }
 }
