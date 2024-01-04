@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "PRENDRE LE TOUR",
-    "playNow": "NEW GAME",
-    "createGame": "Custom Game",
-    "joinGame": "Lobbies",
+    "playNow": "NOUVEAU JEU",
+    "createGame": "Créer un jeu",
+    "joinGame": "Lobbys",
     "myGames": "Mes parties",
     "startPlaying": "Commencer à jouer maintenant!",
     "ranked": {
@@ -19,47 +19,47 @@
     },
     "liveChat": {
       "title": "LIVE CHAT",
-      "onlinePlayers": "{} online players",
+      "onlinePlayers": "{} joueurs en ligne",
       "online": "Online"
     },
     "notifications": {
       "title": "Notifications",
-      "noNotifications": "No notifications yet",
-      "clearAll": "Clear All",
-      "gameFinished": "Game Finished",
+      "noNotifications": "Aucune notification pour l'instant",
+      "clearAll": "Tout effacer",
+      "gameFinished": "Jeu terminé",
       "positions": {
         "first": "ST",
-        "second": "ND",
-        "third": "RD",
-        "other": "TH"
+        "second": "",
+        "third": "",
+        "other": ""
       },
-      "invited": "invited you"
+      "invited": "t'a invité"
     },
     "buttons": {
-      "awards": "AWARDS",
-      "help": "HELP",
-      "maps": "MAPS",
-      "settings": "SETTINGS",
+      "awards": "PRIX",
+      "help": "AIDE",
+      "maps": "PLANS",
+      "settings": "PARAMÈTRES",
       "style": "STYLE"
     }
   },
   "privacy": {
-    "title": "Privacy and GDPR",
+    "title": "Confidentialité et RGPD",
     "paragraphs": {
-      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
-      "2": {
-        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-        "second": "), and going to your profile and edit info pages.\n"
-      },
-      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
-      "8": {
-        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-        "second": " and we will be happy to help."
-      }
+       "1": "RGPD et droit à l'oubli. Comment puis-je consulter ou supprimer les données de mon compte ?\n",
+       "2": {
+         "first": "Vous pouvez afficher toutes les données de compte stockées par Landover en vous connectant sur l'application ou le site Web (",
+         "second": "), puis accédez à votre profil et modifiez les pages d'informations.\n"
+       },
+       "3": "Ces données sont constituées d'informations personnelles que vous avez saisies sur votre page de paramètres, par exemple vos identifiants d'utilisateur, votre nom d'utilisateur et votre adresse e-mail, ainsi que des informations sur votre appareil mobile (stockées afin que nous puissions envoyer des notifications à votre appareil), à propos de informations, pays de localisation et ville de résidence que vous avez volontairement fournis.\n",
+       "4": "Si vous souhaitez supprimer complètement votre compte et toutes vos données, vous pouvez choisir de supprimer votre compte sur la page de modification des informations/paramètres.\n",
+       "5": "Sachez que supprimer votre compte de cette manière supprimera définitivement vos données, à l'exception des données que nous devons conserver pour exercer nos droits légaux ou pour respecter une obligation légale. Par exemple, si vous avez été banni de Landover, nous conservons le minimum d'informations nécessaires pour nous assurer que nous appliquons nos politiques et prévenons de futures violations.\n",
+       "6": "Veuillez également noter que cela ne supprimera pas vos enregistrements de jeu, vos commentaires ou autres publications publiques.\n",
+       "7": "Cela ne peut pas être annulé, même par le personnel, alors réfléchissez bien avant de supprimer votre compte de cette manière.\n",
+       "8": {
+         "first": "***Si vous avez perdu l'accès à votre compte ou si vous avez des questions sur ce processus, veuillez écrire à ",
+         "second": " et nous serons heureux de vous aider."
+       }
     }
   },
   "playNow": {
@@ -458,13 +458,13 @@
         "no": "Non",
         "failed": "Quelque chose n'a pas fonctionné, veuillez réessayer"
       },
-      "profanityDetected": "Profanity detected. Try again.",
+      "profanityDetected": "Grossièretés détectées. Essayer à nouveau.",
       "chatActionType": {
-        "joinGame": "{} has join the game",
-        "leftGame": "{} has left the game",
-        "invitePlayer": "{} invited {} to the game",
-        "botAdded": "{} added a bot",
-        "botRemoved": "{} removed a bot"
+        "joinGame": "{} a rejoint le jeu",
+        "leftGame": "{} a quitté la partie",
+        "invitePlayer": "{} a invité {} au jeu",
+        "botAdded": "{} a ajouté un robot",
+        "botRemoved": "{} a supprimé un bot"
       }
     },
     "playerTurnOverlay": {
@@ -1010,8 +1010,8 @@
       "noAds": "Désolé, il n'y a pas d'annonces disponibles pour le moment.",
       "restore": "Restaurer l'achat",
       "noPurchase": "Il n'y a pas d'abonnement actif",
-      "policy": "Subscription Policy",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
+      "policy": "Politique d'abonnement",
+      "noTrial": "Aucun essai disponible. Facturé immédiatement. Abonnement non requis. Peut annuler à tout moment depuis l'application."
     }
   },
   "buildingStyles": {
@@ -1102,7 +1102,7 @@
       "MMR": "MMR",
       "yourRank": "YOUR RANK",
       "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "seeFull": "See Full"
     }
   },
   "dailyGames": {
@@ -1359,19 +1359,19 @@
     "inviteFrom": "Invite de {}!"
   },
   "matchmaking": {
-    "title": "NEW RANKED GAME",
-    "daily": "Start Daily Game",
-    "live": "Start Live Game",
+    "title": "NOUVEAU JEU CLASSÉ",
+    "daily": "Jeu quotidien",
+    "live": "Jeu en direct",
     "customGame": {
-      "question": "Want to choose your map and settings? ",
-      "link": "Create a custom game."
+      "question": "Vous souhaitez choisir votre carte et vos paramètres? ",
+      "link": "Créer un jeu personnalisé."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "dailyDescription":"24 heures pour agir.\nJeux illimités!",
+    "liveDescription": "90 secondes pour agir.\n1 jeu à la fois!",
+    "gameCreated": "Création d'un nouveau jeu quotidien classé.\nVotre partie va bientôt commencer.",
     "gamesPending": {
-      "one": "game pending",
-      "other": "games pending"
+      "one": "jeu en attente",
+      "other": "jeu en attente"
     }
   },
   "help": {
@@ -1381,7 +1381,7 @@
     "tutorial": "Play\nTutoriel",
     "discord": "Discord!",
     "questions": "Questions?",
-    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
+    "onboardingText": "Pour obtenir de l'aide, vous pouvez toujours aller ici pour rejouer le tutoriel, lire les règles et regarder des vidéos."
   },
   "themes": {
     "title": "Thème et Couleur",
@@ -1523,30 +1523,30 @@
       "title": "Êtes-vous sûr de vouloir expulser"
     },
     "rankedLiveLobby": {
-      "title": "LIVE RANKED GAME",
+      "title": "JEU CLASSÉ EN DIRECT",
       "lobbyState": {
-        "waiting": "Wait... Estimated Time: ",
-        "areYouReady": "Are you ready?",
-        "starting": "Game is starting",
-        "waitingForOther": "Waiting for other players..."
+        "waiting": "Attendez... Temps estimé: ",
+        "areYouReady": "Es-tu prêt?",
+        "starting": "Le jeu commence",
+        "waitingForOther": "En attente d'autres joueurs..."
       },
-      "readyButton": "Ready",
-      "opponent": "Opponent",
+      "readyButton": "Prêt",
+      "opponent": "Adversaire",
       "VS": "VS",
-      "randomMap": "Random map",
+      "randomMap": "Carte aléatoire",
       "gameData": {
-        "winCondition": "Win Condition",
-        "startingResources": "Starting Resources",
-        "charity": "Charity",
-        "fairDice": "Fair Dice",
-        "turnTimer": "Turn Timer",
-        "on": "On",
-        "off": "Off"
+        "winCondition": "Condition de victoire",
+        "startingResources": "Ressources de démarrage",
+        "charity": "Charité",
+        "fairDice": "Dés équitables",
+        "turnTimer": "Minuteur",
+        "on": "Sur",
+        "off": "Désactivé"
       }
     },
     "options": {
-      "on": "On",
-      "off": "Off",
+      "on": "Sur",
+      "off": "Désactivé",
       "points": "Points de victoire",
       "time": "Minuteur de tour",
       "luckyRaid": "chanceux 7 attaque",
