@@ -862,15 +862,15 @@
       "close": "Schließen"
     },
     "currencies": {
-      "clay": "Clay",
-      "wood": "Wood",
-      "wheat": "Wheat",
-      "wool": "Whool",
-      "ore": "Ore",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin",
-      "random": "Random"
+      "clay": "Ton",
+      "wood": "Holz",
+      "wheat": "Weizen",
+      "wool": "Wolle",
+      "ore": "Erz",
+      "paper": "Papier",
+      "cloth": "Tuch",
+      "coin": "Münze",
+      "random": "Zufällig"
     }
   },
   "tutorial": {
