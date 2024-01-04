@@ -862,23 +862,23 @@
       "close": "Cerrar"
     },
     "currencies": {
-      "clay": "Clay",
-      "wood": "Wood",
-      "wheat": "Wheat",
-      "wool": "Whool",
-      "ore": "Ore",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin",
-      "random": "Random"
+      "clay": "Arcilla",
+      "wood": "Madera",
+      "wheat": "Trigo",
+      "wool": "Lana",
+      "ore": "Mineral",
+      "paper": "Papel",
+      "cloth": "Paño",
+      "coin": "Moneda",
+      "random": "Aleatorio"
     }
   },
   "tutorial": {
     "viewProductChart": "Ver tabla de gráficos de productos",
     "continue": "Toca para continua",
     "learningMode": {
-      "title": "Welcome to Landover!",
-      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
+      "title": "¡Bienvenidos a Landover!",
+      "description": "En este tutorial, lo familiarizaremos con la <bold>interfaz</bold> y el <bold>flujo del juego</bold>. Sin embargo, cuantos más juegos juegues, mejor empezarás a comprender las estrategias."
     },
     "firstVillage": {
       "title": "Primera aldea",
