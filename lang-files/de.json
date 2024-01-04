@@ -28,10 +28,10 @@
       "clearAll": "Alles löschen",
       "gameFinished": "Spiel beendet",
       "positions": {
-        "first": "ST",
-        "second": "ND",
-        "third": "RD",
-        "other": "TH"
+        "first": "ER",
+        "second": "ER",
+        "third": "ER",
+        "other": "ER"
       },
       "invited": "dich eingeladen"
     },
