@@ -877,8 +877,8 @@
     "viewProductChart": "Sehe dir die Baukosten an",
     "continue": "Tippe um fortzufahren",
     "learningMode": {
-      "title": "Welcome to Landover!",
-      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
+      "title": "Willkommen bei Landover!",
+      "description": "In diesem Tutorial machen wir Sie mit der <bold>Benutzeroberfläche</bold> und dem <bold>Spielablauf</bold> vertraut. Je mehr Spiele Sie jedoch spielen, desto besser werden Sie die Strategien verstehen."
     },
     "firstVillage": {
       "title": "Erste Siedlung",
