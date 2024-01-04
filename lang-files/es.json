@@ -1091,18 +1091,18 @@
     "viewRanks": "Ver rangos",
     "title": "RANGOS",
     "rules": "Cómo funcionan las clasificaciones",
-    "globalStats": "Global Stats",
-    "yourRankWrap": "YOUR\nRANK",
+    "globalStats": "Estadísticas globales",
+    "yourRankWrap": "TU\nRANGO",
     "leaderboard": {
-      "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
-      "player": "Player",
-      "games":"# Games",
-      "rank": "Rank",
+      "title": "TABLA DE CLASIFICACIÓN",
+      "shortTitle":"Tabla de clasificación",
+      "player": "Jugador",
+      "games":"# Juegos",
+      "rank": "Rango",
       "MMR": "MMR",
-      "yourRank": "YOUR RANK",
-      "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "yourRank": "SU RANGO",
+      "noPlayers": "Aún no hay jugadores",
+      "viewAll": "Ver todo"
     }
   },
   "dailyGames": {
@@ -1146,10 +1146,10 @@
       "showReplays": "Mostrar repeticiones",
       "acceptNewGames": "Aceptar automáticamente nuevos juegos",
       "autoRoll": "Lanzamiento automático de dados al iniciar el turno",
-      "effects": "Effects",
-      "music": "Music",
-      "off": "OFF",
-      "on": "ON"
+      "effects": "Efectos",
+      "music": "Música",
+      "off": "APAGADO",
+      "on": "EN"
     },
     "account": {
       "signUp": "Registrarse",
@@ -1161,8 +1161,8 @@
       "title": "Historial",
       "filter": "Filtro",
       "empty": "Sin historial de juegos",
-      "recentGames": "Recent Games",
-      "viewAll": "View All"
+      "recentGames": "Juegos recientes",
+      "viewAll": "Ver todo"
     },
     "mapStats": {
       "title": "Estadísticas del mapa",
