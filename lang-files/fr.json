@@ -1146,10 +1146,10 @@
       "showReplays": "Afficher les rediffusions",
       "acceptNewGames": "Acceptation automatique des nouveaux jeux",
       "autoRoll": "Lancer automatique des dés au début du tour",
-      "effects": "Effects",
-      "music": "Music",
-      "off": "OFF",
-      "on": "ON"
+      "effects": "Effets",
+      "music": "Musique",
+      "off": "DÉSACTIVÉ",
+      "on": "SUR"
     },
     "account": {
       "signUp": "S'inscrire",
@@ -1161,8 +1161,8 @@
       "title": "Histoire",
       "filter": "Filtre",
       "empty": "Pas d'historique des correspondances",
-      "recentGames": "Recent Games",
-      "viewAll": "View All"
+      "recentGames": "Jeux récents",
+      "viewAll": "Voir tout"
     },
     "mapStats": {
       "title": "Statistiques de la carte",
