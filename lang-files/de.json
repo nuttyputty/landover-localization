@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "SPIELZUG AUSFÜHREN",
-    "playNow": "NEW GAME",
-    "createGame": "Custom Game",
-    "joinGame": "Lobbies",
+    "playNow": "NEUES SPIEL",
+    "createGame": "Brauch",
+    "joinGame": "Lobbys",
     "myGames": "Meine Spiele",
     "startPlaying": "Jetzt Spiel starten!",
     "ranked": {
@@ -19,32 +19,32 @@
     },
     "liveChat": {
       "title": "LIVE CHAT",
-      "onlinePlayers": "{} online players",
+      "onlinePlayers": "{} Online-Spieler",
       "online": "Online"
     },
     "notifications": {
-      "title": "Notifications",
-      "noNotifications": "No notifications yet",
-      "clearAll": "Clear All",
-      "gameFinished": "Game Finished",
+      "title": "Warnungen",
+      "noNotifications": "Noch keine Benachrichtigungen",
+      "clearAll": "Alles löschen",
+      "gameFinished": "Spiel beendet",
       "positions": {
         "first": "ST",
         "second": "ND",
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "dich eingeladen"
     },
     "buttons": {
-      "awards": "AWARDS",
-      "help": "HELP",
-      "maps": "MAPS",
-      "settings": "SETTINGS",
-      "style": "STYLE"
+      "awards": "VERGEBEN",
+      "help": "HELFEN",
+      "maps": "KARTEN",
+      "settings": "OPTIONEN",
+      "style": "STIL"
     }
   },
   "privacy": {
-    "title": "Privacy and GDPR",
+    "title": "Datenschutz und DSGVO",
     "paragraphs": {
       "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
       "2": {
@@ -458,13 +458,13 @@
         "no": "Nein",
         "failed": "Fehlgeschlagen, bitte versuche es erneut"
       },
-      "profanityDetected": "Profanity detected. Try again.",
+      "profanityDetected": "Schimpfwörter entdeckt. Versuchen Sie es erneut.",
       "chatActionType": {
-        "joinGame": "{} has join the game",
-        "leftGame": "{} has left the game",
-        "invitePlayer": "{} invited {} to the game",
-        "botAdded": "{} added a bot",
-        "botRemoved": "{} removed a bot"
+        "joinGame": "{}hat sich dem Spiel angeschlossen",
+        "leftGame": "{}hat das Spiel verlassen",
+        "invitePlayer": "{} hat {} zum Spiel eingeladen",
+        "botAdded": "{} hat einen Bot hinzugefügt",
+        "botRemoved": "{} hat einen Bot entfernt"
       }
     },
     "playerTurnOverlay": {
@@ -1010,8 +1010,8 @@
       "noAds": "Es tut uns leid, im Moment ist keine Werbung verfügbar.",
       "restore": "Kauf wiederherstellen",
       "noPurchase": "Kein aktives Abonnement vorhanden.",
-      "policy": "Subscription Policy",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app."
+      "policy": "Abonnementrichtlinie",
+      "noTrial": "Keine Testversion verfügbar. Sofort abgerechnet. Abonnement nicht erforderlich. Kann jederzeit über die App gekündigt werden."
     }
   },
   "buildingStyles": {
@@ -1359,19 +1359,19 @@
     "inviteFrom": "Einladen über {}!"
   },
   "matchmaking": {
-    "title": "NEW RANKED GAME",
-    "daily": "Start Daily Game",
-    "live": "Start Live Game",
+    "title": "NEUES RANGLISTENSPIEL",
+    "daily": "Tägliches Spiel starten",
+    "live": "Live-Spiel starten",
     "customGame": {
-      "question": "Want to choose your map and settings? ",
-      "link": "Create a custom game."
+      "question": "Möchten Sie Ihre Karte und Einstellungen auswählen? ",
+      "link": "Erstellen Sie ein benutzerdefiniertes Spiel."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "dailyDescription":"24 Stunden Zeit für Ihren Zug.\n Unbegrenzte Spiele!",
+    "liveDescription": "90 Sekunden, um deinen Zug auszuführen.\n 1 Spiel auf einmal!",
+    "gameCreated": "Neues tägliches Ranglistenspiel erstellen.\n Ihr Spiel wird in Kürze beginnen.",
     "gamesPending": {
-      "one": "game pending",
-      "other": "games pending"
+      "one": "Spiele ausstehend",
+      "other": "Spiele ausstehend"
     }
   },
   "help": {
@@ -1381,14 +1381,14 @@
     "tutorial": "Spiel\nAnleitung",
     "discord": "Discord!",
     "questions": "Fragen?\n",
-    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
+    "onboardingText": "Wenn Sie Hilfe benötigen, können Sie jederzeit hierher gehen, um das Tutorial noch einmal abzuspielen, Regeln zu lesen und Videos anzusehen."
   },
   "themes": {
     "title": "Baustein Motiv & Farbe",
     "chooseTheme": "Motiv wählen",
     "chooseColor": "Farbe wählen",
     "save": "Abspeichern",
-    "goGold": "Go Gold to Unlock",
+    "goGold": "Gehen Sie zum Freischalten auf Gold",
     "selected": "FESTGELEGT"
   },
   "createGame": {
@@ -1523,25 +1523,25 @@
       "title": "Bist du sicher über den Rauswurf von "
     },
     "rankedLiveLobby": {
-      "title": "LIVE RANKED GAME",
+      "title": "LIVE-RANGLISTENSPIEL",
       "lobbyState": {
-        "waiting": "Wait... Estimated Time: ",
-        "areYouReady": "Are you ready?",
-        "starting": "Game is starting",
-        "waitingForOther": "Waiting for other players..."
+        "waiting": "Warten... Geschätzte Zeit: ",
+        "areYouReady": "Sind Sie bereit?",
+        "starting": "Das Spiel beginnt",
+        "waitingForOther": "Warten auf andere Spieler..."
       },
-      "readyButton": "Ready",
-      "opponent": "Opponent",
+      "readyButton": "Bereit",
+      "opponent": "Gegner",
       "VS": "VS",
-      "randomMap": "Random map",
+      "randomMap": "Zufällige Karte",
       "gameData": {
-        "winCondition": "Win Condition",
-        "startingResources": "Starting Resources",
-        "charity": "Charity",
-        "fairDice": "Fair Dice",
-        "turnTimer": "Turn Timer",
-        "on": "On",
-        "off": "Off"
+        "winCondition": "Gewinnbedingung",
+        "startingResources": "Startressourcen",
+        "charity": "Wohltätigkeit",
+        "fairDice": "Faire Würfel",
+        "turnTimer": "Timer",
+        "on": "An",
+        "off": "Aus"
       }
     },
     "options": {
