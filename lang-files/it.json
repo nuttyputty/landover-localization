@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "GIOCA IL TUO TURNO",
-    "playNow": "NEW GAME",
-    "createGame": "Custom Game",
-    "joinGame": "Lobbies",
+    "playNow": "NUOVO GIOCO",
+    "createGame": "Crea gioco",
+    "joinGame": "Lobby",
     "myGames": "Le Mie Partite",
     "startPlaying": "Inizia a Giocare!",
     "ranked": {
@@ -18,47 +18,47 @@
       "movesMade": "MOSSE EFFETTUATE"
     },
     "liveChat": {
-      "title": "LIVE CHAT",
-      "onlinePlayers": "{} online players",
+      "title": "CHAT DAL VIVO",
+      "onlinePlayers": "{} giocatori online",
       "online": "Online"
     },
     "notifications": {
-      "title": "Notifications",
-      "noNotifications": "No notifications yet",
-      "clearAll": "Clear All",
-      "gameFinished": "Game Finished",
+      "title": "Notifiche",
+      "noNotifications": "Nessuna notifica ancora",
+      "clearAll": "Cancella tutto",
+      "gameFinished": "Gioco finito",
       "positions": {
         "first": "ST",
         "second": "ND",
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "ti ha invitato"
     },
     "buttons": {
-      "awards": "AWARDS",
-      "help": "HELP",
-      "maps": "MAPS",
-      "settings": "SETTINGS",
-      "style": "STYLE"
+      "awards": "PREMI",
+      "help": "AIUTO",
+      "maps": "MAPPE",
+      "settings": "IMPOSTAZIONI",
+      "style": "STILE"
     }
   },
   "privacy": {
-    "title": "Privacy and GDPR",
+    "title": "Privacy e GDPR",
     "paragraphs": {
-      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "1": "GDPR e il diritto all'oblio. Come posso visualizzare o eliminare i dati del mio account?\n",
       "2": {
-        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-        "second": "), and going to your profile and edit info pages.\n"
+        "first": "Puoi visualizzare tutti i dati dell'account archiviati da Landover accedendo all'app o al sito web (",
+        "second": "), e andando al tuo profilo e modificando le pagine di informazioni.\n"
       },
-      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "3": "Questi dati sono costituiti da informazioni personali che hai inserito nella pagina delle impostazioni, ad esempio ID utente, nome utente ed e-mail, nonché informazioni sul dispositivo mobile (memorizzate in modo da poter inviare notifiche al tuo dispositivo), su informazioni, posizione, paese e città natale che hai fornito volontariamente.\n",
+      "4": "Se desideri eliminare completamente il tuo account e tutti i dati, puoi scegliere di eliminare il tuo account nella pagina di modifica informazioni/impostazioni.\n",
+      "5": "Tieni presente che l'eliminazione del tuo account in questo modo rimuoverà permanentemente i tuoi dati, ad eccezione dei dati che dobbiamo conservare per esercitare i nostri diritti legali o per rispettare un obbligo legale. Ad esempio, se sei stato banditi da Landover, conserviamo le informazioni minime necessarie per assicurarci di applicare le nostre politiche e prevenire future violazioni.\n",
+      "6": "Tieni presente inoltre che questo non cancellerà i tuoi record di gioco, i tuoi commenti o altri post pubblici.\n",
+      "7": "Questa operazione non può essere annullata, nemmeno dallo staff, quindi per favore pensa attentamente prima di eliminare il tuo account in questo modo.\n",
       "8": {
-        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-        "second": " and we will be happy to help."
+        "first": "***Se hai perso l'accesso al tuo account o hai domande su questo processo, scrivi a ",
+        "secondo": "e saremo felici di aiutarti."
       }
     }
   },
@@ -452,13 +452,13 @@
         "no": "No",
         "failed": "Qualcosa è andato storto, riprova"
       },
-      "profanityDetected": "Profanity detected. Try again.",
+      "profanityDetected": "Volgarità rilevata. Riprova.",
       "chatActionType": {
-        "joinGame": "{} has join the game",
-        "leftGame": "{} has left the game",
-        "invitePlayer": "{} invited {} to the game",
-        "botAdded": "{} added a bot",
-        "botRemoved": "{} removed a bot"
+        "joinGame": "{} si è unito al gioco",
+        "leftGame": "{} ha lasciato il gioco",
+        "invitePlayer": "{} ha invitato {} alla partita",
+        "botAdded": "{} ha aggiunto un bot",
+        "botRemoved": "{} ha rimosso un bot"
       }
     },
     "playerTurnOverlay": {
@@ -856,23 +856,23 @@
       "close": "Chiudi"
     },
     "currencies": {
-      "clay": "Clay",
-      "wood": "Wood",
-      "wheat": "Wheat",
-      "wool": "Whool",
-      "ore": "Ore",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin",
-      "random": "Random"
+      "clay": "Argilla",
+      "wood": "Legna",
+      "wheat": "Grano",
+      "wool": "Lana",
+      "ore": "Minerale",
+      "paper": "Carta",
+      "cloth": "Stoffa",
+      "coin": "Moneta",
+      "random": "Casuale"
     }
   },
   "tutorial": {
     "viewProductChart": "Visualizza il Tabella della Produzione",
     "continue": "Tocca per continuare",
     "learningMode": {
-      "title": "Welcome to Landover!",
-      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
+      "title": "Benvenuti a Landover!",
+      "description": "In questo tutorial ti faremo conoscere l'<bold>interfaccia</bold> e il <bold>flusso del gioco</bold>. Tuttavia, più giochi giochi, meglio inizierai a comprendere le strategie."
     },
     "firstVillage": {
       "title": "Primo Villaggio",
@@ -1004,8 +1004,8 @@
       "noAds": "Spiacenti, al momento non ci sono pubblicità disponibili",
       "restore": "Ripristina Acquisto",
       "noPurchase": "Non è presente alcun abbonamento attivo",
-      "noTrial": "No trial available. Billed immediately. Subscription not required. May cancel at any time from within the app.",
-      "policy": "Subscription Policy"
+      "noTrial": "Nessuna prova disponibile. Fatturato immediatamente. Abbonamento non richiesto. Può annullare in qualsiasi momento dall'app.",
+      "policy": "Politica di abbonamento"
     }
   },
   "buildingStyles": {
@@ -1085,18 +1085,18 @@
     "viewRanks": "Visualizza Classifica",
     "title": "CLASSIFICA",
     "rules": "Come funziona la classifica",
-    "globalStats": "Global Stats",
-    "yourRankWrap": "YOUR\nRANK",
+    "globalStats": "Statistiche globali",
+    "yourRankWrap": "IL TUO\nRANGO",
     "leaderboard": {
-      "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
-      "player": "Player",
-      "games":"# Games",
-      "rank": "Rank",
+      "title": "CLASSIFICA",
+      "shortTitle":"Classifica",
+      "player": "Giocatore",
+      "games":"# Giochi",
+      "rank": "Rango",
       "MMR": "MMR",
-      "yourRank": "YOUR RANK",
-      "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "yourRank": "IL TUO GRADO",
+      "noPlayers": "Nessun giocatore ancora",
+      "viewAll": "Mostra tutto"
     }
   },
   "dailyGames": {
@@ -1156,8 +1156,8 @@
       "title": "Cronologia",
       "filter": "Filtro",
       "empty": "Nessuna Cronologia Partite",
-      "recentGames": "Recent Games",
-      "viewAll": "View All"
+      "recentGames": "Giochi recenti",
+      "viewAll": "Mostra tutto"
     },
     "mapStats": {
       "title": "Statistiche Mappe",
@@ -1353,19 +1353,19 @@
     "inviteFrom": "Invito da {}!"
   },
   "matchmaking": {
-    "title": "NEW RANKED GAME",
-    "daily": "Start Daily Game",
-    "live": "Start Live Game",
+    "title": "NUOVO GIOCO CLASSIFICATO",
+    "daily": "Gioco quotidiano",
+    "live": "Gioco dal vivo",
     "customGame": {
-      "question": "Want to choose your map and settings? ",
-      "link": "Create a custom game."
+      "question": "Vuoi scegliere la mappa e le impostazioni? ",
+      "link": "Crea un gioco personalizzato."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "dailyDescription":"24 ore per fare la tua mossa.\n Giochi illimitati!",
+    "liveDescription": "90 secondi per fare la tua mossa.\n1 gioco alla volta!",
+    "gameCreated": "Creata una nuova partita giornaliera classificata.\nLa tua partita inizierà a breve.",
     "gamesPending": {
-      "one": "game pending",
-      "other": "games pending"
+      "one": "partita in sospeso",
+      "other": "partite in sospeso"
     }
   },
   "help": {
@@ -1382,7 +1382,7 @@
     "chooseTheme": "Scegli Tema",
     "chooseColor": "Scegli Colore",
     "save": "Salva",
-    "goGold": "Go Gold to Unlock",
+    "goGold": "Vai Gold per sbloccare",
     "selected": "SELEZIONATO"
   },
   "createGame": {
@@ -1709,37 +1709,37 @@
     "unlockAchievement": "Completa 10 partite\nper sbloccare un obiettivo"
   },
   "watchLiveGames": {
-    "button": "WATCH\nLIVE GAMES",
-    "emptyList": "There are no active games",
+    "button": "GUARDA\nGIOCHI DAL VIVO",
+    "emptyList": "Non ci sono giochi attivi",
     "gameLabel": "Live",
-    "title": "Watch Live Games"
+    "title": "Guarda le partite dal vivo"
   },
   "showcase": {
-    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
-    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-    "resources1": "These are your resource cards!",
-    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+    "barbarians1": "Questo è il localizzatore barbaro. Ogni volta che un <bold>barbaro (teschio)</bold> viene lanciato sui <bold>dadi</bold>, i barbari si avvicinano di un passo all'attacco.",
+    "barbarians2": "Dovrai far salire di livello il tuo esercito per evitare di <bold>perdere una città</bold>.",
+    "cornerValues1": "Vedi quei numeri sugli <bold>angoli</bold> di ogni <bold>piastrella</bold>?",
+    "cornerValues2": "Sono presenti solo durante il posizionamento per aiutarti a individuare facilmente gli <bold>angoli di alto valore</bold>, quelli adiacenti a tessere buone! Più alto è il valore dell'angolo, meglio è!",
+    "culture1": "Questi 3 cerchi rappresentano i tuoi livelli di cultura per <bold>Scienza</bold> (verde), <bold>Commercio</bold> (giallo) e <bold>Politica</bold> (blu).",
+    "culture2": "Aumentare il livello della tua cultura ti darà <bold>carte di sviluppo</bold>. Arrivare al livello 3 sblocca un'<bold>abilità speciale</bold>. E raggiungi prima il livello 4 per guadagnare una metropolitana del valore di <bold>2 VP</bold>.",
+    "military1": "Questo è il tuo <bold>livello militare</bold>, attualmente è 0.\nPuoi aumentare di livello il tuo esercito spendendo <bold>1 grano</bold> e <bold>1 pecora</bold>.",
+    "military2": "L'esercito difende dagli <bold>attacchi dei barbari</bold> e può essere utilizzato per <bold>razziare</bold> altri giocatori.",
+    "playerBars1": "Queste sono le barre dei giocatori.\nMostrano una panoramica delle carte e dei livelli di ogni giocatore.",
+    "playerBars2": "La riga in alto da sinistra a destra è: <bold>Numero di porti</bold> (i giocatori con 3 o più porti possono rivendicare l'Autorità Portuale per <bold>2 VP</bold>), <bold>lunghezza della rotta più lunga</ bold> (i giocatori con il percorso più lungo ottengono <bold>2 PV</bold>) e <bold>Punti Vittoria</bold>.",
+    "playerBars3": "La riga successiva mostra il numero di <bold>carte risorsa/prodotto</bold>, il numero di <bold>carte sviluppo</bold>, seguito dal loro <bold>militare</bold> e dalla <bold>cultura</bold> livelli.\nPuoi toccare il riquadro di un giocatore per visualizzare maggiori informazioni!",
+    "resources1": "Queste sono le tue carte risorsa!",
+    "resources2": "Possono essere utilizzati per costruire diverse strutture come <bold>strade, villaggi e città</bold>.\nOgni volta che puoi costruire, Landover ti suggerirà tali opzioni sulla mappa.",
+    "tile1": "Il tabellone di gioco è composto da <bold>tessere</bold> esagonali, ciascuna con una <bold>risorsa</bold> e un numero.",
+    "tile2": "Ad ogni turno un giocatore lancia i <bold>dadi</bold> e se esce quel numero, chiunque abbia un insediamento su quella tessera raccoglierà la <bold>risorsa</bold> di quella tessera. I dadi lanciati sono <bold>2 dadi a 6 facce</bold>, quindi i numeri migliori sono 6 e 8, poi 5 e 9.",
+    "victoryPoints": "L'obiettivo di Landover è ottenere punti vittoria costruendo insediamenti ed espandendo il tuo impero."
   },
   "buildingTypes": {
-    "military": "Military",
-    "road": "Road",
-    "boat": "Bridge",
-    "either": "Either",
-    "city": "City",
-    "cityWall": "City Wall",
-    "metro": "Metro",
-    "village": "Village"
+    "military": "Militare",
+    "road": "Strada",
+    "boat": "Ponte",
+    "either": "O",
+    "city": "Città",
+    "cityWall": "Mura cittadine",
+    "metro": "Metropoli",
+    "village": "Villaggio"
   }
 }
