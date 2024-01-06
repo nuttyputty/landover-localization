@@ -650,7 +650,7 @@
       "reportBug": {
         "title": "Informar error",
         "thanks": "¡Gracias!",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+        "message": "Gracias por enviar este error.\n¡Investigaremos y trabajaremos para solucionarlo!"
       },
       "settings": "Ajustes",
       "prodChart": "Gráfico Prod",
