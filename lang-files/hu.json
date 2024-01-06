@@ -644,7 +644,7 @@
       "reportBug": {
         "title": "Hiba jelentése",
         "thanks": "Köszönöm!",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+        "message": "Köszönjük, hogy elküldte ezt a hibát.\nKi fogjuk vizsgálni, és dolgozunk a javításon!"
       },
       "settings": "Beállítások",
       "prodChart": "Termelés diagram",
