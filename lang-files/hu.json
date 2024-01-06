@@ -1477,6 +1477,9 @@
         "selectMap": "Térkép kiválasztása",
         "deleteMap": "Térkép törlése",
         "editMap": "Térkép szerkesztése"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {

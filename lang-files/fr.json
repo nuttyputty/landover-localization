@@ -1483,6 +1483,9 @@
         "selectMap": "Sélectionner une carte",
         "deleteMap": "Supprimer la carte",
         "editMap": "Editer la carte"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {

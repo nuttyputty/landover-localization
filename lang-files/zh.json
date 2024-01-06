@@ -1483,6 +1483,9 @@
         "selectMap": "选择地图",
         "deleteMap": "删除地图",
         "editMap": "编辑地图"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {

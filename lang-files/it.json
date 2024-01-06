@@ -1477,6 +1477,9 @@
         "selectMap": "Seleziona mappa",
         "deleteMap": "Elimina mappa",
         "editMap": "Modifica mappa"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {

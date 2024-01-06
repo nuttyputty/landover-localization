@@ -1483,6 +1483,9 @@
         "selectMap": "Выбрать карту",
         "deleteMap": "Удалить карту",
         "editMap": "Редактировать карту"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {
