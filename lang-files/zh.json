@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "轮到你的回合",
-    "playNow": "NEW GAME",
-    "createGame": "Custom Game",
-    "joinGame": "Lobbies",
+    "playNow": "新游戏",
+    "createGame": "自定义游戏",
+    "joinGame": "大堂",
     "myGames": "我的游戏",
     "startPlaying": "立即开始游戏！",
     "ranked": {
@@ -18,51 +18,51 @@
       "movesMade": "已执行的行动"
     },
     "liveChat": {
-      "title": "LIVE CHAT",
-      "onlinePlayers": "{} online players",
-      "online": "Online",
+      "title": "在线聊天",
+      "onlinePlayers": "{} 在线玩家",
+      "online": "在线的",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
         "fiveMessagesPerMinute": "You can send only 5 messages per minutes"
       }
     },
     "notifications": {
-      "title": "Notifications",
-      "noNotifications": "No notifications yet",
-      "clearAll": "Clear All",
-      "gameFinished": "Game Finished",
+      "title": "通知",
+      "noNotifications": "还没有通知",
+      "clearAll": "全部清除",
+      "gameFinished": "游戏结束",
       "positions": {
         "first": "ST",
         "second": "ND",
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "邀请你"
     },
     "buttons": {
-      "awards": "AWARDS",
-      "help": "HELP",
-      "maps": "MAPS",
-      "settings": "SETTINGS",
-      "style": "STYLE"
+      "awards": "奖项",
+      "help": "帮助",
+      "maps": "地图",
+      "settings": "设置",
+      "style": "风格"
     }
   },
   "privacy": {
-    "title": "Privacy and GDPR",
+    "title": "隐私和 GDPR",
     "paragraphs": {
-      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "1": "GDPR 和被遗忘权。我如何查看或删除我的帐户数据？\n",
       "2": {
-        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-        "second": "), and going to your profile and edit info pages.\n"
+        "first": "您可以通过登录应用程序或网站查看 Landover 存储的所有帐户数据 (",
+        "second": ")，然后转到您的个人资料并编辑信息页面。\n"
       },
-      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "3": "此数据包含您在设置页面上输入的个人信息，例如您的用户 ID、用户名和电子邮件，以及移动设备信息（存储以便我们可以向您的设备发送通知），关于您自愿提供的信息、所在国家/地区和家乡。\n",
+      "4": "如果您希望彻底删除您的账户及所有数据，您可以在编辑信息/设置页面选择删除您的账户。\n",
+      "5": "请注意，以这种方式删除您的帐户将永久删除您的数据，但我们为了行使合法权利或遵守法律义务而需要保留的数据除外。例如，如果您已被禁止进入 Landover，我们保留最低限度的必要信息，以确保我们执行我们的政策并防止未来的违规行为。\n",
+      "6": "另请注意，这不会删除您的游戏记录、评论或其他公开帖子。\n",
+      "7": "此操作无法撤消，即使是工作人员，因此请在以这种方式删除您的帐户之前仔细考虑。\n",
       "8": {
-        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-        "second": " and we will be happy to help."
+        "first": "***如果您无法访问您的帐户，或对此过程有任何疑问，请写信给 ",
+        "second": "我们很乐意提供帮助。"
       }
     }
   },
@@ -466,13 +466,13 @@
         "title": "Unmute Player",
         "message": "Are you sure you want to unmute this player?"
       },
-      "profanityDetected": "Profanity detected. Try again.",
+      "profanityDetected": "检测到脏话。再试一次。",
       "chatActionType": {
-        "joinGame": "{} has join the game",
-        "leftGame": "{} has left the game",
-        "invitePlayer": "{} invited {} to the game",
-        "botAdded": "{} added a bot",
-        "botRemoved": "{} removed a bot"
+        "joinGame": "{} 已加入游戏",
+        "leftGame": "{} 已离开游戏",
+        "invitePlayer": "{}邀请{}参加游戏",
+        "botAdded": "{} 添加了一个机器人",
+        "botRemoved": "{} 删除了一个机器人"
       }
     },
     "playerTurnOverlay": {
@@ -658,7 +658,7 @@
       "reportBug": {
         "title": "举报错误",
         "thanks": "谢谢",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+        "message": "感谢您提交此错误。\n我们将进行调查并修复！"
       },
       "settings": "设置",
       "prodChart": "生产图表",
@@ -870,23 +870,23 @@
       "close": "关闭"
     },
     "currencies": {
-      "clay": "Clay",
-      "wood": "Wood",
-      "wheat": "Wheat",
-      "wool": "Whool",
-      "ore": "Ore",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin",
-      "random": "Random"
+      "clay": "黏土",
+      "wood": "木头",
+      "wheat": "小麦",
+      "wool": "羊毛",
+      "ore": "矿石",
+      "paper": "纸",
+      "cloth": "布",
+      "coin": "硬币",
+      "random": "随机的"
     }
   },
   "tutorial": {
     "viewProductChart": "查看生产图表",
     "continue": "点击继续",
     "learningMode": {
-      "title": "Welcome to Landover!",
-      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
+      "title": "欢迎来到兰德沃！",
+      "description": "在本教程中，我们将让您熟悉<bold>界面</bold>和<bold>游戏流程</bold>。然而，你玩的游戏越多，你就越能理解这些策略。"
     },
     "firstVillage": {
       "title": "第一条村子",
@@ -1099,18 +1099,18 @@
     "viewRanks": "查看排位",
     "title": "排位",
     "rules": "排位的规则",
-    "globalStats": "Global Stats",
-    "yourRankWrap": "YOUR\nRANK",
+    "globalStats": "全球统计",
+    "yourRankWrap": "您的\n等级",
     "leaderboard": {
-      "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
-      "player": "Player",
-      "games":"# Games",
-      "rank": "Rank",
+      "title": "排行榜",
+      "shortTitle":"排行榜",
+      "player": "玩家",
+      "games":"# 游戏",
+      "rank": "秩",
       "MMR": "MMR",
-      "yourRank": "YOUR RANK",
-      "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "yourRank": "你的等级",
+      "noPlayers": "还没有玩家",
+      "viewAll": "查看全部"
     }
   },
   "dailyGames": {
@@ -1225,10 +1225,10 @@
         "11": "十一月",
         "12": "十二月"
       },
-      "style": "Style",
-      "achievements": "Achievements",
-      "color": "Color",
-      "details": "Details"
+      "style": "风格",
+      "achievements": "成就",
+      "color": "颜色",
+      "details": "细节"
     },
     "errors": {
       "updateFailed": "更新失败",
@@ -1368,19 +1368,19 @@
     "inviteFrom": "来自{}的邀请！"
   },
   "matchmaking": {
-    "title": "NEW RANKED GAME",
-    "daily": "Start Daily Game",
-    "live": "Start Live Game",
+    "title": "新的排名游戏",
+    "daily": "开始每日游戏",
+    "live": "开始真人游戏",
     "customGame": {
-      "question": "Want to choose your map and settings? ",
-      "link": "Create a custom game."
+      "question": "想要选择您的地图和设置吗？ ",
+      "link": "创建自定义游戏."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "dailyDescription":"24 小时内行动。\n 无限游戏！",
+    "liveDescription": "90 秒内开始行动。\n一次玩一场游戏！",
+    "gameCreated": "新的每日排名游戏已创建。\n您的游戏即将开始.",
     "gamesPending": {
-      "one": "game pending",
-      "other": "games pending"
+      "one": "比赛待定",
+      "other": "比赛待定"
     }
   },
   "help": {
@@ -1390,14 +1390,14 @@
     "tutorial": "进行\n教程",
     "discord": "Discord！",
     "questions": "有问题吗？ \n",
-    "onboardingText": "For help, you can always go here to replay the tutorial, read rules and watch videos."
+    "onboardingText": "如需帮助，您可以随时前往此处重播教程、阅读规则和观看视频。"
   },
   "themes": {
     "title": "主题 & Color",
     "chooseTheme": "选择主题",
     "chooseColor": "选择颜色",
     "save": "保存",
-    "goGold": "Go Gold to Unlock",
+    "goGold": "获取金币即可解锁",
     "selected": "已选择"
   },
   "createGame": {
@@ -1492,6 +1492,9 @@
         "selectMap": "选择地图",
         "deleteMap": "删除地图",
         "editMap": "编辑地图"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {
@@ -1724,31 +1727,31 @@
     "unlockAchievement": "完成10局游戏\n以解锁成就"
   },
   "showcase": {
-    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
-    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-    "resources1": "These are your resource cards!",
-    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+    "barbarians1": "这就是野蛮人追踪者。每次在<bold>骰子</bold>上掷出一个<bold>野蛮人（骷髅）</bold>，野蛮人就离攻击更近了一步。",
+    "barbarians2": "你需要升级你的军队以避免<bold>失去一座城市</bold>。",
+    "cornerValues1": "看到每个<bold>图块</bold>的<bold>角</bold>上的数字了吗？",
+    "cornerValues2": "它们仅在放置期间存在，以帮助您轻松找到<bold>高价值角落</bold>，即与优质瓷砖相邻的角落！角值越高越好！",
+    "culture1": "这 3 个圆圈代表您的<bold>科学</bold>（绿色）、<bold>商业</bold>（黄色）和<bold>政治</bold>（蓝色）文化水平。",
+    "culture2": "提升你的文化水平会给你<bold>发展卡</bold>。达到 3 级可解锁<bold>特殊能力</bold>。首先达到 4 级即可获得价值 <bold>2 VP</bold> 的地铁。",
+    "military1": "这是你的<bold>军事等级</bold>，目前为0。\n你可以通过花费<bold>1小麦</bold>和<bold>1羊</bold>来升级你的军队。",
+    "military2": "军队可以防御<bold>野蛮人的攻击</bold>，并且可以用来<bold>袭击</bold>其他玩家。",
+    "playerBars1": "这些是玩家栏。\n它们显示每个玩家卡牌和等级的概览。",
+    "playerBars2": "顶行从左到右依次为：<bold>港口数量</bold>（拥有 3 个或以上港口的玩家可以申请港口管理局<bold>2 VP</bold>）、<bold>最长航线长度</bold> bold>（路线最长的玩家获得<bold>2 VPs</bold>）和<bold>胜利点</bold>。",
+    "playerBars3": "下一行显示<bold>资源/商品卡的数量</bold>、<bold>开发卡的数量</bold>，然后是其<bold>军事</bold>和<bold>文化</bold>级别。\n您可以点击玩家图块来查看更多信息！",
+    "resources1": "这些是您的资源卡！",
+    "resources2": "它们可用于建造不同的结构，例如<bold>道路、村庄和城市</bold>。\n任何时候你可以建造，Landover 都会在地图上向你建议这些选项。",
+    "tile1": "游戏板由六边形<bold>图块</bold>组成，每个图块都有一个<bold>资源</bold>和数字。",
+    "tile2": "每回合，玩家都会掷<bold>骰子</bold>，如果掷出该数字，则在该图块上有结算的任何人都将收集该图块的<bold>资源</bold>。掷出的骰子是<bold>2个6面骰子</bold>，因此最好的数字是6和8，然后是5和9。",
+    "victoryPoints": "兰德沃的目标是通过建造定居点和扩张帝国来获得胜利点。"
   },
   "buildingTypes": {
-    "military": "Military",
-    "road": "Road",
-    "boat": "Bridge",
-    "either": "Either",
-    "city": "City",
-    "cityWall": "City Wall",
-    "metro": "Metro",
-    "village": "Village"
+    "military": "军队",
+    "road": "路",
+    "boat": "桥",
+    "either": "任何一个",
+    "city": "城市",
+    "cityWall": "城墙",
+    "metro": "都会",
+    "village": "村庄"
   }
 }

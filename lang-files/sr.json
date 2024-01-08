@@ -658,7 +658,7 @@
          "reportBug": {
             "title": "Prijavi Bag",
             "thanks": "Hvala!",
-            "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+            "message": "Хвала што сте послали ову грешку. Истражићемо и порадићемо на исправци!"
          },
          "settings": "Podešavanja",
          "prodChart": "Grafikon Proizvodnje",
@@ -1492,6 +1492,9 @@
             "selectMap": "Izaberi Mapu",
             "deleteMap": "Obriši Mapu",
             "editMap": "Uredi Mapu"
+         },
+         "userInfo": {
+            "createdBy": "Created by"
          }
       },
       "playTutorial": {

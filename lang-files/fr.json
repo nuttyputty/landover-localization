@@ -658,7 +658,7 @@
       "reportBug": {
         "title": "Signaler un bug",
         "thanks": "Merci!",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+        "message": "Merci d'avoir soumis ce bug.\nNous allons enquêter et travailler sur un correctif !"
       },
       "settings": "Paramètres",
       "prodChart": "TABLEAU DE PRODUCTION",
@@ -1492,6 +1492,9 @@
         "selectMap": "Sélectionner une carte",
         "deleteMap": "Supprimer la carte",
         "editMap": "Editer la carte"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {

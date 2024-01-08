@@ -652,7 +652,7 @@
       "reportBug": {
         "title": "Повідомити про помилку",
         "thanks": "Дякуємо!",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+        "message": "Дякуємо, що повідомили про цю помилку.\nМи розглянемо її та попрацюємо над виправленням!"
       },
       "settings": "Налаштування",
       "prodChart": "Діаграма виробництва",
@@ -1486,6 +1486,9 @@
         "selectMap": "Вибрати карту",
         "deleteMap": "Видалити карту",
         "editMap": "Редагувати карту"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {

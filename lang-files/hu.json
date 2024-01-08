@@ -1,9 +1,9 @@
 {
   "home": {
     "takeTurn": "FELVÁLTVA",
-    "playNow": "NEW GAME",
-    "createGame": "Custom Game",
-    "joinGame": "Lobbies",
+    "playNow": "ÚJ JÁTÉK",
+    "createGame": "Normál játék",
+    "joinGame": "Lobbik",
     "myGames": "Játékaim",
     "startPlaying": "Kezdj el játszani most!",
     "ranked": {
@@ -13,13 +13,13 @@
     },
     "goGold": "LÉGY ARANY!",
     "globalStats": {
-      "gamesInProgress": "GAMES IN PROGRESS",
-      "movesMade": "MOVES MADE",
-      "users": "USERS"
+      "gamesInProgress": "JÁTÉKOK FOLYAMATBAN",
+      "movesMade": "MOZGÁSOK",
+      "users": "FELHASZNÁLÓK"
     },
     "liveChat": {
-      "title": "LIVE CHAT",
-      "onlinePlayers": "{} online players",
+      "title": "ÉLŐ CHAT",
+      "onlinePlayers": "{} online játékos",
       "online": "Online",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
@@ -27,42 +27,42 @@
       }
     },
     "notifications": {
-      "title": "Notifications",
-      "noNotifications": "No notifications yet",
-      "clearAll": "Clear All",
-      "gameFinished": "Game Finished",
+      "title": "Értesítések",
+      "noNotifications": "Még nincsenek értesítések",
+      "clearAll": "Mindent kitöröl",
+      "gameFinished": "Játék kész",
       "positions": {
         "first": "ST",
         "second": "ND",
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "meghívott"
     },
     "buttons": {
-      "awards": "AWARDS",
-      "help": "HELP",
-      "maps": "MAPS",
-      "settings": "SETTINGS",
-      "style": "STYLE"
+      "awards": "DÍJAK",
+      "help": "SEGÍTSÉG",
+      "maps": "TÉRKÉPEK",
+      "settings": "BEÁLLÍTÁSOK",
+      "style": "STÍLUS"
     }
   },
   "privacy": {
-    "title": "Privacy and GDPR",
+    "title": "Adatvédelem és GDPR",
     "paragraphs": {
-      "1": "GDPR and The Right to be Forgotten. How can I view or delete my account data?\n",
+      "1": "GDPR és az elfelejtéshez való jog. Hogyan tekinthetem meg vagy törölhetem fiókadataimat?\n",
       "2": {
-        "first": "You can view all the account data that Landover stores by signing in on the app or website (",
-        "second": "), and going to your profile and edit info pages.\n"
+        "first": "A Landover által tárolt összes fiókadatot megtekintheti, ha bejelentkezik az alkalmazásba vagy a webhelyre (",
+        "second": "), és belép a profiljába, és szerkesztheti az információs oldalakat.\n"
       },
-      "3": "This data consists of personal info that you entered on your settings page, for example, your user IDs, username, and email, as well as mobile device info (stored so we can send notifications to your device), about info, location country and hometown that you voluntarily provided.\n",
-      "4": "If you wish to completely delete your account and all data, you can choose to delete your account on the edit info / settings page.\n",
-      "5": "Please be aware that deleting your account in this way will permanently remove your data, except for the data that we need to keep to exercise our legal rights or to comply with a legal obligation. For example, if you have been banned from Landover, we keep the minimum necessary information to make sure we enforce our policies and prevent future violations.\n",
-      "6": "Please also note that this will not delete your game records, your comments or other public posts.\n",
-      "7": "This can not be undone, even by staff, so please think carefully before deleting your account in this way.\n",
+      "3": "Ezek az adatok a beállítások oldalon megadott személyes adatokból állnak, például a felhasználói azonosítókból, a felhasználónévből és az e-mail címből, valamint a mobileszköz adataiból (amelyeket azért tárolunk, hogy értesítéseket küldhessünk az eszközére), kb. információ, hely ország és szülőváros, amelyeket önként megadott.\n",
+      "4": "Ha teljesen törölni szeretné fiókját és az összes adatot, az adatok szerkesztése / beállítások oldalon választhatja a fiók törlését.\n",
+      "5": "Kérjük, vegye figyelembe, hogy fiókjának ilyen módon történő törlésével az adatai véglegesen törlődnek, kivéve azokat az adatokat, amelyeket meg kell őriznünk törvényes jogaink gyakorlásához vagy jogi kötelezettségünk teljesítéséhez. Például, ha Ön A Landoverből kitiltva megőrizzük a minimálisan szükséges információkat, hogy biztosítsuk irányelveink betartatását és a jövőbeni jogsértések megelőzését.\n",
+      "6": "Kérjük, vegye figyelembe, hogy ez nem törli a játékrekordokat, a megjegyzéseit vagy más nyilvános bejegyzéseit.\n",
+      "7": "Ezt még a személyzet sem tudja visszavonni, ezért kérjük, alaposan gondolja át, mielőtt ilyen módon törli fiókját.\n",
       "8": {
-        "first": "***If you have lost access to your account, or have any questions about this process, please write to ",
-        "second": " and we will be happy to help."
+        "first": "***Ha elvesztette hozzáférését fiókjához, vagy bármilyen kérdése van ezzel a folyamattal kapcsolatban, kérjük, írjon a ",
+        "second": "és szívesen segítünk."
       }
     }
   },
@@ -460,13 +460,13 @@
         "title": "Unmute Player",
         "message": "Are you sure you want to unmute this player?"
       },
-      "profanityDetected": "Profanity detected. Try again.",
+      "profanityDetected": "Trágárság észlelve. Próbáld újra.",
       "chatActionType": {
-        "joinGame": "{} has join the game",
-        "leftGame": "{} has left the game",
-        "invitePlayer": "{} invited {} to the game",
-        "botAdded": "{} added a bot",
-        "botRemoved": "{} removed a bot"
+        "joinGame": "{} csatlakozott a játékhoz",
+        "leftGame": "{} kilépett a játékból",
+        "invitePlayer": "{} meghívta {} felhasználót a játékba",
+        "botAdded": "{} hozzáadott egy robotot",
+        "botRemoved": "{} eltávolított egy robotot"
       }
     },
     "playerTurnOverlay": {
@@ -652,7 +652,7 @@
       "reportBug": {
         "title": "Hiba jelentése",
         "thanks": "Köszönöm!",
-        "message": "Thanks for submitting this bug.\nWe'll investigate and work on a fix!"
+        "message": "Köszönjük, hogy elküldte ezt a hibát.\nKi fogjuk vizsgálni, és dolgozunk a javításon!"
       },
       "settings": "Beállítások",
       "prodChart": "Termelés diagram",
@@ -864,23 +864,23 @@
       "close": "Bezárás"
     },
     "currencies": {
-      "clay": "Clay",
-      "wood": "Wood",
-      "wheat": "Wheat",
-      "wool": "Whool",
-      "ore": "Ore",
-      "paper": "Paper",
-      "cloth": "Cloth",
-      "coin": "Coin",
-      "random": "Random"
+      "clay": "Agyag",
+      "wood": "Faipari",
+      "wheat": "Búza",
+      "wool": "Gyapjú",
+      "ore": "Érc",
+      "paper": "Papír",
+      "cloth": "Szövet",
+      "coin": "Érme",
+      "random": "Véletlen"
     }
   },
   "tutorial": {
     "viewProductChart": "Terméktáblázat megtekintése",
     "continue": "Koppintson a folytatáshoz",
     "learningMode": {
-      "title": "Welcome to Landover!",
-      "description": "In this tutorial we're going to get you acquainted with the <bold>interface</bold> and the <bold>flow of the game</bold>. However, the more games you play, the better you will start to understand the strategies."
+      "title": "Üdvözöljük Landoverben!",
+      "description": "Ebben az oktatóanyagban a <bold>felülettel</bold> és a <bold>játék menetével</bold> fogunk megismerkedni. Azonban minél több játékot játszol, annál jobban kezded megérteni a stratégiákat."
     },
     "firstVillage": {
       "title": "Első falu",
@@ -1093,18 +1093,18 @@
     "viewRanks": "Rangok megtekintése",
     "title": "RANGOK",
     "rules": "Hogyan működik a ranglista",
-    "globalStats": "Global Stats",
-    "yourRankWrap": "YOUR\nRANK",
+    "globalStats": "Globális statisztika",
+    "yourRankWrap": "AZ ÖN\nRANK",
     "leaderboard": {
-      "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
-      "player": "Player",
-      "games":"# Games",
-      "rank": "Rank",
+      "title": "RENDSZEREZÉSI RANGLA",
+      "shortTitle":"Ranglista",
+      "player": "Játékos",
+      "games":"# Játékok",
+      "rank": "Rang",
       "MMR": "MMR",
-      "yourRank": "YOUR RANK",
-      "noPlayers": "No players yet",
-      "viewAll": "View All"
+      "yourRank": "AZ ÖN Rangsora",
+      "noPlayers": "Még nincsenek játékosok",
+      "viewAll": "Összes megtekintése"
     }
   },
   "dailyGames": {
@@ -1150,10 +1150,10 @@
       "showReplays": "Visszajátszások megjelenítése",
       "acceptNewGames": "Új játékok automatikus elfogadása",
       "autoRoll": "Automatikus kockadobás forduló indításakor",
-      "effects": "Effects",
-      "music": "Music",
-      "off": "OFF",
-      "on": "ON"
+      "effects": "Hatások",
+      "music": "Zene",
+      "off": "KI",
+      "on": "TOVÁBB"
     },
     "account": {
       "signUp": "Regisztráció",
@@ -1165,8 +1165,8 @@
       "title": "Előzmények",
       "filter": "Szűrő",
       "empty": "Nincs találati előzmény",
-      "recentGames": "Recent Games",
-      "viewAll": "View All"
+      "recentGames": "Legutóbbi játékok",
+      "viewAll": "Összes megtekintése"
     },
     "mapStats": {
       "title": "Térkép statisztikák",
@@ -1362,19 +1362,19 @@
     "inviteFrom": "Meghívó tőle {}!"
   },
   "matchmaking": {
-    "title": "NEW RANKED GAME",
-    "daily": "Start Daily Game",
-    "live": "Start Live Game",
+    "title": "ÚJ Rangsorolt JÁTÉK",
+    "daily": "Napi játék",
+    "live": "Élő játék",
     "customGame": {
-      "question": "Want to choose your map and settings? ",
-      "link": "Create a custom game."
+      "question": "Szeretné kiválasztani a térképet és a beállításokat? ",
+      "link": "Hozzon létre egy egyéni játékot."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
-    "liveDescription": "90 seconds to make your move.\n1 game at a time!",
-    "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "dailyDescription":"24 óra áll rendelkezésére a lépéshez.\n Korlátlan számú játék!",
+    "liveDescription": "90 másodperc a lépésre.\nEgyszerre 1 játék!",
+    "gameCreated": "Új rangsorolt napi játék készült.\nA játék hamarosan indul.",
     "gamesPending": {
-      "one": "game pending",
-      "other": "games pending"
+      "one": "játék függőben",
+      "other": "függőben lévő játékok"
     }
   },
   "help": {
@@ -1486,6 +1486,9 @@
         "selectMap": "Térkép kiválasztása",
         "deleteMap": "Térkép törlése",
         "editMap": "Térkép szerkesztése"
+      },
+      "userInfo": {
+        "createdBy": "Created by"
       }
     },
     "playTutorial": {
@@ -1718,37 +1721,37 @@
     "unlockAchievement": "Teljesíts 10 játékot\na teljesítmény feloldásához"
   },
   "watchLiveGames": {
-    "button": "WATCH\nLIVE GAMES",
-    "emptyList": "There are no active games",
-    "gameLabel": "Live",
-    "title": "Watch Live Games"
+    "button": "NÉZD MEG\nÉLŐ JÁTÉKOKAT",
+    "emptyList": "Nincsenek aktív játékok",
+    "gameLabel": "Élő",
+    "title": "Nézze meg a Játékokat"
   },
   "showcase": {
-    "barbarians1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
-    "barbarians2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
-    "cornerValues1": "See those numbers on the <bold>corners</bold> of each <bold>tile</bold>?",
-    "cornerValues2": "They are there only during placement to help you easily locate <bold>high value corners</bold>, ones that are adjacent to good tiles! The higher the corner value, the better it is!",
-    "culture1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
-    "culture2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.",
-    "military1": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
-    "military2": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.",
-    "playerBars1": "These are the player bars.\nThey show an overview of every players cards and levels.",
-    "playerBars2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
-    "playerBars3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
-    "resources1": "These are your resource cards!",
-    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
-    "tile1": "The game board is made up of hexagon <bold>tiles</bold>, each one with a <bold>resource</bold> and number.",
-    "tile2": "Each turn a player rolls the <bold>dice</bold> and if that number is rolled, anyone with a settlement on that tile will collect the <bold>resource</bold> of that tile. The dice rolled are <bold>2 6-sided dice</bold>, so the best numbers are 6 and 8, then 5 and 9.",
-    "victoryPoints": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
+    "barbarians1": "Ez a barbár nyomkövető. Minden alkalommal, amikor egy <bold>barbárt (koponyát)</bold> dobnak a <bold>kockára</bold>, a barbárok egy lépéssel közelebb kerülnek a támadáshoz.",
+    "barbarians2": "Fel kell emelnie a hadseregét, hogy elkerülje a <bold>egy város elvesztését</bold>.",
+    "cornerValues1": "Látja ezeket a számokat az egyes <bold>csempék</bold> <bold>sarkaiban</bold>?",
+    "cornerValues2": "Csak az elhelyezés során vannak jelen, hogy segítsenek könnyen megtalálni a <bold>nagy értékű sarkokat</bold>, azokat, amelyek jó lapkákkal szomszédosak! Minél nagyobb a sarokérték, annál jobb!",
+    "culture1": "Ez a 3 kör képviseli az Ön kulturális szintjét a <bold>Tudomány</bold> (zöld), <bold>Kereskedelem</bold> (sárga) és <bold>Politika</bold> (kék) területén.",
+    "culture2": "Kultúrája magasabb szintre emelésével <bold>fejlesztési kártyákat</bold> kaphat. A 3. szint elérése <bold>különleges képességet</bold> tesz lehetővé. És először jusson el a 4. szintre, és szerezzen egy <bold>2 GyP</bold> értékű metrot.",
+    "military1": "Ez az Ön <bold>katonai szintje</bold>, jelenleg 0.\nA hadsereg szintjét feljebb emelheti, ha <bold>1 búzát</bold> és <bold>1 bárányt</bold> költ.",
+    "military2": "Katonai védekezés a <bold>barbár támadások</bold> ellen, és felhasználható más játékosok <bold>megtámadására</bold>.",
+    "playerBars1": "Ezek a játékossávok.\nÁttekintést mutatnak az összes játékos kártyájáról és szintjéről.",
+    "playerBars2": "A felső sor balról jobbra a következő: <bold>Portok száma</bold> (a 3 vagy több porttal rendelkező játékosok <bold>2 GYP-ért</bold> igényelhetnek Port Authorityt), <bold>leghosszabb útvonalhossz</bold> bold> (a leghosszabb útvonalat vezető játékosok <bold>2 GyP-t</bold>) és <bold>Győzelmi pontokat</bold> kapnak.",
+    "playerBars3": "A következő sorban az <bold>erőforrás-/árukártyák</bold>, a <bold>fejlesztői kártyák</bold> száma látható, majd a <bold>katonai</bold> és <bold>kultúra</bold>. szinten.\nTovábbi információért koppints a játékos lapkára!",
+    "resources1": "Ezek az ön erőforráskártyái!",
+    "resources2": "Különféle építmények, például <bold>utak, falvak és városok</bold> építésére használhatók.\nBármikor, amikor építkezel, a Landover fel fogja ajánlani ezeket a lehetőségeket a térképen.",
+    "tile1": "A játéktábla hatszögletű <bold>lapkákból</bold> áll, mindegyikhez tartozik egy <bold>erőforrás</bold> és egy szám.",
+    "tile2": "Minden körben egy játékos dob <bold>kockával</bold>, és ha ezt a számot dobják, akkor bárki, aki az adott lapkán elszámolt, begyűjti az adott lapka <bold>erőforrását</bold>. A dobott kocka <bold>2 6 oldalú kocka</bold>, így a legjobb számok a 6 és 8, majd az 5 és 9.",
+    "victoryPoints": "A Landover célja, hogy Győzelmi Pontokat szerezzen települések építésével és birodalmának bővítésével."
   },
   "buildingTypes": {
-    "military": "Military",
-    "road": "Road",
-    "boat": "Bridge",
-    "either": "Either",
-    "city": "City",
-    "cityWall": "City Wall",
-    "metro": "Metro",
-    "village": "Village"
+    "military": "Katonai",
+    "road": "Út",
+    "boat": "Híd",
+    "either": "Bármelyik",
+    "city": "Város",
+    "cityWall": "Városfal",
+    "metro": "Világváros",
+    "village": "Falu"
   }
 }
