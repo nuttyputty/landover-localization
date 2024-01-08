@@ -20,7 +20,11 @@
     "liveChat": {
       "title": "LIVE CHAT",
       "onlinePlayers": "{} online players",
-      "online": "Online"
+      "online": "Online",
+      "verifyEmail": "Confirm your email address to be able to chat",
+      "limits": {
+        "fiveMessagesPerMinute": "You can send only 5 messages per minutes"
+      }
     },
     "notifications": {
       "title": "Notifications",
@@ -458,6 +462,10 @@
         "yes": "Yes",
         "no": "No",
         "failed": "Something went wrong, please try again"
+      },
+      "unMuteConfirmation": {
+        "title": "Unmute Player",
+        "message": "Are you sure you want to unmute this player?"
       },
       "chatActionType": {
         "joinGame": "{} has join the game",
@@ -1108,8 +1116,9 @@
   "dailyGames": {
     "noGames": "No Games in progress",
     "startGame": "Start a Game",
-    "createGame": "Create Game",
-    "joinByCode": "Join by Code",
+    "createGame": "Create",
+    "joinByCode": "Join",
+    "history": "History",
     "turnCount": {
       "many": "turns",
       "single": "turn"

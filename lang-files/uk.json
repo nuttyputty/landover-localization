@@ -20,7 +20,11 @@
     "liveChat": {
       "title": "Онлай чат",
       "onlinePlayers": "{} гравців онлайн",
-      "online": "В мережі"
+      "online": "В мережі",
+      "verifyEmail": "Підтвердіть електронну пошту, щоб могти спілкуватися в чаті",
+      "limits": {
+        "fiveMessagesPerMinute": "You can send only 5 messages per minutes"
+      }
     },
     "notifications": {
       "title": "Сповіщення",
@@ -451,6 +455,10 @@
         "yes": "Так",
         "no": "Ні",
         "failed": "Щось пішло не так, спробуйте ще раз"
+      },
+      "unMuteConfirmation": {
+        "title": "Unmute Player",
+        "message": "Are you sure you want to unmute this player?"
       },
       "profanityDetected": "Виявлено ненормативну лексику. Спробуйте ще раз.",
       "chatActionType": {
@@ -1102,8 +1110,9 @@
   "dailyGames": {
     "noGames": "Немає ігор в процесі",
     "startGame": "Почати гру",
-    "createGame": "Створити гру",
-    "joinByCode": "Приєднатися за кодом",
+    "createGame": "Create",
+    "joinByCode": "Join",
+    "history": "History",
     "turnCount": {
       "many": "ходів",
       "single": "ход"
