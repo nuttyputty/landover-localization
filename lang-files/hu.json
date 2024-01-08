@@ -1168,6 +1168,11 @@
       "recentGames": "Legutóbbi játékok",
       "viewAll": "Összes megtekintése"
     },
+    "createdMaps": {
+      "title": "Created Maps",
+      "created": "Created = ",
+      "empty": "No Maps"
+    },
     "mapStats": {
       "title": "Térkép statisztikák",
       "filter": "Szűrő",

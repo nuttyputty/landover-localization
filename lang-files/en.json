@@ -1174,6 +1174,11 @@
       "filter": "Filter",
       "empty": "No Match History"
     },
+    "createdMaps": {
+      "title": "Created Maps",
+      "created": "Created = ",
+      "empty": "No Maps"
+    },
     "mapStats": {
       "title": "Map Stats",
       "filter": "Filter",

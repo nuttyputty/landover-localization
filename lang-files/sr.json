@@ -1174,6 +1174,11 @@
             "filter": "Filter",
             "empty": "Nema podataka o istoriji"
          },
+         "createdMaps": {
+            "title": "Created Maps",
+            "created": "Created = ",
+            "empty": "No Maps"
+          },
          "mapStats": {
             "title": "Statistika mape",
             "filter": "Filter",

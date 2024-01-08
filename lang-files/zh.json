@@ -1173,6 +1173,11 @@
       "recentGames": "Recent Games",
       "viewAll": "View All"
     },
+    "createdMaps": {
+      "title": "Created Maps",
+      "created": "Created = ",
+      "empty": "No Maps"
+    },
     "mapStats": {
       "title": "地图数据统计",
       "filter": "筛选",

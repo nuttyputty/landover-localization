@@ -1168,6 +1168,11 @@
       "recentGames": "Giochi recenti",
       "viewAll": "Mostra tutto"
     },
+    "createdMaps": {
+      "title": "Created Maps",
+      "created": "Created = ",
+      "empty": "No Maps"
+    },
     "mapStats": {
       "title": "Statistiche Mappe",
       "filter": "Filtro",

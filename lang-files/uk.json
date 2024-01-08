@@ -1167,6 +1167,11 @@
       "recentGames": "Останні ігри",
       "viewAll": "Подивитись все"
     },
+    "createdMaps": {
+      "title": "Created Maps",
+      "created": "Created = ",
+      "empty": "No Maps"
+    },
     "mapStats": {
       "title": "Статистика карти",
       "filter": "Фільтр",
