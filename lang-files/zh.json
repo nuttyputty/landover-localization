@@ -1175,7 +1175,7 @@
     },
     "createdMaps": {
       "title": "Created Maps",
-      "created": "Created = ",
+      "created": "Created - ",
       "empty": "No Maps"
     },
     "mapStats": {
