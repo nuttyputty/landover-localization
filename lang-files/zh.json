@@ -23,7 +23,8 @@
       "online": "在线的",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes"
+        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes."
       }
     },
     "notifications": {
