@@ -1498,7 +1498,8 @@
       "preview": {
         "selectMap": "Seleionar Mapa",
         "deleteMap": "Eliminar Mapa",
-        "editMap": "Editar Mapa"
+        "editMap": "Editar Mapa",
+        "playNow": "Play Now"
       },
       "userInfo": {
         "createdBy": "Created by"

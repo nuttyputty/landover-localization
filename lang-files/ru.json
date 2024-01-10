@@ -1504,7 +1504,8 @@
       "preview": {
         "selectMap": "Выбрать карту",
         "deleteMap": "Удалить карту",
-        "editMap": "Редактировать карту"
+        "editMap": "Редактировать карту",
+        "playNow": "Play Now"
       },
       "userInfo": {
         "createdBy": "Created by"

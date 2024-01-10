@@ -1498,7 +1498,8 @@
       "preview": {
         "selectMap": "Térkép kiválasztása",
         "deleteMap": "Térkép törlése",
-        "editMap": "Térkép szerkesztése"
+        "editMap": "Térkép szerkesztése",
+        "playNow": "Play Now"
       },
       "userInfo": {
         "createdBy": "Created by"

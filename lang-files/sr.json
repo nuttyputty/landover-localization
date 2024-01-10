@@ -1504,7 +1504,8 @@
          "preview": {
             "selectMap": "Izaberi Mapu",
             "deleteMap": "Obriši Mapu",
-            "editMap": "Uredi Mapu"
+            "editMap": "Uredi Mapu",
+            "playNow": "Play Now"
          },
          "userInfo": {
             "createdBy": "Created by"
