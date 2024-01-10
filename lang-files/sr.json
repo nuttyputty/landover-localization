@@ -19,7 +19,9 @@
       "limits": {
          "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
          "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes."
-      }
+      },
+      "mute": "Mute",
+      "unmute": "Unmute"
     },
     "notifications": {
       "title": "Notifications",
@@ -111,6 +113,7 @@
       "error": "Greška",
       "tryAgain": "Pokušajte ponovo",
       "home": "Početna",
+      "bannedFromLiveGames": "You need to wait 5 min to join a live game after failing to ready.",
       "login": {
          "google": {
             "failed": "Nemoguće je prijaviti se na vaš Google nalog. Molimo vas pokušajte ponovo",
@@ -463,6 +466,10 @@
             "no": "Ne",
             "failed": "Došlo je do greške, pokušajte ponovo"
          },
+         "muteConfirmation": {
+            "title": "Mute Player",
+            "message": "Do you want to mute all messages sent by this user in chat?"
+          },
          "unMuteConfirmation": {
             "title": "Unmute Player",
             "message": "Are you sure you want to unmute this player?"

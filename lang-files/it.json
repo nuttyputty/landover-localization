@@ -25,7 +25,9 @@
       "limits": {
         "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes."
-      }
+      },
+      "mute": "Mute",
+      "unmute": "Unmute"
     },
     "notifications": {
       "title": "Notifiche",
@@ -105,6 +107,7 @@
     "error": "Errore",
     "tryAgain": "Riprova",
     "home": "Home",
+    "bannedFromLiveGames": "You need to wait 5 min to join a live game after failing to ready.",
     "login": {
       "google": {
         "failed": "Impossibile accedere al tuo account Google. Riprova.",
@@ -456,6 +459,10 @@
         "yes": "Sì",
         "no": "No",
         "failed": "Qualcosa è andato storto, riprova"
+      },
+      "muteConfirmation": {
+        "title": "Mute Player",
+        "message": "Do you want to mute all messages sent by this user in chat?"
       },
       "unMuteConfirmation": {
         "title": "Unmute Player",

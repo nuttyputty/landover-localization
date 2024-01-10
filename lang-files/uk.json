@@ -25,7 +25,9 @@
       "limits": {
         "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes."
-      }
+      },
+      "mute": "Mute",
+      "unmute": "Unmute"
     },
     "notifications": {
       "title": "Сповіщення",
@@ -105,6 +107,7 @@
     "error": "Помилка",
     "tryAgain": "Спробувати знову",
     "home": "Додому",
+    "bannedFromLiveGames": "You need to wait 5 min to join a live game after failing to ready.",
     "login": {
       "google": {
         "failed": "Не вдалося увійти в свій обліковий запис Google. Будь ласка, спробуйте ще раз",
@@ -456,6 +459,10 @@
         "yes": "Так",
         "no": "Ні",
         "failed": "Щось пішло не так, спробуйте ще раз"
+      },
+      "muteConfirmation": {
+        "title": "Mute Player",
+        "message": "Do you want to mute all messages sent by this user in chat?"
       },
       "unMuteConfirmation": {
         "title": "Unmute Player",
