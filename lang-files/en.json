@@ -1550,7 +1550,7 @@
     "rankedLiveLobby": {
       "title": "LIVE RANKED GAME",
       "lobbyState": {
-        "waiting": "Wait... Estimated Time: ",
+        "waiting": "Wait... Est. Time: ",
         "areYouReady": "Are you ready?",
         "starting": "Game is starting",
         "waitingForOther": "Waiting for other players..."
@@ -1560,8 +1560,8 @@
       "VS": "VS",
       "randomMap": "Random map",
       "gameData": {
-        "winCondition": "Win Condition",
-        "startingResources": "Starting Resources",
+        "winCondition": "VP:",
+        "startingResources": "Intl Res:",
         "charity": "Charity",
         "fairDice": "Fair Dice",
         "turnTimer": "Turn Timer",
