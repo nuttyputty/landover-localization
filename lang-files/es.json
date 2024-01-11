@@ -1505,7 +1505,8 @@
       "preview": {
         "selectMap": "SELECCIONAR MAPA",
         "deleteMap": "Eliminar mapa",
-        "editMap": "Editar mapa"
+        "editMap": "Editar mapa",
+        "playNow": "Play Now"
       },
       "userInfo": {
         "createdBy": "Created by"

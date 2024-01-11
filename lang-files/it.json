@@ -1499,7 +1499,8 @@
       "preview": {
         "selectMap": "Seleziona mappa",
         "deleteMap": "Elimina mappa",
-        "editMap": "Modifica mappa"
+        "editMap": "Modifica mappa",
+        "playNow": "Play Now"
       },
       "userInfo": {
         "createdBy": "Created by"

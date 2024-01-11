@@ -1505,7 +1505,8 @@
       "preview": {
         "selectMap": "Select Map",
         "deleteMap": "Delete Map",
-        "editMap": "Edit Map"
+        "editMap": "Edit Map",
+        "playNow": "Play Now"
       },
       "userInfo": {
         "createdBy": "Created by"
