@@ -24,7 +24,8 @@
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
         "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
-        "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes."
+        "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
+        "errorSendingMessage": "There was a problem sending the message, please try again"
       },
       "mute": "Mute",
       "unmute": "Unmute"
