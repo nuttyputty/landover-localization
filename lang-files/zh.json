@@ -862,6 +862,7 @@
     },
     "endTurn": {
       "nextGame": "下一局游戏",
+      "home": "Home",
       "wait": "等待",
       "end": "结束",
       "turn": "回合",

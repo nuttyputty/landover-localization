@@ -870,7 +870,8 @@
       "endTurnConfirm": "Završi potez?",
       "canUpgrade": "Da li ste sigurni da želite završiti potez? Možete unaprediti svoju kulturu bez trgovine!",
       "lotOfResources": "Da li ste sigurni da želite završiti potez? Imate puno neiskorišćenih resursa.",
-      "cancel": "Otkaži"
+      "cancel": "Otkaži",
+      "home": "Home"
     },
     "errors": {
       "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
@@ -1518,7 +1519,6 @@
     },
     "createGame": "Kreiraj Igru"
   },
-
   "join": {
     "title": "Pridruži se igrama",
     "gameNotAvailable": "Ova igra nije dostupna, pokušajte s drugom",

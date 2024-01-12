@@ -870,7 +870,8 @@
       "endTurnConfirm": "End Turn?",
       "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
       "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "cancel": "Cancel",
+      "home": "Home"
     },
     "errors": {
       "cannotFindGame": "We can't find the game, please try again",
