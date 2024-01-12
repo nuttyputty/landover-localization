@@ -862,6 +862,7 @@
     },
     "endTurn": {
       "nextGame": "Nächstes Spiel",
+      "home": "Home",
       "wait": "Warte",
       "end": "Beenden",
       "turn": "Zug",

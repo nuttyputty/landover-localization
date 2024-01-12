@@ -862,6 +862,7 @@
     },
     "endTurn": {
       "nextGame": "Sledeća igra",
+      "home": "Home",
       "wait": "Sačekaj",
       "end": "Kraj",
       "turn": "Potez",

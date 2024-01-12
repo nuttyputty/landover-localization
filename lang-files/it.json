@@ -856,6 +856,7 @@
     },
     "endTurn": {
       "nextGame": "Prossima partita",
+      "home": "Home",
       "wait": "Attendi",
       "end": "Fine",
       "turn": "Turno",

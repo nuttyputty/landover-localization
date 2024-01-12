@@ -856,6 +856,7 @@
     },
     "endTurn": {
       "nextGame": "Következő játék",
+      "home": "Home",
       "wait": "Várj",
       "end": "Vége",
       "turn": "Forduló",
