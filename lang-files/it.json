@@ -66,7 +66,7 @@
       "7": "Questa operazione non può essere annullata, nemmeno dallo staff, quindi per favore pensa attentamente prima di eliminare il tuo account in questo modo.\n",
       "8": {
         "first": "***Se hai perso l'accesso al tuo account o hai domande su questo processo, scrivi a ",
-        "secondo": "e saremo felici di aiutarti."
+        "second": "e saremo felici di aiutarti."
       }
     }
   },
@@ -1106,9 +1106,9 @@
     "yourRankWrap": "IL TUO\nRANGO",
     "leaderboard": {
       "title": "CLASSIFICA",
-      "shortTitle":"Classifica",
+      "shortTitle": "Classifica",
       "player": "Giocatore",
-      "games":"# Giochi",
+      "games": "# Giochi",
       "rank": "Rango",
       "MMR": "MMR",
       "yourRank": "IL TUO GRADO",
@@ -1383,7 +1383,7 @@
       "question": "Vuoi scegliere la mappa e le impostazioni? ",
       "link": "Crea un gioco personalizzato."
     },
-    "dailyDescription":"24 ore per fare la tua mossa.\n Giochi illimitati!",
+    "dailyDescription": "24 ore per fare la tua mossa.\n Giochi illimitati!",
     "liveDescription": "90 secondi per fare la tua mossa.\n1 gioco alla volta!",
     "gameCreated": "Creata una nuova partita giornaliera classificata.\nLa tua partita inizierà a breve.",
     "gamesPending": {

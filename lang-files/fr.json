@@ -54,20 +54,20 @@
   "privacy": {
     "title": "Confidentialité et RGPD",
     "paragraphs": {
-       "1": "RGPD et droit à l'oubli. Comment puis-je consulter ou supprimer les données de mon compte ?\n",
-       "2": {
-         "first": "Vous pouvez afficher toutes les données de compte stockées par Landover en vous connectant sur l'application ou le site Web (",
-         "second": "), puis accédez à votre profil et modifiez les pages d'informations.\n"
-       },
-       "3": "Ces données sont constituées d'informations personnelles que vous avez saisies sur votre page de paramètres, par exemple vos identifiants d'utilisateur, votre nom d'utilisateur et votre adresse e-mail, ainsi que des informations sur votre appareil mobile (stockées afin que nous puissions envoyer des notifications à votre appareil), à propos de informations, pays de localisation et ville de résidence que vous avez volontairement fournis.\n",
-       "4": "Si vous souhaitez supprimer complètement votre compte et toutes vos données, vous pouvez choisir de supprimer votre compte sur la page de modification des informations/paramètres.\n",
-       "5": "Sachez que supprimer votre compte de cette manière supprimera définitivement vos données, à l'exception des données que nous devons conserver pour exercer nos droits légaux ou pour respecter une obligation légale. Par exemple, si vous avez été banni de Landover, nous conservons le minimum d'informations nécessaires pour nous assurer que nous appliquons nos politiques et prévenons de futures violations.\n",
-       "6": "Veuillez également noter que cela ne supprimera pas vos enregistrements de jeu, vos commentaires ou autres publications publiques.\n",
-       "7": "Cela ne peut pas être annulé, même par le personnel, alors réfléchissez bien avant de supprimer votre compte de cette manière.\n",
-       "8": {
-         "first": "***Si vous avez perdu l'accès à votre compte ou si vous avez des questions sur ce processus, veuillez écrire à ",
-         "second": " et nous serons heureux de vous aider."
-       }
+      "1": "RGPD et droit à l'oubli. Comment puis-je consulter ou supprimer les données de mon compte ?\n",
+      "2": {
+        "first": "Vous pouvez afficher toutes les données de compte stockées par Landover en vous connectant sur l'application ou le site Web (",
+        "second": "), puis accédez à votre profil et modifiez les pages d'informations.\n"
+      },
+      "3": "Ces données sont constituées d'informations personnelles que vous avez saisies sur votre page de paramètres, par exemple vos identifiants d'utilisateur, votre nom d'utilisateur et votre adresse e-mail, ainsi que des informations sur votre appareil mobile (stockées afin que nous puissions envoyer des notifications à votre appareil), à propos de informations, pays de localisation et ville de résidence que vous avez volontairement fournis.\n",
+      "4": "Si vous souhaitez supprimer complètement votre compte et toutes vos données, vous pouvez choisir de supprimer votre compte sur la page de modification des informations/paramètres.\n",
+      "5": "Sachez que supprimer votre compte de cette manière supprimera définitivement vos données, à l'exception des données que nous devons conserver pour exercer nos droits légaux ou pour respecter une obligation légale. Par exemple, si vous avez été banni de Landover, nous conservons le minimum d'informations nécessaires pour nous assurer que nous appliquons nos politiques et prévenons de futures violations.\n",
+      "6": "Veuillez également noter que cela ne supprimera pas vos enregistrements de jeu, vos commentaires ou autres publications publiques.\n",
+      "7": "Cela ne peut pas être annulé, même par le personnel, alors réfléchissez bien avant de supprimer votre compte de cette manière.\n",
+      "8": {
+        "first": "***Si vous avez perdu l'accès à votre compte ou si vous avez des questions sur ce processus, veuillez écrire à ",
+        "second": " et nous serons heureux de vous aider."
+      }
     }
   },
   "playNow": {
@@ -1112,14 +1112,14 @@
     "yourRankWrap": "YOUR\nRANK",
     "leaderboard": {
       "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
+      "shortTitle": "Leaderboard",
       "player": "Player",
-      "games":"# Games",
+      "games": "# Games",
       "rank": "Rank",
       "MMR": "MMR",
       "yourRank": "YOUR RANK",
       "noPlayers": "No players yet",
-      "seeFull": "See Full"
+      "viewAll": "See Full"
     }
   },
   "dailyGames": {
@@ -1389,7 +1389,7 @@
       "question": "Vous souhaitez choisir votre carte et vos paramètres? ",
       "link": "Créer un jeu personnalisé."
     },
-    "dailyDescription":"24 heures pour agir.\nJeux illimités!",
+    "dailyDescription": "24 heures pour agir.\nJeux illimités!",
     "liveDescription": "90 secondes pour agir.\n1 jeu à la fois!",
     "gameCreated": "Création d'un nouveau jeu quotidien classé.\nVotre partie va bientôt commencer.",
     "gamesPending": {
