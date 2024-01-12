@@ -871,7 +871,8 @@
       "endTurnConfirm": "End Turn?",
       "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
       "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "cancel": "Cancel",
+      "home": "Home"
     },
     "errors": {
       "cannotFindGame": "We can't find the game, please try again",
@@ -1113,9 +1114,9 @@
     "yourRankWrap": "YOUR\nRANK",
     "leaderboard": {
       "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
+      "shortTitle": "Leaderboard",
       "player": "Player",
-      "games":"# Games",
+      "games": "# Games",
       "rank": "Rank",
       "MMR": "MMR",
       "yourRank": "YOUR RANK",
@@ -1390,7 +1391,7 @@
       "question": "Want to choose your map and settings? ",
       "link": "Create a custom game."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
+    "dailyDescription": "24 hours to make your move.\n Unlimited games!",
     "liveDescription": "90 seconds to make your move.\n1 game at a time!",
     "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
     "gamesPending": {

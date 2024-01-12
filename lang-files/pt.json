@@ -865,7 +865,8 @@
       "endTurnConfirm": "Terminar Turno?",
       "canUpgrade": "Tens a certeza de que queres terminar o turno? Podes atualizar a tua cultura sem uma troca!",
       "lotOfResources": "Tens a certeza de que queres terminar o turno? Tens muitos recursos por gastar.",
-      "cancel": "Cancelar"
+      "cancel": "Cancelar",
+      "home": "Home"
     },
     "errors": {
       "cannotFindGame": "Não conseguimos encontrar o jogo, tenta novamente",
