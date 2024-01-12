@@ -772,7 +772,11 @@
     },
     "culture": {
       "title": "KULTURA",
-      "upgrade": "Unapredi"
+      "upgrade": "Unapredi",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "Zatvori",
@@ -1043,17 +1047,17 @@
   "culture": {
     "science": {
       "abilityName": "Vodovod",
-      "abilityDescription": "Ako igrač ne dobije nijedan resurs za određeno bacanje, dobija jedan slučajan resurs.",
+      "abilityDescription": "Ako igrač ne dobije nijedan\nresurs za određeno bacanje,\ndobija jedan slučajan resurs.",
       "abilityAnnouncement": "Ako ne dobijete nijedan resurs tokom bacanja, sada ćete dobiti jedan slučajan resurs."
     },
     "commerce": {
       "abilityName": "Banka",
-      "abilityDescription": "Omogućava igračima trgovinu komoditetima 2:1 sa bankom za bilo koji resurs ili komoditet.",
+      "abilityDescription": "Omogućava igračima trgovinu\nkomoditetima 2:1 sa bankom za bilo\nkoji resurs ili komoditet.",
       "abilityAnnouncement": "Sada možete trgovati komoditetima 2:1 sa bankom."
     },
     "politics": {
       "abilityName": "Barake",
-      "abilityDescription": "Vojna snaga može se povećati iznad nivoa 3. Vojna snaga može se povećati iznad nivoa 3.",
+      "abilityDescription": "Vojna snaga može se povećati\niznad nivoa 3.",
       "abilityAnnouncement": "Vaša maksimalna vojna snaga povećana je sa 3 na 6."
     }
   },

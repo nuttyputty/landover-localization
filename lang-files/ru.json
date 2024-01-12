@@ -772,7 +772,11 @@
     },
     "culture": {
       "title": "КУЛЬТУРА",
-      "upgrade": "Улучшение"
+      "upgrade": "Улучшение",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "Закрыть",
@@ -1052,7 +1056,7 @@
     },
     "politics": {
       "abilityName": "Казармы",
-      "abilityDescription": "Военная мощь может быть\nувеличена выше уровня 3. Военная мощь может быть\nувеличена выше уровня 3.",
+      "abilityDescription": "Военная мощь может быть\nувеличена выше уровня 3.",
       "abilityAnnouncement": "Ваш максимальный уровень военной мощи увеличен с 3 до 6."
     }
   },

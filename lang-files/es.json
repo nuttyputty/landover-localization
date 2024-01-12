@@ -772,7 +772,11 @@
     },
     "culture": {
       "title": "CULTURA",
-      "upgrade": "Actualizar"
+      "upgrade": "Actualizar",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "Cerrar",
@@ -1052,7 +1056,7 @@
     },
     "politics": {
       "abilityName": "Cuarteles",
-      "abilityDescription": "El poder militar puede ser\naumentado por encima del nivel 3. El poder militar puede ser\naumentado por encima del nivel 3.",
+      "abilityDescription": "El poder militar puede ser\naumentado por encima del nivel 3.",
       "abilityAnnouncement": "Se ha aumentado tu poder militar máximo de 3 a 6."
     }
   },

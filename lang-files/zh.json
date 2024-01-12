@@ -772,7 +772,11 @@
     },
     "culture": {
       "title": "文化",
-      "upgrade": "升级"
+      "upgrade": "升级",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "关闭",
@@ -1052,7 +1056,7 @@
     },
     "politics": {
       "abilityName": "兵营",
-      "abilityDescription": "军事力量可以\n提高到3级以上。军事力量可以\n提高到3级以上。",
+      "abilityDescription": "军事力量可以\n提高到3级以上。",
       "abilityAnnouncement": "你的军事力量限制已从3级提高到6级。"
     }
   },

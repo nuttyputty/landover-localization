@@ -772,7 +772,11 @@
     },
     "culture": {
       "title": "CULTURE",
-      "upgrade": "Upgrade"
+      "upgrade": "Upgrade",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "Close",
@@ -1053,7 +1057,7 @@
     },
     "politics": {
       "abilityName": "Barracks",
-      "abilityDescription": "Military power can be\nincreased above level 3. Military power can be\nincreased above level 3.",
+      "abilityDescription": "Military power can be\nincreased above level 3.",
       "abilityAnnouncement": "Your max military power has been increased from 3 to 6."
     }
   },

@@ -766,7 +766,11 @@
     },
     "culture": {
       "title": "КУЛЬТУРА",
-      "upgrade": "Покращити"
+      "upgrade": "Покращити",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "Закрити",
@@ -1046,7 +1050,7 @@
     },
     "politics": {
       "abilityName": "Казарми",
-      "abilityDescription": "Військова потужність може бути\nзбільшена понад рівень 3. Військова потужність може бути\nзбільшена понад рівень 3.",
+      "abilityDescription": "Військова потужність може бути\nзбільшена понад рівень 3.",
       "abilityAnnouncement": "Максимальна військова потужність вам збільшено з 3 до 6."
     }
   },

@@ -772,7 +772,11 @@
     },
     "culture": {
       "title": "CULTURE",
-      "upgrade": "Amélioration"
+      "upgrade": "Amélioration",
+      "tooltips":{
+        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
+        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+      }
     },
     "cultureUpgrade": {
       "close": "Fermer",
@@ -1052,7 +1056,7 @@
     },
     "politics": {
       "abilityName": "Caserne",
-      "abilityDescription": "La puissance militaire peut être\naccrue au-delà du niveau 3. La puissance militaire peut être\naccrue à un niveau supérieur à 3",
+      "abilityDescription": "La puissance militaire peut être\naccrue au-delà du niveau 3.",
       "abilityAnnouncement": "Votre puissance militaire maximale a été augmentée de 3 à 6."
     }
   },
