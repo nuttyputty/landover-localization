@@ -23,7 +23,7 @@
       "online": "Online",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
         "errorSendingMessage": "There was a problem sending the message, please try again"
       },
@@ -54,20 +54,20 @@
   "privacy": {
     "title": "Privacidad y RGPD",
     "paragraphs": {
-       "1": "GDPR y el derecho al olvido. ¿Cómo puedo ver o eliminar los datos de mi cuenta?\n",
-       "2": {
-         "first": "Puedes ver todos los datos de la cuenta que Landover almacena iniciando sesión en la aplicación o el sitio web (",
-         "second": "), y yendo a tu perfil y editando páginas de información.\n"
-       },
-       "3": "Estos datos consisten en información personal que usted ingresó en su página de configuración, por ejemplo, sus ID de usuario, nombre de usuario y correo electrónico, así como información del dispositivo móvil (almacenada para que podamos enviar notificaciones a su dispositivo), sobre información, ubicación, país y ciudad de origen que usted proporcionó voluntariamente.\n",
-       "4": "Si desea eliminar completamente su cuenta y todos sus datos, puede elegir eliminar su cuenta en la página de edición de información/configuración.\n",
-       "5": "Tenga en cuenta que eliminar su cuenta de esta manera eliminará permanentemente sus datos, excepto los datos que necesitamos conservar para ejercer nuestros derechos legales o para cumplir con una obligación legal. Por ejemplo, si ha sido prohibido en Landover, conservamos la información mínima necesaria para asegurarnos de hacer cumplir nuestras políticas y evitar futuras infracciones.\n",
-       "6": "Ten en cuenta también que esto no eliminará tus registros de juego, tus comentarios u otras publicaciones públicas.\n",
-       "7": "Esto no se puede deshacer, ni siquiera por parte del personal, así que piénselo detenidamente antes de eliminar su cuenta de esta manera.\n",
-       "8": {
-         "first": "***Si ha perdido el acceso a su cuenta o tiene alguna pregunta sobre este proceso, escriba a ",
-         "second": "y estaremos encantados de ayudarle."
-       }
+      "1": "GDPR y el derecho al olvido. ¿Cómo puedo ver o eliminar los datos de mi cuenta?\n",
+      "2": {
+        "first": "Puedes ver todos los datos de la cuenta que Landover almacena iniciando sesión en la aplicación o el sitio web (",
+        "second": "), y yendo a tu perfil y editando páginas de información.\n"
+      },
+      "3": "Estos datos consisten en información personal que usted ingresó en su página de configuración, por ejemplo, sus ID de usuario, nombre de usuario y correo electrónico, así como información del dispositivo móvil (almacenada para que podamos enviar notificaciones a su dispositivo), sobre información, ubicación, país y ciudad de origen que usted proporcionó voluntariamente.\n",
+      "4": "Si desea eliminar completamente su cuenta y todos sus datos, puede elegir eliminar su cuenta en la página de edición de información/configuración.\n",
+      "5": "Tenga en cuenta que eliminar su cuenta de esta manera eliminará permanentemente sus datos, excepto los datos que necesitamos conservar para ejercer nuestros derechos legales o para cumplir con una obligación legal. Por ejemplo, si ha sido prohibido en Landover, conservamos la información mínima necesaria para asegurarnos de hacer cumplir nuestras políticas y evitar futuras infracciones.\n",
+      "6": "Ten en cuenta también que esto no eliminará tus registros de juego, tus comentarios u otras publicaciones públicas.\n",
+      "7": "Esto no se puede deshacer, ni siquiera por parte del personal, así que piénselo detenidamente antes de eliminar su cuenta de esta manera.\n",
+      "8": {
+        "first": "***Si ha perdido el acceso a su cuenta o tiene alguna pregunta sobre este proceso, escriba a ",
+        "second": "y estaremos encantados de ayudarle."
+      }
     }
   },
   "playNow": {
@@ -1112,9 +1112,9 @@
     "yourRankWrap": "TU\nRANGO",
     "leaderboard": {
       "title": "TABLA DE CLASIFICACIÓN",
-      "shortTitle":"Tabla de clasificación",
+      "shortTitle": "Tabla de clasificación",
       "player": "Jugador",
-      "games":"# Juegos",
+      "games": "# Juegos",
       "rank": "Rango",
       "MMR": "MMR",
       "yourRank": "SU RANGO",
@@ -1389,7 +1389,7 @@
       "question": "¿Quieres elegir tu mapa y tu configuración? ",
       "link": "Crea un juego personalizado."
     },
-    "dailyDescription":"24 horas para hacer tu jugada.\n ¡Juegos ilimitados!",
+    "dailyDescription": "24 horas para hacer tu jugada.\n ¡Juegos ilimitados!",
     "liveDescription": "90 segundos para hacer tu movimiento.\n ¡1 juego a la vez!",
     "gameCreated": "Creación de un nuevo juego diario clasificado.\n Tu juego comenzará en breve.",
     "gamesPending": {

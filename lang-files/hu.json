@@ -23,7 +23,7 @@
       "online": "Online",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
         "errorSendingMessage": "There was a problem sending the message, please try again"
       },
@@ -1106,9 +1106,9 @@
     "yourRankWrap": "AZ ÖN\nRANK",
     "leaderboard": {
       "title": "RENDSZEREZÉSI RANGLA",
-      "shortTitle":"Ranglista",
+      "shortTitle": "Ranglista",
       "player": "Játékos",
-      "games":"# Játékok",
+      "games": "# Játékok",
       "rank": "Rang",
       "MMR": "MMR",
       "yourRank": "AZ ÖN Rangsora",
@@ -1383,7 +1383,7 @@
       "question": "Szeretné kiválasztani a térképet és a beállításokat? ",
       "link": "Hozzon létre egy egyéni játékot."
     },
-    "dailyDescription":"24 óra áll rendelkezésére a lépéshez.\n Korlátlan számú játék!",
+    "dailyDescription": "24 óra áll rendelkezésére a lépéshez.\n Korlátlan számú játék!",
     "liveDescription": "90 másodperc a lépésre.\nEgyszerre 1 játék!",
     "gameCreated": "Új rangsorolt napi játék készült.\nA játék hamarosan indul.",
     "gamesPending": {

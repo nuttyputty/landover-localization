@@ -23,7 +23,7 @@
       "online": "В мережі",
       "verifyEmail": "Підтвердіть електронну пошту, щоб могти спілкуватися в чаті",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
         "errorSendingMessage": "There was a problem sending the message, please try again"
       },
@@ -1106,9 +1106,9 @@
     "yourRankWrap": "ВАШ\nЗВАННЯ",
     "leaderboard": {
       "title": "ТАБЛИЦЯ РЕЙТИНГУ",
-      "shortTitle":"Таблиця лідерів",
+      "shortTitle": "Таблиця лідерів",
       "player": "гравець",
-      "games":"# Ігри",
+      "games": "# Ігри",
       "rank": "ранг",
       "MMR": "MMR",
       "yourRank": "ВАШ ЗВАННЯ",
@@ -1383,7 +1383,7 @@
       "question": "Бажаєте вибрати свою карту та налаштування? ",
       "link": "Створіть власну гру."
     },
-    "dailyDescription":"24 години, щоб зробити свій крок.\n Необмежена кількість ігор!",
+    "dailyDescription": "24 години, щоб зробити свій крок.\n Необмежена кількість ігор!",
     "liveDescription": "90 секунд, щоб зробити свій хід.\n1 гра за раз!",
     "gameCreated": "Створюйте нову рейтингову щоденну гру.\nаша гра незабаром розпочнеться.",
     "gamesPending": {

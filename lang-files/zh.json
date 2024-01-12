@@ -23,7 +23,7 @@
       "online": "在线的",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
         "errorSendingMessage": "There was a problem sending the message, please try again"
       },
@@ -1112,9 +1112,9 @@
     "yourRankWrap": "您的\n等级",
     "leaderboard": {
       "title": "排行榜",
-      "shortTitle":"排行榜",
+      "shortTitle": "排行榜",
       "player": "玩家",
-      "games":"# 游戏",
+      "games": "# 游戏",
       "rank": "秩",
       "MMR": "MMR",
       "yourRank": "你的等级",
@@ -1389,7 +1389,7 @@
       "question": "想要选择您的地图和设置吗？ ",
       "link": "创建自定义游戏."
     },
-    "dailyDescription":"24 小时内行动。\n 无限游戏！",
+    "dailyDescription": "24 小时内行动。\n 无限游戏！",
     "liveDescription": "90 秒内开始行动。\n一次玩一场游戏！",
     "gameCreated": "新的每日排名游戏已创建。\n您的游戏即将开始.",
     "gamesPending": {

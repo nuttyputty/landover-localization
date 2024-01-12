@@ -23,7 +23,7 @@
       "online": "Online",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
         "errorSendingMessage": "There was a problem sending the message, please try again"
       },
@@ -1112,9 +1112,9 @@
     "yourRankWrap": "YOUR\nRANK",
     "leaderboard": {
       "title": "RANKING LEADERBOARD",
-      "shortTitle":"Leaderboard",
+      "shortTitle": "Leaderboard",
       "player": "Player",
-      "games":"# Games",
+      "games": "# Games",
       "rank": "Rank",
       "MMR": "MMR",
       "yourRank": "YOUR RANK",
@@ -1389,7 +1389,7 @@
       "question": "Want to choose your map and settings? ",
       "link": "Create a custom game."
     },
-    "dailyDescription":"24 hours to make your move.\n Unlimited games!",
+    "dailyDescription": "24 hours to make your move.\n Unlimited games!",
     "liveDescription": "90 seconds to make your move.\n1 game at a time!",
     "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
     "gamesPending": {

@@ -23,7 +23,7 @@
       "online": "Online",
       "verifyEmail": "Confirm your email address to be able to chat",
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minutes",
+        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
         "errorSendingMessage": "There was a problem sending the message, please try again"
       },
@@ -1112,15 +1112,15 @@
     "yourRankWrap": "DEIN\nRANG",
     "leaderboard": {
       "title": "Rangliste",
-      "shortTitle":"Bestenliste",
+      "shortTitle": "Bestenliste",
       "player": "Spieler",
-      "games":"# Spiele",
+      "games": "# Spiele",
       "rank": "Rang",
       "MMR": "MMR",
       "yourRank": "DEIN RANG",
       "noPlayers": "Noch keine Spieler",
       "viewAll": "Alle ansehen"
-    }  
+    }
   },
   "dailyGames": {
     "noGames": "Keine Spiele am Laufen",
@@ -1389,7 +1389,7 @@
       "question": "Möchten Sie Ihre Karte und Einstellungen auswählen? ",
       "link": "Erstellen Sie ein benutzerdefiniertes Spiel."
     },
-    "dailyDescription":"24 Stunden Zeit für Ihren Zug.\n Unbegrenzte Spiele!",
+    "dailyDescription": "24 Stunden Zeit für Ihren Zug.\n Unbegrenzte Spiele!",
     "liveDescription": "90 Sekunden, um deinen Zug auszuführen.\n 1 Spiel auf einmal!",
     "gameCreated": "Neues tägliches Ranglistenspiel erstellen.\n Ihr Spiel wird in Kürze beginnen.",
     "gamesPending": {
