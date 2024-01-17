@@ -382,7 +382,8 @@
       },
       "siege": {
         "title": "Asedio",
-        "description": "Lleva a cabo un asedio, pero roba un recurso aleatorio de cada jugador que tenga una aldea o ciudad en la casilla atacada. No cuesta un punto militar"
+        "description": "Lleva a cabo un asedio, pero roba un recurso aleatorio de cada jugador que tenga una aldea o ciudad en la casilla atacada. No cuesta un punto militar",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Obispo",
@@ -1431,6 +1432,7 @@
       "name": "Nombre del juego (opcional)",
       "namePlaceholder": "Ingresa el nombre",
       "public": "Juego público",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Sugerencias de mapas",
         "tooltip": "Habilita indicadores de sugerencias de mapas al construir estructuras."

@@ -382,7 +382,8 @@
       },
       "siege": {
         "title": "Siege",
-        "description": "Carry out a raid but steal one random resource from every player who has a village or city on the raided tile. Does not cost a military point"
+        "description": "Carry out a raid but steal one random resource from every player who has a village or city on the raided tile. Does not cost a military point",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Bishop",
@@ -1431,6 +1432,7 @@
       "name": "Game Name (optional)",
       "namePlaceholder": "Enter name",
       "public": "Public Game",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Map Hints",
         "tooltip": "Enables map hint indicators when building structures."

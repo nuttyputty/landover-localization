@@ -382,7 +382,9 @@
       },
       "siege": {
         "title": "Belagerung",
-        "description": "Führe einen Überfall aus und stehle eine zufällige Ressource von jedem Spieler, der ein Gebäude an der überfallenen Feldkachel hat. Kostet dich keine Streitkraft"
+        "description": "Führe einen Überfall aus und stehle eine zufällige Ressource von jedem Spieler, der ein Gebäude an der überfallenen Feldkachel hat. Kostet dich keine Streitkraft",
+        "cannotPlay": "There are no tiles to attack"
+        
       },
       "bishop": {
         "title": "Bischof",
@@ -1431,6 +1433,7 @@
       "name": "Spiel Name (Optional)",
       "namePlaceholder": "Name eingeben",
       "public": "Öffentliches Spiel",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Karten Hinweise",
         "tooltip": "Aktiviert Karten-Hinweis-Markierungen beim Erstellen von Strukturen."

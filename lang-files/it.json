@@ -376,7 +376,8 @@
       },
       "siege": {
         "title": "Assedio",
-        "description": "Effettua un raid ma ruba una risorsa casuale da ogni giocatore che ha un villaggio o città sulla tessera colpita. Non costa alcun punto forza militare"
+        "description": "Effettua un raid ma ruba una risorsa casuale da ogni giocatore che ha un villaggio o città sulla tessera colpita. Non costa alcun punto forza militare",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Vescovo",
@@ -1425,6 +1426,7 @@
       "name": "Nome Partita (opzionale)",
       "namePlaceholder": "Inserisci nome",
       "public": "Partita Pubblica",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Suggerimenti Mappa",
         "tooltip": "Abilita i suggerimenti sulla mappa\nquando si costruiscono strutture."

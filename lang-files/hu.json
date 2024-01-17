@@ -376,7 +376,8 @@
       },
       "siege": {
         "title": "Ostrom",
-        "description": "Végezz el egy rajtaütést és lopj el egy véletlenszerű nyersanyagot minden olyan játékostól, akinek a rajtaütött lapkán faluja vagy városa van. Nem kerül katonai pontba."
+        "description": "Végezz el egy rajtaütést és lopj el egy véletlenszerű nyersanyagot minden olyan játékostól, akinek a rajtaütött lapkán faluja vagy városa van. Nem kerül katonai pontba.",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Püspök",
@@ -1425,6 +1426,7 @@
       "name": "Játék neve (nem kötelező)",
       "namePlaceholder": "Név megadása",
       "public": "Nyilvános játék",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Térképi tippek",
         "tooltip": "Engedélyezi a térképi súgójelzőket az építmények építésénél."

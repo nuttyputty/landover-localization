@@ -382,7 +382,8 @@
       },
       "siege": {
         "title": "围攻",
-        "description": "进行一次袭击，可从被袭击方块上的每个拥有村子或城市的玩家那里偷取一种随机资源。不消耗军事点"
+        "description": "进行一次袭击，可从被袭击方块上的每个拥有村子或城市的玩家那里偷取一种随机资源。不消耗军事点",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "主教",
@@ -1431,6 +1432,7 @@
       "name": "游戏名称（可选）",
       "namePlaceholder": "输入名称",
       "public": "公共游戏",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "地图提示",
         "tooltip": "建造时启用地图提示器。"

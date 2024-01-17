@@ -382,7 +382,8 @@
       },
       "siege": {
         "title": "Siège",
-        "description": "Effectuer une attaque mais voler une ressource aléatoire à chaque joueur qui a un village ou une ville sur la tuile de l’attaque. Ne coûte pas de point militaire"
+        "description": "Effectuer une attaque mais voler une ressource aléatoire à chaque joueur qui a un village ou une ville sur la tuile de l’attaque. Ne coûte pas de point militaire",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Catapulte",
@@ -1431,6 +1432,7 @@
       "name": "Nom du jeu (facultatif)",
       "namePlaceholder": "Entrez le nom",
       "public": "Partie publique",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Indices de carte",
         "tooltip": "Active les indicateurs d'aide à la carte lors de la construction de structures."

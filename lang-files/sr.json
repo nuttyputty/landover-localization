@@ -382,7 +382,8 @@
       },
       "siege": {
         "title": "Opsada",
-        "description": "Izvedite napad, ali ukradite jedan nasumični resurs od svakog igrača koji ima selo ili grad na napadnutoj pločici. Ne košta vojni bod."
+        "description": "Izvedite napad, ali ukradite jedan nasumični resurs od svakog igrača koji ima selo ili grad na napadnutoj pločici. Ne košta vojni bod.",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Biskup",
@@ -1431,6 +1432,7 @@
       "name": "Ime igre (opciono)",
       "namePlaceholder": "Unesite ime",
       "public": "Javna igra",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Nagoveštaji mape",
         "tooltip": "Omogućava indikatore nagoveštaja mape prilikom\nizgradnje struktura."

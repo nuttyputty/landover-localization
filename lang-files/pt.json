@@ -376,7 +376,8 @@
       },
       "siege": {
         "title": "Cerco",
-        "description": "Lança uma invação mas rouba um recurso aleatório por cada jogador que tem uma ladeia ou cidade no ladrilho invadido. Não custa um ponto militar"
+        "description": "Lança uma invação mas rouba um recurso aleatório por cada jogador que tem uma ladeia ou cidade no ladrilho invadido. Não custa um ponto militar",
+        "cannotPlay": "There are no tiles to attack"
       },
       "bishop": {
         "title": "Bispo",
@@ -1425,6 +1426,7 @@
       "name": "Nome do Jogo (opcional)",
       "namePlaceholder": "Introduzir nome",
       "public": "Jogo Público",
+      "immunity": "Immunity",
       "mapHints": {
         "title": "Dicas no Mapa",
         "tooltip": "Ativa indicadores de dicas no mapa quando constróis estruturas."
