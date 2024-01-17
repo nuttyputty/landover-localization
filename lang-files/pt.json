@@ -859,8 +859,7 @@
       "and": "e"
     },
     "endTurn": {
-      "nextGame": "Próximo jogo",
-      "home": "Home",
+      "nextGame": "Próximo\njogo",
       "wait": "Esperar",
       "end": "Terminar",
       "turn": "Turno",

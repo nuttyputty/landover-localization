@@ -865,7 +865,7 @@
       "and": "and"
     },
     "endTurn": {
-      "nextGame": "Next game",
+      "nextGame": "Next\ngame",
       "home": "Home",
       "wait": "Wait",
       "end": "End",
