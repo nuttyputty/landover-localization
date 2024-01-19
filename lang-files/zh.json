@@ -821,7 +821,7 @@
       "raid": "袭击",
       "raidUnable": "无法袭击",
       "cannotRaid": "你负担不起袭击",
-      "raid-1": "袭击   -1",
+      "raid_1": "袭击   -1",
       "militaryPower": "你的军事力量",
       "vs": "vs",
       "barbarianStrength": "蛮族力量",

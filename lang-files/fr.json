@@ -821,7 +821,7 @@
       "raid": "attaque",
       "raidUnable": "Impossible de faire une attaque",
       "cannotRaid": "Vous ne pouvez pas vous permettre de faire une attaque",
-      "raid-1": "attaque-1",
+      "raid_1": "attaque-1",
       "militaryPower": "Votre puissance militaire",
       "vs": "vs",
       "barbarianStrength": "Force du barbare",
