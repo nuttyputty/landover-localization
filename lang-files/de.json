@@ -1127,7 +1127,8 @@
       "yourRank": "DEIN RANG",
       "noPlayers": "Noch keine Spieler",
       "viewAll": "Alle ansehen"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Keine Spiele am Laufen",

@@ -1120,7 +1120,8 @@
       "yourRank": "IL TUO GRADO",
       "noPlayers": "Nessun giocatore ancora",
       "viewAll": "Mostra tutto"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Nessuna partita in corso",

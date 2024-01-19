@@ -1120,7 +1120,8 @@
       "yourRank": "YOUR RANK",
       "noPlayers": "No players yet",
       "viewAll": "View All"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Não há jogos em progresso",

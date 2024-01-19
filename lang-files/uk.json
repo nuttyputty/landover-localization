@@ -1120,7 +1120,8 @@
       "yourRank": "ВАШ ЗВАННЯ",
       "noPlayers": "Ще немає гравців",
       "viewAll": "Подивитись все"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Немає ігор в процесі",

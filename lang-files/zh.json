@@ -1126,7 +1126,8 @@
       "yourRank": "你的等级",
       "noPlayers": "还没有玩家",
       "viewAll": "查看全部"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "没有进行中的游戏",

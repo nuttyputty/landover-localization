@@ -1126,7 +1126,8 @@
       "yourRank": "ВАШ РАНК",
       "noPlayers": "Још нема играча",
       "viewAll": "View All"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Nema igara u toku",
