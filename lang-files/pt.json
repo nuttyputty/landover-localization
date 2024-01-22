@@ -472,7 +472,7 @@
         "message": "Are you sure you want to unmute this player?"
       },
       "chatActionType": {
-        "joinGame": "{} has join the game",
+        "joinGame": "{} has joined the game",
         "leftGame": "{} has left the game",
         "invitePlayer": "{} invited {} to the game",
         "botAdded": "{} added a bot",
