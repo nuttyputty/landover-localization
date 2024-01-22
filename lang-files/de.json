@@ -822,7 +822,7 @@
       "raid": "Überfall ausführen",
       "raidUnable": "Überfall nicht möglich",
       "cannotRaid": "Dir fehlen Rohstoffe für einen Überfall",
-      "raid-1": "Überfall   -1",
+      "raid_1": "Überfall   -1",
       "militaryPower": "Deine Streitkraftstärke",
       "vs": "vs",
       "barbarianStrength": "Barbaren Stärke",
@@ -1127,7 +1127,8 @@
       "yourRank": "DEIN RANG",
       "noPlayers": "Noch keine Spieler",
       "viewAll": "Alle ansehen"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Keine Spiele am Laufen",

@@ -821,7 +821,7 @@
       "raid": "Raid",
       "raidUnable": "Unable to raid",
       "cannotRaid": "You can't afford to raid",
-      "raid-1": "Raid   -1",
+      "raid_1": "Raid   -1",
       "militaryPower": "Your Military Power",
       "vs": "vs",
       "barbarianStrength": "Barbarian Strength",
@@ -1127,7 +1127,8 @@
       "yourRank": "YOUR RANK",
       "noPlayers": "No players yet",
       "viewAll": "View All"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "No Games in progress",

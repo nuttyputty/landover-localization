@@ -815,7 +815,7 @@
       "raid": "Rajtaütés",
       "raidUnable": "Rajtaütés nem lehetséges",
       "cannotRaid": "Nem engedheted meg magadnak a portyázást",
-      "raid-1": "Rajtaütés -1",
+      "raid_1": "Rajtaütés -1",
       "militaryPower": "Katonai hatalmad",
       "vs": "ellene",
       "barbarianStrength": "Barbár erősség",
@@ -1120,7 +1120,8 @@
       "yourRank": "AZ ÖN Rangsora",
       "noPlayers": "Még nincsenek játékosok",
       "viewAll": "Összes megtekintése"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Nincsenek folyamatban lévő játékok",

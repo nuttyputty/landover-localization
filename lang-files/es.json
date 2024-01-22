@@ -821,7 +821,7 @@
       "raid": "Saqueo",
       "raidUnable": "No se puede saquear",
       "cannotRaid": "No puedes permitirte un saqueo",
-      "raid-1": "Saqueo  -1",
+      "raid_1": "Saqueo  -1",
       "militaryPower": "Tu poder militar",
       "vs": "vs",
       "barbarianStrength": "Fuerza bárbara",
@@ -1126,7 +1126,8 @@
       "yourRank": "SU RANGO",
       "noPlayers": "Aún no hay jugadores",
       "viewAll": "Ver todo"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "No hay juegos en progreso",

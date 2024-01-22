@@ -815,7 +815,7 @@
       "raid": "Рейд",
       "raidUnable": "Не вдається рейдити",
       "cannotRaid": "Ви не можете дозволити собі рейдити",
-      "raid-1": "Рейд   -1",
+      "raid_1": "Рейд   -1",
       "militaryPower": "Ваша військова сила",
       "vs": "VS",
       "barbarianStrength": "Сила варварів",
@@ -1120,7 +1120,8 @@
       "yourRank": "ВАШ ЗВАННЯ",
       "noPlayers": "Ще немає гравців",
       "viewAll": "Подивитись все"
-    }
+    },
+    "continue": "Continue"
   },
   "dailyGames": {
     "noGames": "Немає ігор в процесі",
