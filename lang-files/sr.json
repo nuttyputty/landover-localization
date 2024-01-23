@@ -15,7 +15,13 @@
       "title": "LIVE CHAT",
       "onlinePlayers": "{} online players",
       "online": "Online",
-      "verifyEmail": "Confirm your email address to be able to chat",
+      "verifyEmail": {
+        "message": "Verify your email address to enable chat.",
+        "dialog": {
+          "title": "SENT!",
+          "message": "We have sent you an email to verify your email address."
+        }
+      },
       "limits": {
         "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",

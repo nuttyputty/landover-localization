@@ -21,7 +21,13 @@
       "title": "Онлай чат",
       "onlinePlayers": "{} гравців онлайн",
       "online": "В мережі",
-      "verifyEmail": "Підтвердіть електронну пошту, щоб могти спілкуватися в чаті",
+      "verifyEmail": {
+        "message": "Підтвердіть електронну пошту, щоб могти спілкуватися в чаті",
+        "dialog": {
+          "title": "НАДІСЛАНО!",
+          "message": "Ми надіслали вам листа, щоб підтвердити вашу електронну пошту."
+        }
+      },
       "limits": {
         "fiveMessagesPerMinute": "You can send only 5 messages per minute",
         "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
