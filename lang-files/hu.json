@@ -1165,6 +1165,7 @@
     "emailWillBeChanged": "Az e-mail a megerősítés után módosul",
     "settings": {
       "turnEmails": "Forduló e-mailek küldése",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Csevegő értesítések",
       "recentInvites": "Legutóbbi meghívások engedélyezése",
       "autoJump": "Automatikus ugrás a következő napi játékra",

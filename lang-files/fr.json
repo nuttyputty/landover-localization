@@ -1170,6 +1170,7 @@
     "linkCopied": "Lien du profil copié dans le presse-papiers",
     "settings": {
       "turnEmails": "Envoyer des e-mails de renvoi",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Notifications de chat",
       "recentInvites": "Autoriser les invitations récentes",
       "autoJump": "Passage automatique au jeu quotidien suivant",

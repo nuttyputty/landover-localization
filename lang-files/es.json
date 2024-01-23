@@ -1170,6 +1170,7 @@
     "linkCopied": "Enlace de perfil copiado al portapapeles",
     "settings": {
       "turnEmails": "Enviar correos electrónicos de turnos",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Notificaciones de chat",
       "recentInvites": "Permitir invitaciones recientes",
       "autoJump": "Saltar automáticamente al siguiente juego diario",

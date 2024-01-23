@@ -1171,6 +1171,7 @@
     "linkCopied": "Profilverlinkung wurde in die Zwischenablage kopiert",
     "settings": {
       "turnEmails": "E-Mail Spielzug-Benachrichtigung senden",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Chat-Benachrichtigung",
       "recentInvites": "Erlaube Einladungen deiner letzten Gegnern",
       "autoJump": "Automatisch zum nächsten Tagesspiel wechseln",

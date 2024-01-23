@@ -1170,6 +1170,7 @@
     "linkCopied": "个人资料链接已复制到剪贴板上",
     "settings": {
       "turnEmails": "发送回合邮件",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "聊天通知",
       "recentInvites": "允许最近的邀请",
       "autoJump": "自动跳转到下个每日游戏",

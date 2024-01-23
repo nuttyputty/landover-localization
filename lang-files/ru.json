@@ -1170,6 +1170,7 @@
     "linkCopied": "Ссылка на профиль скопирована в буфер обмена",
     "settings": {
       "turnEmails": "Отправлять письма о ходах",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Уведомления чата",
       "recentInvites": "Разрешить последние приглашения",
       "autoJump": "Авто-переход к следующей ежедневной игре",

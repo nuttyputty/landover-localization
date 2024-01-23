@@ -1165,6 +1165,7 @@
     "emailWillBeChanged": "L'email verrà cambiata dopo la conferma",
     "settings": {
       "turnEmails": "Invia Email Turno",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Notifiche Chat",
       "recentInvites": "Consenti Inviti Recenti",
       "autoJump": "Salta Automaticamente alla Prossima Partita Giornaliera",

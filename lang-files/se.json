@@ -1171,6 +1171,7 @@
     "emailWillBeChanged": "Email will be changed after confirmation",
     "settings": {
       "turnEmails": "Send Turn Emails",
+      "gameSummaryEmails": "Game Summary Emails",
       "chatNotifications": "Chat Notifications",
       "recentInvites": "Allow Recent Invites",
       "autoJump": "Auto-Jump to Next Daily Game",
