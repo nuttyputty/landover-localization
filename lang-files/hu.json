@@ -774,7 +774,7 @@
     "culture": {
       "title": "KULTÚRA",
       "upgrade": "Fejlesztés",
-      "tooltips":{
+      "tooltips": {
         "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
         "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
       }
@@ -1647,12 +1647,13 @@
     "waitingForLot": "Már rengeteg játék indulására vársz. Értesítünk, ha rád kerül a sor.",
     "kicked": "Kirúgva!",
     "kickedMsg": "A házigazda eltávolított téged ebből a játékból. Próbálj meg csatlakozni egy másik játékhoz.",
-    "timeOut": "Lejárt az idő",
-    "timeOutMsg": "Nem fogadtad el időben a játékot.",
+    "timeOut": "YOU DIDN'T READY UP",
+    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
     "rematchCanceled": "A visszavágó törölve",
     "rematchCanceledMsg": "Valaki visszautasította ezt a játékot.",
     "gameCanceled": "Játék törölve",
-    "gameCanceledMsg": "A házigazda befejezte ezt a játékot."
+    "gameCanceledMsg": "A házigazda befejezte ezt a játékot.",
+    "timeOutButton": "Ok I got it"
   },
   "builder": {
     "create": {

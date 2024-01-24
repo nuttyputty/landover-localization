@@ -774,7 +774,7 @@
     "culture": {
       "title": "КУЛЬТУРА",
       "upgrade": "Покращити",
-      "tooltips":{
+      "tooltips": {
         "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
         "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
       }
@@ -1647,12 +1647,13 @@
     "waitingForLot": "Ви вже чекаєте на багато ігор, які почнуться. Ми сповістимо вас, коли буде ваш черговий хід.",
     "kicked": "Вилучено!",
     "kickedMsg": "Господар видалив вас з цієї гри. Спробуйте приєднатися до іншої гри.",
-    "timeOut": "Час вийшов",
-    "timeOutMsg": "Ви не прийняли гру вчасно.",
+    "timeOut": "YOU DIDN'T READY UP",
+    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
     "rematchCanceled": "Перепартию відмінено",
     "rematchCanceledMsg": "Хтось відхилив цю гру.",
     "gameCanceled": "Гру відмінено",
-    "gameCanceledMsg": "Господар завершив цю гру."
+    "gameCanceledMsg": "Господар завершив цю гру.",
+    "timeOutButton": "Ok I got it"
   },
   "builder": {
     "create": {

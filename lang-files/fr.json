@@ -780,7 +780,7 @@
     "culture": {
       "title": "CULTURE",
       "upgrade": "Amélioration",
-      "tooltips":{
+      "tooltips": {
         "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
         "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
       }
@@ -1653,12 +1653,13 @@
     "waitingForLot": "Vous attendez déjà le début d'un grand nombre de parties. Nous vous préviendrons lorsque ce sera à votre tour de bouger",
     "kicked": "expulsé!",
     "kickedMsg": "L'hôte vous a retiré de ce jeu. Essayez de rejoindre un autre jeu.",
-    "timeOut": "Dépassement du délai",
-    "timeOutMsg": "Vous n'avez pas accepté le jeu à temps",
+    "timeOut": "YOU DIDN'T READY UP",
+    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
     "rematchCanceled": "Revanche est annulée",
     "rematchCanceledMsg": "Quelqu'un a rejeté ce match",
     "gameCanceled": "Partie annulée",
-    "gameCanceledMsg": "L'hôte a mis fin à cette partie."
+    "gameCanceledMsg": "L'hôte a mis fin à cette partie.",
+    "timeOutButton": "Ok I got it"
   },
   "builder": {
     "create": {

@@ -780,7 +780,7 @@
     "culture": {
       "title": "CULTURE",
       "upgrade": "Upgrade",
-      "tooltips":{
+      "tooltips": {
         "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
         "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
       }
@@ -882,8 +882,7 @@
       "endTurnConfirm": "End Turn?",
       "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
       "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel",
-      "home": "Home"
+      "cancel": "Cancel"
     },
     "errors": {
       "cannotFindGame": "We can't find the game, please try again",
@@ -1654,8 +1653,9 @@
     "waitingForLot": "You are already waiting for a lot of games to start. We’ll notify you when it’s your turn to move.",
     "kicked": "Kicked!",
     "kickedMsg": "The host has removed you from this game. Try joining a different game.",
-    "timeOut": "Timed out",
-    "timeOutMsg": "You didn't accept the game in time.",
+    "timeOut": "YOU DIDN'T READY UP",
+    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Rematch canceled",
     "rematchCanceledMsg": "Someone rejected this game.",
     "gameCanceled": "Game canceled",

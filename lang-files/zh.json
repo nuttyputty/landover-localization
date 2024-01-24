@@ -780,7 +780,7 @@
     "culture": {
       "title": "文化",
       "upgrade": "升级",
-      "tooltips":{
+      "tooltips": {
         "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
         "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
       }
@@ -1653,12 +1653,13 @@
     "waitingForLot": "你所等待的游戏开始已经很多了，我们会在轮到你的回合时通知你的。",
     "kicked": "已踢出！ ",
     "kickedMsg": "房主已将你移出这局游戏。试着加入其他游戏吧。",
-    "timeOut": "已超时",
-    "timeOutMsg": "你未能及时接受游戏。",
+    "timeOut": "YOU DIDN'T READY UP",
+    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
     "rematchCanceled": "已取消再战",
     "rematchCanceledMsg": "有人拒绝这局游戏。",
     "gameCanceled": "游戏已取消",
-    "gameCanceledMsg": "房主已结束这局游戏。"
+    "gameCanceledMsg": "房主已结束这局游戏。",
+    "timeOutButton": "Ok I got it"
   },
   "builder": {
     "create": {
