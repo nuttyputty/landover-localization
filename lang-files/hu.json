@@ -1332,6 +1332,7 @@
     },
     "verify": {
       "email": "Ellenőrizze az e-mail címét",
+      "email1": "Verify email",
       "message": "Megerősítő e-mailt küldtünk Önnek! Kérjük, ellenőrizze a postafiókját a fiók ellenőrzéséhez, mielőtt bejelentkezik.",
       "resend": "Újraküldés"
     },

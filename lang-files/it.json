@@ -1332,6 +1332,7 @@
     },
     "verify": {
       "email": "Verifica la tua email",
+      "email1": "Verify email",
       "message": "Ti è stata inviata una email di verifica! Controlla la tua casella di posta per verificare l'account prima di accedere",
       "resend": "Rinvia"
     },

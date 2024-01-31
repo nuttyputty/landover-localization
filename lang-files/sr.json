@@ -1338,6 +1338,7 @@
     },
     "verify": {
       "email": "Potvrdite svoj email",
+      "email1": "Verify email",
       "message": "Email za verifikaciju vam je poslat! Molimo vas da proverite svoje sanduče i verifikujete nalog pre nego što se prijavite",
       "resend": "Pošalji ponovo"
     },

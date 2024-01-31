@@ -1338,6 +1338,7 @@
     },
     "verify": {
       "email": "验证你的电邮地址",
+      "email1": "Verify email",
       "message": "验证邮件已发送给你哦！请在登入前检查你的电子邮箱以验证账户",
       "resend": "重新发送"
     },

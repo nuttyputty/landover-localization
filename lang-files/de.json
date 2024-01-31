@@ -1338,6 +1338,7 @@
     },
     "verify": {
       "email": "Verifizieren Sie Ihre E-Mail-Adresse",
+      "email1": "Verify email",
       "message": "Eine Bestätigungs-E-Mail wurde an Sie gesendet! Bitte überprüfen Sie Ihr Postfach, um das Konto zu verifizieren, bevor Sie sich anmelden",
       "resend": "Erneut senden"
     },

@@ -1338,6 +1338,7 @@
     },
     "verify": {
       "email": "Vérifiez votre email",
+      "email1": "Verify email",
       "message": "Un courriel de vérification vous a été envoyé! Veuillez consulter votre boîte aux lettres pour vérifier le compte avant de vous connecter",
       "resend": "Renvoyer"
     },

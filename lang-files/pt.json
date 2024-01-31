@@ -1332,6 +1332,7 @@
     },
     "verify": {
       "email": "Verifica o teu email",
+      "email1": "Verify email",
       "message": "Um email de verificação foi enviado para ti! Consulta a tua caixa de entrada para verificares a conta antes de iniciares a sessão",
       "resend": "Reenviar"
     },
