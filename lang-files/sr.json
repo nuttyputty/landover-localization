@@ -1205,7 +1205,9 @@
     "mapStats": {
       "title": "Statistika mape",
       "filter": "Filter",
-      "empty": "Nema statistike"
+      "empty": "Nema statistike",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Rang",
     "season": {
@@ -1271,6 +1273,13 @@
       "statusProfanity": "Status ne sme sadržavati uvrede",
       "descriptionProfanity": "Opis ne sme sadržavati uvrede",
       "cityProfanity": "Grad ne sme sadržavati uvrede"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

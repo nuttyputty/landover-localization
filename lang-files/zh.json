@@ -1204,7 +1204,9 @@
     "mapStats": {
       "title": "地图数据统计",
       "filter": "筛选",
-      "empty": "没有数据统计"
+      "empty": "没有数据统计",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "排位",
     "season": {
@@ -1271,6 +1273,13 @@
     "otp": {
       "description": "请输入发送到你当前电邮地址的代码",
       "title": "当前电邮地址认证"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

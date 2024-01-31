@@ -1204,7 +1204,9 @@
     "mapStats": {
       "title": "Статистика карты",
       "filter": "Фильтр",
-      "empty": "Нет статистики"
+      "empty": "Нет статистики",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Рейтинг",
     "season": {
@@ -1271,6 +1273,13 @@
     "otp": {
       "description": "Введите код, отправленный на ваш текущий адрес электронной почты",
       "title": "Проверка текущего адреса электронной почты"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

@@ -1204,7 +1204,9 @@
     "mapStats": {
       "title": "Karten Statistik",
       "filter": "Filter",
-      "empty": "Keine Karten Statistiken vorhanden"
+      "empty": "Keine Karten Statistiken vorhanden",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Rang",
     "season": {
@@ -1271,6 +1273,13 @@
     "otp": {
       "description": "Bitte geben Sie den Code ein, der an Ihre aktuelle E-Mail-Adresse gesendet wurde",
       "title": "Aktuelle E-Mail-Bestätigung"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

@@ -1198,7 +1198,9 @@
     "mapStats": {
       "title": "Статистика карти",
       "filter": "Фільтр",
-      "empty": "Немає статистики"
+      "empty": "Немає статистики",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Ранг",
     "season": {
@@ -1265,6 +1267,13 @@
     "otp": {
       "description": "Будь ласка, введіть код, відправлений на ваш поточний email",
       "title": "Підтвердження поточної електронної пошти"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

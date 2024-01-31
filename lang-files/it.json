@@ -1199,7 +1199,9 @@
     "mapStats": {
       "title": "Statistiche Mappe",
       "filter": "Filtro",
-      "empty": "Nessuna Statistica"
+      "empty": "Nessuna Statistica",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Classifica",
     "season": {
@@ -1265,6 +1267,13 @@
       "statusProfanity": "Lo stato non può contenere volgarità",
       "descriptionProfanity": "La descrizione non può contenere volgarità",
       "cityProfanity": "La città non può contenere volgarità"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

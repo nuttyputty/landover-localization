@@ -1199,7 +1199,9 @@
     "mapStats": {
       "title": "Térkép statisztikák",
       "filter": "Szűrő",
-      "empty": "Nincs statisztika"
+      "empty": "Nincs statisztika",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Rangsor",
     "season": {
@@ -1265,6 +1267,13 @@
       "statusProfanity": "A státusz nem tartalmazhat káromkodást",
       "descriptionProfanity": "A leírás nem tartalmazhat trágárságokat",
       "cityProfanity": "A város nem tartalmazhat trágárságokat"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {

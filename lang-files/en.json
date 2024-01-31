@@ -1205,7 +1205,9 @@
     "mapStats": {
       "title": "Map Stats",
       "filter": "Filter",
-      "empty": "No Stats"
+      "empty": "No Stats",
+      "highestWinRate": "Highest Winrate -",
+      "mapsPlayed": "Maps Played"
     },
     "rank": "Rank",
     "season": {
@@ -1271,6 +1273,13 @@
       "statusProfanity": "Status cannot have profanities",
       "descriptionProfanity": "Description cannot have profanities",
       "cityProfanity": "City cannot have profanities"
+    },
+    "tabBar": {
+      "general": "General",
+      "maps": "Maps",
+      "history": "History",
+      "mapStats": "Map Stats",
+      "seasons": "Seasons"
     }
   },
   "auth": {
