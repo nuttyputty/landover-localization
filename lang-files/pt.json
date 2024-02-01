@@ -1635,9 +1635,9 @@
       "live": "JOGO LIVE"
     },
     "lobbyLabel": "Lobby:",
-    "code": "Código: ",
-    "join": "ENTRAR",
-    "waiting": "À espera...",
+    "code": "Join Code: ",
+    "join": "Join Game",
+    "waiting": "Waiting for players...",
     "waitingForHost": "À espera do anfitrião...",
     "start": "Começar",
     "starting": "O Jogo está Começar",
