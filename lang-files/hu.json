@@ -209,6 +209,19 @@
         "many": "Lopott {} játékosoktól",
         "other": "Lopott {} játékosoktól",
         "failed": "Nem tudott nyersanyagokat lopni."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1458,6 +1471,8 @@
       "namePlaceholder": "Név megadása",
       "public": "Nyilvános játék",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Térképi tippek",
         "tooltip": "Engedélyezi a térképi súgójelzőket az építmények építésénél."
@@ -1548,13 +1563,16 @@
       "title": "Játsszon bemutatót",
       "message": "Új játékosként Landoverben egy szólójátékot kell teljesítened a botok ellen, mielőtt belevágnál egy nyilvános játékba. Próbáld ki a bemutatót!"
     },
-    "createGame": "Játék létrehozása"
+    "createGame": "Játék létrehozása",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Csatlakozás játékokhoz",
     "gameNotAvailable": "Ez a játék nem elérhető, próbálj meg egy másikat",
     "createGame": "Játék létrehozása",
     "joinByCode": "Csatlakozás kóddal",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "SZŰRŐ",
       "button": "Szűrő",
@@ -1612,7 +1630,8 @@
       "culture": "Kultúra",
       "barbDelay": "Barbárok késleltetése",
       "fairDice": "Tisztességes kocka",
-      "raids": "Rajtaütések"
+      "raids": "Rajtaütések",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "BOT HOZZÁADÁSA",

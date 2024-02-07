@@ -215,6 +215,19 @@
         "many": "Volé à {} joueurs",
         "other": "Volé à {} joueurs ",
         "failed": "Impossible de voler des ressources"
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1464,6 +1477,8 @@
       "namePlaceholder": "Entrez le nom",
       "public": "Partie publique",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Indices de carte",
         "tooltip": "Active les indicateurs d'aide à la carte lors de la construction de structures."
@@ -1554,13 +1569,16 @@
       "title": "Tutoriel de jeu",
       "message": "En tant que nouveau joueur de Landover, vous devez terminer une partie en solo contre les robots avant de vous lancer dans une partie publique. Essayez le tutoriel!"
     },
-    "createGame": "Créer une partie"
+    "createGame": "Créer une partie",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Rejoindre des parties",
     "gameNotAvailable": "Ce jeu n'est pas disponible, essayez-en un autre",
     "createGame": "Créer un jeu",
     "joinByCode": "Rejoindre par code",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "FILTRE",
       "button": "Filtre",
@@ -1618,7 +1636,8 @@
       "culture": "Culture",
       "barbDelay": "Délai pour les barbares",
       "fairDice": "Dés juste",
-      "raids": "attaques"
+      "raids": "attaques",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "AJOUTER UN BOT",

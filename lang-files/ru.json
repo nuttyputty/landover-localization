@@ -215,6 +215,19 @@
         "many": "Украли у {} игроков",
         "other": "Украли у {} игроков",
         "failed": "Не удалось украсть ресурсы."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1464,6 +1477,8 @@
       "namePlaceholder": "Введите название",
       "public": "Публичная игра",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Подсказки карты",
         "tooltip": "Включает индикаторы подсказок карты при строительстве структур."
@@ -1554,13 +1569,16 @@
       "title": "Играть в Учебник",
       "message": "Как новому игроку в Landover, вы должны завершить одну одиночную игру против ботов, прежде чем перейти к публичной игре. Попробуйте учебник!"
     },
-    "createGame": "Создать Игру"
+    "createGame": "Создать Игру",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Присоединиться к играм",
     "gameNotAvailable": "Эта игра недоступна, попробуйте другую",
     "createGame": "Создать игру",
     "joinByCode": "Присоединиться по коду",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "ФИЛЬТР",
       "button": "Фильтр",
@@ -1618,7 +1636,8 @@
       "culture": "Культура",
       "barbDelay": "Задержка варваров",
       "fairDice": "Честные Кубики",
-      "raids": "Рейды"
+      "raids": "Рейды",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "ДОБАВИТЬ БОТА",

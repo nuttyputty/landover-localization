@@ -209,6 +209,19 @@
         "many": "Hai rubato da {} giocatori",
         "other": "Hai rubato da {} giocatori",
         "failed": "Non sei riusscito a rubare risorse."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1458,6 +1471,8 @@
       "namePlaceholder": "Inserisci nome",
       "public": "Partita Pubblica",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Suggerimenti Mappa",
         "tooltip": "Abilita i suggerimenti sulla mappa\nquando si costruiscono strutture."
@@ -1548,13 +1563,16 @@
       "title": "Gioca il tutorial",
       "message": "Come nuovo giocatore su Landover, devi completare una partita da solo contro i bot prima di entrare in una partita pubblica. Prova il tutorial!"
     },
-    "createGame": "Crea partita"
+    "createGame": "Crea partita",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Unisciti alle partite",
     "gameNotAvailable": "Questa partita non è disponibile, prova con un'altra",
     "createGame": "Crea Partita",
     "joinByCode": "Unisciti con Codice",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "FILTRO",
       "button": "Filtra",
@@ -1612,7 +1630,8 @@
       "culture": "Cultura",
       "barbDelay": "Ritardo Barbari",
       "fairDice": "Dadi Imparziali",
-      "raids": "Raid"
+      "raids": "Raid",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "AGGIUNGI BOT",

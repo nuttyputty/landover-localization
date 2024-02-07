@@ -209,6 +209,19 @@
         "many": "Викрав від {} гравців",
         "other": "Викрав від {} гравців",
         "failed": "Не вдалося викрасти ресурси."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1458,6 +1471,8 @@
       "namePlaceholder": "Введіть назву",
       "public": "Публічна гра",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Підказки на карті",
         "tooltip": "Увімкнути підказки на карті при будівництві споруд."
@@ -1548,13 +1563,16 @@
       "title": "Грати в навчання",
       "message": "Як новому гравцеві Landover, вам слід завершити одну гру на одного проти ботів, перш ніж ви почнете гру в публічному режимі. Спробуйте навчання!"
     },
-    "createGame": "Створити гру"
+    "createGame": "Створити гру",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Приєднатися до ігор",
     "gameNotAvailable": "Ця гра недоступна, спробуйте іншу",
     "createGame": "Створити гру",
     "joinByCode": "Приєднатися за кодом",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "ФІЛЬТР",
       "button": "Фільтр",
@@ -1612,7 +1630,8 @@
       "culture": "Культура",
       "barbDelay": "Затримка варварів",
       "fairDice": "Справедливі кидки",
-      "raids": "Напади"
+      "raids": "Напади",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "ДОДАТИ БОТА",

@@ -215,6 +215,19 @@
         "many": "Stahl von {} Spielern",
         "other": "Stahl von {} Spielern",
         "failed": "Misslang der Versuch Rohstoffe zu stehlen."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1464,6 +1477,8 @@
       "namePlaceholder": "Name eingeben",
       "public": "Öffentliches Spiel",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Karten Hinweise",
         "tooltip": "Aktiviert Karten-Hinweis-Markierungen beim Erstellen von Strukturen."
@@ -1554,13 +1569,16 @@
       "title": "Tutorial spielen",
       "message": "Als neuer Spieler in Landover musst du ein Solo-Spiel gegen die Bots abschließen, bevor du dich in ein öffentliches Spiel stürzen kannst. Probieren das Tutorial aus!"
     },
-    "createGame": "Spiel erstellen"
+    "createGame": "Spiel erstellen",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Spiel beitreten",
     "gameNotAvailable": "Dieses Spiel ist nicht verfügbar, versuche es mit einem anderen",
     "createGame": "Spiel erstellen",
     "joinByCode": "Verschlüsseltem Spiel beitreten",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "FILTER",
       "button": "Filter",
@@ -1618,7 +1636,8 @@
       "culture": "Kultur",
       "barbDelay": "Barbaren verzögern",
       "fairDice": "Ausgeglichene Würfel",
-      "raids": "Überfälle"
+      "raids": "Überfälle",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "BOT HINZUFÜGEN",

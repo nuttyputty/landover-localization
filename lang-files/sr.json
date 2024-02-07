@@ -215,6 +215,19 @@
         "many": "Uzeo je od {} igrača",
         "other": "Uzeo je od {} igrača",
         "failed": "Nije mogao ukrasti resurse."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1464,6 +1477,8 @@
       "namePlaceholder": "Unesite ime",
       "public": "Javna igra",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Nagoveštaji mape",
         "tooltip": "Omogućava indikatore nagoveštaja mape prilikom\nizgradnje struktura."
@@ -1554,13 +1569,16 @@
       "title": "Igraj tutorijal",
       "message": "Kao novi igrač u Landover-u, morate završiti jednu solo igru protiv botova pre nego što se pridružite javnoj igri. Isprobajte tutorijal!"
     },
-    "createGame": "Kreiraj Igru"
+    "createGame": "Kreiraj Igru",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Pridruži se igrama",
     "gameNotAvailable": "Ova igra nije dostupna, pokušajte s drugom",
     "createGame": "Kreiraj Igru",
     "joinByCode": "Pridruži se preko Koda",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "FILTER",
       "button": "Filter",
@@ -1618,7 +1636,8 @@
       "culture": "Kultura",
       "barbDelay": "Odlaganje Barbari",
       "fairDice": "Pravične Kocke",
-      "raids": "Napadi"
+      "raids": "Napadi",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "DODAJ BOTA",

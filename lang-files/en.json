@@ -215,6 +215,19 @@
         "many": "Stole from {} players",
         "other": "Stole from {} players",
         "failed": "Couldn't steal resources."
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1464,6 +1477,8 @@
       "namePlaceholder": "Enter name",
       "public": "Public Game",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Map Hints",
         "tooltip": "Enables map hint indicators when building structures."
@@ -1554,13 +1569,16 @@
       "title": "Play tutorial",
       "message": "As a new player to Landover, you must complete one solo game against the bots before you jump into a public game. Try the tutorial!"
     },
-    "createGame": "Create Game"
+    "createGame": "Create Game",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "Join Games",
     "gameNotAvailable": "This game is not available, try another one",
     "createGame": "Create Game",
     "joinByCode": "Join by Code",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "FILTER",
       "button": "Filter",
@@ -1618,7 +1636,8 @@
       "culture": "Culture",
       "barbDelay": "Barbarians Delay",
       "fairDice": "Fair Dice",
-      "raids": "Raids"
+      "raids": "Raids",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "ADD BOT",

@@ -215,6 +215,19 @@
         "many": "已从{}位玩家那里偷取",
         "other": "已从{}位玩家那里偷取",
         "failed": "无法偷取资源。"
+      },
+      "gameData": {
+        "fairDice": " Fair Dice =",
+        "mapHints": " Map Hints =",
+        "culture": " Culture =",
+        "barbarianDelay": " Barbarian Delay =",
+        "lucky7Raid": " Lucky 7 Raid =",
+        "charity": " Charity 7 =",
+        "startingResources": " Starting Resources =",
+        "immunity": " Immunity =",
+        "raids": " Raids =",
+        "on": "on",
+        "off": "off"
       }
     },
     "devCards": {
@@ -1464,6 +1477,8 @@
       "namePlaceholder": "输入名称",
       "public": "公共游戏",
       "immunity": "Immunity",
+      "always": "Always",
+      "ranked": "Ranked Game",
       "mapHints": {
         "title": "地图提示",
         "tooltip": "建造时启用地图提示器。"
@@ -1554,13 +1569,16 @@
       "title": "进行教程",
       "message": "作为Landover的新玩家，你需要完成一局与机器人对战的单人游戏才能加入公共游戏。马上进行教程吧！ "
     },
-    "createGame": "创建游戏"
+    "createGame": "创建游戏",
+    "mapErrorMessage": "Ranked games are only available on Landover standard maps.\nPlease go back and select an appropriate map"
   },
   "join": {
     "title": "加入游戏",
     "gameNotAvailable": "此游戏无法使用，请尝试其他游戏",
     "createGame": "创建游戏",
     "joinByCode": "以代码加入",
+    "live": "LIVE",
+    "ranked": "RANKED",
     "filter": {
       "title": "筛选",
       "button": "筛选",
@@ -1618,7 +1636,8 @@
       "culture": "文化",
       "barbDelay": "蛮族延迟",
       "fairDice": "公平骰子",
-      "raids": "袭击"
+      "raids": "袭击",
+      "immunity": "Immunity"
     },
     "addBot": {
       "title": "添加机器人",
