@@ -1259,7 +1259,11 @@
       "style": "Стиле",
       "achievements": "Достигнућа",
       "color": "Боја",
-      "details": "Детаљи"
+      "details": "Детаљи",
+      "surrendered": "{} surrendered",
+      "finished": "{} finished",
+      "timedOut": "{} timed out",
+      "allGames": "All Games"
     },
     "otp": {
       "title": "Тренутна верификација е-поште",
@@ -1420,6 +1424,14 @@
     "gamesPending": {
       "one": "игра на чекању",
       "other": "игре на чекању"
+    },
+    "playersInQueue": {
+      "one": "player in queue",
+      "other": "players in queue"
+    },
+    "gamesJoined": {
+      "one": "game joined",
+      "other": "games joined"
     }
   },
   "help": {

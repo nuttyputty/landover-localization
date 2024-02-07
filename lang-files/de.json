@@ -1258,7 +1258,11 @@
       "style": "Style",
       "achievements": "Achievements",
       "color": "Color",
-      "details": "Details"
+      "details": "Details",
+      "surrendered": "{} surrendered",
+      "finished": "{} finished",
+      "timedOut": "{} timed out",
+      "allGames": "All Games"
     },
     "errors": {
       "updateFailed": "aktualisieren fehlgeschlagen",
@@ -1420,6 +1424,14 @@
     "gamesPending": {
       "one": "Spiele ausstehend",
       "other": "Spiele ausstehend"
+    },
+    "playersInQueue": {
+      "one": "player in queue",
+      "other": "players in queue"
+    },
+    "gamesJoined": {
+      "one": "game joined",
+      "other": "games joined"
     }
   },
   "help": {

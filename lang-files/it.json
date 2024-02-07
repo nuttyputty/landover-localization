@@ -1253,7 +1253,11 @@
       "style": "Style",
       "achievements": "Achievements",
       "color": "Color",
-      "details": "Details"
+      "details": "Details",
+      "surrendered": "{} surrendered",
+      "finished": "{} finished",
+      "timedOut": "{} timed out",
+      "allGames": "All Games"
     },
     "otp": {
       "title": "Verifica l'email attuale",
@@ -1414,6 +1418,14 @@
     "gamesPending": {
       "one": "partita in sospeso",
       "other": "partite in sospeso"
+    },
+    "playersInQueue": {
+      "one": "player in queue",
+      "other": "players in queue"
+    },
+    "gamesJoined": {
+      "one": "game joined",
+      "other": "games joined"
     }
   },
   "help": {

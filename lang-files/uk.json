@@ -1252,7 +1252,11 @@
       "style": "Стиль",
       "achievements": "Винагороди",
       "color": "Колір",
-      "details": "Детальніше"
+      "details": "Детальніше",
+      "surrendered": "{} surrendered",
+      "finished": "{} finished",
+      "timedOut": "{} timed out",
+      "allGames": "All Games"
     },
     "errors": {
       "updateFailed": "Не вдалося оновити",
@@ -1414,6 +1418,14 @@
     "gamesPending": {
       "one": "гра очікується",
       "other": "ігор в очікуванні"
+    },
+    "playersInQueue": {
+      "one": "player in queue",
+      "other": "players in queue"
+    },
+    "gamesJoined": {
+      "one": "game joined",
+      "other": "games joined"
     }
   },
   "help": {
