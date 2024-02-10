@@ -1469,14 +1469,29 @@
       "title": "OPTIONS",
       "on": "On",
       "off": "Off",
-      "time": "Time per Turn",
-      "points": "Victory Points",
-      "barbDelay": "Barbarians Delay",
+      "name": {
+        "title": "Game Name (optional)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Time per Turn",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Victory Points",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Barbarians Delay",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "Number of barbarian rolls before\nthe barbarians start to advance\ntowards an attack.",
-      "name": "Game Name (optional)",
       "namePlaceholder": "Enter name",
       "public": "Public Game",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

@@ -1469,14 +1469,29 @@
       "title": "选项",
       "on": "开启",
       "off": "关闭",
-      "time": "每回合时间",
-      "points": "胜利点（VP）",
-      "barbDelay": "蛮族延迟",
+      "name": {
+        "title": "游戏名称（可选）",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "每回合时间",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "胜利点（VP）",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "蛮族延迟",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "蛮族开始向进攻前的掷骰次数。",
-      "name": "游戏名称（可选）",
       "namePlaceholder": "输入名称",
       "public": "公共游戏",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

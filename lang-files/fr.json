@@ -1469,14 +1469,29 @@
       "title": "OPTIONS",
       "on": "On",
       "off": "Off",
-      "time": "Temps par tour",
-      "points": "Points de victoire",
-      "barbDelay": "Délai des barbares",
+      "name": {
+        "title": "Nom du jeu (facultatif)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Temps par tour",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Points de victoire",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Délai des barbares",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "Nombre de jets des barbares avant que les barbares ne commencent à avancer vers une attaque",
-      "name": "Nom du jeu (facultatif)",
       "namePlaceholder": "Entrez le nom",
       "public": "Partie publique",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

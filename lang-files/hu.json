@@ -1463,14 +1463,29 @@
       "title": "BEÁLLÍTÁSOK",
       "on": "Be",
       "off": "Ki",
-      "time": "Fordulatonkénti idő",
-      "points": "Győzelmi pontok",
-      "barbDelay": "Barbárok késleltetése",
+      "name": {
+        "title": "Játék neve (nem kötelező)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Fordulatonkénti idő",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Győzelmi pontok",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Barbárok késleltetése",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "A barbárok dobásainak száma, mielőtt a barbárok elkezdenek előrenyomulni a támadás felé.",
-      "name": "Játék neve (nem kötelező)",
       "namePlaceholder": "Név megadása",
       "public": "Nyilvános játék",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

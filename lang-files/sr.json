@@ -1469,14 +1469,29 @@
       "title": "OPCIJE",
       "on": "Uključeno",
       "off": "Isključeno",
-      "time": "Vreme po potezu",
-      "points": "Bodovi za pobedu",
-      "barbDelay": "Odgoda barbara",
+      "name": {
+        "title": "Ime igre (opciono)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Vreme po potezu",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Bodovi za pobedu",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Odgoda barbara",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "Broj bacanja kocke pre nego što barbari počnu da napreduju\nprema napadu.",
-      "name": "Ime igre (opciono)",
       "namePlaceholder": "Unesite ime",
       "public": "Javna igra",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

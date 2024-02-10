@@ -1469,14 +1469,29 @@
       "title": "ОПЦИИ",
       "on": "Вкл",
       "off": "Выкл",
-      "time": "Время на ход",
-      "points": "Очки победы",
-      "barbDelay": "Задержка варваров",
+      "name": {
+        "title": "Название игры (необязательно)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Время на ход",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Очки победы",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Задержка варваров",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "Количество бросков варваров до\nначала их продвижения к атаке.",
-      "name": "Название игры (необязательно)",
       "namePlaceholder": "Введите название",
       "public": "Публичная игра",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

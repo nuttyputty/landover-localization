@@ -1469,14 +1469,29 @@
       "title": "OPCIONES",
       "on": "Sí",
       "off": "No",
-      "time": "Tiempo por turno",
-      "points": "Puntos de victoria",
-      "barbDelay": "Retraso de los bárbaros",
+      "name": {
+        "title": "Nombre del juego (opcional)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Tiempo por turno",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Puntos de victoria",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Retraso de los bárbaros",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "Número de tiradas de bárbaros antes de quue\nlos bárbaros comiecen a avanzar\nhacia un ataque.",
-      "name": "Nombre del juego (opcional)",
       "namePlaceholder": "Ingresa el nombre",
       "public": "Juego público",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {

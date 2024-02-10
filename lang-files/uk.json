@@ -1463,14 +1463,29 @@
       "title": "ОПЦІЇ",
       "on": "Увімкнено",
       "off": "Вимкнено",
-      "time": "Час на хід",
-      "points": "Очки перемоги",
-      "barbDelay": "Затримка варварів",
+      "name": {
+        "title": "Назва гри (необов'язково)",
+        "tooltip": "Defaults to map name if left blank."
+      },
+      "time": {
+        "title": "Час на хід",
+        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+      },
+      "points": {
+        "title": "Очки перемоги",
+        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+      },
+      "barbDelay": {
+        "title": "Затримка варварів",
+        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+      },
+      "immunity": {
+        "title": "Immunity",
+        "tooltip": "Protect players from raids until they have more than specified VPs."
+      },
       "barbDelayTooltip": "Кількість кидків варварів перед\nпочатком їхньої атаки.",
-      "name": "Назва гри (необов'язково)",
       "namePlaceholder": "Введіть назву",
       "public": "Публічна гра",
-      "immunity": "Immunity",
       "always": "Always",
       "ranked": "Ranked Game",
       "mapHints": {
