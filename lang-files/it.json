@@ -523,6 +523,10 @@
       "cannotPlay": "Non Puoi Giocare la Carta {}"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Forza Militare",
       "militaryUpgrade": "Potenzia",
       "militaryRequires": "Potenziare la tua forza militare richiede",

@@ -529,6 +529,10 @@
       "cannotPlay": "Ne možete igrati {} kartu"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Vojska",
       "militaryUpgrade": "Unapredi",
       "militaryRequires": "Unapređivanje vaše vojske zahteva",

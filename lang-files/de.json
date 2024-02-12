@@ -529,6 +529,10 @@
       "cannotPlay": "{} kann nicht gespielt werden"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Streitkraft",
       "militaryUpgrade": "Aufrüsten",
       "militaryRequires": "Aufrüsten deiner Streitkraft erfordert",

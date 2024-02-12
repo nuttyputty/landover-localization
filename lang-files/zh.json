@@ -529,6 +529,10 @@
       "cannotPlay": "无法出{}卡"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "军事",
       "militaryUpgrade": "升级",
       "militaryRequires": "升级你的军事需要",

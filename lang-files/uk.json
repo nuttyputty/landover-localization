@@ -523,6 +523,10 @@
       "cannotPlay": "Не можна відтворити карту {}"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Військова сила",
       "militaryUpgrade": "Покращення",
       "militaryRequires": "Для покращення військової сили потрібно",

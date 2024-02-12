@@ -529,6 +529,10 @@
       "cannotPlay": "Нельзя играть картой {}"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Военные",
       "militaryUpgrade": "Улучшение",
       "militaryRequires": "Улучшение ваших военных требует",

@@ -529,6 +529,10 @@
       "cannotPlay": "Can't Play {} Card"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Military",
       "militaryUpgrade": "Upgrade",
       "militaryRequires": "Upgrading your military requires",

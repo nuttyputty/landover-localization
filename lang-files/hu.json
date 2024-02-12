@@ -523,6 +523,10 @@
       "cannotPlay": "Nem játszhatsz ki {} kártyát"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "Katonaság",
       "militaryUpgrade": "Fejlesztés",
       "militaryRequires": "A hadsereg fejlesztéséhez szükséges",

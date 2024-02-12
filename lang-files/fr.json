@@ -529,6 +529,10 @@
       "cannotPlay": "Ne peut pas jouer {} Carte"
     },
     "playerModalDialog": {
+      "afkMessage": {
+        "one": "AFK - {} Missed Turn",
+        "other": "AFK - {} Missed Turns"
+      },
       "military": "militaire",
       "militaryUpgrade": "Amélioration",
       "militaryRequires": "Améliorer votre armée nécessite",
