@@ -840,7 +840,7 @@
     "military": {
       "title": "MILITARY",
       "maxPart1": "Max military: ",
-      "maxPart2": "3 (Barracks increases to 6)",
+      "maxPart2": "3 (Barracks allows unlimited)",
       "raid": "Raid",
       "raidUnable": "Unable to raid",
       "cannotRaid": "You can't afford to raid",
