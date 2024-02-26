@@ -55,6 +55,20 @@
       "maps": "KARTEN",
       "settings": "OPTIONEN",
       "style": "STIL"
+    },
+    "appReview": {
+      "enjoyingDialog": {
+        "title": "ENJOYING LANDOVER?",
+        "subtitle": "Glad to have you in the Landover community!\nAre you enjoying the game?",
+        "no": "No",
+        "yes": "Yes, Love it!"
+      },
+      "feedbackDialog": {
+        "title": "FEEDBACK",
+        "subtitle": "Please let us know how we can improve.\nLeave us a comment or suggestion. We’re always improving!",
+        "submit": "Submit",
+        "placeholder": "Leave feedback"
+      }
     }
   },
   "privacy": {
