@@ -626,9 +626,9 @@
         "no": "No"
       },
       "reject": {
-        "title": "Reject Rematch?",
-        "message": "re you sure you want to reject this game?",
-        "yes": "Reject"
+        "title": "Decline Rematch?",
+        "message": "Are you sure you want to decline this game?",
+        "yes": "Decline"
       }
     },
     "replay": {
