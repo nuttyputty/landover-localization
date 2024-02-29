@@ -1295,7 +1295,24 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games"
+      "allGames": "All Games",
+      "report": {
+        "button": "Report",
+        "dialog": {
+          "title": "Report Player",
+          "subtitle": "Please select the reason and describe the incident below.",
+          "reasons": {
+            "1": "Offensive Chat",
+            "2": "Offensive username or avatar",
+            "3": "Stalling in games",
+            "4": "Quitting games",
+            "5": "Other"
+          },
+          "selectBox": "Select box:",
+          "description": "Description",
+          "placeholder": "Describe the issue"
+        }
+      }
     },
     "otp": {
       "title": "Current email verification",
