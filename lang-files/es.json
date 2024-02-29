@@ -64,10 +64,11 @@
         "yes": "Yes, Love it!"
       },
       "feedbackDialog": {
-        "title": "FEEDBACK",
+        "title": "Feedback",
         "subtitle": "Please let us know how we can improve.\nLeave us a comment or suggestion. We’re always improving!",
         "submit": "Submit",
-        "leaveFeedback": "Leave a feedback"
+        "leaveFeedback": "Leave feedback",
+        "thanksMessage": "Thank you for the feedback! Our team will investigate asap. We’re always trying to improve Landover!"
       }
     }
   },
