@@ -1214,7 +1214,50 @@
       "mapHints": "Map Hints",
       "showReplays": "Show Replays",
       "acceptNewGames": "Auto-Accept New Games",
-      "autoRoll": "Auto-Roll Dice on Turn Start"
+      "autoRoll": "Auto-Roll Dice on Turn Start",
+      "tabOptions": {
+        "info": "Info",
+        "settings": "Settings"
+      },
+      "labels": {
+        "sound": "Sound",
+        "email": "Email",
+        "notifications": "Notifications",
+        "gameInvites": "Game Invites",
+        "gameSettings": "Game Settings"
+      },
+      "turnNotification": {
+        "title": "Turn Notifications",
+        "description": "We’ll send you an email when it’s your turn to move"
+      },
+      "gameSummaries": {
+        "title": "Game Summaries",
+        "description": "A nice tidy little update when your game is over to see who won and why and how many points you won/lost."
+      },
+      "chat": {
+        "title": "Chat",
+        "description": "Phone alert when someone sends you an in game chat that you’re in"
+      },
+      "allowRecentInvites": {
+        "title": "Allow Recent Invites",
+        "description": "Is it ok if someone you recently played invites you to a game?"
+      },
+      "autoAcceptNewGames": {
+        "title": "Auto Accept New Games",
+        "description": "Can we suggest new games and put you in new games if you’re running low? This helps to onboard new users into the Landover community!"
+      },
+      "mapHint": {
+        "title": "Map Hints",
+        "description": "Show where on the map I can build based on my resources"
+      },
+      "showReplay": {
+        "title": "Show Replays",
+        "description": "Allow me to replay previous turns in daily games by showing the replay controls"
+      },
+      "autoRollDice": {
+        "title": "Auto Roll Dice",
+        "description": "Just roll the dice. Don’t make me tap on them."
+      }
     },
     "account": {
       "signUp": "Sign Up",
