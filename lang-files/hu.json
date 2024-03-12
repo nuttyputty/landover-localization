@@ -797,7 +797,7 @@
       "title": "Kikötő",
       "tradeAmount2": "2 {} nyersanyag",
       "tradeAmount3": "3 egyfajta nyersanyag",
-      "description": "$tradeAmount cseréje 1\n más nyersanyagra vagy árura."
+      "description": "{} cseréje 1\n más nyersanyagra vagy árura."
     },
     "bottomBar": {
       "confirmAction": "Igen",

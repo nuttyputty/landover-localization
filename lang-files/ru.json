@@ -803,7 +803,7 @@
       "title": "Порт",
       "tradeAmount2": "2 {} ресурса",
       "tradeAmount3": "3 ресурса одного типа",
-      "description": "Обменять $tradeAmount на 1\n другой ресурс или товар."
+      "description": "Обменять {} на 1\n другой ресурс или товар."
     },
     "bottomBar": {
       "confirmAction": "Да",

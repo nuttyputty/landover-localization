@@ -803,7 +803,7 @@
       "title": "Harbor",
       "tradeAmount2": "2 {} resources",
       "tradeAmount3": "3 resources of a single type",
-      "description": "Trade $tradeAmount for 1\n other resource or commodity."
+      "description": "Trade {} for 1\n other resource or commodity."
     },
     "bottomBar": {
       "confirmAction": "Yes",

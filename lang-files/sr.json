@@ -803,7 +803,7 @@
       "title": "Luka",
       "tradeAmount2": "2 {} resursa",
       "tradeAmount3": "3 resursa iste vrste",
-      "description": "Trgovanje $tradeAmount za 1\n drugi resurs ili komoditet."
+      "description": "Trgovanje {} za 1\n drugi resurs ili komoditet."
     },
     "bottomBar": {
       "confirmAction": "Da",

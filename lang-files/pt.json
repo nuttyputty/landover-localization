@@ -797,7 +797,7 @@
       "title": "Porto",
       "tradeAmount2": "2 {} recursos",
       "tradeAmount3": "3 recursos de um só tipo",
-      "description": "Trocar $tradeAmount por 1\n outro recurso ou mercadoria."
+      "description": "Trocar {} por 1\n outro recurso ou mercadoria."
     },
     "bottomBar": {
       "confirmAction": "Sim",

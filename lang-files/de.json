@@ -803,7 +803,7 @@
       "title": "Handelshafen",
       "tradeAmount2": "2 {} Rohstoff",
       "tradeAmount3": "3 Rohstoffe eines Typs",
-      "description": "Handel $tradeAmount für 1\n andere Ressource oder Handelsware."
+      "description": "Handel {} für 1\n andere Ressource oder Handelsware."
     },
     "bottomBar": {
       "confirmAction": "Einverstanden",

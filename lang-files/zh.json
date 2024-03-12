@@ -803,7 +803,7 @@
       "title": "港口",
       "tradeAmount2": " 2 {} 资源",
       "tradeAmount3": "3 个单一类型的资源",
-      "description": "以 $tradeAmount 交换 1 种\n其他资源或商品。"
+      "description": "以 {} 交换 1 种\n其他资源或商品。"
     },
     "bottomBar": {
       "confirmAction": "是",

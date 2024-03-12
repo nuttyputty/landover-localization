@@ -803,7 +803,7 @@
       "title": "Puerto",
       "tradeAmount2": "2 {} recursos",
       "tradeAmount3": "3 recursos de un solo tipo",
-      "description": "Intercambiar $tradeAmount por 1\n otro recurso o mercancía."
+      "description": "Intercambiar {} por 1\n otro recurso o mercancía."
     },
     "bottomBar": {
       "confirmAction": "Sí",

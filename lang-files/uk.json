@@ -797,7 +797,7 @@
       "title": "Гавань",
       "tradeAmount2": "2 {} ресурси",
       "tradeAmount3": "3 ресурси одного типу",
-      "description": "Обмінюйте $tradeAmount на 1\n інший ресурс або товар."
+      "description": "Обмінюйте {} на 1\n інший ресурс або товар."
     },
     "bottomBar": {
       "confirmAction": "Так",

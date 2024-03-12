@@ -803,7 +803,7 @@
       "title": "Port",
       "tradeAmount2": "2 {} ressources",
       "tradeAmount3": "3 ressources d'un même type",
-      "description": "Échange $tradeAmount contre 1\n autre ressource ou marchandise."
+      "description": "Échange {} contre 1\n autre ressource ou marchandise."
     },
     "bottomBar": {
       "confirmAction": "Oui",
