@@ -14,7 +14,7 @@
     "goGold": "¡CONVIÉRTETE EN ORO!",
     "globalStats": {
       "gamesInProgress": "JUEGOS EN CURSO",
-      "users": "USUARIAS",
+      "users": "USUARIOS",
       "movesMade": "MOVIMIENTOS REALIZADOS"
     },
     "liveChat": {
@@ -22,19 +22,19 @@
       "onlinePlayers": "{} jugadores en línea",
       "online": "Online",
       "verifyEmail": {
-        "message": "Verify your email address to enable chat.",
+        "message": "Verifique su dirección de correo electrónico para habilitar el chat.",
         "dialog": {
-          "title": "SENT!",
-          "message": "We have sent you an email to verify your email address."
+          "title": "¡ENVIADO!",
+          "message": "Le hemos enviado un correo electrónico para verificar su dirección de correo electrónico."
         }
       },
       "limits": {
-        "fiveMessagesPerMinute": "You can send only 5 messages per minute",
-        "duplicateMessage": "You’ve been temporarily chat restricted for duplicate messages. Try again in 10 minutes.",
-        "errorSendingMessage": "There was a problem sending the message, please try again"
+        "fiveMessagesPerMinute": "Puedes enviar solo 5 mensajes por minuto.",
+        "duplicateMessage": "Se te ha restringido temporalmente el chat por mensajes duplicados. Inténtalo de nuevo en 10 minutos.",
+        "errorSendingMessage": "Hubo un problema al enviar el mensaje, por favor intenta nuevamente"
       },
-      "mute": "Mute",
-      "unmute": "Unmute"
+      "mute": "Mudo",
+      "unmute": "Desilenciar"
     },
     "notifications": {
       "title": "Notificaciones",
@@ -58,17 +58,17 @@
     },
     "appReview": {
       "enjoyingDialog": {
-        "title": "ENJOYING LANDOVER?",
-        "subtitle": "Glad to have you in the Landover community!\nAre you enjoying the game?",
+        "title": "¿DISFRUTA DE LANDOVER?",
+        "subtitle": "¡Encantado de tenerte en la comunidad Landover! \n ¿Estás disfrutando del juego?",
         "no": "No",
-        "yes": "Yes, Love it!"
+        "yes": "¡Sí, me encanta!"
       },
       "feedbackDialog": {
-        "title": "Feedback",
-        "subtitle": "Please let us know how we can improve.\nLeave us a comment or suggestion. We’re always improving!",
+        "title": "Comentario",
+        "subtitle": "Háganos saber cómo podemos mejorar.\nDéjenos un comentario o sugerencia. ¡Siempre estamos mejorando!",
         "submit": "Submit",
-        "leaveFeedback": "Leave feedback",
-        "thanksMessage": "Thank you for the feedback! Our team will investigate asap. We’re always trying to improve Landover!"
+        "leaveFeedback": "Deja un comentario",
+        "thanksMessage": "¡Gracias por los comentarios! Nuestro equipo investigará lo antes posible. ¡Siempre estamos tratando de mejorar Landover!"
       }
     }
   },
@@ -503,12 +503,12 @@
         "failed": "Algo salió mal, inténtalo de nuevo"
       },
       "muteConfirmation": {
-        "title": "Mute Player",
-        "message": "Do you want to mute all messages sent by this user in chat?"
+        "title": "Jugador mudo",
+        "message": "¿Quieres silenciar todos los mensajes enviados por este usuario en el chat?"
       },
       "unMuteConfirmation": {
-        "title": "Unmute Player",
-        "message": "Are you sure you want to unmute this player?"
+        "title": "Desilenciar jugador",
+        "message": "¿Estás seguro de que quieres activar el sonido de este jugador?"
       },
       "profanityDetected": "Se detectaron malas palabras. Intentar otra vez.",
       "chatActionType": {
@@ -803,7 +803,7 @@
       "title": "Puerto",
       "tradeAmount2": "2 {} recursos",
       "tradeAmount3": "3 recursos de un solo tipo",
-      "description": "Intercambiar $tradeAmount por 1\n otro recurso o mercancía."
+      "description": "Intercambiar {} por 1\n otro recurso o mercancía."
     },
     "bottomBar": {
       "confirmAction": "Sí",
@@ -813,8 +813,8 @@
       "title": "CULTURA",
       "upgrade": "Actualizar",
       "tooltips": {
-        "highestLevel": "The first player to reach level {} will keep\nthis metro for the duration of the game.",
-        "metroLevel": "The first player to reach level {} earns\na metro and an additional +2 VP."
+        "highestLevel": "El primer jugador que alcance el nivel {} conservará\neste metro mientras dure el juego.",
+        "metroLevel": "El primer jugador que alcance el nivel {} gana\na metro y +2 VP adicionales."
       }
     },
     "cultureUpgrade": {
@@ -1151,7 +1151,7 @@
     },
     "viewRanks": "Ver rangos",
     "title": "RANGOS",
-    "rules": "Cómo funcionan las clasificaciones",
+    "rules": "Clasificación explicada",
     "globalStats": "Estadísticas globales",
     "yourRankWrap": "TU\nRANGO",
     "leaderboard": {
@@ -1213,7 +1213,50 @@
       "effects": "Efectos",
       "music": "Música",
       "off": "APAGADO",
-      "on": "EN"
+      "on": "EN",
+      "tabOptions": {
+        "info": "Info",
+        "settings": "Settings"
+      },
+      "labels": {
+        "sound": "Sound",
+        "email": "Email",
+        "notifications": "Notifications",
+        "gameInvites": "Game Invites",
+        "gameSettings": "Game Settings"
+      },
+      "turnNotification": {
+        "title": "Turn Notifications",
+        "description": "We’ll send you an email when it’s your turn to move"
+      },
+      "gameSummaries": {
+        "title": "Game Summaries",
+        "description": "A nice tidy little update when your game is over to see who won and why and how many points you won/lost."
+      },
+      "chat": {
+        "title": "Chat",
+        "description": "Phone alert when someone sends you an in game chat that you’re in"
+      },
+      "allowRecentInvites": {
+        "title": "Allow Recent Invites",
+        "description": "Is it ok if someone you recently played invites you to a game?"
+      },
+      "autoAcceptNewGames": {
+        "title": "Auto Accept New Games",
+        "description": "Can we suggest new games and put you in new games if you’re running low? This helps to onboard new users into the Landover community!"
+      },
+      "mapHint": {
+        "title": "Map Hints",
+        "description": "Show where on the map I can build based on my resources"
+      },
+      "showReplay": {
+        "title": "Show Replays",
+        "description": "Allow me to replay previous turns in daily games by showing the replay controls"
+      },
+      "autoRollDice": {
+        "title": "Auto Roll Dice",
+        "description": "Just roll the dice. Don’t make me tap on them."
+      }
     },
     "account": {
       "signUp": "Registrarse",
@@ -1268,9 +1311,9 @@
       "hometown": "Ciudad natal: ",
       "editInfo": "Editar información",
       "joinedOn": "Se unió el {}",
-      "1stPlace": "1.º puesto",
-      "2ndPlace": "2.º puesto",
-      "3rdPlace": "3.º puesto",
+      "1stPlace": "1er puesto",
+      "2ndPlace": "2do puesto",
+      "3rdPlace": "3er puesto",
       "totalGames": "Juegos totales",
       "asOfMay": "a partir de mayo de 2023",
       "months": {
@@ -1287,29 +1330,29 @@
         "11": "noviembre",
         "12": "diciembre"
       },
-      "style": "Style",
-      "achievements": "Achievements",
+      "style": "Estilo",
+      "achievements": "Logros",
       "color": "Color",
-      "details": "Details",
-      "surrendered": "{} surrendered",
-      "finished": "{} finished",
-      "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "details": "Detalles",
+      "surrendered": "{} rendido",
+      "finished": "{} finalizado",
+      "timedOut": "{} caducado",
+      "allGames": "Todos los juegos",
       "report": {
-        "button": "Report",
+        "button": "Informe",
         "dialog": {
-          "title": "Report Player",
-          "subtitle": "Please select the reason and describe the incident below.",
+          "title": "Reportar jugador",
+          "subtitle": "Seleccione el motivo y describa el incidente a continuación.",
           "reasons": {
-            "1": "Offensive Chat",
-            "2": "Offensive username or avatar",
-            "3": "Stalling in games",
-            "4": "Quitting games",
-            "5": "Other"
+            "1": "Chat ofensivo",
+            "2": "Nombre de usuario o avatar ofensivo",
+            "3": "Estancarse en los juegos",
+            "4": "Dejar juegos",
+            "5": "Otro"
           },
-          "selectBox": "Select box:",
-          "description": "Description",
-          "placeholder": "Describe the issue"
+          "selectBox": "Seleccionar cuadro:",
+          "description": "Descripción",
+          "placeholder": "Describa el problema"
         }
       }
     },
@@ -1329,10 +1372,10 @@
     },
     "tabBar": {
       "general": "General",
-      "maps": "Maps",
-      "history": "History",
-      "mapStats": "Map Stats",
-      "seasons": "Seasons"
+      "maps": "Mapas",
+      "history": "Historia",
+      "mapStats": "Estadísticas",
+      "seasons": "Estaciones"
     }
   },
   "auth": {
@@ -1497,7 +1540,7 @@
     "chooseTheme": "Elegir tema",
     "chooseColor": "Elegir color",
     "save": "Guardar",
-    "goGold": "Vaya a Gold para desbloquear",
+    "goGold": "¡Hazte Oro!",
     "selected": "SELECCIONADO"
   },
   "createGame": {
@@ -1507,23 +1550,23 @@
       "off": "No",
       "name": {
         "title": "Nombre del juego (opcional)",
-        "tooltip": "Defaults to map name if left blank."
+        "tooltip": "El valor predeterminado es el nombre del mapa si se deja en blanco."
       },
       "time": {
         "title": "Tiempo por turno",
-        "tooltip": "1 day or more is a daily game. Anything less is a live game."
+        "tooltip": "1 día o más es un juego diario. Cualquier cosa menos es un juego en vivo."
       },
       "points": {
         "title": "Puntos de victoria",
-        "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
+        "tooltip": "Cuántos PV antes de que termine el juego. El valor predeterminado es la sugerencia de mapa."
       },
       "barbDelay": {
         "title": "Retraso de los bárbaros",
-        "tooltip": "Delay barbarian tracker this many barbarian rolls."
+        "tooltip": "Retrasa al rastreador de bárbaros tantas tiradas de bárbaros."
       },
       "immunity": {
         "title": "Immunity",
-        "tooltip": "Protect players from raids until they have more than specified VPs."
+        "tooltip": "Protege a los jugadores de las incursiones hasta que tengan más PV de los especificados."
       },
       "barbDelayTooltip": "Número de tiradas de bárbaros antes de quue\nlos bárbaros comiecen a avanzar\nhacia un ataque.",
       "namePlaceholder": "Ingresa el nombre",
