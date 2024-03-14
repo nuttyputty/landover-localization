@@ -1557,6 +1557,10 @@
       "luckyRaid": {
         "title": "Glücks-7-Raubzug",
         "tooltip": "Der Spieler auf dem letzten Platz, der eine 7 würfelt, kann einen kostenlosen Raubzug durchführen."
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {

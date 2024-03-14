@@ -1557,6 +1557,10 @@
       "luckyRaid": {
         "title": "chanceux 7 attaque",
         "tooltip": "Le joueur en dernière position qui obtient un 7\nis est récompensé par une attaque gratuite."
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {

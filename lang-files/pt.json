@@ -1551,6 +1551,10 @@
       "luckyRaid": {
         "title": "Invasão do 7 da Sorte",
         "tooltip": "O jogador que está em último lugar a que lhe calha 7\né recompensado com uma invasão gratuita."
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {

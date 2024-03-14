@@ -1557,6 +1557,10 @@
       "luckyRaid": {
         "title": "幸运7袭击",
         "tooltip": "最后一名投掷出7点的玩家可获得免费袭击作为奖励。"
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {

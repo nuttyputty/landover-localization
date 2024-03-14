@@ -1557,6 +1557,10 @@
       "luckyRaid": {
         "title": "Lucky 7 Raid",
         "tooltip": "Player in last place who rolls a 7\nis rewarded with a free raid."
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {

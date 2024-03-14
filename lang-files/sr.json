@@ -1557,6 +1557,10 @@
       "luckyRaid": {
         "title": "Srećni 7 napad",
         "tooltip": "Igraču koji je poslednji na tabeli a baci 7,\nse nagrađuje besplatan napad."
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {

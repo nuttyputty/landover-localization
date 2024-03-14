@@ -1557,6 +1557,10 @@
       "luckyRaid": {
         "title": "Saque de Lucky 7",
         "tooltip": "El jugador en último lugar que tira un 7\nes recompensado con un saqueo gratuita."
+      },
+      "day": {
+        "one": "day",
+        "other": "days"
       }
     },
     "map": {
