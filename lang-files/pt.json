@@ -47,7 +47,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "invited you",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "AWARDS",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Guardar Alterações",
-    "uploadPhoto": "Carregar Foto"
+    "uploadPhoto": "Carregar Foto",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "CONQUISTAS",
@@ -495,7 +500,9 @@
         "message": "Tens a certeza de que queres banir este jogador do chat? Não vais ver nenhuma mensagem sua",
         "yes": "Sim",
         "no": "No",
-        "failed": "Algo correu mal, tenta novamente"
+        "failed": "Algo correu mal, tenta novamente",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -694,7 +701,8 @@
         "title": "Render",
         "message": "Tens a certeza de que te queres render?\nNão existe penalidade por admitir derrota.",
         "yes": "Render",
-        "no": "Cancelar"
+        "no": "Cancelar",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Partilhar",
       "reportBug": {
@@ -908,7 +916,9 @@
       "canUpgrade": "Tens a certeza de que queres terminar o turno? Podes atualizar a tua cultura sem uma troca!",
       "lotOfResources": "Tens a certeza de que queres terminar o turno? Tens muitos recursos por gastar.",
       "cancel": "Cancelar",
-      "home": "Home"
+      "home": "Home",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Não conseguimos encontrar o jogo, tenta novamente",
@@ -926,7 +936,18 @@
       "cloth": "Cloth",
       "coin": "Coin",
       "random": "Random"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Ver Tabela do Gráfico de Produções",
@@ -1252,6 +1273,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1333,7 +1358,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "games": "Games",
       "report": {
         "button": "Report",
         "dialog": {
@@ -1348,9 +1373,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "allGames": "All Games"
     },
     "otp": {
       "title": "Verificação de email atual",
@@ -1519,7 +1546,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "BEM-VINDO À LANDOVER!",
@@ -1566,8 +1594,8 @@
       "barbDelayTooltip": "Número de jogadas de bárbaros antes que os bárbaros comecem a avançar em direção a um ataque.",
       "namePlaceholder": "Introduzir nome",
       "public": "Jogo Público",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Dicas no Mapa",
         "tooltip": "Ativa indicadores de dicas no mapa quando constróis estruturas."
@@ -1769,6 +1797,7 @@
     "join": "Join Game",
     "waiting": "Waiting for players...",
     "waitingForHost": "À espera do anfitrião...",
+    "goHome": "Go Home",
     "start": "Começar",
     "starting": "O Jogo está Começar",
     "startingTutorial": "A começar o tutorial",
@@ -1788,12 +1817,12 @@
     "kicked": "Expluso!",
     "kickedMsg": "O anfitrião removeu-te deste jogo. Tenta entrar num jogo diferente.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Novo jogo cancelado",
     "rematchCanceledMsg": "Alguém rejeitou este jogo.",
     "gameCanceled": "Jogo cancelado",
-    "gameCanceledMsg": "O anfitrião terminou este jogo.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "O anfitrião terminou este jogo."
   },
   "builder": {
     "create": {
@@ -1818,7 +1847,8 @@
         "title": "Descrição",
         "placeholder": "Introduzir a descrição..."
       },
-      "points": "Pontos de Vitória"
+      "points": "Pontos de Vitória",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Ladrilho Sem Colocação",

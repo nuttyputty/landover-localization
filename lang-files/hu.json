@@ -47,7 +47,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "meghívott"
+      "invited": "meghívott",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "DÍJAK",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Változások mentése",
-    "uploadPhoto": "Fénykép feltöltése"
+    "uploadPhoto": "Fénykép feltöltése",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "TELJESÍTMÉNYEK",
@@ -494,7 +499,9 @@
         "message": "Biztos vagy benne, hogy ki akarod tiltani ezt a játékost a csevegésből? Nem fogsz látni tőle semmilyen üzenetet",
         "yes": "Igen",
         "no": "Nem",
-        "failed": "Valami rosszul sült el, kérlek próbáld meg újra"
+        "failed": "Valami rosszul sült el, kérlek próbáld meg újra",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -694,7 +701,8 @@
         "title": "Feladás",
         "message": "Biztos, hogy meg akarod adni magad?\nA vereség elismeréséért nem jár büntetés.",
         "yes": "Feladás",
-        "no": "Mégse"
+        "no": "Mégse",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Megosztás",
       "reportBug": {
@@ -908,7 +916,9 @@
       "endTurnConfirm": "Végzel a fordulóval?",
       "canUpgrade": "Biztos, hogy be akarod fejezni a fordulót? A kultúrádat kereskedelem nélkül is fejlesztheted!",
       "lotOfResources": "Biztos, hogy be akarod fejezni a fordulót? Sok el nem költött nyersanyagod van.",
-      "cancel": "Mégse"
+      "cancel": "Mégse",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Nem találjuk a játékot, kérjük, próbáld újra!",
@@ -926,7 +936,18 @@
       "cloth": "Szövet",
       "coin": "Érme",
       "random": "Véletlen"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Terméktáblázat megtekintése",
@@ -1252,6 +1273,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1333,7 +1358,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "games": "Games",
       "report": {
         "button": "Report",
         "dialog": {
@@ -1348,9 +1373,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "allGames": "All Games"
     },
     "otp": {
       "title": "Jelenlegi e-mail megerősítés",
@@ -1519,7 +1546,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "ÜDVÖZLÜNK LANDOVER-BEN!",
@@ -1566,8 +1594,8 @@
       "barbDelayTooltip": "A barbárok dobásainak száma, mielőtt a barbárok elkezdenek előrenyomulni a támadás felé.",
       "namePlaceholder": "Név megadása",
       "public": "Nyilvános játék",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Térképi tippek",
         "tooltip": "Engedélyezi a térképi súgójelzőket az építmények építésénél."
@@ -1789,12 +1817,12 @@
     "kicked": "Kirúgva!",
     "kickedMsg": "A házigazda eltávolított téged ebből a játékból. Próbálj meg csatlakozni egy másik játékhoz.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "A visszavágó törölve",
     "rematchCanceledMsg": "Valaki visszautasította ezt a játékot.",
     "gameCanceled": "Játék törölve",
-    "gameCanceledMsg": "A házigazda befejezte ezt a játékot.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "A házigazda befejezte ezt a játékot."
   },
   "builder": {
     "create": {
@@ -1819,7 +1847,8 @@
         "title": "Leírás",
         "placeholder": "Adja meg a leírását..."
       },
-      "points": "Győzelmi pontok"
+      "points": "Győzelmi pontok",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Nem elhelyezhető lapka",

@@ -41,7 +41,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "invited you",
+      "rematch": "invited a rematch"
     },
     "goGold": "GOLD",
     "buttons": {
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Save Changes",
-    "uploadPhoto": "Upload Photo"
+    "uploadPhoto": "Upload Photo",
+    "leaveBtn": "Leave",
+    "cancelBtn": "Cancel",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them."
   },
   "achievements": {
     "title": "ACHIEVEMENTS",
@@ -501,7 +506,9 @@
         "message": "Are you sure you want to ban this player from chat? You won't see any messages from them",
         "yes": "Yes",
         "no": "No",
-        "failed": "Something went wrong, please try again"
+        "failed": "Something went wrong, please try again",
+        "permanentlyBannedTitle": "Account Closed",
+        "permanentlyBannedMessage": "This account has been closed."
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Surrender",
         "message": "Are you sure you want to surrender?\nThere is no penalty for admitting defeat.",
         "yes": "Surrender",
-        "no": "Cancel"
+        "no": "Cancel",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Share",
       "reportBug": {
@@ -905,7 +913,6 @@
     },
     "endTurn": {
       "nextGame": "Next\ngame",
-      "home": "Home",
       "wait": "Wait",
       "end": "End",
       "turn": "Turn",
@@ -914,7 +921,10 @@
       "endTurnConfirm": "End Turn?",
       "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
       "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
-      "cancel": "Cancel"
+      "cancel": "Cancel",
+      "home": "Home",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "We can't find the game, please try again",
@@ -932,7 +942,18 @@
       "cloth": "Cloth",
       "coin": "Coin",
       "random": "Random"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "View Product Chart Table",
@@ -1258,6 +1279,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1339,7 +1364,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "games": "Games",
       "report": {
         "button": "Report",
         "dialog": {
@@ -1354,9 +1379,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "allGames": "All Games"
     },
     "otp": {
       "title": "Current email verification",
@@ -1435,7 +1462,7 @@
     },
     "verify": {
       "email": "Verify your email",
-      "email1": "Verify email",
+      "email1": "Verify Email",
       "message": "A verification email has been sent to you! Please check your mailbox to verify the account before you sign in",
       "resend": "Resend"
     },
@@ -1505,7 +1532,7 @@
   },
   "matchmaking": {
     "title": "NEW RANKED GAME",
-    "daily": "Start Daily Game",
+    "daily": "Join Daily Game",
     "live": "Start Live Game",
     "customGame": {
       "question": "Want to choose your map and settings? ",
@@ -1514,6 +1541,7 @@
     "dailyDescription": "24 hours to make your move.\n Unlimited games!",
     "liveDescription": "90 seconds to make your move.\n1 game at a time!",
     "gameCreated": "New ranked daily game created.\nYour game will start shortly.",
+    "justASecond": "Just a second...",
     "gamesPending": {
       "one": "game pending",
       "other": "games pending"
@@ -1572,8 +1600,8 @@
       "barbDelayTooltip": "Number of barbarian rolls before\nthe barbarians start to advance\ntowards an attack.",
       "namePlaceholder": "Enter name",
       "public": "Public Game",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Map Hints",
         "tooltip": "Enables map hint indicators when building structures."
@@ -1795,7 +1823,7 @@
     "kicked": "Kicked!",
     "kickedMsg": "The host has removed you from this game. Try joining a different game.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
     "timeOutButton": "Ok I got it",
     "rematchCanceled": "Rematch canceled",
     "rematchCanceledMsg": "Someone rejected this game.",
@@ -1825,7 +1853,8 @@
         "title": "Description",
         "placeholder": "Enter description..."
       },
-      "points": "Victory Points"
+      "points": "Victory Points",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Non Placement Tile",

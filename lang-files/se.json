@@ -47,7 +47,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "invited you",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "AWARDS",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Save Changes",
-    "uploadPhoto": "Upload Photo"
+    "uploadPhoto": "Upload Photo",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "ACHIEVEMENTS",
@@ -501,7 +506,9 @@
         "message": "Are you sure you want to ban this player from chat? You won't see any messages from them",
         "yes": "Yes",
         "no": "No",
-        "failed": "Something went wrong, please try again"
+        "failed": "Something went wrong, please try again",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Surrender",
         "message": "Are you sure you want to surrender?\nThere is no penalty for admitting defeat.",
         "yes": "Surrender",
-        "no": "Cancel"
+        "no": "Cancel",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Share",
       "reportBug": {
@@ -914,7 +922,9 @@
       "canUpgrade": "Are you sure you want to end turn? You can upgrade your culture without a trade!",
       "lotOfResources": "Are you sure you want to end your turn? You have a lot of unspent resources.",
       "cancel": "Cancel",
-      "home": "Home"
+      "home": "Home",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "We can't find the game, please try again",
@@ -932,6 +942,17 @@
       "cloth": "Cloth",
       "coin": "Coin",
       "random": "Random"
+    },
+    "alreadyInProgress": "Game already in progress…",
+    "tileTooltip": {
+      "originalNumber": "Original number: {}",
+      "placeMerchant": "Place Merchant",
+      "production": "Production: {}",
+      "raid": "Raid",
+      "raided": "Raided now",
+      "totalRaided": "Raided: {}",
+      "totalRolls": "Rolls: {}",
+      "unRaid": "Unraid"
     }
   },
   "tutorial": {
@@ -1258,6 +1279,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up",
+        "title": "Vibration"
       }
     },
     "account": {
@@ -1354,9 +1379,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "games": "Games"
     },
     "otp": {
       "title": "Current email verification",
@@ -1525,7 +1552,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "WELCOME TO LANDOVER!",
@@ -1825,7 +1853,8 @@
         "title": "Description",
         "placeholder": "Enter description..."
       },
-      "points": "Victory Points"
+      "points": "Victory Points",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Non Placement Tile",

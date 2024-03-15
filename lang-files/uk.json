@@ -47,7 +47,8 @@
         "third": "Й",
         "other": "Й"
       },
-      "invited": "запросив вас"
+      "invited": "запросив вас",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "AWARDS",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Зберегти зміни",
-    "uploadPhoto": "Завантажити фото"
+    "uploadPhoto": "Завантажити фото",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "ДОСЯГНЕННЯ",
@@ -494,7 +499,9 @@
         "message": "Ви впевнені, що хочете заблокувати цього гравця у чаті? Ви не будете бачити жодних повідомлень від нього",
         "yes": "Так",
         "no": "Ні",
-        "failed": "Щось пішло не так, спробуйте ще раз"
+        "failed": "Щось пішло не так, спробуйте ще раз",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -694,7 +701,8 @@
         "title": "Здатися",
         "message": "Ви впевнені, що хочете здатися?\nНемає покарання за визнання поразки.",
         "yes": "Здатися",
-        "no": "Скасувати"
+        "no": "Скасувати",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Поділитися",
       "reportBug": {
@@ -908,7 +916,9 @@
       "endTurnConfirm": "Завершити Хід?",
       "canUpgrade": "Ви впевнені, що хочете завершити хід? Ви можете покращити свою культуру без торгівлі!",
       "lotOfResources": "Ви впевнені, що хочете завершити свій хід? У вас є багато невикористаних ресурсів.",
-      "cancel": "Скасувати"
+      "cancel": "Скасувати",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Ми не можемо знайти гру, спробуйте ще раз",
@@ -926,7 +936,18 @@
       "cloth": "Тканина",
       "coin": "Монета",
       "random": "Випадковий"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Переглянути Таблицю Виробництва",
@@ -1251,6 +1272,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1332,7 +1357,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "games": "Games",
       "report": {
         "button": "Report",
         "dialog": {
@@ -1347,9 +1372,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "allGames": "All Games"
     },
     "errors": {
       "updateFailed": "Не вдалося оновити",
@@ -1519,7 +1546,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "ЛАСКАВО ПРОСИМО ДО LANDOVER!",
@@ -1566,8 +1594,8 @@
       "barbDelayTooltip": "Кількість кидків варварів перед\nпочатком їхньої атаки.",
       "namePlaceholder": "Введіть назву",
       "public": "Публічна гра",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Підказки на карті",
         "tooltip": "Увімкнути підказки на карті при будівництві споруд."
@@ -1789,12 +1817,12 @@
     "kicked": "Вилучено!",
     "kickedMsg": "Господар видалив вас з цієї гри. Спробуйте приєднатися до іншої гри.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Перепартию відмінено",
     "rematchCanceledMsg": "Хтось відхилив цю гру.",
     "gameCanceled": "Гру відмінено",
-    "gameCanceledMsg": "Господар завершив цю гру.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "Господар завершив цю гру."
   },
   "builder": {
     "create": {
@@ -1819,7 +1847,8 @@
         "title": "Опис",
         "placeholder": "Введіть опис..."
       },
-      "points": "Очки перемоги"
+      "points": "Очки перемоги",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Плитка, яку не можна розміщувати",

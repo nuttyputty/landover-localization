@@ -47,7 +47,8 @@
         "third": "ER",
         "other": "ER"
       },
-      "invited": "dich eingeladen"
+      "invited": "dich eingeladen",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "VERGEBEN",
@@ -58,17 +59,17 @@
     },
     "appReview": {
       "enjoyingDialog": {
-        "title": "ENJOYING LANDOVER?",
-        "subtitle": "Glad to have you in the Landover community!\nAre you enjoying the game?",
-        "no": "No",
-        "yes": "Yes, Love it!"
+        "title": "GENIESSEN SIE LANDOVER?",
+        "subtitle": "Ich freue mich, Sie in der Landover-Community zu haben!\nGefällt Ihnen das Spiel?",
+        "no": "NEIN",
+        "yes": "Ja Ich liebe es!"
       },
       "feedbackDialog": {
-        "title": "Feedback",
-        "subtitle": "Please let us know how we can improve.\nLeave us a comment or suggestion. We’re always improving!",
+        "title": "Rückmeldung",
+        "subtitle": "Bitte lassen Sie uns wissen, wie wir uns verbessern können.\nHinterlassen Sie uns einen Kommentar oder Vorschlag. Wir verbessern uns ständig!",
         "submit": "Submit",
-        "leaveFeedback": "Leave feedback",
-        "thanksMessage": "Thank you for the feedback! Our team will investigate asap. We’re always trying to improve Landover!"
+        "leaveFeedback": "Hinterlasse Kommentar",
+        "thanksMessage": "Danke für die Bewertung! Unser Team wird die Angelegenheit so schnell wie möglich untersuchen. Wir versuchen immer, Landover zu verbessern!"
       }
     }
   },
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Änderungen Speichern",
-    "uploadPhoto": "Foto hochladen"
+    "uploadPhoto": "Foto hochladen",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "Errungenschaften",
@@ -500,7 +505,9 @@
         "message": "Bist du sicher, dass du diesen Spieler vom Chatraum verbannen willst? Du wirst keine Nachrichten mehr vom Spieler sehen.",
         "yes": "Ja",
         "no": "Nein",
-        "failed": "Fehlgeschlagen, bitte versuche es erneut"
+        "failed": "Fehlgeschlagen, bitte versuche es erneut",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Aufgeben",
         "message": "Bist du sicher, dass du aufgeben willst ?\nHinweis: Eine Niederlage zu gestehen wird nicht bestraft.",
         "yes": "Aufgeben",
-        "no": "Nein, ich möchte weiterspielen"
+        "no": "Nein, ich möchte weiterspielen",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Teilen",
       "reportBug": {
@@ -914,7 +922,9 @@
       "endTurnConfirm": "Zug beenden?",
       "canUpgrade": "Bist du sicher, dass du deinen Zug beenden möchtest? Du besitzt genügend Handelsware für die Aufwertung einer Kultur!",
       "lotOfResources": "Bist du sicher, dass du deinen Zug beenden möchtest? Du besitzt eine Menge Ressourcen.",
-      "cancel": "Zug fortsetzen"
+      "cancel": "Zug fortsetzen",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Wir können das Spiel nicht finden, bitte versuche es erneut",
@@ -932,7 +942,18 @@
       "cloth": "Tuch",
       "coin": "Münze",
       "random": "Zufällig"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Sehe dir die Baukosten an",
@@ -1216,47 +1237,51 @@
       "on": "AN",
       "tabOptions": {
         "info": "Info",
-        "settings": "Settings"
+        "settings": "Einstellungen"
       },
       "labels": {
-        "sound": "Sound",
+        "sound": "Klang",
         "email": "Email",
-        "notifications": "Notifications",
-        "gameInvites": "Game Invites",
-        "gameSettings": "Game Settings",
+        "notifications": "Benachrichtigungen",
+        "gameInvites": "Lädt ein",
+        "gameSettings": "Einstellungen",
         "style": "Style"
       },
       "turnNotification": {
-        "title": "Turn Notifications",
-        "description": "We’ll send you an email when it’s your turn to move"
+        "title": "Turn-Benachrichtigungen",
+        "description": "Wir senden Ihnen eine E-Mail, wenn Sie mit dem Umzug an der Reihe sind"
       },
       "gameSummaries": {
-        "title": "Game Summaries",
-        "description": "A nice tidy little update when your game is over to see who won and why and how many points you won/lost."
+        "title": "Spielzusammenfassungen",
+        "description": "Ein nettes, übersichtliches kleines Update, wenn Ihr Spiel vorbei ist, um zu sehen, wer gewonnen hat und warum und wie viele Punkte Sie gewonnen/verloren haben."
       },
       "chat": {
         "title": "Chat",
-        "description": "Phone alert when someone sends you an in game chat that you’re in"
+        "description": "Telefonbenachrichtigung, wenn Ihnen jemand einen In-Game-Chat sendet, in dem Sie sich befinden"
       },
       "allowRecentInvites": {
-        "title": "Allow Recent Invites",
-        "description": "Is it ok if someone you recently played invites you to a game?"
+        "title": "Letzte Einladungen zulassen",
+        "description": "Ist es in Ordnung, wenn dich jemand, gegen den du kürzlich gespielt hast, zu einem Spiel einlädt?"
       },
       "autoAcceptNewGames": {
-        "title": "Auto Accept New Games",
-        "description": "Can we suggest new games and put you in new games if you’re running low? This helps to onboard new users into the Landover community!"
+        "title": "Neue Spiele automatisch akzeptieren",
+        "description": "Können wir Ihnen neue Spiele vorschlagen und Sie in neue Spiele einbinden, wenn Sie zur Neige gehen? Dies hilft dabei, neue Benutzer in die Landover-Community einzubinden!"
       },
       "mapHint": {
-        "title": "Map Hints",
-        "description": "Show where on the map I can build based on my resources"
+        "title": "Kartenhinweise",
+        "description": "Zeigen Sie, wo auf der Karte ich basierend auf meinen Ressourcen bauen kann"
       },
       "showReplay": {
-        "title": "Show Replays",
-        "description": "Allow me to replay previous turns in daily games by showing the replay controls"
+        "title": "Wiederholungen anzeigen",
+        "description": "Erlauben Sie mir, frühere Runden in täglichen Spielen noch einmal abzuspielen, indem Sie die Wiederholungssteuerung anzeigen"
       },
       "autoRollDice": {
-        "title": "Auto Roll Dice",
-        "description": "Just roll the dice. Don’t make me tap on them."
+        "title": "Automatisches Würfeln",
+        "description": "Lass einfach die Würfel rollen. Zwingen Sie mich nicht, darauf zu tippen."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1273,20 +1298,20 @@
       "viewAll": "Alle ansehen"
     },
     "createdMaps": {
-      "title": "Created Maps",
-      "created": "Created - ",
-      "empty": "No Maps"
+      "title": "Karten erstellt",
+      "created": "Erstellt - ",
+      "empty": "Keine Karten"
     },
     "mapStats": {
       "title": "Karten Statistik",
       "filter": "Filter",
       "empty": "Keine Karten Statistiken vorhanden",
-      "highestWinRate": "Highest Winrate -",
-      "mapsPlayed": "Maps Played"
+      "highestWinRate": "Höchste Gewinnrate -",
+      "mapsPlayed": "Gespielte Karten"
     },
     "rank": "Rang",
     "season": {
-      "progress": "Season Points"
+      "progress": "Saisonpunkte"
     },
     "delete": {
       "title": "Konto löschen",
@@ -1332,12 +1357,13 @@
       "totalGames": "Spiele insgesamt",
       "asOfMay": "Ab Mai 2023 erfasst",
       "style": "Style",
-      "achievements": "Achievements",
+      "achievements": "Erfolge",
       "color": "Color",
       "details": "Details",
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
+      "games": "Games",
       "allGames": "All Games",
       "report": {
         "button": "Report",
@@ -1353,7 +1379,8 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
       }
     },
@@ -1525,7 +1552,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "WILLKOMMEN IN LANDOVER!",
@@ -1572,8 +1600,8 @@
       "barbDelayTooltip": "Anzahl der Barbaren Würfe, bevor\ndie Barbaren einen Feldzug\nausführen.",
       "namePlaceholder": "Name eingeben",
       "public": "Öffentliches Spiel",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Karten Hinweise",
         "tooltip": "Aktiviert Karten-Hinweis-Markierungen beim Erstellen von Strukturen."
@@ -1795,12 +1823,12 @@
     "kicked": "Rausgeworfen!",
     "kickedMsg": "Der Gastgeber hat dich vom Spiel entfernt. Versuchen, einem anderen Spiel beizutreten.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Spielwiederholung abgebrochen",
     "rematchCanceledMsg": "Jemand hat die Revancheanfrage abgelehnt.",
     "gameCanceled": "Spiel existiert nicht mehr",
-    "gameCanceledMsg": "Der Gastgeber hat dieses Spiel abgebrochen.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "Der Gastgeber hat dieses Spiel abgebrochen."
   },
   "builder": {
     "create": {
@@ -1825,7 +1853,8 @@
         "title": "Beschreibung",
         "placeholder": "Beschreibung hinzufügen..."
       },
-      "points": "Siegpunkte"
+      "points": "Siegpunkte",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Kachelfeld Startsperre",

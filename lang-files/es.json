@@ -47,7 +47,8 @@
         "third": "",
         "other": ""
       },
-      "invited": "invitó"
+      "invited": "invitó",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "PREMIOS",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Guardar cambios",
-    "uploadPhoto": "Subir foto"
+    "uploadPhoto": "Subir foto",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "LOGROS",
@@ -500,7 +505,9 @@
         "message": "¿Estás seguro de que quieres prohibir a este jugador del chat? No verás ningún mensaje de ellos",
         "yes": "Sí",
         "no": "No",
-        "failed": "Algo salió mal, inténtalo de nuevo"
+        "failed": "Algo salió mal, inténtalo de nuevo",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Jugador mudo",
@@ -700,7 +707,8 @@
         "title": "Rendirte",
         "message": "¿Estás seguro de que quieres rendirte?\nNo hay penalización por admitir la derrota.",
         "yes": "Rendirte",
-        "no": "Cancelar"
+        "no": "Cancelar",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Compartir",
       "reportBug": {
@@ -914,7 +922,9 @@
       "endTurnConfirm": "¿Terminar turno?",
       "canUpgrade": "¿Estás seguro de que quieres terminar el turno? ¡Puedes mejorar tu cultura sin un intercambio!",
       "lotOfResources": "¿Estás seguro de que quieres terminar tu turno? Tienes muchos recursos no gastados.",
-      "cancel": "Cancelar"
+      "cancel": "Cancelar",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "No podemos encontrar el juego, inténtalo de nuevo. ",
@@ -932,7 +942,18 @@
       "cloth": "Paño",
       "coin": "Moneda",
       "random": "Aleatorio"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Ver tabla de gráficos de productos",
@@ -1219,44 +1240,48 @@
         "settings": "Settings"
       },
       "labels": {
-        "sound": "Sound",
+        "sound": "Sonido",
         "email": "Email",
-        "notifications": "Notifications",
-        "gameInvites": "Game Invites",
-        "gameSettings": "Game Settings",
+        "notifications": "Notificaciones",
+        "gameInvites": "invita",
+        "gameSettings": "Ajustes",
         "style": "Style"
       },
       "turnNotification": {
-        "title": "Turn Notifications",
-        "description": "We’ll send you an email when it’s your turn to move"
+        "title": "Turnar notificaciones",
+        "description": "Te enviaremos un correo electrónico cuando sea tu turno de mudarte"
       },
       "gameSummaries": {
-        "title": "Game Summaries",
-        "description": "A nice tidy little update when your game is over to see who won and why and how many points you won/lost."
+        "title": "Resúmenes de juegos",
+        "description": "Una pequeña actualización agradable y ordenada cuando termina el juego para ver quién ganó y por qué y cuántos puntos ganó/perdió."
       },
       "chat": {
         "title": "Chat",
-        "description": "Phone alert when someone sends you an in game chat that you’re in"
+        "description": "Alerta telefónica cuando alguien te envía un chat del juego en el que estás"
       },
       "allowRecentInvites": {
-        "title": "Allow Recent Invites",
-        "description": "Is it ok if someone you recently played invites you to a game?"
+        "title": "Permitir invitaciones recientes",
+        "description": "¿Está bien si alguien con quien jugaste recientemente te invita a un juego?"
       },
       "autoAcceptNewGames": {
-        "title": "Auto Accept New Games",
-        "description": "Can we suggest new games and put you in new games if you’re running low? This helps to onboard new users into the Landover community!"
+        "title": "Aceptar automáticamente nuevos juegos",
+        "description": "¿Podemos sugerirte juegos nuevos y ponerte en juegos nuevos si te estás quedando sin dinero? ¡Esto ayuda a incorporar nuevos usuarios a la comunidad Landover!"
       },
       "mapHint": {
-        "title": "Map Hints",
-        "description": "Show where on the map I can build based on my resources"
+        "title": "Consejos para el mapa",
+        "description": "Mostrar en qué parte del mapa puedo construir en función de mis recursos"
       },
       "showReplay": {
-        "title": "Show Replays",
-        "description": "Allow me to replay previous turns in daily games by showing the replay controls"
+        "title": "Mostrar repeticiones",
+        "description": "Permíteme repetir turnos anteriores en juegos diarios mostrando los controles de repetición."
       },
       "autoRollDice": {
-        "title": "Auto Roll Dice",
-        "description": "Just roll the dice. Don’t make me tap on them."
+        "title": "Dados de tirada automática",
+        "description": "Simplemente tira los dados. No me obligues a hacer tapping en ellos."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1273,9 +1298,9 @@
       "viewAll": "Ver todo"
     },
     "createdMaps": {
-      "title": "Created Maps",
-      "created": "Created - ",
-      "empty": "No Maps"
+      "title": "Mapas creados",
+      "created": "Creado - ",
+      "empty": "Sin mapas"
     },
     "mapStats": {
       "title": "Estadísticas del mapa",
@@ -1353,9 +1378,11 @@
           },
           "selectBox": "Seleccionar cuadro:",
           "description": "Descripción",
-          "placeholder": "Describa el problema"
+          "placeholder": "Describa el problema",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "games": "Games"
     },
     "errors": {
       "updateFailed": "Error al actualizar",
@@ -1525,7 +1552,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "¡BIENVENIDO A LANDOVER!",
@@ -1795,12 +1823,12 @@
     "kicked": "¡Expulsado!",
     "kickedMsg": "El anfitrión te ha sacado de este juego. Intenta unirte a un juego diferente.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Revancha cancelada",
     "rematchCanceledMsg": "Alguien rechazó este juego.",
     "gameCanceled": "Juego cancelado",
-    "gameCanceledMsg": "El anfitrión ha terminado este juego.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "El anfitrión ha terminado este juego."
   },
   "builder": {
     "create": {
@@ -1825,7 +1853,8 @@
         "title": "Descripción",
         "placeholder": "Ingresa la descripción..."
       },
-      "points": "Puntos de victoria"
+      "points": "Puntos de victoria",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Casilla sin colocación",
