@@ -1218,7 +1218,8 @@
         "email": "Email",
         "notifications": "Notifications",
         "gameInvites": "Game Invites",
-        "gameSettings": "Game Settings"
+        "gameSettings": "Game Settings",
+        "style": "Style"
       },
       "turnNotification": {
         "title": "Turn Notifications",
