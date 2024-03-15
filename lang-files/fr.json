@@ -47,7 +47,8 @@
         "third": "",
         "other": ""
       },
-      "invited": "t'a invité"
+      "invited": "t'a invité",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "PRIX",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Sauvegarder les modifications",
-    "uploadPhoto": "Uploader une photo"
+    "uploadPhoto": "Uploader une photo",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "SUCCÈS",
@@ -500,7 +505,9 @@
         "message": "Êtes-vous sûr de vouloir bannir ce joueur du chat? Vous ne verrez plus aucun message de sa part",
         "yes": "Oui",
         "no": "Non",
-        "failed": "Quelque chose n'a pas fonctionné, veuillez réessayer"
+        "failed": "Quelque chose n'a pas fonctionné, veuillez réessayer",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Résignation",
         "message": "Êtes-vous sûr de vouloir vous rendre?nThere n'y a pas de pénalité pour l'aveu d'une défaite.",
         "yes": "Résignation",
-        "no": "Annuler"
+        "no": "Annuler",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Partager",
       "reportBug": {
@@ -914,7 +922,9 @@
       "endTurnConfirm": "Fin du tour?",
       "canUpgrade": "Êtes-vous sûr de vouloir terminer votre tour? Vous pouvez améliorer votre culture sans faire d'échange!",
       "lotOfResources": "Êtes-vous sûr de vouloir terminer votre tour? Vous avez beaucoup de ressources non dépensées",
-      "cancel": "Annuler"
+      "cancel": "Annuler",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Nous ne trouvons pas le jeu, veuillez réessayer",
@@ -932,7 +942,18 @@
       "cloth": "Tissu",
       "coin": "Argent",
       "random": "Aléatoire"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Voir le tableau des produits",
@@ -1256,6 +1277,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1352,9 +1377,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "games": "Games"
     },
     "errors": {
       "updateFailed": "Échec de la mise à jour",
@@ -1524,7 +1551,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "BIENVENUE À LANDOVER!",
@@ -1794,7 +1822,7 @@
     "kicked": "expulsé!",
     "kickedMsg": "L'hôte vous a retiré de ce jeu. Essayez de rejoindre un autre jeu.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
     "rematchCanceled": "Revanche est annulée",
     "rematchCanceledMsg": "Quelqu'un a rejeté ce match",
     "gameCanceled": "Partie annulée",
@@ -1824,7 +1852,8 @@
         "title": "Description",
         "placeholder": "Entrez la description..."
       },
-      "points": "Points de victoire"
+      "points": "Points de victoire",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Tuile sans placement",

@@ -47,7 +47,8 @@
         "third": "ER",
         "other": "ER"
       },
-      "invited": "dich eingeladen"
+      "invited": "dich eingeladen",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "VERGEBEN",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Änderungen Speichern",
-    "uploadPhoto": "Foto hochladen"
+    "uploadPhoto": "Foto hochladen",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "Errungenschaften",
@@ -500,7 +505,9 @@
         "message": "Bist du sicher, dass du diesen Spieler vom Chatraum verbannen willst? Du wirst keine Nachrichten mehr vom Spieler sehen.",
         "yes": "Ja",
         "no": "Nein",
-        "failed": "Fehlgeschlagen, bitte versuche es erneut"
+        "failed": "Fehlgeschlagen, bitte versuche es erneut",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Aufgeben",
         "message": "Bist du sicher, dass du aufgeben willst ?\nHinweis: Eine Niederlage zu gestehen wird nicht bestraft.",
         "yes": "Aufgeben",
-        "no": "Nein, ich möchte weiterspielen"
+        "no": "Nein, ich möchte weiterspielen",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Teilen",
       "reportBug": {
@@ -914,7 +922,9 @@
       "endTurnConfirm": "Zug beenden?",
       "canUpgrade": "Bist du sicher, dass du deinen Zug beenden möchtest? Du besitzt genügend Handelsware für die Aufwertung einer Kultur!",
       "lotOfResources": "Bist du sicher, dass du deinen Zug beenden möchtest? Du besitzt eine Menge Ressourcen.",
-      "cancel": "Zug fortsetzen"
+      "cancel": "Zug fortsetzen",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Wir können das Spiel nicht finden, bitte versuche es erneut",
@@ -932,7 +942,18 @@
       "cloth": "Tuch",
       "coin": "Münze",
       "random": "Zufällig"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Sehe dir die Baukosten an",
@@ -1256,6 +1277,10 @@
       "autoRollDice": {
         "title": "Automatisches Würfeln",
         "description": "Lass einfach die Würfel rollen. Zwingen Sie mich nicht, darauf zu tippen."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1337,6 +1362,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
+      "games": "Games",
       "allGames": "All Games",
       "report": {
         "button": "Report",
@@ -1352,7 +1378,8 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
       }
     },
@@ -1524,7 +1551,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "WILLKOMMEN IN LANDOVER!",
@@ -1571,8 +1599,8 @@
       "barbDelayTooltip": "Anzahl der Barbaren Würfe, bevor\ndie Barbaren einen Feldzug\nausführen.",
       "namePlaceholder": "Name eingeben",
       "public": "Öffentliches Spiel",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Karten Hinweise",
         "tooltip": "Aktiviert Karten-Hinweis-Markierungen beim Erstellen von Strukturen."
@@ -1794,12 +1822,12 @@
     "kicked": "Rausgeworfen!",
     "kickedMsg": "Der Gastgeber hat dich vom Spiel entfernt. Versuchen, einem anderen Spiel beizutreten.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Spielwiederholung abgebrochen",
     "rematchCanceledMsg": "Jemand hat die Revancheanfrage abgelehnt.",
     "gameCanceled": "Spiel existiert nicht mehr",
-    "gameCanceledMsg": "Der Gastgeber hat dieses Spiel abgebrochen.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "Der Gastgeber hat dieses Spiel abgebrochen."
   },
   "builder": {
     "create": {
@@ -1824,7 +1852,8 @@
         "title": "Beschreibung",
         "placeholder": "Beschreibung hinzufügen..."
       },
-      "points": "Siegpunkte"
+      "points": "Siegpunkte",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Kachelfeld Startsperre",

@@ -41,7 +41,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "invited you",
+      "rematch": "invited a rematch"
     },
     "goGold": "GOLD",
     "buttons": {
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Sačuvajte promene",
-    "uploadPhoto": "Postavite fotografiju"
+    "uploadPhoto": "Postavite fotografiju",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "DOSTIGNUĆA",
@@ -500,7 +505,9 @@
         "message": "Da li ste sigurni da želite da zabranite ovog igrača u četu? Nećete videti nijednu poruku od njih",
         "yes": "Da",
         "no": "Ne",
-        "failed": "Došlo je do greške, pokušajte ponovo"
+        "failed": "Došlo je do greške, pokušajte ponovo",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Predaj se",
         "message": "Da li ste sigurni da želite da se predate?\nNema kazne za priznavanje poraza.",
         "yes": "Predaj se",
-        "no": "Otkaži"
+        "no": "Otkaži",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Podeli",
       "reportBug": {
@@ -914,7 +922,9 @@
       "canUpgrade": "Da li ste sigurni da želite završiti potez? Možete unaprediti svoju kulturu bez trgovine!",
       "lotOfResources": "Da li ste sigurni da želite završiti potez? Imate puno neiskorišćenih resursa.",
       "cancel": "Otkaži",
-      "home": "Home"
+      "home": "Home",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Ne možemo pronaći igru, molimo pokušajte ponovo",
@@ -932,6 +942,17 @@
       "cloth": "Цлотх",
       "coin": "Новчић",
       "random": "Random"
+    },
+    "alreadyInProgress": "Game already in progress…",
+    "tileTooltip": {
+      "originalNumber": "Original number: {}",
+      "placeMerchant": "Place Merchant",
+      "production": "Production: {}",
+      "raid": "Raid",
+      "raided": "Raided now",
+      "totalRaided": "Raided: {}",
+      "totalRolls": "Rolls: {}",
+      "unRaid": "Unraid"
     }
   },
   "tutorial": {
@@ -1257,6 +1278,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up",
+        "title": "Vibration"
       }
     },
     "account": {
@@ -1353,9 +1378,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "games": "Games"
     },
     "otp": {
       "title": "Тренутна верификација е-поште",
@@ -1524,7 +1551,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "DOBRODOŠLI U LANDOVER!",
@@ -1824,7 +1852,8 @@
         "title": "Opis",
         "placeholder": "Unesite opis..."
       },
-      "points": "Poeni za Pobedu"
+      "points": "Poeni za Pobedu",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Pločica za koju nije dozvoljeno postavljanje",

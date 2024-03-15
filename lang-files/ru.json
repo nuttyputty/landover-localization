@@ -47,7 +47,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "invited you"
+      "invited": "invited you",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "AWARDS",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "Сохранить изменения",
-    "uploadPhoto": "Загрузить фото"
+    "uploadPhoto": "Загрузить фото",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "ДОСТИЖЕНИЯ",
@@ -500,7 +505,9 @@
         "message": "Вы уверены, что хотите заблокировать этого игрока в чате? Вы не увидите никаких сообщений от него",
         "yes": "Да",
         "no": "Нет",
-        "failed": "Что-то пошло не так, пожалуйста, попробуйте снова"
+        "failed": "Что-то пошло не так, пожалуйста, попробуйте снова",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "Сдаться",
         "message": "Вы уверены, что хотите сдаться?\nЗа признание поражения нет наказания.",
         "yes": "Сдаться",
-        "no": "Отмена"
+        "no": "Отмена",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "Поделиться",
       "reportBug": {
@@ -914,7 +922,9 @@
       "endTurnConfirm": "Закончить ход?",
       "canUpgrade": "Вы уверены, что хотите закончить ход? Вы можете улучшить свою культуру без торговли!",
       "lotOfResources": "Вы уверены, что хотите закончить свой ход? У вас много неиспользованных ресурсов.",
-      "cancel": "Отменить"
+      "cancel": "Отменить",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "Мы не можем найти игру, пожалуйста, попробуйте снова",
@@ -932,7 +942,18 @@
       "cloth": "Cloth",
       "coin": "Coin",
       "random": "Random"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "Посмотреть таблицу производства",
@@ -1256,6 +1277,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1337,7 +1362,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "games": "Games",
       "report": {
         "button": "Report",
         "dialog": {
@@ -1352,9 +1377,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "allGames": "All Games"
     },
     "errors": {
       "updateFailed": "Не удалось обновить",
@@ -1524,7 +1551,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "ДОБРО ПОЖАЛОВАТЬ В LANDOVER!",
@@ -1571,8 +1599,8 @@
       "barbDelayTooltip": "Количество бросков варваров до\nначала их продвижения к атаке.",
       "namePlaceholder": "Введите название",
       "public": "Публичная игра",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "Подсказки карты",
         "tooltip": "Включает индикаторы подсказок карты при строительстве структур."
@@ -1794,12 +1822,12 @@
     "kicked": "Выгнан!",
     "kickedMsg": "Хост удалил вас из этой игры. Попробуйте присоединиться к другой игре.",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "Переигровка отменена",
     "rematchCanceledMsg": "Кто-то отклонил эту игру.",
     "gameCanceled": "Игра отменена",
-    "gameCanceledMsg": "Хост завершил эту игру.",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "Хост завершил эту игру."
   },
   "builder": {
     "create": {
@@ -1824,7 +1852,8 @@
         "title": "Описание",
         "placeholder": "Введите описание..."
       },
-      "points": "Очки Победы"
+      "points": "Очки Победы",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "Клетка без Размещения",

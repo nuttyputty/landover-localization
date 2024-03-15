@@ -47,7 +47,8 @@
         "third": "RD",
         "other": "TH"
       },
-      "invited": "邀请你"
+      "invited": "邀请你",
+      "rematch": "invited a rematch"
     },
     "buttons": {
       "awards": "奖项",
@@ -113,7 +114,11 @@
   },
   "avatar": {
     "save": "保存更改",
-    "uploadPhoto": "上传照片"
+    "uploadPhoto": "上传照片",
+    "cancelBtn": "Cancel",
+    "leaveAlertDescription": "Are you sure you want to exit avatar builder?\nAny unsaved changes will be lost. Make sure to click 'Save Changes' to keep them.",
+    "leaveAlertTitle": "Leave Builder",
+    "leaveBtn": "Leave"
   },
   "achievements": {
     "title": "成就",
@@ -500,7 +505,9 @@
         "message": "确定要禁止此玩家在聊天中发言吗？你将不会看到任何来自他们的消息 ",
         "yes": "是",
         "no": "否",
-        "failed": "出现错误，请重试"
+        "failed": "出现错误，请重试",
+        "permanentlyBannedMessage": "This account has been closed.",
+        "permanentlyBannedTitle": "Account Closed"
       },
       "muteConfirmation": {
         "title": "Mute Player",
@@ -700,7 +707,8 @@
         "title": "投降",
         "message": "你确定要投降吗？\n承认败北没有任何惩罚。",
         "yes": "投降",
-        "no": "取消"
+        "no": "取消",
+        "messageRanked": "In ranked you gain and lose points based on the VP margin. Are you sure you want to surrender?"
       },
       "share": "分享",
       "reportBug": {
@@ -914,7 +922,9 @@
       "endTurnConfirm": "结束回合？ ",
       "canUpgrade": "你确定要结束回合吗？你还可以无需交易就升级文化！ ",
       "lotOfResources": "你确定要结束回合吗？你有很多未使用的资源。",
-      "cancel": "取消"
+      "cancel": "取消",
+      "done": "Done",
+      "next": "Next"
     },
     "errors": {
       "cannotFindGame": "我们无法找到该局游戏，请重试",
@@ -932,7 +942,18 @@
       "cloth": "布",
       "coin": "硬币",
       "random": "随机的"
-    }
+    },
+    "tileTooltip": {
+      "raid": "Raid",
+      "unRaid": "Unraid",
+      "placeMerchant": "Place Merchant",
+      "raided": "Raided now",
+      "originalNumber": "Original number: {}",
+      "production": "Production: {}",
+      "totalRolls": "Rolls: {}",
+      "totalRaided": "Raided: {}"
+    },
+    "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
     "viewProductChart": "查看生产图表",
@@ -1256,6 +1277,10 @@
       "autoRollDice": {
         "title": "Auto Roll Dice",
         "description": "Just roll the dice. Don’t make me tap on them."
+      },
+      "vibration": {
+        "title": "Vibration",
+        "description": "Allow vibrations to alert me when its my turn or it’s time to ready up"
       }
     },
     "account": {
@@ -1337,7 +1362,7 @@
       "surrendered": "{} surrendered",
       "finished": "{} finished",
       "timedOut": "{} timed out",
-      "allGames": "All Games",
+      "games": "Games",
       "report": {
         "button": "Report",
         "dialog": {
@@ -1352,9 +1377,11 @@
           },
           "selectBox": "Select box:",
           "description": "Description",
-          "placeholder": "Describe the issue"
+          "placeholder": "Describe the issue",
+          "thanksMessage": "Thank you for the report. We do our best to keep Landover fun and non toxic!\nOur staff will investigate the report and act accordingly."
         }
-      }
+      },
+      "allGames": "All Games"
     },
     "errors": {
       "updateFailed": "更新失败",
@@ -1524,7 +1551,8 @@
     "gamesJoined": {
       "one": "game joined",
       "other": "games joined"
-    }
+    },
+    "justASecond": "Just a second..."
   },
   "help": {
     "title": "欢迎来到LANDOVER！",
@@ -1571,8 +1599,8 @@
       "barbDelayTooltip": "蛮族开始向进攻前的掷骰次数。",
       "namePlaceholder": "输入名称",
       "public": "公共游戏",
-      "always": "Always",
       "ranked": "Ranked Game",
+      "always": "Always",
       "mapHints": {
         "title": "地图提示",
         "tooltip": "建造时启用地图提示器。"
@@ -1794,12 +1822,12 @@
     "kicked": "已踢出！ ",
     "kickedMsg": "房主已将你移出这局游戏。试着加入其他游戏吧。",
     "timeOut": "YOU DIDN'T READY UP",
-    "timeOutMsg": "Any time a live game starts we ask all players to ready up to ensure everyone is here. Please be sure to stay on the live game lobby screen while waiting for a game. Failing to ready up multiple times will result in a temporary ban from live play.",
+    "timeOutMsg": "Failed to start because you did not ready up in time.",
+    "timeOutButton": "Ok I got it",
     "rematchCanceled": "已取消再战",
     "rematchCanceledMsg": "有人拒绝这局游戏。",
     "gameCanceled": "游戏已取消",
-    "gameCanceledMsg": "房主已结束这局游戏。",
-    "timeOutButton": "Ok I got it"
+    "gameCanceledMsg": "房主已结束这局游戏。"
   },
   "builder": {
     "create": {
@@ -1824,7 +1852,8 @@
         "title": "描述",
         "placeholder": "输入描述……"
       },
-      "points": "胜利点（VP）"
+      "points": "胜利点（VP）",
+      "players": "Players"
     },
     "terrain": {
       "nonPlacement": "不可放置方块",
