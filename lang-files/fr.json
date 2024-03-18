@@ -273,7 +273,7 @@
           "failed": "Essai de vol des ressources mais n'a rien obtenu",
           "failedWithResource": "a essayé de voler {} des ressources mais n'a rien obtenu",
           "withResourcesAllSame": "Volé {} {} à{}",
-          "withResourcesDifferent": "a Volé 2 {} à {} et 1 $resourceName de {}"
+          "withResourcesDifferent": "a Volé 2 {} à {} et 1 {} de {}"
         },
         "commodityMonopoly": {
           "oneVictim": "A volé des marchandises à {}",

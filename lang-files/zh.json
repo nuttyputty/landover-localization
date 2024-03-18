@@ -273,7 +273,7 @@
           "failed": "试图偷取一些资源但什么都没得到",
           "failedWithResource": "试图偷取{}但什么都没得到",
           "withResourcesAllSame": "已从玩家{}那里偷取{} {} ",
-          "withResourcesDifferent": "已从玩家{}那里偷取2个{}，还从玩家{}那里偷取了1个$resourceName "
+          "withResourcesDifferent": "已从玩家{}那里偷取2个{}，还从玩家{}那里偷取了1个{} "
         },
         "commodityMonopoly": {
           "oneVictim": "已从玩家{}那里偷取商品",
