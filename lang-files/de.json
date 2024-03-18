@@ -129,7 +129,7 @@
     "title": "Live-Spiele",
     "emptyList": "Es gibt keine aktiven Spiele",
     "gameLabel": "Live",
-    "button": "SEHEN\nLIVE-SPIELE"
+    "button": "WATCH GAMES"
   },
   "errors": {
     "gameAlreadyStarted": "Spiel hat bereits begonnen",

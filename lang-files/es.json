@@ -129,7 +129,7 @@
     "title": "Ver juegos en vivo",
     "emptyList": "No hay juegos activos",
     "gameLabel": "Vivir",
-    "button": "VER PARTIDOS EN VIVO"
+    "button": "WATCH GAMES"
   },
   "errors": {
     "gameAlreadyStarted": "El juego ya ha comenzado",

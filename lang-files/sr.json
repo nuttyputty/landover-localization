@@ -129,7 +129,7 @@
     "title": "Watch Live Games",
     "emptyList": "There are no active games",
     "gameLabel": "Live",
-    "button": "WATCH\nLIVE GAMES"
+    "button": "WATCH GAMES"
   },
   "errors": {
     "gameAlreadyStarted": "Igra već počela",

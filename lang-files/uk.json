@@ -1923,7 +1923,7 @@
     "unlockAchievement": "Зіграйте 10 ігор,\nщоб розблокувати досягнення"
   },
   "watchLiveGames": {
-    "button": "ДИВІТЬСЯ\nПРЯМІ ІГРИ",
+    "button": "WATCH GAMES",
     "emptyList": "Активних ігор немає",
     "gameLabel": "Жити",
     "title": "Дивитися ігри"

@@ -129,7 +129,7 @@
     "title": "Regarder les matchs en direct",
     "emptyList": "Il n'y a pas de jeux actifs",
     "gameLabel": "En direct",
-    "button": "REGARDER\nJEUX EN DIRECT"
+    "button": "WATCH GAMES"
   },
   "errors": {
     "gameAlreadyStarted": "Partie déjà commencé",
