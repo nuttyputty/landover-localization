@@ -267,7 +267,7 @@
           "failed": "Megpróbáltál nyersanyagot lopni, de nem kaptál semmit",
           "failedWithResource": "Megpróbáltál lopni ezt {}, de nem kaptál semmit",
           "withResourcesAllSame": "Ellopott {} {} játékosoktól {}",
-          "withResourcesDifferent": "Ellopott 2 {}  játékosoktól {} és 1 $resourceName játékosoktól {}"
+          "withResourcesDifferent": "Ellopott 2 {}  játékosoktól {} és 1 {} játékosoktól {}"
         },
         "commodityMonopoly": {
           "oneVictim": "Ellopott nyersanyagokat {}",

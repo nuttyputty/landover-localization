@@ -273,7 +273,7 @@
           "failed": "Попытался украсть ресурсы, но ничего не получил",
           "failedWithResource": "Попытался украсть {}, но ничего не получил",
           "withResourcesAllSame": "Украл {} {} у {}",
-          "withResourcesDifferent": "Украл 2 {} у {} и 1 $Наименование источника у {}"
+          "withResourcesDifferent": "Украл 2 {} у {} и 1 {} источника у {}"
         },
         "commodityMonopoly": {
           "oneVictim": "Украл товары у {}",

@@ -273,7 +273,7 @@
           "failed": "Pokušao je ukrasti neke resurse, ali ništa nije dobio",
           "failedWithResource": "Pokušao je ukrasti {} ali ništa nije dobio",
           "withResourcesAllSame": "Uzeo je {} {} od {}",
-          "withResourcesDifferent": "Uzeo je 2 {} od {}, i 1 $resourceName od {}"
+          "withResourcesDifferent": "Uzeo je 2 {} od {}, i 1 {} od {}"
         },
         "commodityMonopoly": {
           "oneVictim": "Uzeo je dobra od {}",

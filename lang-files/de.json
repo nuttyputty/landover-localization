@@ -273,7 +273,7 @@
           "failed": "Misslang der Versuch, Rohstoffe zu stehlen",
           "failedWithResource": "Versuchte {} zu stehlen, bekam jedoch nichts",
           "withResourcesAllSame": "Stahl {} {} von {}",
-          "withResourcesDifferent": "Stahl 2 {} von {} und 1 $resourceName von {}"
+          "withResourcesDifferent": "Stahl 2 {} von {} und 1 {} von {}"
         },
         "commodityMonopoly": {
           "oneVictim": "Stahl Handelsware von {}",
