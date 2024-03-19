@@ -678,7 +678,8 @@
         "inventor": "选择要交换数字的2个方块",
         "merchant": "放置你的商人代币",
         "siege": "选择要围攻的方块",
-        "raid": "选择要袭击的方块"
+        "raid": "选择要袭击的方块",
+        "medicine":"选择您要升级的村庄"
       },
       "chooseRoads": {
         "placeRoad": "放置道路或桥梁",

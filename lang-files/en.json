@@ -678,7 +678,8 @@
         "inventor": "Choose two tiles to swap numbers",
         "merchant": "Place your merchant token",
         "siege": "Choose tile to siege",
-        "raid": "Choose tile to raid"
+        "raid": "Choose tile to raid",
+        "medicine":"Select village you want to upgrade"
       },
       "chooseRoads": {
         "placeRoad": "Place road or bridge",

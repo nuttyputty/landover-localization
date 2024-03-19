@@ -678,7 +678,8 @@
         "inventor": "Elige dos fichas para intercambiar números",
         "merchant": "Coloca tu ficha de comerciante",
         "siege": "Elige la casilla para asediarla",
-        "raid": "Elige la casilla para saquearla"
+        "raid": "Elige la casilla para saquearla",
+        "medicine":"Selecciona el pueblo que deseas mejorar"
       },
       "chooseRoads": {
         "placeRoad": "Coloca la carretera o puente",

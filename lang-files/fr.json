@@ -678,7 +678,8 @@
         "inventor": "Choisissez deux tuiles pour échanger des nombres",
         "merchant": "Placez votre jeton de marchand",
         "siege": "Choisir la tuile à assiéger",
-        "raid": "Choisir une tuile pour lancer une attaque"
+        "raid": "Choisir une tuile pour lancer une attaque",
+        "medicine":"Sélectionnez le village que vous souhaitez améliorer"
       },
       "chooseRoads": {
         "placeRoad": "Placer une route ou un pont",

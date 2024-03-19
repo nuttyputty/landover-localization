@@ -672,7 +672,8 @@
         "inventor": "Válassz két lapot a számok cseréjéhez",
         "merchant": "Helyezd el a kereskedő jelződet",
         "siege": "Válassz egy lapot az ostromhoz",
-        "raid": "Válassz egy lapot a rajtaütéshez"
+        "raid": "Válassz egy lapot a rajtaütéshez",
+        "medicine":"Válassza ki a frissíteni kívánt falut"
       },
       "chooseRoads": {
         "placeRoad": "Helyezz el utat vagy hidat",

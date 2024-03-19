@@ -672,7 +672,8 @@
         "inventor": "Scegli due tessere per scambiare i numeri",
         "merchant": "Posiziona il tuo token mercante",
         "siege": "Scegli la tessera per l'assedio",
-        "raid": "Scegli la tessera per il raid"
+        "raid": "Scegli la tessera per il raid",
+        "medicine":"Scegli il villaggio che desideri aggiornare"
       },
       "chooseRoads": {
         "placeRoad": "Posiziona strada o ponte",

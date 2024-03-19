@@ -678,7 +678,8 @@
         "inventor": "Wähle zwei Feldkacheln, um Ziffer Plättchen zu tauschen",
         "merchant": "Platziere den Händler",
         "siege": "Wähle eine Feldkachel, die belagert werden soll",
-        "raid": "Wähle eine Feldkachel, auf die ein Überfall ausgeführt werden soll"
+        "raid": "Wähle eine Feldkachel, auf die ein Überfall ausgeführt werden soll",
+        "medicine":"Wählen Sie das Dorf aus, das Sie aktualisieren möchten"
       },
       "chooseRoads": {
         "placeRoad": "Platziere eine Straße oder Brücke",

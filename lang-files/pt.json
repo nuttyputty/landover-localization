@@ -672,7 +672,8 @@
         "inventor": "Escolhe dois ladrilhos para trocar números",
         "merchant": "Coloca o teu token do mercador",
         "siege": "Escolhe o ladrilho para cercar",
-        "raid": "Escolhe o ladrilho para invadir"
+        "raid": "Escolhe o ladrilho para invadir",
+        "medicine":"Escolhea vila que você deseja atualizar"
       },
       "chooseRoads": {
         "placeRoad": "Coloca a estrada ou ponte",

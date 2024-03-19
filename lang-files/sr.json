@@ -678,7 +678,8 @@
         "inventor": "Odaberi dve ploče da razmeniš brojeve",
         "merchant": "Postavi svoj trgovinski žeton",
         "siege": "Odaberi ploču za opsadu",
-        "raid": "Odaberi ploču za napad"
+        "raid": "Odaberi ploču za napad",
+        "medicine":"Izaberite selo koje želite da nadogradite"
       },
       "chooseRoads": {
         "placeRoad": "Postavi put ili most",
