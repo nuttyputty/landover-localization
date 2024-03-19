@@ -518,6 +518,10 @@
         "invitePlayer": "{} invited {} to the game",
         "botAdded": "{} added a bot",
         "botRemoved": "{} removed a bot"
+      },
+      "actionsDialog": {
+        "profile": "Profile",
+        "mute": "Mute"
       }
     },
     "playerTurnOverlay": {

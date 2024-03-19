@@ -524,6 +524,10 @@
         "invitePlayer": "{}邀请{}参加游戏",
         "botAdded": "{} 添加了一个机器人",
         "botRemoved": "{} 删除了一个机器人"
+      },
+      "actionsDialog": {
+        "profile": "Profile",
+        "mute": "Mute"
       }
     },
     "playerTurnOverlay": {

@@ -518,6 +518,10 @@
         "invitePlayer": "{} запросив {} до гри",
         "botAdded": "{} додав бота",
         "botRemoved": "{} видалив бота"
+      },
+      "actionsDialog": {
+        "profile": "Profile",
+        "mute": "Mute"
       }
     },
     "playerTurnOverlay": {

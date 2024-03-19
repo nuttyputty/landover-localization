@@ -518,6 +518,10 @@
         "invitePlayer": "{} meghívta {} felhasználót a játékba",
         "botAdded": "{} hozzáadott egy robotot",
         "botRemoved": "{} eltávolított egy robotot"
+      },
+      "actionsDialog": {
+        "profile": "Profile",
+        "mute": "Mute"
       }
     },
     "playerTurnOverlay": {
