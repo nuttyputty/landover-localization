@@ -71,6 +71,17 @@
         "leaveFeedback": "Leave feedback",
         "thanksMessage": "Thank you for the feedback! Our team will investigate asap. We’re always trying to improve Landover!"
       }
+    },
+    "welcomeGamesDialog": {
+      "title": "WELCOME TO LANDOVER!",
+      "subtitle": {
+        "begin": "Before joining",
+        "boldText": " ranked games ",
+        "end": "you must complete {} normal games."
+      },
+      "game": "Game {}",
+      "soloButton": "Solo Game",
+      "multiplayerButton": "Multiplayer"
     }
   },
   "privacy": {
