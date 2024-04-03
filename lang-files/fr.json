@@ -973,81 +973,27 @@
     "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
-    "viewProductChart": "Voir le tableau des produits",
-    "continue": "Tapez pour continuer",
-    "learningMode": {
-      "title": "Bienvenue à Landover !",
-      "description": "Dans ce didacticiel, nous allons vous familiariser avec l'<bold>interface</bold> et le <bold>déroulement du jeu</bold>. Cependant, plus vous jouez à des jeux, mieux vous commencerez à comprendre les stratégies."
-    },
-    "firstVillage": {
-      "title": "Premier village",
-      "description": "Placez votre village sur un coin de grande valeur ci-dessous. Ils sont indiqués en rouge. Essayez d'en obtenir un qui possède 3 types de ressources différentes. Il est toujours bon de commencer avec du blé, de l'argile, du bois ou des moutons."
-    },
-    "firstRoad": {
-      "title": "Première route",
-      "description": "Maintenant, placez une route de votre village vers un autre bon coin"
-    },
-    "firstCity": {
-      "title": "Première ville",
-      "description": "Placez votre ville sur un autre coin de grande valeur en dessous. Les ressources que vous n'avez pas obtenues avec votre village, essayez de les obtenir avec votre ville. N'oubliez pas que les villes et les villages doivent toujours être séparés par au moins un coin vide."
-    },
-    "secondRoad": {
-      "title": "Deuxième route",
-      "description": "Et encore une fois, placez une route de votre ville vers un autre bon coin"
-    },
-    "rollTime": {
-      "title": "Le temps de rouler",
-      "description": "Maintenant que vous avez placé vos premières colonies, il est temps de lancer les dés et de commencer à collecter des ressources. Continuez à lancer les dés jusqu'à ce que vous ayez assez de ressources pour construire d'autres choses."
-    },
-    "moreRoads": {
-      "title": "Construire plus de routes",
-      "description": "Il semble que vous ayez suffisamment de ressources pour construire plus de routes. Allez-y et construisez des routes plus éloignées de vos colonies."
-    },
-    "anotherVillage": {
-      "title": "Construire un autre village",
-      "description": "'Vous avez maintenant assez de ressources pour construire un village et un emplacement libre vous attend. Allez-y et construisez un autre village pour étendre votre empire et collecter plus de ressources à chaque tour."
-    },
-    "productionChart": {
-      "title": "Graphique de production",
-      "description": " Ci-dessous figure le nombre de ressources que les villages et les villes produisent : "
-    },
-    "trading": {
-      "title": "échange",
-      "description": "La banque Landover vous permet d'échanger n'importe quelle ressource ou marchandise 3 pour 1. Il semble que vous puissiez transformer votre village en ville, mais cela nécessite un échange. Allez-y et essayez de construire une ville et vous devriez voir l'invite Trade to Build. Si vous voulez des échanges plus économiques, essayez de construire un village sur un port qui vous donne une capacité de 2 pour 1"
-    },
-    "culture": {
-      "title": "Culture",
-      "description": "Maintenant que vous avez une marchandise, ouvrez la fenêtre modale de la culture et mettez-la à niveau. L'amélioration de la culture vous permettra de gagner de précieuses cartes de développement, de débloquer de nouvelles capacités, ou éventuellement de gagner des métros qui valent des PV supplémentaires."
-    },
-    "cities": {
-      "title": "Villes",
-      "description": "Allez-y et choisissez un village que vous aimeriez transformer en ville. Cela coûte 3 minerais et 2 blés mais doublera la production de votre village!"
-    },
-    "military": {
-      "title": "Militaire",
-      "description": "Maintenant que votre économie progresse, il est temps de construire une armée pour parer aux attaques des barbares. Vous avez besoin d'une puissance militaire pour chaque ville lorsque les barbares attaquent pour éviter de perdre une ville. Le traqueur de barbares se trouve en haut à droite et indique le nombre de jets avant qu'ils n'attaquent. Allez-y..."
-    },
-    "barbarians": {
-      "title": "Barbares",
-      "description": "Les barbares sont en route. Le bouclier en haut à droite indique si vous êtes en sécurité ou non. S'il est rouge, vous avez besoin de plus de troupes. S'il est vert, vous êtes en sécurité. Chaque fois qu'ils attaquent, vous perdez 1 puissance militaire, alors assurez-vous de continuer à ajouter des militaires au fil du temps."
-    },
-    "metros": {
-      "title": "Métros",
-      "description": "Assurez-vous de continuer à améliorer votre culture avec vos cartes de marchandises. Une fois que vous aurez atteint le niveau 4, vous recevrez un métro d'une valeur de +2VP. Les métros sont immunisés contre les attaques des barbares et ne peuvent pas être rasés par d'autres joueurs."
-    },
-    "spendResources": {
-      "title": "Dépensez vos ressources",
-      "description": "Vous risquez actuellement de vous débarrasser de la moitié de vos cartes si vous obtenez un 7! N'oubliez pas de dépenser vos ressources ou de construire des remparts pour augmenter la taille de votre main. Les remparts coûtent 2 argiles et peuvent être construits sur n'importe quelle ville. "
-    },
-    "goodLuck": {
-      "title": "Bonne chance!",
-      "description": "Il semble que vous soyez en bonne voie pour atteindre les 15 PV. Continuez à vous développer, à construire des villages, à améliorer vos villes, à renforcer votre armée et à construire des métros. Si vous avez des questions, rejoignez-nous sur discord. Essayez quelques parties contre les robots, et quand vous serez prêt, défiez vos amis!"
-    },
-    "end": {
-      "title": "Félicitations",
-      "description": "Vous venez d'atteindre 15 PV et vous avez gagné la partie! Nous espérons que vous vous êtes bien amusé en cours de route. Nous vous recommandons vivement d'essayer une partie en solo contre un seul robot."
-    },
-    "coach": "Entraîneur"
+    "webError": "Please, download the app to play tutorial.",
+    "never": "Never",
+    "aLittle": "A Little",
+    "aLot": "A Lot!",
+    "coach": "Coach",
+    "welcome": "Welcome to Landover! In this tutorial we’re going to teach you all about Landover and how to play. To better guide you, I’m going to ask a couple questions. <bold>Have you ever played Settlers of Catan?</bold>",
+    "playALot": "Great! People who have played a lot of Catan will find Landover very similar, especially if you played Cities & Knights. Here are the major differences with Landover:\n- Knights replaced with military\n- Robber replaced with catapults\n- No player trading, but you can trade 3:1 with the bank",
+    "playALittle": "Don’t worry! Even if you don’t have a lot of experience with Catan, we’ll teach you what you need to know.\n\nTap to continue",
+    "firstVillage":  "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep.",
+    "firstCity":  "Now it’s time to place your city! Cities earn double resources.",
+    "secondRoad":  "Congrats! Now one more road! Go ahead and choose which direction you want to build in…",
+    "rollTime":  "Woohoo! Your empire has started. Let’s roll the dice and collect some resources!",
+    "moreRoads": 
+       "You’ve rolled an 8 and earned some wood from your 8 forest tile. Let’s build another road!",
+    "trading": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability.",
+    "cities":  "Go ahead and choose a village you'd like to upgrade to a city. It costs 3 ore and 2 wheat but will double the production of your village!",
+    "barbarians": "Barbarians are on their way. The shield top right shows if you are safe or not. If it's red, you need more military. If it's green, then you are safe. Each time they attack you'll lose 1 military power so be sure to keep adding more military over time.",
+    "metros":  "Be sure to keep upgrading your culture with your commodity cards. Once you reach level 4 you'll receive a metro worth +2VP. Metros are immune from barbarian attacks and can't be razed by other players.",
+    "spendResources": "You currently are at risk of discarding half your cards if a 7 is rolled! Be sure to spend your resources or build city walls to increase your hand size. City walls cost 2 clay and can be built on any cities. ",
+    "goodLuck":  "It looks like you are well on your way to 15 VPs. Keep expanding, building villages, upgrading to cities, leveling up your military, and building metros. If you have questions, join us on discord. Try some games against the bots, and when you're ready, challenge your friends!",
+    "end":  "You have just reached 15 VPs and have won the game! Hopefully you had some fun along the way. We highly recommend you try a solo game against one bot."
   },
   "subscription": {
     "cancel": {
@@ -1946,22 +1892,26 @@
     "unlockAchievement": "Terminez 10 parties\nto pour débloquer le succès"
   },
   "showcase": {
-    "barbarians1": "C'est le traqueur barbare. Chaque fois qu'un <bold>barbare (crâne)</bold> est lancé sur les <bold>dés</bold>, les barbares se rapprochent d'un pas de l'attaque.",
-    "barbarians2": "Vous devrez améliorer votre armée pour éviter de <bold>perdre une ville</bold>.",
-    "cornerValues1": "Vous voyez ces chiffres sur les <bold>coins</bold> de chaque <bold>tuile</bold>?",
-    "cornerValues2": "Ils sont là uniquement lors du placement pour vous aider à localiser facilement les <bold>coins de grande valeur</bold>, ceux qui sont adjacents à de bonnes tuiles! Plus la valeur du coin est élevée, mieux c'est!",
-    "culture1": "Ces 3 cercles représentent vos niveaux de culture pour les domaines <bold>Science</bold> (vert), <bold>Commerce</bold> (jaune) et <bold>Politique</bold> (bleu).",
-    "culture2": "Améliorer votre culture vous donnera des <bold>cartes de développement</bold>. Atteindre le niveau 3 débloque une <bold>capacité spéciale</bold>. Et atteignez d'abord le niveau 4 pour gagner un métro valant <bold>2 PV</bold>.",
-    "military1": "Il s'agit de votre <bold>niveau militaire</bold>, il est actuellement de 0.\nVous pouvez améliorer votre armée en dépensant <bold>1 blé</bold> et <bold>1 mouton</bold>.",
-    "military2": "L'armée se défend contre les <bold>attaques barbares</bold> et peut être utilisée pour <bold>attaquer</bold> d'autres joueurs.",
-    "playerBars1": "Ce sont les barres des joueurs.\nElles montrent un aperçu des cartes et des niveaux de chaque joueur.",
-    "playerBars2": "La rangée du haut, de gauche à droite, est: <bold>Nombre de ports</bold> (les joueurs possédant 3 ports ou plus peuvent revendiquer l'autorité portuaire pour <bold>2 PV</bold>), <bold>longueur de route la plus longue</bold>. bold> (les joueurs avec le parcours le plus long obtiennent <bold>2 PV</bold>) et des <bold>Points de victoire</bold>.",
-    "playerBars3": "La ligne suivante montre le nombre de <bold>cartes de ressources/produits</bold>, le nombre de <bold>cartes de développement</bold>, suivis de leur <bold>militaire</bold> et de leur <bold>culture</bold>. niveaux.\nVous pouvez appuyer sur une tuile de joueur pour voir plus d'informations!",
-    "resources1": "Ce sont vos cartes ressources!",
-    "resources2": "Ils peuvent être utilisés pour construire différentes structures comme des <bold>des routes, des villages et des villes</bold>.\nChaque fois que vous pourrez construire, Landover vous suggérera ces options sur la carte.",
-    "tile1": "Le plateau de jeu est composé de <bold>tuiles</bold> hexagonales, chacune avec une <bold>ressource</bold> et un numéro.",
-    "tile2": "À chaque tour, un joueur lance les <bold>dés</bold> et si ce nombre est obtenu, toute personne possédant une colonie sur cette tuile collectera la <bold>ressource</bold> de cette tuile. Les dés lancés sont <bold>2 dés à 6 faces</bold>, donc les meilleurs nombres sont 6 et 8, puis 5 et 9.",
-    "victoryPoints": "L'objectif de Landover est d'obtenir des points de victoire en construisant des colonies et en élargissant votre empire."
+    "showHex": "Each tile represents a different <bold>resource</bold> type:",
+    "showNumbers": "When the number on the tile is rolled anyone with a settlement on that tile collects resource cards. The chart below shows which numbers are best!\n<bold><xs>2</xs> <s>3</s> <m>4</m> <l>5</l> <xl>6</xl> <xl>8</xl> <l>9</l> <m>10</m> <s>11</s> <xs>12</xs></bold>",
+    "showVillageCorner": "This <bold>6</bold>,<bold>8</bold>,<bold>10</bold> spot is great and gives you wood, wheat and sheep! <bold>Let’s place your first village!</bold>",
+    "showVillageRoad": "Great! Now any time an <bold>8</bold>, <bold>6</bold> or <bold>10</bold> is rolled you’ll get some resources!\n\nNow place a road towards that <bold>9</bold> clay tile…",
+    "showCityCorner": "This spot here look good!",
+    "showDices": "Woohoo! Your empire has started. Let’s roll the dice and collect some resources!",
+    "showResources": "All villages and cities must be separated by 2 roads.\nTap your resource cards below to see how much everything costs.",
+    "showDoneButton": "That’s enough building for now. Go ahead and end your turn with the Done button.",
+    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
+    "showMilitaryLevel": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
+    "showMilitaryIcon": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.\n\nLet’s upgrade your military level!",
+    "showBarbarianTracker1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
+    "showBarbarianTracker2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
+    "showCultures1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
+    "showCultures2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.\n\nLet’s improve your Commerce culture level!",
+    "showPlayers1": "These are the player bars.\nThey show an overview of every players cards and levels.",
+    "showPlayers2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
+    "showPlayers3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
+    "showAnotherVillageCorner": "You now have enough resources to build a village and there is an open spot waiting for you. Go ahead and build another village to expand your empire and collect more resources each turn.",
+    "showVP": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
   },
   "buildingTypes": {
     "military": "Militaire",

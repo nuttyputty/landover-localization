@@ -973,81 +973,27 @@
     "alreadyInProgress": "Game already in progress…"
   },
   "tutorial": {
-    "viewProductChart": "查看生产图表",
-    "continue": "点击继续",
-    "learningMode": {
-      "title": "欢迎来到兰德沃！",
-      "description": "在本教程中，我们将让您熟悉<bold>界面</bold>和<bold>游戏流程</bold>。然而，你玩的游戏越多，你就越能理解这些策略。"
-    },
-    "firstVillage": {
-      "title": "第一条村子",
-      "description": "将你的村子放在下面的一个高价值的角落，即红色标示的所在。请尽量选择一个拥有3种不同类型资源的角落。最好选择小麦、黏土、木材或绵羊。"
-    },
-    "firstRoad": {
-      "title": "第一条道路",
-      "description": "现在，修一条从村子通往另一个有优势的角落的道路。"
-    },
-    "firstCity": {
-      "title": "第一座城市",
-      "description": "将你的城市放在下面另一个高价值角落。用你的城市来获得村子无法得到的资源。请记住，城市和村子之间必须一直至少有1个空的角落。"
-    },
-    "secondRoad": {
-      "title": "第二条道路",
-      "description": "然后，再修一条从城市通往另一个有优势的角落的道路。"
-    },
-    "rollTime": {
-      "title": "掷骰时间",
-      "description": "现在，你已经放置了初始的定居点，是时候投掷骰子并开始收集资源了。不断掷骰，直到你有足够的资源来建造更多的建筑。"
-    },
-    "moreRoads": {
-      "title": "建造更多的道路",
-      "description": "看起来你拥有了足够的资源来建造更多的道路。继续建造离定居点更远的道路吧。"
-    },
-    "anotherVillage": {
-      "title": "建造另一条村子",
-      "description": "“现在的你已经有足够的资源来建造一条村子了，而且还有一个空位置在等着你。继续建造另一条村子，扩展你的帝国，并在每个回合收集更多的资源。"
-    },
-    "productionChart": {
-      "title": "生产图表",
-      "description": "以下是村子和城市产生的资源数量： "
-    },
-    "trading": {
-      "title": "交易",
-      "description": "Landover银行让你能以3：1的比例交换任何资源或商品。看来你可以把村子升级成城市，但你需要进行一次交易。尝试建造一座城市，你应该会看到“交易以建造”的标识。如果你想要更划算的交易，不妨在海港建造一条村子以获得一石二鸟的效果。"
-    },
-    "culture": {
-      "title": "文化",
-      "description": "现在你已经有了商品，你可以打开文化对话框并进行升级。升级文化让你有机会获得有价值的发展卡、解锁新的能力，或最终获得价值额外VP的首都。"
-    },
-    "cities": {
-      "title": "城市",
-      "description": "请选择一条你想升级为城市的村子。升级需要3份矿石和2份小麦，但你的村子产量会翻倍！ "
-    },
-    "military": {
-      "title": "军事",
-      "description": "现在，你的经济正在发展，是时候建立一些军事力量来抵御蛮族的攻击了。每当蛮族攻击时，你的每座城市都要有1点军事力量才能避免失去一座城市。右上角的蛮族追踪器显示距离攻击还有多少次掷骰。继续吧……"
-    },
-    "barbarians": {
-      "title": "蛮族",
-      "description": "蛮族正要袭来，右上角的盾牌显示你是否安全。如果是红色的，那你需要更多的军事力量。如果是绿色的，那你就安然无恙。每次他们攻击时，你将失去1点军事力量，所以请你确保要随着进度增加你的军事力量。"
-    },
-    "metros": {
-      "title": "首都",
-      "description": "记得要使用商品卡持续升级你的文化。达到4级后，你便能获得一个价值+2VP的首都。首都可避免蛮族的攻击，其他玩家也无法摧毁它们。"
-    },
-    "spendResources": {
-      "title": "使用资源",
-      "description": "如果掷了出7点，那你当前正面临弃牌一半的风险！请确保使用你的资源或建造城墙以增加手牌的点数。城墙的成本是2份黏土，并可在任何城市上建造。"
-    },
-    "goodLuck": {
-      "title": "祝你好运！ ",
-      "description": "看起来你正妥妥地迈向15 VP的道路。继续扩张、建造村子再将村子升级为城市、提升你的军事等级，并建造首都吧。如果你有任何问题，欢迎加入我们的Discord。试试与机器人来几局游戏吧，准备好后就可以挑战你的朋友了！ "
-    },
-    "end": {
-      "title": "恭喜",
-      "description": "你成功达到了15 VP，赢得了这局游戏！希望你在过程中玩得开心。此外，我们强烈建议你试试与一个机器人进行一局单人游戏。"
-    },
-    "coach": "Coach"
+    "webError": "Please, download the app to play tutorial.",
+    "never": "Never",
+    "aLittle": "A Little",
+    "aLot": "A Lot!",
+    "coach": "Coach",
+    "welcome": "Welcome to Landover! In this tutorial we’re going to teach you all about Landover and how to play. To better guide you, I’m going to ask a couple questions. <bold>Have you ever played Settlers of Catan?</bold>",
+    "playALot": "Great! People who have played a lot of Catan will find Landover very similar, especially if you played Cities & Knights. Here are the major differences with Landover:\n- Knights replaced with military\n- Robber replaced with catapults\n- No player trading, but you can trade 3:1 with the bank",
+    "playALittle": "Don’t worry! Even if you don’t have a lot of experience with Catan, we’ll teach you what you need to know.\n\nTap to continue",
+    "firstVillage":  "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep.",
+    "firstCity":  "Now it’s time to place your city! Cities earn double resources.",
+    "secondRoad":  "Congrats! Now one more road! Go ahead and choose which direction you want to build in…",
+    "rollTime":  "Woohoo! Your empire has started. Let’s roll the dice and collect some resources!",
+    "moreRoads": 
+       "You’ve rolled an 8 and earned some wood from your 8 forest tile. Let’s build another road!",
+    "trading": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability.",
+    "cities":  "Go ahead and choose a village you'd like to upgrade to a city. It costs 3 ore and 2 wheat but will double the production of your village!",
+    "barbarians": "Barbarians are on their way. The shield top right shows if you are safe or not. If it's red, you need more military. If it's green, then you are safe. Each time they attack you'll lose 1 military power so be sure to keep adding more military over time.",
+    "metros":  "Be sure to keep upgrading your culture with your commodity cards. Once you reach level 4 you'll receive a metro worth +2VP. Metros are immune from barbarian attacks and can't be razed by other players.",
+    "spendResources": "You currently are at risk of discarding half your cards if a 7 is rolled! Be sure to spend your resources or build city walls to increase your hand size. City walls cost 2 clay and can be built on any cities. ",
+    "goodLuck":  "It looks like you are well on your way to 15 VPs. Keep expanding, building villages, upgrading to cities, leveling up your military, and building metros. If you have questions, join us on discord. Try some games against the bots, and when you're ready, challenge your friends!",
+    "end":  "You have just reached 15 VPs and have won the game! Hopefully you had some fun along the way. We highly recommend you try a solo game against one bot."
   },
   "subscription": {
     "cancel": {
@@ -1946,22 +1892,26 @@
     "unlockAchievement": "完成10局游戏\n以解锁成就"
   },
   "showcase": {
-    "barbarians1": "这就是野蛮人追踪者。每次在<bold>骰子</bold>上掷出一个<bold>野蛮人（骷髅）</bold>，野蛮人就离攻击更近了一步。",
-    "barbarians2": "你需要升级你的军队以避免<bold>失去一座城市</bold>。",
-    "cornerValues1": "看到每个<bold>图块</bold>的<bold>角</bold>上的数字了吗？",
-    "cornerValues2": "它们仅在放置期间存在，以帮助您轻松找到<bold>高价值角落</bold>，即与优质瓷砖相邻的角落！角值越高越好！",
-    "culture1": "这 3 个圆圈代表您的<bold>科学</bold>（绿色）、<bold>商业</bold>（黄色）和<bold>政治</bold>（蓝色）文化水平。",
-    "culture2": "提升你的文化水平会给你<bold>发展卡</bold>。达到 3 级可解锁<bold>特殊能力</bold>。首先达到 4 级即可获得价值 <bold>2 VP</bold> 的地铁。",
-    "military1": "这是你的<bold>军事等级</bold>，目前为0。\n你可以通过花费<bold>1小麦</bold>和<bold>1羊</bold>来升级你的军队。",
-    "military2": "军队可以防御<bold>野蛮人的攻击</bold>，并且可以用来<bold>袭击</bold>其他玩家。",
-    "playerBars1": "这些是玩家栏。\n它们显示每个玩家卡牌和等级的概览。",
-    "playerBars2": "顶行从左到右依次为：<bold>港口数量</bold>（拥有 3 个或以上港口的玩家可以申请港口管理局<bold>2 VP</bold>）、<bold>最长航线长度</bold> bold>（路线最长的玩家获得<bold>2 VPs</bold>）和<bold>胜利点</bold>。",
-    "playerBars3": "下一行显示<bold>资源/商品卡的数量</bold>、<bold>开发卡的数量</bold>，然后是其<bold>军事</bold>和<bold>文化</bold>级别。\n您可以点击玩家图块来查看更多信息！",
-    "resources1": "这些是您的资源卡！",
-    "resources2": "它们可用于建造不同的结构，例如<bold>道路、村庄和城市</bold>。\n任何时候你可以建造，Landover 都会在地图上向你建议这些选项。",
-    "tile1": "游戏板由六边形<bold>图块</bold>组成，每个图块都有一个<bold>资源</bold>和数字。",
-    "tile2": "每回合，玩家都会掷<bold>骰子</bold>，如果掷出该数字，则在该图块上有结算的任何人都将收集该图块的<bold>资源</bold>。掷出的骰子是<bold>2个6面骰子</bold>，因此最好的数字是6和8，然后是5和9。",
-    "victoryPoints": "兰德沃的目标是通过建造定居点和扩张帝国来获得胜利点。"
+    "showHex": "Each tile represents a different <bold>resource</bold> type:",
+    "showNumbers": "When the number on the tile is rolled anyone with a settlement on that tile collects resource cards. The chart below shows which numbers are best!\n<bold><xs>2</xs> <s>3</s> <m>4</m> <l>5</l> <xl>6</xl> <xl>8</xl> <l>9</l> <m>10</m> <s>11</s> <xs>12</xs></bold>",
+    "showVillageCorner": "This <bold>6</bold>,<bold>8</bold>,<bold>10</bold> spot is great and gives you wood, wheat and sheep! <bold>Let’s place your first village!</bold>",
+    "showVillageRoad": "Great! Now any time an <bold>8</bold>, <bold>6</bold> or <bold>10</bold> is rolled you’ll get some resources!\n\nNow place a road towards that <bold>9</bold> clay tile…",
+    "showCityCorner": "This spot here look good!",
+    "showDices": "Woohoo! Your empire has started. Let’s roll the dice and collect some resources!",
+    "showResources": "All villages and cities must be separated by 2 roads.\nTap your resource cards below to see how much everything costs.",
+    "showDoneButton": "That’s enough building for now. Go ahead and end your turn with the Done button.",
+    "resources2": "They can be used to build different structures like <bold>roads, villages and cities</bold>.\nAny time you can build, Landover will suggest those options to you on the map.",
+    "showMilitaryLevel": "This is your <bold>military level</bold>, it's currently 0.\nYou can level up your military by spending <bold>1 Wheat</bold> and <bold>1 Sheep</bold>.",
+    "showMilitaryIcon": "Military defends against <bold>barbarian attacks</bold> and can be used to <bold>raid</bold> other players.\n\nLet’s upgrade your military level!",
+    "showBarbarianTracker1": "This is the barbarian tracker. Each time a <bold>barbarian (skull)</bold> is rolled on the <bold>dice</bold>, the barbarians move one step closer to attacking.",
+    "showBarbarianTracker2": "You'll need to level up your military to avoid <bold>losing a city</bold>.",
+    "showCultures1": "These 3 circles represent your culture levels for <bold>Science</bold> (green), <bold>Commerce</bold> (yellow), and <bold>Politics</bold> (blue).",
+    "showCultures2": "Leveling up your culture will give you <bold>development cards</bold>. Getting to level 3 unlocks a <bold>special ability</bold>. And get to level 4 first to earn a metro worth <bold>2 VPs</bold>.\n\nLet’s improve your Commerce culture level!",
+    "showPlayers1": "These are the player bars.\nThey show an overview of every players cards and levels.",
+    "showPlayers2": "The top row from left to right is: <bold>Number of ports</bold> (players with 3 or more ports can claim Port Authority for <bold>2 VPs</bold>), <bold>longest route length</bold> (players with the longest route get <bold>2 VPs</bold>), and <bold>Victory Points</bold>.",
+    "showPlayers3": "The next row shows number of <bold>resource/commodity cards</bold>, number of <bold>dev cards</bold>, followed by their <bold>military</bold> and <bold>culture</bold> levels.\nYou can tap on a player tile to see more info!",
+    "showAnotherVillageCorner": "You now have enough resources to build a village and there is an open spot waiting for you. Go ahead and build another village to expand your empire and collect more resources each turn.",
+    "showVP": "The objective of Landover is to achieve Victory Points by building settlements and expanding your empire."
   },
   "buildingTypes": {
     "military": "军队",
