@@ -978,7 +978,6 @@
     "firstVillage":  "Place your village on a high value corner below. They are indicated in red. Try to get one that has 3 different types of resources. It's always good to start with wheat, clay, wood, or sheep.",
     "firstCity":  "Now it’s time to place your city! Cities earn double resources.",
     "secondRoad":  "Congrats! Now one more road! Go ahead and choose which direction you want to build in…",
-    "rollTime":  "Woohoo! Your empire has started. Let’s roll the dice and collect some resources!",
     "moreRoads": 
        "You’ve rolled an 8 and earned some wood from your 8 forest tile. Let’s build another road!",
     "trading": "The Landover bank allows you to trade any resource or commodity 3 for 1. It looks like you can upgrade your village to a city but it requires a trade. Go ahead and try building a city and you should see the Trade to Build prompt. If you want more economical trades, try building a village on a harbor which gives you a 2 for 1 ability.",
