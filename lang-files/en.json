@@ -381,23 +381,23 @@
       },
       "excavation": {
         "title": "Excavation",
-        "description": "Receive 2 clay per settlement on each clay tile"
+        "description": "Receive two clay for each building on a clay tile"
       },
       "forestry": {
         "title": "Forestry",
-        "description": "Receive 2 wood per settlement on each wood tile"
+        "description": "Receive two wood for each building on a wood tile"
       },
       "irrigation": {
         "title": "Irrigation",
-        "description": "Receive 2 wheat per settlement on each wheat tile"
+        "description": "Receive two wheat for each building on a wheat tile"
       },
       "mining": {
         "title": "Mining",
-        "description": "Receive 2 ore per settlement on each ore tile"
+        "description": "Receive two ore for each building on an ore tile"
       },
       "borderCollie": {
         "title": "Border Collie",
-        "description": "Receive 2 sheep per settlement on each sheep tile"
+        "description": "Receive two sheep for each building on a sheep tile"
       },
       "inventor": {
         "title": "Inventor",
