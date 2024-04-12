@@ -1533,30 +1533,39 @@
       "title": "OPZIONI",
       "on": "Attivo",
       "off": "Non Attivo",
+      "type": "TYPE",
+      "visibility": "VISIBILITY",
+      "additional": "ADDITIONAL",
+      "tabs": {
+        "general": "GENERAL",
+        "advanced": "ADVANCED"
+      },
       "name": {
         "title": "Nome Partita (opzionale)",
         "tooltip": "Defaults to map name if left blank."
       },
       "time": {
-        "title": "Tempo per turno",
+        "title": "TIME PER TURN",
         "tooltip": "1 day or more is a daily game. Anything less is a live game."
       },
       "points": {
-        "title": "Punti Vittoria",
+        "title": "VICTORY POINTS",
         "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
       },
       "barbDelay": {
-        "title": "Ritardo Barbari",
+        "title": "BARBARIANS DELAY",
         "tooltip": "Delay barbarian tracker this many barbarian rolls."
       },
       "immunity": {
-        "title": "Immunity",
+        "title": "IMMUNITY",
         "tooltip": "Protect players from raids until they have more than specified VPs."
       },
       "barbDelayTooltip": "Numero di lanci dei barbari prima che\ncomincino ad avanzare\nverso un attacco.",
       "namePlaceholder": "Inserisci nome",
-      "public": "Partita Pubblica",
-      "ranked": "Ranked Game",
+      "public": "Public",
+      "private": "Private",
+      "ranked": "Ranked",
+      "normal": "Normal",
       "always": "Always",
       "mapHints": {
         "title": "Suggerimenti Mappa",

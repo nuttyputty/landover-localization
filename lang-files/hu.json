@@ -1533,30 +1533,39 @@
       "title": "BEÁLLÍTÁSOK",
       "on": "Be",
       "off": "Ki",
+      "type": "TYPE",
+      "visibility": "VISIBILITY",
+      "additional": "ADDITIONAL",
+      "tabs": {
+        "general": "GENERAL",
+        "advanced": "ADVANCED"
+      },
       "name": {
         "title": "Játék neve (nem kötelező)",
         "tooltip": "Defaults to map name if left blank."
       },
       "time": {
-        "title": "Fordulatonkénti idő",
+        "title": "TIME PER TURN",
         "tooltip": "1 day or more is a daily game. Anything less is a live game."
       },
       "points": {
-        "title": "Győzelmi pontok",
+        "title": "VICTORY POINTS",
         "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
       },
       "barbDelay": {
-        "title": "Barbárok késleltetése",
+        "title": "BARBARIANS DELAY",
         "tooltip": "Delay barbarian tracker this many barbarian rolls."
       },
       "immunity": {
-        "title": "Immunity",
+        "title": "IMMUNITY",
         "tooltip": "Protect players from raids until they have more than specified VPs."
       },
       "barbDelayTooltip": "A barbárok dobásainak száma, mielőtt a barbárok elkezdenek előrenyomulni a támadás felé.",
       "namePlaceholder": "Név megadása",
-      "public": "Nyilvános játék",
-      "ranked": "Ranked Game",
+      "public": "Public",
+      "private": "Private",
+      "ranked": "Ranked",
+      "normal": "Normal",
       "always": "Always",
       "mapHints": {
         "title": "Térképi tippek",

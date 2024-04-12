@@ -1539,30 +1539,39 @@
       "title": "Spieleinstellungen",
       "on": "An",
       "off": "Aus",
+      "type": "TYPE",
+      "visibility": "VISIBILITY",
+      "additional": "ADDITIONAL",
+      "tabs": {
+        "general": "GENERAL",
+        "advanced": "ADVANCED"
+      },
       "name": {
         "title": "Spiel Name (Optional)",
         "tooltip": "Defaults to map name if left blank."
       },
       "time": {
-        "title": "Zeit pro Zug",
+        "title": "TIME PER TURN",
         "tooltip": "1 day or more is a daily game. Anything less is a live game."
       },
       "points": {
-        "title": "Siegpunkte",
+        "title": "VICTORY POINTS",
         "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
       },
       "barbDelay": {
-        "title": "Barbaren verzögern",
+        "title": "BARBARIANS DELAY",
         "tooltip": "Delay barbarian tracker this many barbarian rolls."
       },
       "immunity": {
-        "title": "Immunity",
+        "title": "IMMUNITY",
         "tooltip": "Protect players from raids until they have more than specified VPs."
       },
       "barbDelayTooltip": "Anzahl der Barbaren Würfe, bevor\ndie Barbaren einen Feldzug\nausführen.",
       "namePlaceholder": "Name eingeben",
-      "public": "Öffentliches Spiel",
-      "ranked": "Ranked Game",
+      "public": "Public",
+      "private": "Private",
+      "ranked": "Ranked",
+      "normal": "Normal",
       "always": "Always",
       "mapHints": {
         "title": "Karten Hinweise",

@@ -1539,31 +1539,40 @@
       "title": "OPCIJE",
       "on": "Uključeno",
       "off": "Isključeno",
+      "type": "TYPE",
+      "visibility": "VISIBILITY",
+      "additional": "ADDITIONAL",
+      "tabs": {
+        "general": "GENERAL",
+        "advanced": "ADVANCED"
+      },
       "name": {
         "title": "Ime igre (opciono)",
         "tooltip": "Defaults to map name if left blank."
       },
       "time": {
-        "title": "Vreme po potezu",
+        "title": "TIME PER TURN",
         "tooltip": "1 day or more is a daily game. Anything less is a live game."
       },
       "points": {
-        "title": "Bodovi za pobedu",
+        "title": "VICTORY POINTS",
         "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
       },
       "barbDelay": {
-        "title": "Odgoda barbara",
+        "title": "BARBARIANS DELAY",
         "tooltip": "Delay barbarian tracker this many barbarian rolls."
       },
       "immunity": {
-        "title": "Immunity",
+        "title": "IMMUNITY",
         "tooltip": "Protect players from raids until they have more than specified VPs."
       },
       "barbDelayTooltip": "Broj bacanja kocke pre nego što barbari počnu da napreduju\nprema napadu.",
       "namePlaceholder": "Unesite ime",
-      "public": "Javna igra",
+      "public": "Public",
+      "private": "Private",
+      "ranked": "Ranked",
+      "normal": "Normal",
       "always": "Always",
-      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Nagoveštaji mape",
         "tooltip": "Omogućava indikatore nagoveštaja mape prilikom\nizgradnje struktura."

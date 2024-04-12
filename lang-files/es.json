@@ -1539,31 +1539,40 @@
       "title": "OPCIONES",
       "on": "Sí",
       "off": "No",
+      "type": "TYPE",
+      "visibility": "VISIBILITY",
+      "additional": "ADDITIONAL",
+      "tabs": {
+        "general": "GENERAL",
+        "advanced": "ADVANCED"
+      },
       "name": {
         "title": "Nombre del juego (opcional)",
         "tooltip": "El valor predeterminado es el nombre del mapa si se deja en blanco."
       },
       "time": {
-        "title": "Tiempo por turno",
+        "title": "TIME PER TURN",
         "tooltip": "1 día o más es un juego diario. Cualquier cosa menos es un juego en vivo."
       },
       "points": {
-        "title": "Puntos de victoria",
+        "title": "VICTORY POINTS",
         "tooltip": "Cuántos PV antes de que termine el juego. El valor predeterminado es la sugerencia de mapa."
       },
       "barbDelay": {
-        "title": "Retraso de los bárbaros",
+        "title": "BARBARIANS DELAY",
         "tooltip": "Retrasa al rastreador de bárbaros tantas tiradas de bárbaros."
       },
       "immunity": {
-        "title": "Immunity",
+        "title": "IMMUNITY",
         "tooltip": "Protege a los jugadores de las incursiones hasta que tengan más PV de los especificados."
       },
       "barbDelayTooltip": "Número de tiradas de bárbaros antes de quue\nlos bárbaros comiecen a avanzar\nhacia un ataque.",
       "namePlaceholder": "Ingresa el nombre",
-      "public": "Juego público",
+      "public": "Public",
+      "private": "Private",
+      "ranked": "Ranked",
+      "normal": "Normal",
       "always": "Always",
-      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Sugerencias de mapas",
         "tooltip": "Habilita indicadores de sugerencias de mapas al construir estructuras."

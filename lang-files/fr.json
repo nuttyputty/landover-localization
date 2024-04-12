@@ -1539,31 +1539,40 @@
       "title": "OPTIONS",
       "on": "On",
       "off": "Off",
+      "type": "TYPE",
+      "visibility": "VISIBILITY",
+      "additional": "ADDITIONAL",
+      "tabs": {
+        "general": "GENERAL",
+        "advanced": "ADVANCED"
+      },
       "name": {
         "title": "Nom du jeu (facultatif)",
         "tooltip": "Defaults to map name if left blank."
       },
       "time": {
-        "title": "Temps par tour",
+        "title": "TIME PER TURN",
         "tooltip": "1 day or more is a daily game. Anything less is a live game."
       },
       "points": {
-        "title": "Points de victoire",
+        "title": "VICTORY POINTS",
         "tooltip": "How many VPs before the game is over. Defaults to map suggestion."
       },
       "barbDelay": {
-        "title": "Délai des barbares",
+        "title": "BARBARIANS DELAY",
         "tooltip": "Delay barbarian tracker this many barbarian rolls."
       },
       "immunity": {
-        "title": "Immunity",
+        "title": "IMMUNITY",
         "tooltip": "Protect players from raids until they have more than specified VPs."
       },
       "barbDelayTooltip": "Nombre de jets des barbares avant que les barbares ne commencent à avancer vers une attaque",
       "namePlaceholder": "Entrez le nom",
-      "public": "Partie publique",
+      "public": "Public",
+      "private": "Private",
+      "ranked": "Ranked",
+      "normal": "Normal",
       "always": "Always",
-      "ranked": "Ranked Game",
       "mapHints": {
         "title": "Indices de carte",
         "tooltip": "Active les indicateurs d'aide à la carte lors de la construction de structures."
