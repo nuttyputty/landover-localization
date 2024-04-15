@@ -1717,6 +1717,11 @@
         "turnTimer": "Forduló időzítő",
         "on": "Be",
         "off": "Ki"
+      },
+      "buttons": {
+        "invite":"+ Invite",
+        "recent":"+ Recent",
+        "leave": "Leave"
       }
     },
     "options": {

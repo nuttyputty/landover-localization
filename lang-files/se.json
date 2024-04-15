@@ -1722,6 +1722,11 @@
         "turnTimer": "Turn Timer",
         "on": "On",
         "off": "Off"
+      },
+      "buttons": {
+        "invite":"+ Invite",
+        "recent":"+ Recent",
+        "leave": "Leave"
       }
     },
     "options": {

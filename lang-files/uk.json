@@ -1717,6 +1717,11 @@
         "turnTimer": "Таймер ходу",
         "on": "Увімкнено",
         "off": "Вимкнено"
+      },
+      "buttons": {
+        "invite":"+ Invite",
+        "recent":"+ Recent",
+        "leave": "Leave"
       }
     },
     "options": {

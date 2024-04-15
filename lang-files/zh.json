@@ -1723,6 +1723,11 @@
         "turnTimer": "回合计时器",
         "on": "开启",
         "off": "关闭"
+      },
+      "buttons": {
+        "invite":"+ Invite",
+        "recent":"+ Recent",
+        "leave": "Leave"
       }
     },
     "options": {

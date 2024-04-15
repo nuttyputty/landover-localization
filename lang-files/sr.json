@@ -1723,6 +1723,11 @@
         "turnTimer": "Vreme po Potezu",
         "on": "Uključeno",
         "off": "Isključeno"
+      },
+      "buttons": {
+        "invite":"+ Invite",
+        "recent":"+ Recent",
+        "leave": "Leave"
       }
     },
     "options": {
