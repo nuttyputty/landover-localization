@@ -1141,9 +1141,9 @@
       "title": "Rangliste",
       "shortTitle": "Bestenliste",
       "player": "Spieler",
-      "games": "# Spiele",
+      "games": "Spiele",
       "rank": "Rang",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "DEIN RANG",
       "noPlayers": "Noch keine Spieler",
       "viewAll": "Alle ansehen"
@@ -1897,7 +1897,7 @@
     "leaderboard": {
       "title": "SAISON BESTENLISTE",
       "player": "Spieler",
-      "games": "# Spiele",
+      "games": "Spiele",
       "SP": "SP (Saison Punkte)",
       "reward": "Belohnung"
     },

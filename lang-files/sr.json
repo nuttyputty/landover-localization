@@ -1141,9 +1141,9 @@
       "title": "РАНГИНГ ЛЕАДЕРБОАРД",
       "shortTitle": "Леадербоард",
       "player": "Player",
-      "games": "# Игре",
+      "games": "Игре",
       "rank": "Ранг",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "ВАШ РАНК",
       "noPlayers": "Још нема играча",
       "viewAll": "View All"
@@ -1897,7 +1897,7 @@
     "leaderboard": {
       "title": "TABELA SEZONE",
       "player": "Igrač",
-      "games": "# Igre",
+      "games": "Igre",
       "SP": "SP (Sezonski Poeni)",
       "reward": "Nagrada"
     },

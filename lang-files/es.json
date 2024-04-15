@@ -1141,9 +1141,9 @@
       "title": "TABLA DE CLASIFICACIÓN",
       "shortTitle": "Tabla de clasificación",
       "player": "Jugador",
-      "games": "# Juegos",
+      "games": "Juegos",
       "rank": "Rango",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "SU RANGO",
       "noPlayers": "Aún no hay jugadores",
       "viewAll": "Ver todo"
@@ -1897,7 +1897,7 @@
     "leaderboard": {
       "title": "TABLA DE CLASIFICACIÓN DE LA TEMPORADA",
       "player": "Jugador",
-      "games": "# Juegos",
+      "games": "Juegos",
       "SP": "SP (Puntos de temporada)",
       "reward": "Recompensa"
     },

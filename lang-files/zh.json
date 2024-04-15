@@ -1141,9 +1141,9 @@
       "title": "排行榜",
       "shortTitle": "排行榜",
       "player": "玩家",
-      "games": "# 游戏",
+      "games": "游戏",
       "rank": "秩",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "你的等级",
       "noPlayers": "还没有玩家",
       "viewAll": "查看全部"

@@ -1135,9 +1135,9 @@
       "title": "CLASSIFICA",
       "shortTitle": "Classifica",
       "player": "Giocatore",
-      "games": "# Giochi",
+      "games": "Giochi",
       "rank": "Rango",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "IL TUO GRADO",
       "noPlayers": "Nessun giocatore ancora",
       "viewAll": "Mostra tutto"
@@ -1891,7 +1891,7 @@
     "leaderboard": {
       "title": "CLASSIFICA STAGIONE",
       "player": "Giocatore",
-      "games": "# Partite",
+      "games": "Partite",
       "SP": "PS (Punti Stagione)",
       "reward": "Ricompensa"
     },

@@ -1135,9 +1135,9 @@
       "title": "RENDSZEREZÉSI RANGLA",
       "shortTitle": "Ranglista",
       "player": "Játékos",
-      "games": "# Játékok",
+      "games": "Játékok",
       "rank": "Rang",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "AZ ÖN Rangsora",
       "noPlayers": "Még nincsenek játékosok",
       "viewAll": "Összes megtekintése"
@@ -1891,7 +1891,7 @@
     "leaderboard": {
       "title": "SZEZON RANGLISTA",
       "player": "Játékos",
-      "games": "# Játékok",
+      "games": "Játékok",
       "SP": "SP (Szezon pontok)",
       "reward": "Jutalom"
     },

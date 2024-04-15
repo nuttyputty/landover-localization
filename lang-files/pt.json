@@ -1135,9 +1135,9 @@
       "title": "RANKING LEADERBOARD",
       "shortTitle": "Leaderboard",
       "player": "Player",
-      "games": "# Games",
+      "games": "Games",
       "rank": "Rank",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "YOUR RANK",
       "noPlayers": "No players yet",
       "viewAll": "View All"

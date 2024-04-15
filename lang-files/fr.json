@@ -1141,9 +1141,9 @@
       "title": "RANKING LEADERBOARD",
       "shortTitle": "Leaderboard",
       "player": "Player",
-      "games": "# Games",
+      "games": "Games",
       "rank": "Rank",
-      "MMR": "MMR",
+      "MMR": "Win %",
       "yourRank": "YOUR RANK",
       "noPlayers": "No players yet",
       "viewAll": "See Full"
@@ -1897,7 +1897,7 @@
     "leaderboard": {
       "title": "CLASSEMENT DE LA SAISON",
       "player": "Joueur",
-      "games": "# Jeux",
+      "games": "Jeux",
       "SP": "SP (points de saison)",
       "reward": "Récompense"
     },
