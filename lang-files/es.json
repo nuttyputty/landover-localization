@@ -1227,7 +1227,7 @@
       },
       "autoAcceptNewGames": {
         "title": "Aceptar automáticamente nuevos juegos",
-        "description": "¿Podemos sugerirte juegos nuevos y ponerte en juegos nuevos si te estás quedando sin dinero? ¡Esto ayuda a incorporar nuevos usuarios a la comunidad Landover!"
+        "description": "¿Podemos incluirte en nuevos juegos para ayudar a orientar a nuevos usuarios? ¡Esto ayuda a atraer nuevos usuarios a la comunidad Landover!"
       },
       "mapHint": {
         "title": "Consejos para el mapa",
